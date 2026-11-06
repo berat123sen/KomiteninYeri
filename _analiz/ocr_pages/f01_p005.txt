@@ -1,0 +1,297 @@
+A
+A) Influenza(grip)virus
+B) Tütün mozaik virusu
+C) Çiçek (variola)
+virusu
+D) Çocuk
+felci
+(polio)
+virusu
+E) Kuduz(rabies)
+virusu
+CEVAP:B
+53)Viruslarn genomu ile
+ilgili aadakilerdenhangisi
+dorudur?
+A)Rotavirus dndaki
+RNA viruslar
+çift sarmalldr.
+B) Direk mRNA
+görevi
+gören RNA negatif
+polaritelidir.
+C) DNA
+viruslar
+lineer, segmenliveya sirküler
+olabilir.
+D)Parvovirustek
+sarmall
+DNA virusudur
+E) Influenza
+virus
+tek
+sarmall
+segmentsiz RNA genomuna
+sahiptir.
+CEVAP: D
+54)Viruslarn replikasyonu ile
+ilgili yan hangisidir?
+A) Viral
+balanma proteinleri
+zarfsz
+viruslarda
+kapsid
+proteinleridir.
+B) ZarfsIZ
+viruslar
+hücrelerin
+lizise sonucu dar
+çkarlar.
+C) Zarfl
+viruslarn
+penetrasyonu
+endositozis
+veya fuzyon
+ile olur.
+D) Zarfsz
+viruslarn
+çou viropeksis
+ile hücreye
+girer.
+E)
+Endositozis
+nötral pH'da
+gerçekleir.
+CEVAP: E
+55)Serumdabir virusa
+kar
+antikoraranmasnda
+ELISA
+testinde
+hangi aama
+yanltr?
+A) Mikroplaktaki
+kuyular
+virus
+antijeni
+ile kapldr.
+B) Hastaserumu ilave
+edilir. Sonra ykama
+yaplr.
+C) Enzim
+bal
+antiviral
+antikor
+konur.Sonra yikama
+yaplr
+D) Substrat
+eklendikten
+sonra
+ykama yaplmaz.
+E)
+Renkli
+arün
+elde
+edilen
+kuyularantikor
+varln
+gösterir.
+CEVAP:C
+56)Polimeraz zincir
+reaksiyonu (PCR)ile
+ilgili
+yanl
+hangisidir?
+A) Denaturasyon 94°C'de yaplr.
+B) Annealing'de
+55°CdeTaq polimerazsêatez
+yapar
+C Primer hedefbölgenin
+3' kmnabagianir
+D) Elongasyon 72°C"de gerçekleir.
+E) dNTP'ler ekstensiyonda
+DA
+šepteziní
+yapar
+CEVAP:B
+STTemel (basit)
+besiyerlerinde
+(buyyon/jelz)hangisi
+asla bulunmaz?
+A) Et suyu
+B) KanN
+C)Tuz
+D)Agar
+E)Pepton
+YANIT:B
+58)Oksijen varlnda
+üreyemeyen
+ve "süperoksit
+dismutaz (SOD) ve katalaz enzimi"
+bulunmayan
+bakteri
+grubu
+hangisidir?
+A)Zorunlaerob
+B) Fakültatif
+anaerob
+C)Aerotolerant
+D)Zorunlu anaerob
+E) Mikroaerofil
+YANIT:D
+59)Btün
+bakterilerde
+bulunan
+yap hangisidir?
+A) Kapsül
+B) Flajella
+C) Nukleus (Nukleotid)
+D) Golgi aparat
+5
+A
+A
+E) Spor
+YANIT:C
+60)
+Gram
+boyanma
+özellii,
+bakterinin
+hangi yaps
+ile
+ilikilidir?
+A) Mezozom
+B) Nukleus
+) Ribozom
+D)Kapsùl
+E) Hücre duvar
+YANIT:E
+BYOFIZK
+(61-76.SORULAR)
+61)Elektromanyetik spektrum
+için
+aada
+verilen
+ifadelerden
+hangileri
+dorudur?
+I) Dalga boyu
+azalp,
+frekans
+arttkça
+enerii
+artat,
+II) Dalga boyu
+artp, frekans
+azaldíkça
+eñerji
+artar.
+III) Gamma ve X-inlarnn
+enerjisi enyüksektif.
+IV) Yüksek
+enerjili
+nlar
+atom ve hueré çekirdei
+düzeyinde etkili
+olurlar.
+V) Mikrodalga ve radyodalgalarn enerjisi
+görülebilir
+In
+altndadr.
+A) I,II,IV
+B)I,III,EV,Vc)
+I,III,IV
+D)I,I,IV,V
+E)I,I,
+Cevap:
+B
+62) Aadaki vücut sicaklvs
+ile
+ilgili
+verilen
+bilgilerden
+hangisi
+yanltr
+?
+A) Deri damarlarnda
+vazokonstriksiyon
+vücutta
+is kaybn
+Azaltft
+B)
+Piloereksiyon
+vücuttaa
+is kaybn
+azaltr.
+Šolunumunhzlanmas
+durumunda
+vücutra
+1s kayb
+artaf
+D) Itahszlik
+sonucu vücutta
+1s üretimi
+artar.
+E)TSH salglanmasnda
+azalma vücutta
+is üretimini
+azaltr.
+Cevap :D
+63) Vücudun
+içi ve d aresndaki dokunun
+kalnl 3
+cm, iletkenliin
+olduu alan 1.Sm,vücudun
+içi
+ile d
+arasndaki sicaklk
+fark 3°Cise
+isak
+ne kadardr?
+(K
+-18cal.cm/m.saat.°C)
+doku
+B)27 cal/saat
+C) 13,5
+cal/saat
+A) 81
+cal/saat
+D) 54 cal/saat
+E) 18 cal/saat
+Cevap :B
+64)80 kg lik
+bir insan orta derecede 260 keal/saat
+enerji
+harcar. Bunun200 keal/saat
+kesimi isya dõnüür. Bu
+isi
+vücuttan atlmazsa vücut sIcakl
+kaç derece artar?
+(Ical-4
+J, Cp=2000 J/kg°C (sabit)
+3
+B)4
+C)S
+D) 8
+E) 13
+Cevap: C
+65)Aadaki reaksiyon trlerinden
+hangisi
+hüere içinde
+entropiyi
+azaltr?
+A) Hidroliz.
+B) Sindirim.
+C) Katabolik
+reaksiyonlar.
+D) Anabolik reaksiyonlar.
+E) Entropisabittir.
+Cevap D
+66) Sabit sicaklk
+ve basnç altindaki
+bir sistemde
+gerçekleenbir difüzyon sürecinin Gibbs-Serbest
+enerjisi (AG)aadakilerden hangisidir?
+A)AG <0
+B) AG =0
+C) Hesaplanamaz.

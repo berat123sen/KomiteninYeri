@@ -1,0 +1,200 @@
+68. Ökaryotlarda bulunan ve RNA polimerazın bağlandığı
+yukarı promotor elemanları için verilenlerden doğru olanı
+bulunuz?
+
+L TATA kutusu; transkripsiyonun başladığı yerden
+önceki 25-30 bç'lik bölgede yer alan ve 8 bç'nden
+oluşan DNA dizileridir.
+
+IL. GC kutusu; transkripsiyonun başladığı yerden
+önceki 110 bç'lik bölgeye yerleşmiş, GGGGCGG
+bazlarından oluşan DNA dizileridir.
+
+Ill. CAAT kutusu; transkripsiyonun başladığı yerden
+önceki 75-80 bç'lik bölgede yer alan ve CAAT veya
+CCAAT bazlarından oluşan DNA dizileridir.
+
+IV. Enhansir dizileri; kendine özgü bazları içeren özel
+diziler olup TATA, GC ve CAAT kutuları arasına
+
+yerleşmiştir.
+A)LILIV B) 1, II, III C) IL HI, IV
+D)L IL IV BE)LIL IL IV
+
+Yamt: B
+
+69. Okaryotlarda gen ifadesinin kontrolünde Poli A
+kuyruğu ve 7-metil guanozin başlığının mRNA’ya
+eklenmesi hangi kontrol mekanizmasına girer?
+
+A) Translasyonal kontrol
+
+B) Postranslasyonal kontrol
+
+C) Transkripsiyonal kontrol
+
+D) Posttranskripsiyonal kontrol
+
+E) Yukarı transkripsiyonal kontrol
+
+Yanıt: D
+
+PROF.DR. HALİL KASAP
+
+70. Vektör DNA'da H ve fosfodiester bağlarını kirmakta
+kullanılmayan enzim hangisidir?
+
+A) Asimetrik kesim (palindromik) yapan nukleazlar
+
+B) Simetrik (küt) kesim yapan enzimler
+
+C) Ligazlar
+
+D) Endonukleazlar
+
+E) Ekzonukleazlar
+
+Cevap: C
+
+71. Büyüklüğü 3 kb olan bir DNA parçasını klonlamak
+için en uygun vektör hangisidir?
+
+A) Plazmit
+
+B) Cosmid
+
+C) Lamda faj virüs DNA'sı
+
+D) Bakteri Yapay Kromozomu (BAC)
+
+E) Maya Yapay Kromozomu (YAC)
+
+Cevap: A
+
+72. Genomdaki yeri ve nukleotit dizilişi henüz
+tanımlanmamış ama fonksiyonunu bildiğimiz bir genin
+genomdaki yerini bulmak için kullanılabilecek en uygun
+kaynak hangisidir?
+
+A) Nukleer genom kitaplığı
+
+B) cDNA kitaplığı
+
+C) Mitokondriyal DNA kitaplığı
+
+D) Kromozoma özgü kitaplık
+
+E) Genoma özgü kitaplık
+
+Cevap: B
+
+73. Fenotipte tanınan ama nukleotit dizisi ve genomdaki
+yeri bilinmeyen bir gene ait mutasyonları takip etmek için
+en uygun olanı hangisidir?
+
+A) Genin mutant DNA probları
+
+B) İşaretçi (marker) DNA dizileri
+
+C) Allele özgü DNA (ASO) probları
+D) Kromozom analizi
+
+E) PCR klonlama yöntemi
+
+Cevap: B
+
+74. DNA'daki bir mutasyonu belirlemek hangisini
+kullanmak uygun olmaz?
+
+A) Nukleotit dizi analizi
+
+B) Southern blot (hibridizasyon)
+
+C) Allele özgü oligonükleotit (ASO)
+
+D) İn vivo DNA klonlaması
+
+E) İn vitro DNA klonlaması ( PCR ile)
+
+Cevap:D
+
+75. Kalıtsal ADA enzim kusuru olan bir hastadan alınan
+lökositlere, plazmitte klonlanan sağlam bir insan ADA
+geni, vektör olarak retrovirüs kullanılarak aktarılmış,
+lökositler tekrar hastanın vücuduna geri verilmiştir.
+Yapılan gen tedavisinde kullanılan gen transfer yöntemi
+hangisidir?
+
+A) İn vivo
+
+B) Ex vivo
+
+C) Kimyasal
+
+D) Direkt enjeksiyonla yapılan
+
+E) Lipozom füzyonu ile yapılan
+
+Cevap: B
+
+76. Genetiği Değiştirilmiş Organizmaların (GDO) toprak,
+su ve genetik kirliliği arttırma riskleri vardır. Hangisi
+genetik kirlilik risklerinden birisi değildir?
+
+A) Mikroorganizmalarda genetik değişiklikler
+
+B) Hayvan türlerinde (fauna) değişiklik
+
+C) Bitki türlerinde (flora) değişiklik
+
+D) Genetik çeşitlilikte artış
+
+E) Bazı gen kaynaklarının yok oluşu
+
+Cevap: D
+
+77. Bir genomda gen bölgesinde yer almayan DNA dizi
+çeşidi hangisidir?
+
+A) Intronlar
+
+B) Mikrosatellit ve minisatellit DNA lar
+
+C) Psödogenler
+
+D) UTR (protein kodlamayan nüklotit diziler)
+E) Tek kopya genler
+
+Cevap: B
+
+78. Fonksiyonel bir genin nukleotit dizileri ile olgun
+mRNA dizileri arasında ortak olan hangisidir?
+
+A) TATA kutusu
+
+B) GC kutusu
+
+C) UTR (protein kodlamayan nüklotit diziler)
+
+D) İntronlar
+
+E) Poli-A kuyruk dizisi
+
+Cevap: C
+
+Prof. Dr. Mülkiye KASAP
+
+79. Mitoz başlatıcı faktör kompleksi hangi durumda
+aktiftir?
+
+1. Treonin —161 fosforilasyonu ile
+
+2. Treonin —14 fosforilasyonu ile
+
+3. Tirozin —15 fosforilasyonu ile
+
+4. Treonin —14 ve tirozin —15 defosforilasyonu ile
+
+A)1,2 B)2,3 C) 3,4 D)1,3 E)14
+Yamt: E
+

@@ -1,0 +1,158 @@
+A Â
+
+26. Verilenlerden hangisi insan yumurta hücresi ve embriyonik
+bölünme şeklidir?
+
+A) İzolesital tip yumurta ve Holoblastik-Ekual bölünme
+
+B) Mikrolesital tip yumurta Holoblastik-İnekual bölünme
+
+C) Hafif telolesital tip yumurta ve Meroblastik bölünme
+
+D) Sentrolesital tip yumurta ve Süperfisiel bölünme
+
+E) İleri telolesital tip yumurta ve Diskoidal bölünme
+
+27. Memelilerdeki Ekstra embriyonik zarlarla ilgili olarak
+verilenlerden hangisi yanlıştır?
+A), Amniyon zarı amniyon sıvısı salgılar embriyoyu korur,
+
+embriyonun gelişimine katkida bulunur.
+
+B) Umblikal kord bütün memelilerde bulunur, jölemsi bağ dokudan
+yapılmıştır. İnsanda iki arter ile iki venden oluşur, embriyonun
+beslenmesini sağlar,
+
+C) Vitellüs kesesi kuşlarda, sürüngenlerde, kaplumbağalarda vb
+canlılarda embriyonun gelişip yumurtadan çıkıncaya kadar
+beslenmesini sağlar.
+
+D) Allontois kesesi embriyo gelişiminde boşaltım maddelerinin
+toplandığı ve üzerinde oluşan kılcal damarlarla solunumun
+yapıldığı yerdir.
+
+E) Koryon zarı embriyonun uterusa tutunması ile koryonik
+gonodotropin salgılar. Bu salgı hamileliğin devamı için gerekli
+olan progesteronun korpus luteumdan salgılanmasını sağlar.
+
+28. Prokaryotlarda laktoz metabolizmasının negatif kontrolünde
+
+verilenlerden doğru olanı bulunuz?
+
+A) Ortamda Jaktoz yok ise represör protein operatör e bağlanarak
+genin çalışmasını engeller.
+
+B) Ortamda laktoz varsa represör protein promotore bağlanarak geni
+
+aktif hale getirir.
+C) Laktozu parçalamak için RNA polimeraz operatöre bağlanarak
+
+mRNA transkripsiyonunu başlatır. 4
+D) Laktozu parçalamak için sadece lacA tarafından sentez edilen
+
+permeaz yeterlidir.
+E) Ortamdaki laktoz regülatör gene yapışarak genin çalışmasını
+bioke edip negatif kontrol sağlar.
+
+29. Okaryotlarda bulunan yukarı promotor elenia
+verilenlerden yanlış olan: bulunuz?
+A) Transkripsiyonun başlaması için RNA po
+
+mesafededir. N
+B) TATA kutusu genin ön kısmın
+ve 8bç'den oluşur.
+
+E) GC kutusu GG
+110 bç'lik mésalededir.
+
+BNA gincirinin fosfodiester bağlarını keser
+
+enzimin kendine özgün tanıma bölgesi vardır.
+
+1 ve Tip III enzimleri DNA'yı özgün bölgelerden kesmez
+
+D) Tip II enzimlerinin hepsi yapışkan uçlu (palindromik, asimetrik)
+kesim yapar
+
+E) Terminal deoxynucleotidyl transferaz (TDT) ile yapışkan uç
+eklenebilir
+
+31. Yaklaşık 30 kb’lik bir ökaryot genini klonlamak ve gen
+ekspresyonunu görmek için en uygun klonlama vektörü
+hangisidir?
+
+A) Maya yapay kromozomu (YAC)
+
+B) Plazmid
+C) Bakteriyofaj
+BD) Cosmid
+
+E) Bakteri kromozomu (BAC)
+Ci
+
+32. In vivo rekombinant DNA elde edilmesinde hangisi
+uvgulanmaz?
+
+A) Yabancı ve bilinen (vektör) DNA'nın seçilmesi
+
+B) Her iki DNA'nın farklı endonukleazlarla kesilmesi
+C) Kesilen yabancı DNA'nın vektöre bağlanması
+D) Elde edilen rekombinant DNA'nın konak hücreye
+
+ap: B RQ
+33. Hangisi komplamenter DNA (cDNA) nm özi
+A) Genomik DNA’ da kopyası vardır
+B) Aktif gen ekzonlarının kopyasıdır
+C) Prob olarak kullanılabilir
+
+cDNA probları ile hibritleme komplementer ekzonu bulmak
+için yapılır.
+Southern blot hibritleme DNA analizi için yapılır.
+
+35, Hangi molküler yöntemin uygulama alanı yanlış
+
+eşleştirilmiştir?
+
+A) Southern blot: proba komplementer DNA'nın saptanması
+
+B) Northern blot: proba komplementer mRNA'nın saptanması
+
+C) Southern blot: hibritlenen proba ait genin kromozomdaki
+yerinin saptanması
+
+D) PCR (Polimeraz zincir reaksionu): moleküler tanı
+
+E) PCR: nukleotit dizisi bilinmeyen DNA'nın klonlanması
+
+36. Hangisi ökaryotik hücreye DNA transferi yapmaya uygun
+değildir?
+
+A) Retrovirüsler
+
+B) E.coli
+
+C) Direkt mikroenjeksiyon yapmak
+
+D) Yapay zar (lipozom) kullanmak
+
+E) Yüksek voltaj kullanımı (elektroporasyon)
+
+‘ap
+
+37. Kromozomlarda yaklaşık bir gen büyüklüğünde, 6 baz
+çiftlik ardışık tekrarlardan oluşan, DNA replikasyonunun
+sağlıklı yapılmasını sağlayan ve kromozom uçlarının
+kısalmasını önleyen nukleotit dizileri hangisidir?
+A) Satellit DNA
+B) Telomerik DNA
+C) Mikrosatellit DNA
+D) İntragenik DNA
+E) Sentromerik DNA
+:B
+38. Fonksiyonel bir genetik koda sahip olmayan DNA
+dizilerini kapsayan yanıt hangisidir?
+
+I. Memelilerde Alu dizisi
+
+II. Tek kopye genler
+

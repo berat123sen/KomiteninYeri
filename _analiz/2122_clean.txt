@@ -1,0 +1,863 @@
+1 | Histoloji | Aşağıda verilen tanımlamalardan yanlış olanı işaretleyiniz.
+   A) Histoloji terimi, doku anlamına gelen kelime ile çalışma anlamına gelen logia kelimelerinin birleşmesiyle oluşmuştur.
+   B) Histoloji insanda hücre, doku ve organların normal yapılarını mikroskop altında inceleyen bilim alanıdır.
+   C) Normal yapı ve gelişim yanında, hücre ve doku hasarının mikroskobik düzeyde araştırılması, kök hücre biyolojisi, rejeneratif tıp araştırmaları ve in vitro fertilizasyon da Histoloji ve Embriyoloji Anabilim Dalının çalışma alanları içerisinde yer alır.
+   D) Embriyoloji fertilizasyondan doğuma kadar insanın gelişimini inceleyen bilim alanıdır.
+   E) İnsan vücudunun oluşturan esas yapısal birim hücreler arası maddelerdir.
+   CEVAP: E
+
+2 | Histoloji | Aşağıda verilen tanımlamalardan yanlış olanı işaretleyiniz.
+   A) Histoloji ve Embriyoloji bilim alanının gelişiminde, hücrenin tanımlanması, hücre teorisinin ortaya konulması ve elektron mikroskobun keşfi çok önemli aşamalardır.
+   B) Bilim alanının gelişim sürecinde; Robert Hooke ilk defa hücreyi tanımlarken, hücrelerde bir çekirdeğin varlığı Robert Brown tarafından keşfedilmiştir.
+   C) İlk transmisyon elektron mikroskop 1932 yılında Knoll ve Ruska tarafından yapılmıştır.
+   D) Canlıların temel yapısal biriminin hücre olduğu gerçeği ancak elektron mikroskobun keşfinden sonra ortaya konulmuştur.
+   E) Mikroskobik incelemelerde en önemli olan iki faktör, büyütme ve ayırma gücüdür.
+   CEVAP: D
+
+3 | Histoloji | Plazma membranı ile ilgili olarak aşağıdakilerden hangisi yanlıştır?
+   A) Fosfolipid, kolesterol ve protein moleküllerinden oluşan, 8-10 nm kalınlığında bir membrandır.
+   B) Lipid molekülleri amfipatik karakterde olup, membran yüzeyini hidrofilik (suya affinitesi olan), membranın iç kısmını ise hidrofobik yaparlar.
+   C) Membran proteinlerinin hepsi lipid çift tabakayı boylu boyunca kat eden transmembran proteinlerden oluşur.
+   D) Periferal proteinler membranın ekstrasellüler ve intrasellüler yüzeylerinde bulunur ve lipid çift tabakaya gömülmezler.
+   E) İntegral proteinler, pompalar, kanallar, reseptörler, bağlayıcı ve yapısal proteinler ve enzimler olarak fonksiyon görürler.
+   CEVAP: C
+
+4 | Histoloji | Pinositoz ile ilgili olarak hangisi yanlıştır?
+   A) Hücreye sıvıların ve genellikle 150 nm den küçük proteinlerin alındığı endositoz sürecidir.
+   B) Organizmada hemen tüm hücrelerde görülen pinositotik veziküller özellikle endotel hücreleri ve düz kas hücrelerinde gelişmiştir.
+   C) GTPaz (dynamin) mekanoenzimi gelişen vezikülün plazma membranından ayrılmasına ve sitoplazmaya geçmesine aracılık eder.
+   D) Vezikül formasyonunda kaveolin ve flotillin proteinleri rol oynar.
+   E) Klatrin bağımlı endositoz tipidir.
+   CEVAP: E
+
+5 | Histoloji | Lizozomlarla ilgili aşağıdakilerden hangisi yanlıştır?
+   A) Proteazlar, nükleazlar, glikozidazlar, lipazlar gibi hidrolitik enzimlerden zengin organellerdir.
+   B) Otofaji, fagositoz ve reseptör aracılı endositozda rol oynarlar.
+   C) Plazma membranı proteinleri lümene bakan yüzeyde glikozillenmiş olup plazma membranı kolesterol ve lizobifosfatidik asitten zengindir.
+   D) Lizozomal membran proteinleri direkt olarak erken ve geç endozomlarda sentezlenip lizozoma aktarılır.
+   E) Nötrofiller, makrofajlar gibi aktif fagositoz yapan hücrelerde iyi gelişmiştir.
+   CEVAP: D
+
+6 | Histoloji | Aşağıda verilen organel-fonksiyon eşleşmelerinden hangisi yanlıştır?
+   A) gER- Salgı proteinlerinin sentezi
+   B) Peroksizom- Hücrede aktin, miyozin ve hemoglobin gibi yapısal proteinlerin sentezi
+   C) Golgi Kompleksi- Salgı proteinlerinin glikozillenmesi ve yoğunlaştırılması
+   D) SER- Detoksifikasyon, lipid ve steroid metabolizması
+   E) Erken endozom- Endositozik yolaklarla hücreye alınan proteinlerin tasnifi ve geri dönüşüme tabi tutması
+   CEVAP: B
+
+7 | Histoloji | Hücrede intrasellüler veziküler transport, silya ve flagella hareketi, mitoz mekiğinin oluşumu, hücre göçü ve şeklinin korunmasında görevli yapı hangisidir?
+   A) Aktin filaman
+   B) Sentriyoller
+   C) Mikrotübüller
+   D) Bazal cisimcik
+   E) Ara filamanlar
+   CEVAP: C
+
+8 | Histoloji | Işık mikroskobik incelemeler için canlıdan alınan dokuyu otolitik ve bakteriyolitik reaksiyonlardan korumak için uygulanan doku takip işlemi hangisidir?
+   A) Tespit (fiksasyon)
+   B) Yıkama
+   C) Suyunu giderme (dehidratasyon)
+   D) Gömme (bloklama)
+   E) Kapatma
+   CEVAP: A
+
+9 | Histoloji | Elektron mikroskobik inceleme yöntemi ile ilgili olarak aşağıdakilerden hangisi yanlıştır?
+   A) Gözle görülmeyen ışık kaynağı kullanır.
+   B) Canlı hücre ve dokuların incelenmesine olanak sağlar.
+   C) Renksiz (siyah-beyaz) görüntü elde edilir.
+   D) Dokuların fiksasyonu amacı ile glutaraldehid ve osmik asit kullanılır.
+   E) Gömme materyali olarak epoksi resin kullanılır.
+   CEVAP: B
+
+10 | Mikrobiyoloji | Jenner tarafından antijen olarak inek çiçek virusunun kullanıldığı, çiçek hastalığının eradikasyonunu sağlayan aşıya verilen, ancak daha sonra genel anlamda aşılama tanımı için kullanılan, 'vaccinasyon' un kelime anlamı nedir?
+   A) ariola
+   B) zayıflatılmış
+   C) bağışıklama
+   D) inekleme
+   E) çiçek
+   CEVAP: D
+
+11 | Mikrobiyoloji | Bakterilerde bölünme esnasında peptidoglikan tabakasının yıkılıp yeniden yapılanmasında rol oynayan enzimlere genel olarak verilen ad nedir?
+   A) Penisilin Bağlayan Proteinler
+   B) Aminotransferazlar
+   C) Glikosidazlar
+   D) Beta-laktamazlar
+   E) Pepdidoglikan Hidroksilazlar
+   CEVAP: A
+
+12 | Mikrobiyoloji | Gram (-) bakterilerde hücre duvarı somatik antijeninin yapısını işaretleyin.
+   A) Teikoik asit
+   B) Lipoteikoik asit
+   C) LPS
+   D) OMP's
+   E) Glikokaliks proteinler
+   CEVAP: C
+
+13 | Mikrobiyoloji | Virusların yapısı ile ilgili olarak aşağıdakilerden hangisi yanlıştır?
+   A) Rotavirus zarfsız, çift sarmallı ve segmentli RNA virusudur.
+   B) Herpes viruslar, zarflı, çift sarmallı DNA virusudur.
+   C) Influenza virus zarfsız, segmentli tek sarmallı RNA virusudur.
+   D) HIV (human immunodeficiency virus) zarflı virus olup diploid RNA'ya sahiptir.
+   E) HBV (hepatit B virus) zarflı, kısmen çift sarmallı DNA virusudur.
+   CEVAP: C
+
+14 | Mikrobiyoloji | RNA virusları ile ilgili yanlış hangisidir?
+   A) Helikal veya ikosahedral kapsidi olabilir.
+   B) Negatif polariteli RNA virusları hazır RNA polimeraz taşır.
+   C) RNA virusları birkaç istisna hariç stoplazmada çoğalır.
+   D) Pozitif polariteli RNA virusları direk ribozoma gidebilir.
+   E) HIV virusu RNA polimeraza sahiptir.
+   CEVAP: E
+
+15 | Mikrobiyoloji | Virusların replikasyonu ile ilgili aşağıdakilerden hangisi yanlıştır?
+   A) Glikoproteinler hücredeki spesifik reseptörlere bağlanır.
+   B) Hem zarflı hem de zarfsız viruslar endositozla hücreye girebilir.
+   C) Hücre içinde ilk virus oluşumundan önceki döneme latent dönem denir.
+   D) Erken proteinler genom replikasyonu için gerekli enzimlerdir.
+   E) Zarfsız viruslar hücreyi lizise uğratarak salınırlar.
+   CEVAP: C
+
+16 | Mikrobiyoloji | Aşağıdakilerden hangi test için hücre kültürü gerekir?
+   A) ELISA
+   B) Nötralizasyon testi
+   C) Strip test
+   D) Lateks aglütinasyon test
+   E) Line probe assay (LIPA)
+   CEVAP: B
+
+17 | Mikrobiyoloji | PCR (polimeraz zincir reaksiyonu) testi ile ilgili doğru hangisidir?
+   A) RNA amplifikasyon yöntemidir.
+   B) PCR ürünleri elektroforezde anot tarafındaki kuyucuklara yüklenir.
+   C) Denatürasyon 940C'de gerçekleşir.
+   D) Ekstensiyon'da primer genoma bağlanır.
+   E) DNA ekstraktları Taq polimeraz ile RNA'ya çevrilir.
+   CEVAP: D
+
+18 | Mikrobiyoloji | Serumda bir virusa karşı antikor aranmasında ELISA testinde hangi aşama yanlıştır?
+   A) Mikroplaktaki kuyular virus antijeni ile kaplıdır.
+   B) Hasta serumu ilave edilir. Sonra yıkama yapılır.
+   C) Enzim bağlı sekonder antikor konur. Sonra yıkama yapılır.
+   D) Substrat ilave edilir. Sonra yıkama yapılır.
+   E) Renkli ürün elde edilen kuyular antikor varlığını gösterir.
+   CEVAP: D
+
+19 | Mikrobiyoloji | Bir mikroorganizmanın enzim aktivitesinde dış etkenlerden hangisinin rolü yoktur?
+   A) Isı
+   B) pH
+   C) Tuz yoğunluğu
+   D) Kimyasal maddeler (ağır metal vb.)
+   E) Mikroorganizmanın cinsi
+   CEVAP: E
+
+20 | Mikrobiyoloji | Mikroorganizmaların üretilmesi ile ilgili olarak hangisi doğru değildir?
+   A) Temel (basit) besiyerleri; et suyu, pepton, tuz gibi maddelerden hazırlanmaktadır. En sık kullanılan sıvı besiyerine buyyon denir.
+   B) Çikolata besiyeri, kanlı besiyerinin ısıtılması ile elde edilir. Neisseria ve Hemophilus türü bakterilerin üretilmesinde kullanılan zenginleştirilmiş bir besiyeridir.
+   C) Bakteriler Kanlı agar besiyerindeki hemoliz durumlarına göre üçe ayrılırlar; alfa hemolitik, beta hemolitik, gamma hemolitik (non-hemolitik)
+   D) Agar, besiyerlerinde mikroorganizmaların üretilmesi için mutlaka gerekli olan bir maddedir. Agar bulunmayan ortamda, mikroorganizmalar üreyemez.
+   E) Agar, besiyeri yapımında sıvı ortamları katılaştırmak amacı ile kullanılır.
+   CEVAP: D
+
+21 | Biyokimya | Yüksek bir ATP/AMP oranı aşağıdaki enzimlerden hangisini inhibe eder?
+   A) Gliseraldehit-3-P dehidrojenaz
+   B) Pirüvat kinaz
+   C) Enolaz
+   D) Fosfofruktokinaz
+   E) Glukoz-6-P dehidrojenaz
+   CEVAP: D
+
+22 | Biyokimya | Kanda artan sitrik asit seviyeleri hangi enzimi uyarır?
+   A) Transketolaz
+   B) Pirüvat karboksilaz
+   C) Asetil-CoA karboksilaz
+   D) Transaldolaz
+   E) Enolaz
+   CEVAP: C
+
+23 | Biyokimya | 9 yaşında Asyalı bir çocuk annesi tarafından doktora getirilir. Viral bir akut gastroenteritin ardından son 6 aydır kötüleşen ishali olduğunu bildirdiler. İshalinin en olası nedeni nedir?
+   A) Çölyak hastalığı
+   B) Laktoz intoleransı
+   C) Pankreas Yetmezliği
+   D) Enfeksiyon
+   E) İnsülin direnci
+   CEVAP: B
+
+24 | Biyokimya | Yağların sindirim ve emilimi sırasında aşağıdaki vitaminlerden hangisi de birlikte emilir?
+   A) Vitamin B12
+   B) Vitamin D
+   C) Vitamin C
+   D) Folik asit
+   E) Vitamin B6
+   CEVAP: B
+
+25 | Biyokimya | Yağ asidi oksidasyonu bozulduğu zaman karbonhidrat yolaklarından hangisi etkilenir?
+   A) Glikojenoliz
+   B) Glikoliz
+   C) Pentoz fosfat yolu
+   D) Glukoneogenez
+   E) Glikojen sentezi
+   CEVAP: D
+
+26 | Biyokimya | Verilen maddelerden hangisi, yağ asitlerinin mitokondri içine girişinde kilit rol oynayan Karnitin-Asil transferaz enzimini inhibe (çalışmasını engeller) eder?
+   A) Sitrat
+   B) Asetil CoA
+   C) Asil CoA
+   D) Karnitin
+   E) Malonil CoA
+   CEVAP: E
+
+27 | Biyokimya | Keton cisimcikleri ile ilgili YANLIŞ ifade hangisidir?
+   A) Kanda en yüksek konsantrasyonda gözlenen keton cisimciği asetondur
+   B) Üretildikleri tek yer karaciğer hücresidir
+   C) Karaciğer dışı dokular enerji kaynağı olarak keton cisimciklerini kullanabilirler
+   D) Asit karakterli maddelerdir
+   E) Uzun süren açlıkta konsantrasyonları artar
+   CEVAP: A
+
+28 | Biyokimya | Yağ asidi sentaz enzim kompleksi içinde Koenzim A rolünü üstlenerek asetil gruplarını bağlayan bölge (domain) hangisidir?
+   A) Ketoasil Sentaz
+   B) Malonil asetil transasilaz
+   C) Ketoasil redüktaz
+   D) Enoil redüktaz
+   E) Asil taşıyıcı protein
+   CEVAP: E
+
+29 | Biyokimya | Aşağıdakilerden hangisi trigliserit metabolizması için yanlıştır?
+   A) İnsülin, hormona duyarlı lipazı inhibe ederek trigliserit yıkılımını azaltır
+   B) Yağ dokusuna glukoz girişi trigliserit sentezini artırır
+   C) Trigliserit sentezi yağ dokusu ve karaciğerde aktiftir
+   D) Sentez yağ dokusunda gliserolden başlar
+   E) Açil transferazlar ile 3 aktif yağ asidi gliserol fosfata aktarılır
+   CEVAP: D
+
+30 | Biyokimya | Aşağıdaki enzimlerden hangisi uygun substrat varlığında, ortamdaki serbest amonyak miktarını azaltır?
+   A) Glutaminaz
+   B) Aspartat transaminaz
+   C) Glutamin sentetaz
+   D) Alanin Transaminaz
+   E) Aminoasit Oksidaz
+   CEVAP: C
+
+31 | Biyokimya | Aşağıdaki tepkimelerden hangisi metil-tetrahidrofolat'tan metil alarak tetrahidrofolat'ın oluşmasını sağlar?
+   A) Arjinin-Ornitin dönüşümü
+   B) Homosistein-Sistatyonin dönüşümü
+   C) Homosistein-Metionin dönüşümü
+   D) Sistatyonin-Sistein dönüşümü
+   E) Sistein-Glutatyon dönüşümü
+   CEVAP: C
+
+32 | Biyokimya | Aşağıdaki aminoasitlerden hangisi Üre Döngüsü içinde yer almaz?
+   A) Glutamat
+   B) Aspartat
+   C) Ornitin
+   D) Arjinin
+   E) Sitrullin
+   CEVAP: A
+
+33 | Biyokimya | Kaslarda oluşan amino gruplarını karaciğere taşıyan ve hepatik glukoneogeneze katkıda bulunan temel aminoasit hangisidir?
+   A) Glutamik asit
+   B) Glisin
+   C) Lizin
+   D) Ornitin
+   E) Alanin
+   CEVAP: E
+
+34 | Biyokimya | Kanda ve idrarda homosistein artışı ile seyreden tabloda hangi enzim eksikliği söz konusudur?
+   A) Arginaz
+   B) Sistatyonin beta sentaz
+   C) Glutamat dehidrogenaz
+   D) Argininosüksinat sentetaz
+   E) Homojentisik asit oksidaz
+   CEVAP: B
+
+35 | Biyokimya | Dihidrobiyopterin redüktaz enzim eksikliğinde aşağıdaki aminoasitlerden hangisinin konsantrasyonu artar?
+   A) Alanin
+   B) Triptofan
+   C) Tirozin
+   D) Fenilalanin
+   E) Histidin
+   CEVAP: D
+
+36 | Biyokimya | Belirtilen enzimlerden hangisi mitokondriyal bir enzim değildir?
+   A) Arginaz
+   B) Glutamat dehidrogenaz
+   C) Ornitin transkarbamoilaz
+   D) Glutaminaz
+   E) Karbamoil fosfat sentetaz 1
+   CEVAP: A
+
+37 | Biyokimya | İnsan (Homo sapiens) sentez-enerji karakterleri açısından hangi biyolojik grupta değerlendirilir?
+   A) Fotoototroflar
+   B) Kemiootoroflar
+   C) Fotoheterotroflar
+   D) Kemioheterotroflar
+   E) 
+   CEVAP: D
+
+38 | Biyokimya | Temel yapı taşlarının katabolik yolaklar sonunda ortak yıkım bileşikleri son ürünlerden hangisi pürin bileşiklerine özgüdür?
+   A) H2O
+   B) Ürik asit
+   C) Amonyak
+   D) Asetil KoA
+   E) Karbondioksit
+   CEVAP: B
+
+39 | Biyokimya | Aşağıdaki biyomoleküllerden hangisinin Hidrit iyonu mitokondride elektron transport sistemi tepkimeleri sonunda enerji olarak ATP ye aktarılır?
+   A) NADPH
+   B) AMP
+   C) AsetilKoA
+   D) NADH
+   E) UTP
+   CEVAP: D
+
+40 | Biyokimya | Kanser hücrelerinin enerji kaynağı olarak tercih ettikleri moleküller hangi şıkta doğru olarak verilmiştir?
+   A) Yağ asiti / Kolesterol
+   B) Glukoz / Glutamin
+   C) Laktoz / Seramid
+   D) Üre / Amonyak
+   E) Aseton / Resolvin
+   CEVAP: B
+
+41 | Biyokimya | Çizgili kasta tek bir tepkime ile ATP veren acil hazır enerji kaynağı, hangi biyomolekülden sentezlenir?
+   A) Glukoz
+   B) Glukoz-6-fosfat
+   C) Kreatin
+   D) Kreatinin fosfat
+   E) Laktat
+   CEVAP: C
+
+42 | Biyokimya | Prenilasyon aşağıdaki olaylardan hangisi ile ilgili değildir?
+   A) Sec-tRNA yapısına girerek selenoprotein sentezini düzenlerler
+   B) Kolesterol biyosentezi öncül formudur
+   C) Ubikinon biyosentezi öncülüdür
+   D) Statinler'in HMG KoA redüktaz enzimini inhibe etmeleri prenil türevi bileşiklerin sentezini artırır.
+   E) Ras ve Rho A onkogenleri ile birleşerek prenilasyon oluşur.
+   CEVAP: D
+
+43 | Biyokimya | Safra asitleri hangi reseptör tipine bağlandığında hedef hücrede gen düzeyinde etkiye yol açar?
+   A) FXR
+   B) PY2
+   C) RXR
+   D) RAR
+   E) LXR
+   CEVAP: A
+
+44 | Biyokimya | Aşağıdaki eikozanoidlerden hangisi trombosit(platelet)lerin birbirine yapışmasına yol açar, damar kaslarını etkileyerek damar daralmasını tetikler?
+   A) Anandamid
+   B) LTA4
+   C) TXA2
+   D) LXA4
+   E) PGI2
+   CEVAP: C
+
+45 | Biyokimya | Plazmada Şilomikron ve VLDL metabolizması için endotel lipoprotein lipaz enziminin endotel hücre dışında tutunması ve aktif olabilmesi hangi moleküle bağlıdır?
+   A) Hiyaluronik asit
+   B) Angiopoietin-L
+   C) Lesitin kolesterol açiltransferaz
+   D) ABCA-1
+   E) Glikozilfosfatdilinozitol bağlantılı, yüksek yoğunluklu lipoprotein bağlı protein 1 (GPIHBP1)
+   CEVAP: E
+
+46 | Biyokimya | Küçük bir çocukta plazma HDL-kolesterol derişimi çok düşüktür. Aşağıdaki apoproteinlerden hangisinin eksikliği düşünülebilir?
+   A) Apo A-1
+   B) Apo B-48
+   C) Apo B-100
+   D) Apo (a)
+   E) Apo E
+   CEVAP: A
+
+47 | Biyokimya | Aşağıdaki glikoliz enzimlerinden hangisinin aktivitesi sonucu ATP oluşur?
+   A) Heksokinaz
+   B) Fosfofruktokinaz - 1
+   C) Gliseraldehit 3 fosfat dehidrogenaz
+   D) Fosfogliserat kinaz
+   E) Enolaz
+   CEVAP: D
+
+48 | Biyokimya | Kan glukozu düşmüş bir kişide, aşağıdaki enzimlerden hangisinin karaciğerde inhibe olması gerekir?
+   A) Pirüvat karboksilaz
+   B) PEP karboksikinaz
+   C) Glukokinaz
+   D) Fruktoz-1,6-bifosfataz
+   E) Glukoz-6-fosfataz
+   CEVAP: C
+
+49 | Biyokimya | Karbonhidrat, protein ve yağların metabolizması sonucu oluşan ortak ürün hangisidir?
+   A) Yağ asitleri
+   B) Glukoz
+   C) Gliserol
+   D) Asetil KoA
+   E) Üre
+   CEVAP: D
+
+50 | Biyokimya | Glikojenin yıkılmasını sağlayan enzimlerden biri olan glikojen fosforilazın ürünü aşağıdakilerden hangisidir?
+   A) Glikoz 1-fosfat
+   B) Glikoz 1,6 bifosfat
+   C) UDP glikoz
+   D) Glikoz 6-fosfat
+   E) Glikoz 2,6 bifosfat
+   CEVAP: A
+
+51 | Biyokimya | Eritrosit hücre direnciyle ilgili olan oksidasyon tipi aşağıdakilerden hangisidir?
+   A) Glikoliz
+   B) Pentoz Fosfat Yolu
+   C) Glikozun aerobik oksidasyonu
+   D) Süksinil CoA yolu
+   E) Asetil CoA yolu
+   CEVAP: B
+
+52 | Biyokimya | Elektron transport zincirindeki yapılardan hangisi protein içermez?
+   A) NADH redüktaz
+   B) Süksinat DH
+   C) Sitokrom C
+   D) Koenzim Q
+   E) Sitokrom aa3
+   CEVAP: D
+
+53 | Biyokimya | Krebs döngüsünün hızı aşağıdaki enzimlerden hangilerinin allosterik kontrolü ile düzenlenir? (I. Sitrat sentaz, II. İzositrat dehidrogenaz, III. Süksinat dehidrogenaz, IV. Malat dehidrogenaz, V. Alfa ketoglutarat dehidrogenaz)
+   A) I, II ve V
+   B) I, III ve IV
+   C) II, III ve IV
+   D) II, III ve V
+   E) I, II, IV ve V
+   CEVAP: A
+
+54 | Biyokimya | Glikojen sentezinde başlangıç glikozil kalıntıları, glikojenin proteininde aşağıdaki aminoasidlerden hangisine eklenir?
+   A) Asparajin
+   B) Triptofan
+   C) Glisin
+   D) Tirozin
+   E) Alanin
+   CEVAP: D
+
+55 | Biyokimya | TCA döngüsü enzimlerinden olan alfa ketoglutarat dehidrogenaz enzimi aşağıdakilerden hangisi ile fonksiyonel benzerlik gösterir?
+   A) Malat dehidrogenaz
+   B) Süksinat dehidrogenaz
+   C) Sitrat liyaz
+   D) İzositrat dehidrogenaz
+   E) Piruvat dehidrogenaz
+   CEVAP: E
+
+56 | Biyokimya | Aşağıdaki enzimlerden hangisinin katalizlediği reaksiyon substrat düzeyinde fosforilasyona örnektir?
+   A) Gliseraldehit-3-fosfat dehidrogenaz
+   B) Pirüvat kinaz
+   C) Pirüvat dehidrogenaz
+   D) Sitrat sentaz
+   E) Asetil-KoA karboksilaz
+   CEVAP: B
+
+57 | Biyokimya | Diabetiklerde lenste glukozdan sorbitol oluşumunu sağlayarak katarakta yol açan NADPH bağımlı enzim hangisidir?
+   A) Sorbitol dehidrogenaz
+   B) Glukoz 6 fosfataz
+   C) Epimeraz
+   D) Enolaz
+   E) Aldoz redüktaz
+   CEVAP: E
+
+58 | Biyokimya | Elektron transport zincirinde yer alan enzimlerden hangisi aynı zamanda TCA döngüsünün enzimlerinden biridir?
+   A) NADH dehidrogenaz
+   B) Süksinat dehidrogenaz
+   C) Sitokrom c oksidoredüktaz
+   D) Sitokrom oksidaz
+   E) ATP sentetaz
+   CEVAP: B
+
+59 | Biyokimya | Elektron transport zincirinin stoplazmadan gelen elektron kaynağı hangi yolaktır?
+   A) Üre siklusu
+   B) Glikoliz
+   C) Pentoz fosfat yolu
+   D) Heksozmonofosfat şantı
+   E) Oronik asit siklusu
+   CEVAP: B
+
+60 | Fizyoloji | Bir geri bildirim devresi kan basıncında meydana gelen 100 mmHg'lık artışın 90 mmHg'sını giderebiliyor ve geri kalan artış olan 10 mmHg'yı gideremiyorsa, bu geri bildirim devresinin kazancı ne kadardır?
+   A) -3
+   B) -6
+   C) -9
+   D) -10
+   E) -11
+   CEVAP: C
+
+61 | Fizyoloji | Aşağıdakilerden hangisi suyun ideal biyolojik bir sıvı olmasını sağlayan özellikler arasında bulunmaz?
+   A) Su molekülleri arasında hidrojen bağlarının olması
+   B) Buharlaşma ısısının yüksek olması
+   C) Yüzey geriliminin yüksek olması
+   D) Dielektrik sabitinin büyük olması
+   E) Isı kapasitesinin düşük olması
+   CEVAP: E
+
+62 | Fizyoloji | Aşağıdaki hücreler arasında telomeraz etkinliği en fazla olanı hangisidir?
+   A) Nöron
+   B) Barsak epitel hücresi
+   C) Kemik dokusu hücresi
+   D) Çizgili kalp kası hücresi
+   E) Çizgili iskelet kası hücresi
+   CEVAP: B
+
+63 | Fizyoloji | Protein sentezi sırasında aktive edilmiş amino asite aşağıdakilerden hangisi bağlı halde bulunur?
+   A) ATP
+   B) GTP
+   C) AMP
+   D) GMP
+   E) GDP
+   CEVAP: C
+
+64 | Fizyoloji | Aşağıdaki enzimlerden hangileri denetimli zar içi proteolizi içeren sinyal iletim yolunda rol oynar? (1. Metalloproteinaz, II. Fosfolipaz A2, III. y sekretaz, IV. Guanilil siklaz, V. Proteinkinaz A)
+   A) I ve II
+   B) II ve III
+   C) I ve III
+   D) II ve IV
+   E) IV ve V
+   CEVAP: C
+
+65 | Fizyoloji | Siklooksijenaz enziminin inhibisyonu aşağıdakilerden hangilerinin üretiminin engellenmesine neden olur? (I. Lökotriyenler, II. Prostasiklin, III. Tromboksan A2, IV. 5-Hidroksieykozatetraenoik asit, V. Diasilgliserol)
+   A) I ve II
+   B) II ve III
+   C) I ve III
+   D) IV ve V
+   E) II ve V
+   CEVAP: B
+
+66 | Fizyoloji | Aşağıdaki yapılardan hangilerinde glükozun hücre içine taşınması sekonder aktif taşıma ile sağlanır? (I. Çizgili kas, II. Böbrek tübülü, III. Kalp kası, IV. Barsak epiteli, V. Karaciğer)
+   A) I ve II
+   B) II ve III
+   C) I ve III
+   D) II ve IV
+   E) IV ve V
+   CEVAP: D
+
+67 | Fizyoloji | Aşağıdaki taşınma şekillerinden hangileri pasif taşımanın örnekleridir? (I. Oksijenin hücre içine, II. Sodyumun hücre dışına, III. Kalsiyumun sarkoplazmik retikulum içine, IV. Karbondioksitin hücre dışına)
+   A) I ve II
+   B) II ve III
+   C) I ve III
+   D) II ve IV
+   E) I ve IV
+   CEVAP: E
+
+68 | Fizyoloji | Difüzyon katsayısı aşağıdakilerden hangileri ile doğru orantılıdır? (I. Ortamın vizkozitesi, II. Mutlak sıcaklık, III. Boltzman sabiti, IV. Parçacığın yarıçapı, V. z sayısı)
+   A) I ve II
+   B) II ve III
+   C) I ve III
+   D) II ve IV
+   E) IV ve V
+   CEVAP: B
+
+69 | Fizyoloji | (+1) değerlikli bir iyonun hücre içindeki konsantrasyonu 1000 mmol/L, hücre dışındaki konsantrasyonu ise 1 mmol/L ise, bu iyonun hücre zarından olan net difüzyon miktarını sıfır mmol yapacak hücre içi ile hücre dışı arasındaki elektriksel potansiyel farkı ne kadar mV olmalıdır (10 tabanlı logaritma içeren Nernst denkleminde logaritmik terimin çarpanlarının sonucunu -60 mV olarak alınız)?
+   A) -60
+   B) -120
+   C) -180
+   D) -240
+   E) -300
+   CEVAP: C
+
+70 | Fizyoloji | Mikrotübüllerin bloke edilmesi durumunda aşağıdaki hücre işlevlerinden hangileri engellenir? (I. Hücre bölünmesi, II. Salgı veziküllerinin taşınması, III. Sodyumun taşınması, IV. Lizozomlardaki hidrolazların etkinliği, V. Transkripsiyon)
+   A) I ve II
+   B) II ve III
+   C) I ve III
+   D) II ve IV
+   E) IV ve V
+   CEVAP: A
+
+71 | Fizyoloji | Aşağıdaki NaCl çözeltilerinden hangisine yerleştirildiklerinde eritrositlerin hacimleri değişmez? (1 mol NaCl=58,5 g olarak alınız.)
+   A) % 0.9
+   B) % 1.8
+   C) % 3.6
+   D) % 7.2
+   E) % 14.4
+   CEVAP: A
+
+72 | Fizyoloji | Mitokondrilerdeki ATP sentetaz ile ATP sentezi sırasında aşağıdaki iyonların hangisinin konsantrasyon gradyanının sağladığı potansiyel enerjiden yararlanılır?
+   A) Na+
+   B) Ca+2
+   C) K+
+   D) H+
+   E) Cl-
+   CEVAP: D
+
+73 | Biyofizik | Aşağıda hücrenin aktivasyon enerjisi ile verilen bilgilerden hangisi yanlıştır?
+   A) Canlı hücrelerin en önemli aktivasyon enerjileri ATP ve sıcaklıktır
+   B) Enzimler reaksiyonu başlatır ve başlamış reaksiyonu hızlandırır.
+   C) Canlının vücut ısısı reaksiyonların aktivasyonu için yeterli ise ATP harcanmaz.
+   D) Sıcaklık yükseldikçe enzim aktivitesi de artar
+   E) ATP nin harcandığı bütün reaksiyonlarda enzimler kullanılır.
+   CEVAP: B
+
+74 | Biyofizik | Aşağıdakilerden hangisi vücudun ısı yayma mekanizmalarındandır? (I. Radyasyon, II. Konveksiyon, III. Kondüksiyon, IV. Evaporasyon, V. Terleme, VI. Soluma)
+   A) I, II, III
+   B) III, IV, V
+   C) IV, V, VI
+   D) I, II, III, IV
+   E) I, II, III, IV, V, VI
+   CEVAP: E
+
+75 | Biyofizik | Aşağıda verilen şıklardan hangisi Vücut Sıcaklığını düşüren mekanizmalardan biri değildir?
+   A) Damarların Genişlemesi (Vazodilatasyon)
+   B) Terleme ve buharlaşma
+   C) Piloereksiyon (Tüylerin dikleşmesi)
+   D) Azalmış istemli kas hareketleri
+   E) Solunumda artış
+   CEVAP: C
+
+76 | Biyofizik | Aşağıda vücudun belli sıcaklıklarda (kor sıcaklığı) tepkisi verilmiştir. Hangi sıcaklıkta vücudun tepkisi yanlış verilmiştir?
+   A) 28 °C; Kaslar çalışmaz
+   B) 30 °C; Bilinç kaybolur
+   C) 33 °C; Vücut sıcaklık kontrolünü kaybeder
+   D) 37 °C; Normal
+   E) 42 °C; Merkezi sinir sistemi çöker
+   CEVAP: B
+
+77 | Biyofizik | ATP hidrolizi ile enerji salınımı, hücrede işe dönüşür. Buna göre canlı bir hücrede ATP hidrolizinin enerjetikliğini hangisi belirler?
+   A) ATP'nin elektronegatif niteliği.
+   B) Sıcaklık farkı.
+   C) Elektropozitif moleküller.
+   D) Yüksüz moleküller.
+   E) Hücre zarı.
+   CEVAP: A
+
+78 | Biyofizik | Günlük ortalama 1625 kcal gıda enerjisine ihtiyaç duyan bir kişi, günde 1925 kcal gıda tüketmektedir. Kişinin aldığı ekstra enerji nedeni ile kilo almaması için günde kaç dakika yürümesi gerekir? (Orta hızda yürüyen kişi yaklaşık 250 W güç harcar, 1 kcal = 4 kJ)
+   A) 100
+   B) 80
+   C) 90
+   D) 60
+   E) 40
+   CEVAP: B
+
+79 | Biyofizik | Aşağıdakilerden hangisi hücre zarının işlevleri arasında yer almaz?
+   A) Hücre bütünlüğünü korumak.
+   B) İç ortam özelliklerinin sabit kalmasını sağlamak.
+   C) Hücrenin çevresi ile seçimli madde alışverişi yapmasını sağlamak.
+   D) Biyoelektrik olayların oluşmasına katkıda bulunmak.
+   E) İyonların hücre dışına doğrudan geçişlerini sağlamak.
+   CEVAP: E
+
+80 | Biyofizik | Aşağıda verilen hücre zarı ile ilgili bilgilerden hangisi yanlıştır?
+   A) Hücre zarı sıvı-kristal özelliği gösterir.
+   B) Proteinler zar düzleminde ötelenme, dönme ve titreşim hareketleri yapar.
+   C) Hücre zarında fosfolipitler misel şeklinde kümelenmiştir.
+   D) Hücre zarının neden olduğu yük ayrımı, hücre içi ile dışı arasında bir potansiyel farkın oluşmasında rol oynar.
+   E) Yüksek özdirenci nedeni ile elektriksel olarak yalıtkandır.
+   CEVAP: C
+
+81 | Biyofizik | Aşağıda verilen hücre zarının elektriksel özellikleri ile ilgili bilgilerden hangi ifade yanlıştır? (Zaman sabiti (t=RC); zarın yük depolama (kapasitans) ve zar direnci üzerinden yük aktarma yeteneğini gösterir).
+   A) Nöronun iletim hızının hesaplanmasında kullanılır.
+   B) Zarın yüksek kapasitansı vardır.
+   C) Zarın kapasitansı yüzey alanının büyüklüğü ile doğru, zar kalınlığı ile ters orantılıdır.
+   D) Zar kapasitansı küçüldükçe hücre zarı zaman sabiti artar.
+   E) Zarın zaman sabiti birimi ms (milisaniye) dir.
+   CEVAP: D
+
+82 | Biyofizik | Aşağıda verilen hücre zarından doğrudan geçişlerde difüzyon hızı hangisine bağlı değildir?
+   A) Moleküllerin ortalama kinetik enerjileri.
+   B) Zarın yüzey alanı.
+   C) Zar kalınlığı
+   D) Konsantrasyon gradiyenti.
+   E) Zardaki taşıyıcı sayısı.
+   CEVAP: E
+
+83 | Biyofizik | Aşağıda verilen hücre zarından madde taşınımı ile ilgili bilgilerden hangisi yanlıştır?
+   A) Pasif taşınımda metabolik enerji harcanması gerekmez.
+   B) Kanallardan iyon geçişi ATP'nin hidrolizi ile gerçekleşir.
+   C) İyon kanalının seçiciliğinde iyonun yükü ve şekli önemlidir.
+   D) Kolaylaştırılmış difüzyonda, akı bir doygunluk değerine ulaşır.
+   E) Na+ ile ortaklaşa ve karşıt taşınım için ana enerji kaynağı ATP'dir.
+   CEVAP: B
+
+84 | Biyofizik | Eşit hacimli iki bölmeden (A ve B) oluşan bir kap, sadece su geçişine izin veren, başlangıçta kapalı bir zar ile ayrılmıştır. A solüsyonunda 100 mM NaCl (MA: 58g), B solüsyonunda 100 mM (MA: 180g) glikoz vardır. Zardan geçişe izin verildiğinde ozmos hangi bölmeye doğru gerçekleşir?
+   A) A bölmesine.
+   B) B bölmesine.
+   C) Su akışı olmaz.
+   D) Önce B sonra A.
+   E) Bilinemez.
+   CEVAP: A
+
+85 | Biyofizik | Zar Kalınlığı 6 nm olan bir hücrenin içi ile dışı arasındaki potansiyel farkı kaç mV dur? (Hücre zarının iki tarafında oluşan Elektrik alanın (E) büyüklüğü: 9 x 10^6 V/m).
+   A) 15 mV
+   B) 9 mV
+   C) 54 mV
+   D) -15 mV
+   E) 66 mV
+   CEVAP: C
+
+86 | Biyofizik | Bir kas hücresi için dinlenim zar potansiyeli -70 mV, potasyumun denge potansiyeli (Ek) -90 mV. Bu zarda K+ için elektrokimyasal potansiyel (itici kuvvet) değeri ve K+'u göçe zorlayan pasif kuvvetin yönü nedir?
+   A) +160 mV, hücre dışına.
+   B) +160 mV, hücre içine.
+   C) 0 mV
+   D) -20 mV, hücre içine.
+   E) +20 mV, hücre dışına.
+   CEVAP: E
+
+87 | Biyofizik | Aşağıda verilen Donnan denge potansiyeli ile ilgili bilgilerden hangisi yanlıştır?
+   A) Zarı geçemeyen anyonlar, zarı geçebilen iyonların yeni bir dağılıma uğramasına neden olur. Konsantrasyon ve potansiyel fark oluşur.
+   B) Hücrenin dinlenim zar potansiyeli, Donnan denge potansiyeline eşittir.
+   C) Donnan potansiyeli, yalnızca pasif mekanizmalarla da bir zarın iki tarafı arasında potansiyel farkın oluşabileceğini gösterir.
+   D) Donnan dengesinin kurulması, ozmoz nedeniyle hücrelerin şişmesine neden olur.
+   E) Donnan dengesi pasif bir süreçtir.
+   CEVAP: B
+
+88 | Davranış Bilimleri | Uyarılmışlık durumu, stres yanıtının düzenlenmesi ve vijilansın düzenlenmesinde rol oynayan ana nörotransmiter yolağı aşağıdakilerden hangisidir?
+   A) Serotonin
+   B) GABA
+   C) Noradrenalin
+   D) Asetilkolin
+   E) Dopamin
+   CEVAP: C
+
+89 | Davranış Bilimleri | Stresle başa çıkma mekanizmaları ile ilgili hangisi yanlıştır?
+   A) Gerçekçi olmayan hedeflerden uzak durulmalıdır.
+   B) Düzenli olarak fiziksel egzersiz yapılmalıdır.
+   C) Sebze ve meyvelerden zengin bir beslenme biçimi uygulanmalıdır.
+   D) Stresi azaltmak için kafeinli içecekler tüketilmelidir.
+   E) Yeterli ve dengeli uyunmalıdır.
+   CEVAP: D
+
+90 | Davranış Bilimleri | Hangisi stres için en uygun tanımdır?
+   A) Bir nesneye karşı duyulan özgül korku
+   B) Kişinin zihninden atamadığı tekrarlayıcı düşünceler
+   C) Başına kötü bir şey geleceğine yönelik sürekli bir beklenti hali
+   D) İnsan ilişkilerindeki baskının sonucu hissedilen zorlanma durumu
+   E) Ölüm ya da çıldırma düşünceleri
+   CEVAP: D
+
+91 | Davranış Bilimleri | Çözülme (dissosiasyon) savunma mekanizması için aşağıdaki ifadelerden hangisi doğrudur?
+   A) Kişinin düşüncesinde yaptığı ya da yaptığını düşündüğü bir eylemi nötrleştirmek veya etkisizleştirmek için yaptığı eylemlerdir.
+   B) Yoğun bir bunaltıyla karşılaşan kişinin bunu bedeninde bir işlev bozukluğuna döndürmesidir.
+   C) Bir anının bilişsel yanı tümü ile anımsanabilirken, duygusal yanının ayrılarak bastırılması ve bilinç dışı kalması ya da duyguların ilgisizmiş gibi görünen bir başka yaşantıya, başka nesneye aktarılmasıdır.
+   D) Zihindeki bir takım duygu ve düşünce kümelerinin bağlı oldukları yaşantılardan koparak özerkleşmeleri ve benliği etkilemeleri sürecidir.
+   E) Dürtülerin ya da içe atılmış nesnelerin olumlu-olumsuz ya da iyi-kötü diye parçalara bölünmesi, iyinin yaşatılmaya kötünün yok edilmeye çalışılmasıdır.
+   CEVAP: D
+
+92 | Davranış Bilimleri | Eğitim düzeyi yüksek kişilerde sık görülen, yasak dürtü ve yaşantıların entelektüel yetiler ve bilgilerle açıklanması şeklinde açıklanan nevrotik savunma mekanizması hangisidir?
+   A) Düşünselleştirme
+   B) Ussallaştırma
+   C) Başkalarını düşünebilme
+   D) Bölünme
+   E) Çözülme
+   CEVAP: A
+
+93 | Davranış Bilimleri | Aşağıdaki savunma düzeneklerinden hangileri İlkel (Olgunlaşmamış) savunma düzenekleri arasında yer alır? (I- Düşünselleştirme, II- Yansıtma, III- İçe atım, IV- Özdeşim, V- Yadsıma)
+   A) I-IV-V
+   B) II-III-V
+   C) I-II-V
+   D) II-III-IV
+   E) I-II-III
+   CEVAP: B
+
+94 | Davranış Bilimleri | von Bertalanffy ve Weiss tarafından geliştirilen biyolojik sistemler kuramı ile ilgili yanlış olan hangisidir?
+   A) Daha basit ve küçük birimler daha karmaşık ve daha büyük birimlerle hiyerarşik bir düzen ve etkileşim içinde çalışırlar
+   B) Her düzeydeki birim kendi içinde dinamik ve bağımsız bir yapıdır
+   C) Üst sistemler alt sistemlerin basit bir toplamı değildir
+   D) Sistemler kendi aralarında bir süreklilik gösterirler
+   E) Alt ve üst sistemler dinamik etkileşimli bir denge, düzen ve süreklilik içindedir
+   CEVAP: B
+
+95 | Davranış Bilimleri | Bağımlılıkların ortak özelliklerinden olmayan hangisidir?
+   A) Yoksunluk belirtilerinin olması
+   B) Bağımlılık nedeniyle toplumsal ve mesleki işlevselliğin bozulmuş olması
+   C) Bağımlılığı denetim altına almak için boşa giden çabaların olması
+   D) Bağımlılığın fizik ya da psikolojik bir sorun olduğunun farkında olunmaması
+   E) Bağımlılıkların düzelebilmesi ancak iyileşmemesi
+   CEVAP: D
+
+96 | Davranış Bilimleri | Madde bağımlılıklarında uzun süre kullanımda rol oynayan pekiştirici faktörlerden olmayan hangisidir?
+   A) Sosyoekonomik durum
+   B) Bırakılınca oluşan yan etkilerden kurtulma
+   C) Girdiği sosyal çevreyi kaybetmek istememe
+   D) Genetik
+   E) Analjezik etki
+   CEVAP: D
+
+97 | Davranış Bilimleri | Aşağıdakilerden hangisi cinsel istismara uğramış çocuklarda görülen gelişimsel, fiziksel veya ruhsal etkilerden değildir?
+   A) Zedelenmiş cinsellik
+   B) İhanet duygusu
+   C) Çaresizlik duygusu
+   D) Damgalanma
+   E) Fiziksel belirtinin mutlaka olması
+   CEVAP: E
+
+98 | Davranış Bilimleri | Aşağıdakilerden hangisi çocukların cinsel istismar ve ihmalinden korunmasında en etkili yöntemdir?
+   A) Destek grupları
+   B) Okul çalışmaları
+   C) Çocuğa cinsel eğitim verilmesi
+   D) Ailenin güçlendirilmesi
+   E) Düzenli ev ziyaretleri
+   CEVAP: C
+
+99 | Davranış Bilimleri | Toplumsal cinsiyet stereotiplerine göre toplumun erkeklerden beklediği davranışlar hangileridir?
+   A) Bakım verici, Bağımsız, İlgi gösterici
+   B) Mantıklı, Duyarlı, Rekabetçi
+   C) Duygusal, Nazik, Aktif
+   D) Kendine güvenli, Maceracı, Lider
+   E) Konuşkan, İtaatkar, Cesur
+   CEVAP: D
+
+100 | Davranış Bilimleri | 'Erkeklerin cerrahi branşlara alınmasına karşıyım' ifadesi hangi cinsiyetçilik türüdür
+   A) Örtük Cinsiyetçilik
+   B) Açık Cinsiyetçilik
+   C) Korumacı Cinsiyetçilik
+   D) Modern Cinsiyetçilik
+   E) Sembolik Cinsiyetçilik
+   CEVAP: B
+
+101 | Entegre Oturum | Eroin hangi grup maddeler içinde yer alır?
+   A) Opiyatlar
+   B) Uçucular
+   C) Uyarıcılar
+   D) Halüsinojenler
+   E) Cannabinoidler
+   CEVAP: A
+
+102 | Entegre Oturum | Alışkanlıklar için hangisi yanlıştır?
+   A) Günlük veya belli bir zaman aralığında rutin olarak yapılan eylemdir.
+   B) Şartlanmış davranışlardır.
+   C) Davranışlarımızı, düşüncelerimizi veya duygularımızı yönlendiren ve zamanla da otomatik bir tepki haline dönüşen sonradan edinilme bir taslaktır.
+   D) Belli bir çaba harcadığımızda alışkanlıklarımızı yakalayabilir ve kontrol altına alabiliriz.
+   E) Alışkanlıklar düzelir ancak iyileşmez.
+   CEVAP: E
+
+103 | Entegre Oturum | Bağımlılıklarda doğru olmayan ifade hangisidir?
+   A) Yoksunluk belirtileri vardır
+   B) Bağımlılıkta kişi fizik ya da psikolojik bir sorun olduğunun farkında değildir
+   C) Bağımlılık nedeniyle toplumsal ve mesleki işlevsellik bozulmuştur
+   D) Bağımlılığı denetim altına almak için boşa giden çabalar vardır
+   E) Bağımlılıklar düzelir ancak iyileşmez
+   CEVAP: B
+
+104 | Entegre Oturum | Bağımlılıklarda en sık kullanılan bilinç dışı benlik savunma mekanizması hangisidir?
+   A) Yadsıma
+   B) Yansıtma
+   C) Akla uygunlaştırma
+   D) Özdeşim
+   E) Döndürme
+   CEVAP: C
+
+105 | Entegre Oturum | İlacı kullanma amaçları ile ilgili aşağıdaki bilgilerden yanlış olanı işaretleyiniz?
+   A) Proflaksi
+   B) Tedavi
+   C) Teşhis
+   D) Cerrahi girişimlerde
+   E) Tanıtım
+   CEVAP: E
+
+106 | Entegre Oturum | Farmakovijilansın tanımını en doğru açıklayan seçenek aşağıdakilerden hangisidir?
+   A) İlaç güvenliği
+   B) İlaç satışı
+   C) İlaç sektörü
+   D) İlaç deposu
+   E) İlaç kutusu
+   CEVAP: A
+
+107 | Entegre Oturum | Ülkemizde Uyuşturucu madde kullanımı suç mudur?
+   A) Evet suçtur.
+   B) Sadece satmak suçtur.
+   C) Hayır suç değildir.
+   D) Kullanılan maddeye göre değişir.
+   E) Esrar kullanmak suç değildir.
+   CEVAP: A
+
+108 | Entegre Oturum | Aşağıdakilerden hangisi yasadışı maddelerden değildir?
+   A) Esrar
+   B) Morfin
+   C) Metamfetamin
+   D) Kafein
+   E) MDMA
+   CEVAP: D

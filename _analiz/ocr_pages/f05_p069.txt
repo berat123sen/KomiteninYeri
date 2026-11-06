@@ -1,0 +1,155 @@
+A A
+
+2 .TEM 2011-2102 BİYOFİZİK ( 1-9. SORULAR )
+
+Dog. Dr. Mustafa Emre
+
+1. Aşağıdaki seçeneklerden yanlış olanı işaretleyiniz.
+
+A) Yüzey gerilimi, sıvı yüzeyinde birim uzunluğu gergin
+tutan kuvvettir.
+
+B) Yüzey gerilimi, yüzeye paralel olarak etkir.
+
+C) Suyun yüzey gerilimi, cıva hariç bütün sıvıların yüzey
+geriliminden büyüktür.
+
+D) Yüzey gerilimi, yüzeyin her doğrultusunda ve her
+noktasında aynıdır.
+
+E) Yağ asitleri suyun yüzey gerilimini artırır.
+
+CEVAP: 1.E
+
+2. Aşağıdaki seçeneklerden yanlış olanı işaretleyiniz
+
+A) Konveksyon sadece ısı kaybını sağlayan mekanizmadır.
+
+B) Altın kaplamalı giysiler vücuttan ısı kaybını azaltır.
+
+C) Düşük hızdaki rüzgârın serinletici etkisi yaklaşık rüzgâr
+hızının kareköküyle orantılıdır.
+
+D) Canlı sisteminde kan dolaşımı konvektif ısı aktarımına bir
+örnektir.
+
+E) Vücudumuzaun ısısı negatif feedback sistemle kontrol edilir
+
+CEVAP: 2.A
+
+3. Aşağıdaki seçeneklerden yanlış olanı işaretleyiniz
+
+A) Gazların genleşme katsayısı ile basınçlarının artma
+katsayısı birbirinin aynısıdır.
+
+B) Moleküllerin ortalama kinetik enerjileri mutlak sıcaklıkla
+doğru orantılıdır.
+
+C) İdeal gaz molekülleri arasında çekme ve itme kuvvetleri
+sıfır kabul edilir.
+
+D) Gaz moleküllerinin belirli bir andaki hızları birbirinin
+aynısıdır.
+
+E) Gazlar üzerindeki basıncı artırıp sıcaklığını düşürürsek gaz
+sıvılaşır.
+
+CEVAP: 3.D
+
+4. Aşağıdaki seçeneklerden yanlış olanı işaretleyiniz.
+
+A) Akışkanın sıcaklığı yükseldikçe viskozite düşer.
+
+B) Viskozite düşük ve orta basınç değerlerinde basınçtan
+etkilenmez.
+
+C) Sıvıların dinamik viskozitesi, gazların dinamik
+viskozitesinden daha büyüktür.
+
+D) Viskozitesi sabit olmayan akışkanlar Newtonyen
+akışkanlar denir.
+
+E) Viskozitesi yüksek olan sıvının akışkanlığı düşüktür.
+
+CEVAP: 4.D
+
+5. Aşağıdaki seçeneklerden yanlış olanı işaretleyiniz.
+
+A) Katı haldeki cisimlerde basınç kuvveti daima cismin
+ağırlığına eşittir.
+
+B) Katı haldeki cisimlerin uyguladığı basınç, cismin dokunma
+yüzeyi ile ters orantılıdır.
+
+C) Basınç altındaki bir katı da hacim değişikliği için, Young
+modülü kullanılır.
+
+D) Esneklik sınırı aşıldığında, zorun zorlanmayla değişimi
+doğrusal olmaz.
+
+E) Amorf yapıdaki katılarda atomlar ve moleküller belirli bir
+örgü oluştururlar.
+
+CEVAP: 5.C
+
+6. Şekilde gösterilen düzenekte h,—0,5 m, h,=1,5 m,
+d;—1000 kg/m”, d,=13600 kg/m” A=0,01 m’ dir. C
+noktasında P, basıncın 4 bar olması için piston kütlesi m
+kaç kg olmalıdır? (g=10 m/s”, Py=101336 Pa)
+
+—— EF —
+
+laz
+
+A) 18 B) 33,3 C) 58,8
+D) 78,5 E) 99.7
+CEVAP: 6.E
+
+7. Bir havuz içerisinde tamamen suya gömülü olarak dik
+vaziyette ayakta duran 1,8 m boyundaki bir adamı göz
+önüne alınız. Bu adamın başına ve ayakuçlarına etki eden
+basınçlar arasındaki farkı kPa olarak hesaplayınız
+(d=1000 kg/m”, g =9,8 m/s”)
+
+Ay124 B)177 C)234 D)28,6 E)324
+CEVAP: 7.B
+
+8. 26 mm çapındaki cam burudan Q=338x 10° m/s debide
+kan akmaktadır. Kanın viskozitesi 1=4 santipoise
+olduğuna göre boruda akan kanın Reynold sayısını
+hesaplayınız (py,=1050 kg/m”).
+
+A) 14,58 B) 11,24 C) 5,88 D)2,86 E)1,14
+
+CEVAP: 8.C
+
+9, 20°C ta rölatif nemi % 65 olan bir hava, bir silindir
+içine yerleştirilir ve nem oluşmaya başlayıp silindirin iç
+yüzeyinde yoğunlaşıncaya kadar sıkıştırılıyor. Silindirin iç
+duvarlarında nemlenmenin ilk görüldüğü andaki hava
+basıncı kaç atmosferdir? (Sıcaklığın 20°C ta kaldığını
+kabul ediniz, 20°C deki su buharı basmer=0,0230
+atmosferdir).
+A)2213 B)1,343 C)1,021 D)0,067 E)0,015
+CEVAP: 9.E
+
+HISTOLOJI  ( 10-19. SORULAR)
+
+Prof.Dr.Sait Polat (1 Soru)
+
+10. Hücre, doku ve organların normal yapısını mikroskop
+altında inceleyen bilim alanı aşağıdakilerden hangisidir?
+A) Fizyoloji B) Patoloji C) Histoloji
+D)Biyokimya- E) Embriyoloji ee
+Yamt: C
+
+Prof.Dr.Mehmet Kaya (6 Soru)
+11. Dış ve iç membran olmak üzere iki membran sistemine
+sahip, iç membranmın krista şeklinde düzenlendiği,
+hücrenin ana enerji kaynağı olan hücre organeli
+aşağıdakilerden hangisidir?
+A) Granüler endoplazmik retikülüm — B)Golgi kompleksi
+C) Lizozom D) Mikrozom
+E) Mitokondriyon
+
+Yanıt: E

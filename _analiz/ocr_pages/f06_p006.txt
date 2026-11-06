@@ -1,0 +1,196 @@
+A
+
+65. Hücre içi Ca2* konsantrasyonu 0.0001 mM, hücre dışı
+konsantrasyonu | mM ise, Ca2+ denge (Nernst)
+potansiyelini hesaplayınız?
+
+A. 4122 mV
+
+B.*61 mV
+
+C.0mV
+
+D. #244 mV
+
+E. -S0 mV
+
+CevapA
+
+66. Hücre zarından geçişinde metabolik enerjinin gerekli
+olmadığı yönde hareket eden bir iyon için aşağıdakilerden
+hangisi doğrudur?
+
+A. İyon geçişi birincil aktif taşıma ile gerçekleşiyordur.
+
+B. İyon zardan doğrudan geçer,
+
+C. İyona sadece elektriksel kuvvet etki ediyordur.
+
+D. İyonun zardan geçişi için ATP kullanılır.
+
+E. İyonun elektrokimyasal kuvvetleri sıfırdan farklıdır.
+Cevap E
+
+67. Na+ ve Cl- geçiren, ancak büyük anyonlar (A-) için
+geçirgen olmayan bir zar iki kompartmanı birbirinden
+ayırıyor. Sistem dengededir. Birinci tarafta |Nat|l = 0,326
+mol/l, |A-]1 = 0,266 mol/l ve ikinci tarafta |Cl-]2=0,14 moli,
+|A-]2=0. Donnan dengesine göre ikinci taraftaki (Nat|2
+konsantrasyonu ne kadardır?
+
+A. 0,326 moll
+
+B. 0,14 moll
+
+C. 0,06 moli
+
+D. 0.266 moll
+
+E. 0,466 mol/l
+
+Cevap B
+
+68. Aşağıdakilerden hangisi hücrenin dinlenim zar \ %
+
+potansiyel değerine potasyumun (K+) etkisinin daha
+olmasını açıklar?
+
+A. Zarda sızıntı K* iyon kanallarının kapalı ha
+y Zarın geçirgenliğinin K+ iyonlarına daha nas
+C. K- iyonlarının pozitif yok içermesi.
+D. Nas sızıntı kanallarının fazla sayıda olması?
+E. Na+ konsantrasyonunun hücre dışında fa
+
+Cevap B b TAN
+
+69. “4 oR Neh
+1. Tepkimeyi başlatırlar BUR
+IL. Tepkimenin hızını değiştirirler — “
+HI. Tepkimenin yönünü değiştirirler Ny
+IV. Tepkime sonunda yapısal değişikliğe lığrarlar
+V. Kademeli tepkimelerde © dinda çikilidirler
+Yukarıdaki verilen bilgilerden ileri izörlerin
+
+TTK AN
+A, Yalnız e hi
+B. NV, Ve
+CHV NN
+D. JA a a
+E. Yalnız ll >
+
+CEVAP: E
+70. Aşağıda verilen 151 aktarımı ile ilgili bilgilerden hangisi
+duğrudur?
+A. Konveksiyon ile 151 aktarımı, yavaş moleküllerden hızlı
+moleküllere doğrudur
+B. Kondüksiyon ile bı ukturmu, enerjinin sıvı veya gaz
+içindeki tansferidir
+C. Evaporasyon, isi enerjisi ile maddelerin kalı halden sıvı
+hale geçişidir
+D. Bütün cisimler radyasyon yaymaktadır
+E Güneş, kouveksiyon İle ws aktarımı yapınaktadır
+
+CEVAP: D
+TL.
+I. Vazodilatasyon
+11. Piloercksiyon
+111. Solunumda artış
+IV. Titreme
+V. Terleme ve buharlaşma
+Yukarıdakilerden hangisi/leri sıcaklığı yükselten
+mekanizmalardandır?
+A. HI
+
+B. IV-V
+
+C. IV |
+
+D. NV Ne
+
+E. LIV RP
+CEVAPD Aa LU
+
+72. Vücudun içi ve dışı arasındaki” dokunun kalınlığı 3cm,
+iletkenliğin olduğu alan 1.5m2, vücudün İçi ile dışı
+arasındaki sıcaklık farkı 3 °C. Se akışı | ne kadardır?
+
+a 2
+K.. 18 cal.cm/m Ni
+
+A. 81 cal/saat BB, 2 27 al
+
+D. 54 cal/saat Els calsaat
+Cevap: B i,
+MIKROBIYOLOJI İGİSĞESORULAR)
+
+73. Viruşların y ile ilgili yanlış hangisidir ?
+
+A. a kapsid bulunmaz.
+
+BaBazı v viruslar sadece genom ve ikosahedral kapsidden oluşur
+
+inn RNA virusları MRNA gibi davranır.
+
+A Viruslarının çoğu çift sarmallıdır.
+“> B:Helikal kapsidi olan virusların hepsi zarflıdır.
+
+vo S cal/saat
+
+“CEVAP: D
+
+74, Virusların replikasyonu ile ilgili yanlış hangisidir ?
+
+L.A; Zarfsiz viruslar hücreyi lizise uğratarak salınır.
+a B. RNA viruslarının çoğu stoplazmada çoğalır.
+
+C. DNA virusları RNA polimeraz taşır.
+
+D. DNA viruslarının çoğu nukleusda çoğalır.
+
+E. Zarflı viruslar hücreden tomurcuklanarak salınır.
+CEVAP: C
+
+75. Aşağıdaki viruslarından hangisi kısmen çift sarmallı
+sirküler DNA genomuna sahiptir?
+
+A. Herpesvirus
+
+B. Parvovirus
+
+C. Poxvirus
+
+D. Adenovirus
+
+E. Hepatit B virus
+
+CEVAP: E
+
+76. Viruslurin tam testlerinden hungisinde eritrositler
+kullanılır?
+
+A. Lateks aglütinasyon
+
+B. Direk IFA testi
+
+C. ELİSA
+
+D. İmmunokromotgrafik kart testi
+
+E. Hemaglutinasyon inhibisyon testi
+
+CEVAP: E
+
+77. Aşağıdakilerden hangisi tekrarlayan virus
+Infekslyonunu gösterir?
+
+A, 186 yüksek avidite(*), IgM(-)
+
+B. 186 düşük avidite(+), IgM(+)
+
+C. 18G yüksek avidite(*), IgM(+)
+
+D. IgG düşük avidite(+), IgM(-)
+
+E. IgG (1), IgM)
+
+CEVAP; ©

@@ -1,0 +1,326 @@
+A
+D) AG>0
+E) AG =]
+Cevap: A
+67)Aadakilerden hangisinde hidrofobik
+etkileimler
+bulunmaz?
+A) Zar lipit
+çift
+tabaka
+oluumunda.
+B) Misel oluumunda.
+C) Proteinlerin
+kendilerine
+özg0 3 boyutlu
+yaplarnda.
+D) NaCl'nin suda çözünmesinde.
+E) DNA çift sarmal
+yapnn
+stabil olmasnda
+Cevap D
+68)ATP hidrolizi
+ile enerji
+salnm,
+hücrede ie dönüür.
+Buna
+göre canl
+bir hücrede ATP hidrolizinin
+enerjetikliini
+hangisi
+belirler?
+A) ATP'nin elektronegatif
+nitelii.
+B) Sicaklik
+fark.
+C) Hidrofobik
+etkileimler.
+D) Yaksüz moleküller.
+E) Hücre zar.
+Cevap A.
+69)Hücre zarnn
+elektriksel
+özellikleri
+ile ilgili hangi
+ifade
+yanltr?
+A) Zamarn
+sabiti (t-RC),zarn yük depolama (kapasitans)
+ve zar direnci
+üzerinden
+yük aktarma yeteneini
+gösterir.
+B) Zarn
+yüksek
+kapasitans
+vardr.
+)
+Zarn kapasitans
+ylzey alannn
+büylklaga ile doru
+orantildr.
+D) Zar kapasitans
+küçüldükçehücre zar zaman
+sabiti artar.
+E) Zaman
+sabiti nöronun iletim
+hiznn
+hesaplanmasnda
+kullanir.
+Cevap D
+70)Hücre zarndagerçekleen
+osmozun
+hareket
+yonünüs
+belirlenmesinde,
+aagdakilerden
+hangileri
+temel
+faktôrlerden
+degildir?
+I
+:
+HOcre içinde çözünen maddelerin
+konsantrasyonu.
+II:Hücre dinda
+çozünenmaddelerin
+konsanträsyonu.
+I1:Çozinenierin
+polaritesi.
+IV:
+Çozincnierin
+molckuler
+aurlg.
+V: Aquaporinierin
+varlg
+1, II,IV
+B)I,
+L
+,
+VM
+D)II, II,IV
+)IVV
+Cevap
+T1)Sinir
+bbcresinde
+yer alas
+Na"K pompass zar
+buyunca 2K 13
+N
+degiimi
+yapar. Bu barcketis
+temcl
+gôrevi
+audakiler des bangisidir?
+A) Donnan dengeolkurmak
+B) Hucre içíN ohaartrasyonunu arttumak
+)
+Hücré
+dy Konsuurasyonunu
+arttrnak
+D)Setestçrioriyl
+inDum durumuna getirnck
+E)füredc
+is.irikael ve kmyasal putansiyel
+caerjiyi
+depou
+Cevap E
+2)Fick dferyus
+yasasina
+gôre,agdakilerdea
+baagial
+bcrezaradas
+geçebilea
+bir maddeaia arbuyusca at
+difüryon
+huan
+acaitr?
+A) Zarn gesgenlinin ara
+B)
+Maddenin
+kotsarasyun gdy anunda
+art
+) Ze yuzryalanns buyaoea
+D)Zakalnlgande artg
+E)Maddean
+boyutuda azalma olmas
+Cevap D
+73)Membras potanaiyeli
+-0
+V olaa
+dialeai
+durumusda
+br bêcrede,CI'ua Neress-Beegs
+A
+6
+potansiyeli:
+-90 mV'tur. CI'un zardan pasif
+geçii
+hangi
+yöne ve ne kadarlk
+elektrokimyasal
+potansiyel
+farkla
+olur?
+A) -160mV, hucre
+dna.
+B) -90 mV, hlcre
+dina.
+C) O mV,dengededir.
+D) +20 mV, hücre
+içine.
+E) +70mV,hücre içine.
+Cevap D
+74)Bir sinir hücresi
+membrannn
+her iki tarafinda
+yer
+alan
+iyonlarn
+Nernst-Denge potansiyelleri
+ile ilgili
+hangisi
+dorudur?
+A)Tüm iyonlarn
+Nernst
+potansiyelleri
+kullanlarak
+zar
+potansiyeli
+hesaplanr.
+B) Hücreniniçi ve d
+arasndaki
+bútün
+iyonlarn
+toplam
+konsantrasyonunu
+gösterir.
+C) Bir cins
+iyon
+için iyonun
+konsantrasyon
+farkn
+dengeleyen
+elektrokimyasal
+potansiyetdir
+D) Nernst-Dengepotansiyelleri
+ile
+hcre
+ztarnn
+iyon
+geçirgenligi
+hesaplanur.
+E) Na" iyonu
+için hcre dt konsantrasyonunun
+hücre
+içi
+konsantrasyonuna
+orannn
+logaritmas
+alndgnda
+degeri
+negatif
+bulunur.
+Cevap C
+75)Aadakilerden
+hangisi
+Gibss-Donnan
+potansiyelinin
+özeligi degildir?
+A)
+Yalnzca
+pasif
+mekanizmalarla
+bir
+zarn
+iki taraf
+arasinda
+kurulan
+potansiyel
+farktr.
+B) Zargeçemeyen anyonlar,
+zar geçebilen
+iyonlarn
+yeni
+bir dalma
+ugramasna
+neden olur.
+) Gibs-Donnanpotansiyeli
+bir denge
+durumudur.
+D)Gibss-Donnandengesinin
+kurulmas,
+osmoz nedeniyle
+hdcrelerin
+imesine
+neden olur.
+E) Gibss-Donnanpotansiyeli
+için Na/K"pompa
+aktivasyonu
+gereklidir.
+Cevap E
+76)Aagdakilerden
+hangisi
+hlerenin dinlenim
+ar
+potansiyel
+degerine potasyumun (K)etkisinin
+daha
+fazla
+olmasns
+açklar?
+A) Zarda
+sZint K* iyon
+kanallarnn
+kapal
+halde
+durnas.
+B) Zarn
+geçirgenliginin
+K" iyonlarna
+daha
+fazla olmas.
+C)K'iyonlarnn
+pozitif yuk içermesi.
+D) Na' sznt kanallarnn fazla
+sayida
+olmas.
+E)Na' konsantrasyonunun
+hucre dnda
+azla
+olmas.
+Cevap B
+FIZYOLOJl(77-87.sORULAR)
+77)Vacut ds ortamua scaklg ls°C olduguada, saglhkl
+bir iasauda vcut scaklgun dlzenley
+ici merkes effektor
+orgaular zeriadeki etkilerle aagdaki
+olay larun
+baugilkriae
+ucdea olur?
+)Deridamarlarada
+vazokonstriksiyoa,
+l) Tiroid
+bormos
+algauna
+artmas, ll) Adrenalin salgusunn
+aaktdass, IV)Deridek
+kllara
+deri
+yâzeyine
+yapyma
+A)
+Ive lI
+B)
+ve
+lI
+D) l ve IV
+CEVAP: A
+78)Lueulardakihidrolazlarascatezi urasuada
+kullaaas bacrs orgascileri
+ayagudaki
+seçeneklerdea
+basgiaiads
+uralaamlur?
+A) Granaia snduplaznikretikulum-Golgi
+ayuta

@@ -1,0 +1,199 @@
+61 | Fizyoloji | Aşağıdakilerden hangisi suyun ideal biyolojik bir sıvı olmasını sağlayan özellikler arasında bulunmaz?
+   A) Su molekülleri arasında hidrojen bağlarının olması
+   B) Buharlaşma ısısının yüksek olması
+   C) Yüzey geriliminin yüksek olması
+   D) Dielektrik sabitinin büyük olması
+   E) Isı kapasitesinin düşük olması
+   CEVAP: E
+
+62 | Fizyoloji | Aşağıdaki hücreler arasında telomeraz etkinliği en fazla olanı hangisidir?
+   A) Nöron
+   B) Barsak epitel hücresi
+   C) Kemik dokusu hücresi
+   D) Çizgili kalp kası hücresi
+   E) Çizgili iskelet kası hücresi
+   CEVAP: B
+
+63 | Fizyoloji | Protein sentezi sırasında aktive edilmiş amino asite aşağıdakilerden hangisi bağlı halde bulunur?
+   A) ATP
+   B) GTP
+   C) AMP
+   D) GMP
+   E) GDP
+   CEVAP: C
+
+64 | Fizyoloji | Aşağıdaki enzimlerden hangileri denetimli zar içi proteolizi içeren sinyal iletim yolunda rol oynar? (1. Metalloproteinaz, II. Fosfolipaz A2, III. y sekretaz, IV. Guanilil siklaz, V. Proteinkinaz A)
+   A) I ve II
+   B) II ve III
+   C) I ve III
+   D) II ve IV
+   E) IV ve V
+   CEVAP: C
+
+65 | Fizyoloji | Siklooksijenaz enziminin inhibisyonu aşağıdakilerden hangilerinin üretiminin engellenmesine neden olur? (I. Lökotriyenler, II. Prostasiklin, III. Tromboksan A2, IV. 5-Hidroksieykozatetraenoik asit, V. Diasilgliserol)
+   A) I ve II
+   B) II ve III
+   C) I ve III
+   D) IV ve V
+   E) II ve V
+   CEVAP: B
+
+66 | Fizyoloji | Aşağıdaki yapılardan hangilerinde glükozun hücre içine taşınması sekonder aktif taşıma ile sağlanır? (I. Çizgili kas, II. Böbrek tübülü, III. Kalp kası, IV. Barsak epiteli, V. Karaciğer)
+   A) I ve II
+   B) II ve III
+   C) I ve III
+   D) II ve IV
+   E) IV ve V
+   CEVAP: D
+
+67 | Fizyoloji | Aşağıdaki taşınma şekillerinden hangileri pasif taşımanın örnekleridir? (I. Oksijenin hücre içine, II. Sodyumun hücre dışına, III. Kalsiyumun sarkoplazmik retikulum içine, IV. Karbondioksitin hücre dışına)
+   A) I ve II
+   B) II ve III
+   C) I ve III
+   D) II ve IV
+   E) I ve IV
+   CEVAP: E
+
+68 | Fizyoloji | Difüzyon katsayısı aşağıdakilerden hangileri ile doğru orantılıdır? (I. Ortamın vizkozitesi, II. Mutlak sıcaklık, III. Boltzman sabiti, IV. Parçacığın yarıçapı, V. z sayısı)
+   A) I ve II
+   B) II ve III
+   C) I ve III
+   D) II ve IV
+   E) IV ve V
+   CEVAP: B
+
+69 | Fizyoloji | (+1) değerlikli bir iyonun hücre içindeki konsantrasyonu 1000 mmol/L, hücre dışındaki konsantrasyonu ise 1 mmol/L ise, bu iyonun hücre zarından olan net difüzyon miktarını sıfır mmol yapacak hücre içi ile hücre dışı arasındaki elektriksel potansiyel farkı ne kadar mV olmalıdır (10 tabanlı logaritma içeren Nernst denkleminde logaritmik terimin çarpanlarının sonucunu -60 mV olarak alınız)?
+   A) -60
+   B) -120
+   C) -180
+   D) -240
+   E) -300
+   CEVAP: C
+
+70 | Fizyoloji | Mikrotübüllerin bloke edilmesi durumunda aşağıdaki hücre işlevlerinden hangileri engellenir? (I. Hücre bölünmesi, II. Salgı veziküllerinin taşınması, III. Sodyumun taşınması, IV. Lizozomlardaki hidrolazların etkinliği, V. Transkripsiyon)
+   A) I ve II
+   B) II ve III
+   C) I ve III
+   D) II ve IV
+   E) IV ve V
+   CEVAP: A
+
+71 | Fizyoloji | Aşağıdaki NaCl çözeltilerinden hangisine yerleştirildiklerinde eritrositlerin hacimleri değişmez? (1 mol NaCl=58,5 g olarak alınız.)
+   A) % 0.9
+   B) % 1.8
+   C) % 3.6
+   D) % 7.2
+   E) % 14.4
+   CEVAP: A
+
+72 | Fizyoloji | Mitokondrilerdeki ATP sentetaz ile ATP sentezi sırasında aşağıdaki iyonların hangisinin konsantrasyon gradyanının sağladığı potansiyel enerjiden yararlanılır?
+   A) Na+
+   B) Ca+2
+   C) K+
+   D) H+
+   E) Cl-
+   CEVAP: D
+
+73 | Biyofizik | Aşağıda hücrenin aktivasyon enerjisi ile verilen bilgilerden hangisi yanlıştır?
+   A) Canlı hücrelerin en önemli aktivasyon enerjileri ATP ve sıcaklıktır
+   B) Enzimler reaksiyonu başlatır ve başlamış reaksiyonu hızlandırır.
+   C) Canlının vücut ısısı reaksiyonların aktivasyonu için yeterli ise ATP harcanmaz.
+   D) Sıcaklık yükseldikçe enzim aktivitesi de artar
+   E) ATP nin harcandığı bütün reaksiyonlarda enzimler kullanılır.
+   CEVAP: B
+
+74 | Biyofizik | Aşağıdakilerden hangisi vücudun ısı yayma mekanizmalarındandır? (I. Radyasyon, II. Konveksiyon, III. Kondüksiyon, IV. Evaporasyon, V. Terleme, VI. Soluma)
+   A) I, II, III
+   B) III, IV, V
+   C) IV, V, VI
+   D) I, II, III, IV
+   E) I, II, III, IV, V, VI
+   CEVAP: E
+
+75 | Biyofizik | Aşağıda verilen şıklardan hangisi Vücut Sıcaklığını düşüren mekanizmalardan biri değildir?
+   A) Damarların Genişlemesi (Vazodilatasyon)
+   B) Terleme ve buharlaşma
+   C) Piloereksiyon (Tüylerin dikleşmesi)
+   D) Azalmış istemli kas hareketleri
+   E) Solunumda artış
+   CEVAP: C
+
+76 | Biyofizik | Aşağıda vücudun belli sıcaklıklarda (kor sıcaklığı) tepkisi verilmiştir. Hangi sıcaklıkta vücudun tepkisi yanlış verilmiştir?
+   A) 28 °C; Kaslar çalışmaz
+   B) 30 °C; Bilinç kaybolur
+   C) 33 °C; Vücut sıcaklık kontrolünü kaybeder
+   D) 37 °C; Normal
+   E) 42 °C; Merkezi sinir sistemi çöker
+   CEVAP: B
+
+77 | Biyofizik | ATP hidrolizi ile enerji salınımı, hücrede işe dönüşür. Buna göre canlı bir hücrede ATP hidrolizinin enerjetikliğini hangisi belirler?
+   A) ATP'nin elektronegatif niteliği.
+   B) Sıcaklık farkı.
+   C) Elektropozitif moleküller.
+   D) Yüksüz moleküller.
+   E) Hücre zarı.
+   CEVAP: A
+
+78 | Biyofizik | Günlük ortalama 1625 kcal gıda enerjisine ihtiyaç duyan bir kişi, günde 1925 kcal gıda tüketmektedir. Kişinin aldığı ekstra enerji nedeni ile kilo almaması için günde kaç dakika yürümesi gerekir? (Orta hızda yürüyen kişi yaklaşık 250 W güç harcar, 1 kcal = 4 kJ)
+   A) 100
+   B) 80
+   C) 90
+   D) 60
+   E) 40
+   CEVAP: B
+
+79 | Biyofizik | Aşağıdakilerden hangisi hücre zarının işlevleri arasında yer almaz?
+   A) Hücre bütünlüğünü korumak.
+   B) İç ortam özelliklerinin sabit kalmasını sağlamak.
+   C) Hücrenin çevresi ile seçimli madde alışverişi yapmasını sağlamak.
+   D) Biyoelektrik olayların oluşmasına katkıda bulunmak.
+   E) İyonların hücre dışına doğrudan geçişlerini sağlamak.
+   CEVAP: E
+
+80 | Biyofizik | Aşağıda verilen hücre zarı ile ilgili bilgilerden hangisi yanlıştır?
+   A) Hücre zarı sıvı-kristal özelliği gösterir.
+   B) Proteinler zar düzleminde ötelenme, dönme ve titreşim hareketleri yapar.
+   C) Hücre zarında fosfolipitler misel şeklinde kümelenmiştir.
+   D) Hücre zarının neden olduğu yük ayrımı, hücre içi ile dışı arasında bir potansiyel farkın oluşmasında rol oynar.
+   E) Yüksek özdirenci nedeni ile elektriksel olarak yalıtkandır.
+   CEVAP: C
+
+81 | Biyofizik | Aşağıda verilen hücre zarının elektriksel özellikleri ile ilgili bilgilerden hangi ifade yanlıştır? (Zaman sabiti (t=RC); zarın yük depolama (kapasitans) ve zar direnci üzerinden yük aktarma yeteneğini gösterir).
+   A) Nöronun iletim hızının hesaplanmasında kullanılır.
+   B) Zarın yüksek kapasitansı vardır.
+   C) Zarın kapasitansı yüzey alanının büyüklüğü ile doğru, zar kalınlığı ile ters orantılıdır.
+   D) Zar kapasitansı küçüldükçe hücre zarı zaman sabiti artar.
+   E) Zarın zaman sabiti birimi ms (milisaniye) dir.
+   CEVAP: D
+
+82 | Biyofizik | Aşağıda verilen hücre zarından doğrudan geçişlerde difüzyon hızı hangisine bağlı değildir?
+   A) Moleküllerin ortalama kinetik enerjileri.
+   B) Zarın yüzey alanı.
+   C) Zar kalınlığı
+   D) Konsantrasyon gradiyenti.
+   E) Zardaki taşıyıcı sayısı.
+   CEVAP: E
+
+83 | Biyofizik | Aşağıda verilen hücre zarından madde taşınımı ile ilgili bilgilerden hangisi yanlıştır?
+   A) Pasif taşınımda metabolik enerji harcanması gerekmez.
+   B) Kanallardan iyon geçişi ATP'nin hidrolizi ile gerçekleşir.
+   C) İyon kanalının seçiciliğinde iyonun yükü ve şekli önemlidir.
+   D) Kolaylaştırılmış difüzyonda, akı bir doygunluk değerine ulaşır.
+   E) Na+ ile ortaklaşa ve karşıt taşınım için ana enerji kaynağı ATP'dir.
+   CEVAP: B
+
+84 | Biyofizik | Eşit hacimli iki bölmeden (A ve B) oluşan bir kap, sadece su geçişine izin veren, başlangıçta kapalı bir zar ile ayrılmıştır. A solüsyonunda 100 mM NaCl (MA: 58g), B solüsyonunda 100 mM (MA: 180g) glikoz vardır. Zardan geçişe izin verildiğinde ozmos hangi bölmeye doğru gerçekleşir?
+   A) A bölmesine.
+   B) B bölmesine.
+   C) Su akışı olmaz.
+   D) Önce B sonra A.
+   E) Bilinemez.
+   CEVAP: A
+
+85 | Biyofizik | Zar Kalınlığı 6 nm olan bir hücrenin içi ile dışı arasındaki potansiyel farkı kaç mV dur? (Hücre zarının iki tarafında oluşan Elektrik alanın (E) büyüklüğü: 9 x 10^6 V/m).
+   A) 15 mV
+   B) 9 mV
+   C) 54 mV
+   D) -15 mV
+   E) 66 mV
+   CEVAP: C

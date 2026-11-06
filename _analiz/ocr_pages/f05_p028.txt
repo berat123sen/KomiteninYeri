@@ -1,0 +1,166 @@
+kaynaklanan değişiklikler oluştuğunu ve bu
+nedenle enzim fonksiyonlarının bozulduğunu
+gözlemliyor. Bu gözlemine pöre protelnle İlgili
+DNA dizisi hakkında değişik ihtimaller aşağıda
+verilmiş olup, en doğru ihtimali bulunduran
+seçenek hangisidir?
+I. Ekson mutasyonları
+11. GC kutusu
+IIL Çerçeve kayması
+IV. Enhanser dizileri
+V. Kodlanan bölge
+VI. Promotor dizisi
+A) LIL NI
+B) III, IV
+C) LL, V
+D) II, IV, Vİ
+E) NI, IV, VI
+Cevap C
+48. Mutajenlere maruz kalan bir hücrede tümör
+baskılayıcı özelliğe sahip olan p53 geni null allel
+formundadır, Söz konusu hücrede
+aşağıdakilerden hangisi/ve/veya hangileri
+meydana gelir?
+I. Bölünme
+II. Tümörleşme
+III. Gj; evresinde duraklama
+IV. Gi evresinde duraklama
+V. Replikasyon
+
+A) 1, Iİ, V B) 1, II, V O LIL IV
+D) II, II, IV E) III, IV, V
+Cevap b
+
+49. İnsan genom yapısı ve organizasyonuyla ilgili
+olarak verilen önermelerden hangileri yanlıştır?
+I. Mitokondri tarafından kodlanan 37 genin ürünü,
+mitokondri matriksinde bulunan kendi ribozomları
+
+tarafından sentezler
+
+II. — Mitokondri, Oksidatif fosforilasyon ve ribozom
+alt uniteleri için gerekli proteinlerin sentezi için
+çekirdek genomundan destek alır
+
+III. — Çekirdek genomunda ribozomların sentezinden
+sorumlu genler: 13, 14, 15, 21 ve 22.
+kromozomlarda tek kopya halinde bulunur.
+
+IV. Klasik gen ailelerinde dizi ve fonksiyon
+benzerliği yüksek olup Immünoglobilin, TCR ve
+HLA gibi genler kodlanır.
+
+V. Protein katlanmasında görevli ısı şok proteinleri
+gibi hücre için hızlı üretilmesi gereken proteinler
+
+genellikle intronsuzdur.
+
+A) LI B) II, NI C) III, IV
+D) III, V E)IV,V
+Cevap C
+
+50. mRNA’nin translasyonu için aşağıdaki
+
+ifadelerden hangisi yanlıştır? :
+A) Proteinler, nRNA kaliplarindan sentezlenirler.
+
+B) Tüm mRNA’lar 5'>3’ yönüne doğru okunurlar
+C) Polipeptid zincirleri, karboksil ucundan amino
+
+ucuna doğru sentezlenirler
+D) tRNA, MRNA ve amino asitler arasında adaptör
+
+rol oynar
+
+K) Protein sentezi ribozomlarda gerçe
+Yanıt; C
+
+51. Protein sentezi ile ilgili doğru seçenek
+hangisidir?
+
+A) Ökaryot mRNA'ları bir çok polipeptid zinciri
+kodlar
+
+B) Prokaryot mRNA'ları monosistroniktir
+
+C) Ökaryotlarda protein sentezi N-formil metionin
+ile başlar
+
+D) AUG, Ökaryot ve prokaryotlarda başlama
+kodonudur
+
+E) Ökaryot mRNA'sında başlama bölgesi, Shine-
+Delgarno dizileridir
+
+Yanıt: D
+
+52.İn vivo klonlamanın temel basamakları ile
+ilgili olarak hangisi yanlıştır?
+
+A) DNA moleküllerinin restriksiyon endonükleaz
+enzimleri ile tanınması ve kesilmesi
+
+B) Kesilen DNA parçalarının vektör DNA
+molekülüne bağlanması ile rekombinant DNA'nın
+oluşturulması
+
+C) Rekombinant DNA'nın bir konak hücreye
+aktarılması.
+
+D) Konak hücre çoğaltılarak rekombinant DNA
+molekülünün de çoğaltılması.
+
+E) Tüm hücre klonlarının gen ürününün
+saflaştırılarak incelenmesi
+
+Yanıt:E
+53. Hangisi ile 1000 kilobazlık DNA parçası
+aktarılabilir?
+A) Plazmitler,
+
+B) Faj vekt
+C) Kozmidler
+
+D) BAC
+
+E) YAC
+
+Yanıt: E
+54.DNA kitaplığı ilc i!gili aşağıd jelerde
+yanlış olanı hangisidir?
+
+A) Klonlanan DNA parçası çok ki )
+genomun küçük bir parçasını klonlainax sya Dil
+çok sayıda klonlama yapmak gerekir.
+
+B) Daha sonra incelemek üzere DNA klonlarının
+sınıflandırılarak saklanması ile DNA klon kitaplığı
+oluşturulur.
+
+C) Kaynağına göre DNA kitaplığı bir organizmanın
+genomunun tümünü kapsıyor ise genomik kitaplık
+adını alır.
+
+D) Tek bir kromozoma ait ise kromozoma özgün
+kitaplık adını alır.
+
+E) Bir hücrede aktif transkripsiyonu yapılan bir
+gen veya gen grubuna ait ise Ekstrakromozomal
+DNA'ya ait kitaplık adını alır.
+
+Yanıt: E
+
+55. Hangisi in vitro DNA klonlaması (PCR) için
+gerekenlerden değildir?
+
+A) Genomik DNA,
+
+B) Restriksiyon endonükleaz enzimi,
+
+C) Özgün oligonükleotid primerleri,
+
+D) dNTP'ler
+
+E) Uygun ısı döngülerini sağlayan cihaz (thermal
+
+kleşir

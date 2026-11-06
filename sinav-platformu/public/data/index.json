@@ -1,0 +1,212 @@
+{
+  "version": 1,
+  "generatedAt": "2026-11-06",
+  "site": "Sınav Platformu",
+  "scope": "Dönem 1 / TEM 2",
+  "exams": [
+    {
+      "id": "2023-2024-tem-2",
+      "label": "2023-2024 Dönem 1 TEM 2",
+      "shortLabel": "2023-24",
+      "year": "2023-2024",
+      "period": 1,
+      "term": "TEM 2",
+      "questionCount": 102,
+      "answerStatus": "official",
+      "disciplines": [
+        {
+          "id": "biyokimya",
+          "name": "Tıbbi Biyokimya",
+          "questionCount": 39,
+          "first": 1,
+          "last": 39
+        },
+        {
+          "id": "histoloji",
+          "name": "Histoloji ve Embriyoloji",
+          "questionCount": 10,
+          "first": 40,
+          "last": 49
+        },
+        {
+          "id": "mikrobiyoloji",
+          "name": "Mikrobiyoloji",
+          "questionCount": 11,
+          "first": 50,
+          "last": 60
+        },
+        {
+          "id": "biyofizik",
+          "name": "Biyofizik",
+          "questionCount": 16,
+          "first": 61,
+          "last": 76
+        },
+        {
+          "id": "fizyoloji",
+          "name": "Fizyoloji",
+          "questionCount": 11,
+          "first": 77,
+          "last": 87
+        },
+        {
+          "id": "davranis-bilimleri",
+          "name": "Davranış Bilimleri",
+          "questionCount": 12,
+          "first": 88,
+          "last": 99
+        },
+        {
+          "id": "tip-tarihi-etik",
+          "name": "Tıp Tarihi ve Etik",
+          "questionCount": 1,
+          "first": 100,
+          "last": 100
+        },
+        {
+          "id": "entegre",
+          "name": "Entegre Oturum",
+          "questionCount": 2,
+          "first": 101,
+          "last": 102
+        }
+      ]
+    },
+    {
+      "id": "2024-2025-tem-2",
+      "label": "2024-2025 Dönem 1 TEM 2",
+      "shortLabel": "2024-25",
+      "year": "2024-2025",
+      "period": 1,
+      "term": "TEM 2",
+      "questionCount": 105,
+      "answerStatus": "official",
+      "disciplines": [
+        {
+          "id": "histoloji",
+          "name": "Histoloji",
+          "questionCount": 9,
+          "first": 1,
+          "last": 9
+        },
+        {
+          "id": "fizyoloji",
+          "name": "Fizyoloji",
+          "questionCount": 10,
+          "first": 10,
+          "last": 19
+        },
+        {
+          "id": "biyokimya",
+          "name": "Biyokimya",
+          "questionCount": 39,
+          "first": 20,
+          "last": 58
+        },
+        {
+          "id": "biyofizik",
+          "name": "Biyofizik",
+          "questionCount": 14,
+          "first": 59,
+          "last": 72
+        },
+        {
+          "id": "mikrobiyoloji",
+          "name": "Mikrobiyoloji",
+          "questionCount": 12,
+          "first": 73,
+          "last": 84
+        },
+        {
+          "id": "davranis-bilimleri",
+          "name": "Davranış Bilimleri",
+          "questionCount": 10,
+          "first": 85,
+          "last": 94
+        },
+        {
+          "id": "tip-tarihi-etik",
+          "name": "Tıp Tarihi ve Etik",
+          "questionCount": 2,
+          "first": 95,
+          "last": 96
+        },
+        {
+          "id": "sbet",
+          "name": "SBET",
+          "questionCount": 4,
+          "first": 97,
+          "last": 100
+        },
+        {
+          "id": "entegre",
+          "name": "Entegre",
+          "questionCount": 5,
+          "first": 101,
+          "last": 105
+        }
+      ]
+    },
+    {
+      "id": "2021-2022-tem-2",
+      "label": "2021-2022 Dönem 1 TEM 2",
+      "shortLabel": "2021-22",
+      "year": "2021-2022",
+      "period": 1,
+      "term": "TEM 2",
+      "questionCount": 108,
+      "answerStatus": "official",
+      "disciplines": [
+        {
+          "id": "histoloji",
+          "name": "Histoloji",
+          "questionCount": 9,
+          "first": 1,
+          "last": 9
+        },
+        {
+          "id": "mikrobiyoloji",
+          "name": "Mikrobiyoloji",
+          "questionCount": 11,
+          "first": 10,
+          "last": 20
+        },
+        {
+          "id": "biyokimya",
+          "name": "Biyokimya",
+          "questionCount": 39,
+          "first": 21,
+          "last": 59
+        },
+        {
+          "id": "fizyoloji",
+          "name": "Fizyoloji",
+          "questionCount": 13,
+          "first": 60,
+          "last": 72
+        },
+        {
+          "id": "biyofizik",
+          "name": "Biyofizik",
+          "questionCount": 15,
+          "first": 73,
+          "last": 87
+        },
+        {
+          "id": "davranis-bilimleri",
+          "name": "Davranış Bilimleri",
+          "questionCount": 13,
+          "first": 88,
+          "last": 100
+        },
+        {
+          "id": "entegre",
+          "name": "Entegre Oturum",
+          "questionCount": 8,
+          "first": 101,
+          "last": 108
+        }
+      ]
+    }
+  ]
+}

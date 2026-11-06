@@ -1,0 +1,158 @@
+A 
+A 
+A      
+        
+                
+ 
+1
+TEM II  HAM (11.12.2014) 
+BİYOFİZİK  
+( 1 - 7. SORULAR ) 
+DOÇ. DR. IŞIL ÖCAL 
+1. Bir hücre zarındaki aktif Na+/K+ pompasının saniyede içeriye giren 
+K+ miktarı zardan geçen 3,2x10-18 A lik akım şiddetine eşittir. Bu akım 
+şiddetini oluşturan K+ sayısı nedir? (e=1,6x10-19 C) 
+A) 2x10+1         B) 0,5 x10-1      C) 2       D) 0,5      E) 2 x10-1      
+YANIT: A 
+2. Aşağıdakilerden hangisi yanlıştır? 
+A) İki iyon arasındaki elektrostatik çekimden kaynaklanan etkileşim 
+enerjisi NaCl için bu bağ enerjisi 500 kJ/mol kadardır. 
+B) Protein yan zincirlerinin polar grupları arasındaki çekim veya su 
+moleküllerinin çekimi hidrojen bağlarıdır.  
+C) Atomlar Van der Waals uzaklığıyla ayrılıncaya kadar birbirine 
+yaklaştıkça bu etkileşim azalır. 
+D) Kimyasal bağları kırmak için verilmesi gereken enerjiye bağ 
+enerjisi adı verilir.  
+E) Bağ kırılması endotermik, bağ oluşumu ekzotermik reaksiyonla 
+açıklanabilir 
+YANIT: C 
+3. Pasif gradiyentler etkisinde zardan geçişleri sırasında, 
+geçirgenlikler ve konsantrasyonlar ile zar potansiyeli arasındaki 
+bağıntıyı aşağıdakilerden hangi bağıntı ile açıklayabiliriz.  
+A) Fick Yasası 
+B) Nernst Potansiyeli 
+C) Coulomb Yasası 
+D) Goldman-Hodgkin-Huxley-Katz 
+E) Gibbs-Donnan Dengesi 
+YANIT: D 
+4. Aşağıdakilerden hangisi yanlıştır? 
+A) Zarın bir tarafında zarı geçemeyen iyonların varlığında kurulan 
+dengeye Gibbs-Donnan dengesi denir. 
+B) Bir sıvının buharlaşması entropinin artışına neden olur.  
+C) Bir gazın yoğunlaştırılması entropinin azalmasına neden olur  
+D) Moleküllerde iki atom arasındaki bağ sayısı arttıkça bağ 
+uzunlukları azalır ve bağ enerjileri artar. 
+E) Bir çözeltideki çözünen maddelerin derişimlerinin az olduğu 
+yerden, çok olduğu yere doğru yayılmasına difüzyon denir. 
+YANIT: E 
+5. Kalınlığı 6 nm olan bir hücre zarının potasyum iyonlarına geçirgenliği 
+PNa=10-10 m/s dir. Zarı homojen bir yapıda düşünüldüğünde  sodyum 
+iyonlarının zardaki difüzyon katsayısı ve zarı ortalama geçiş süresi 
+kaçtır?  
+A) 6x10 -17,300ms  
+B) 6x10-18, 300 ms 
+C) 6x10-19, 0,3 s, 
+D) 6x10-20, 0,3 s 
+ 
+E) 6x10-20, 3s 
+YANIT: C 
+6. Memeli kas hücreleri için dinlenim zar potansiyelini -110 mV, denge 
+potansiyellerini ECl=-98 mV, EK=-96 mV, ENa=+76 mV ölçüldüğünde 
+ve hücre içine doğru iyonların göçü  pozitif seçildiği zaman bu üç 
+iyonun gibbs serbet enerjileri ve geçiş yönlerine göre aşağıdakilerden 
+hangisinde doğru verilmiştir? (F=96500). 
+A) ∆GCl  +1,15 J/mol hücre dışına doğru, ∆GNa  -16,01 J/mol, hücre 
+içine doğru 
+B) ∆GNa  -16,01 J/mol, hücre içine doğru, ∆GCl  +1,15 J/mol hücre 
+içine doğru 
+C) ∆GK   -11,6 J/mol ve ∆GNa  -16,01 J/mol, hücre içine doğru 
+D) ∆GCl  +1,15 J/mol hücre dışına, ∆GNa  -16,01 J/mol ve ∆GK   -11,6 
+J/mol hücre içine doğru 
+E) ∆GK   -116 J/mol ve ∆GNa  -16,01 J/mol, hücre dışına,∆GCl  +1,15 
+J/mol hücre içine 
+YANIT: E 
+7. Bir hücrede dinlenim zar potansiyeli = -90 mV, potasyumun hücre 
+dışı konsantrasyonu = 4 μM/cm3 ve hücre içi konsantrasyonu = 155 
+μM/cm3'tür. Bu hücrede potasyum iyonunun denge potansiyeli kaç 
+mV'tur ve bu iyon denge dağılımında mıdır? (Not: 37 °C'ta Nernst 
+denklemi ε = (61 mV) log(Co/Ci); log155 = 2,19; log4 = 0,6; log(155/4) 
+=1,59'dur) 
+A) -97; denge dışı 
+B) 133; denge dışı 
+C) -90; dengede 
+D) +66; denge dışı  
+E) 37; dengede    
+YANIT: A 
+HİSTOLOJİ 
+(  8 - 13. SORULAR ) 
+PROF.DR.UFUK Ö. METE (2 SORU) 
+8. Işık mikroskobik incelemeler için preparat hazırlarken en 
+sık kullanılan bazik boya hangisidir? 
+A) Toluidin mavisi 
+B) Metilen mavisi 
+C) Eosin 
+D) Hematoksilen 
+E) Asit fuksin 
+Yanıt:D 
+9. Işık mikroskobik ve elektron mikroskobik inceleme 
+yöntemleri karşılaştırıldığında hangisi doğrudur? 
+A) Kullanılan ışık kaynakları farklılık göstermez 
+B) Işık mikroskobu ile canlı doku incelemek mümkün değildir 
+C) İkisinde de renkli görüntü elde etmek mümkündür 
+D) İki yöntemde de aynı gömme (bloklama)materyali kullanılır 
+E) Her ikisinde de immünohistokimyasal metod uygulanabilir 
+Yanıt: E 
+PROF.DR. ÖZGÜL TAP (4 SORU) 
+10. Hücre membranı ile ilgili olarak hangisi doğrudur? 
+A) Hematoksilen&Eozin boyama yöntemi ile ışık mikroskopta 
+kolaylıkla ayırt edilebilir. 
+B) Elektron mikroskopta pentalaminar (5 tabakalı) yapıda 
+görülür. 
+C) Dış yüzeyinde PAS (+) boyanan glikokaliks (hücre örtüsü) 
+bulunur. 
+D) Tek tabakalı fosfolipid moleküllerini içerir. 
+E) Sitoplazmik yüzeyinde fibröz lamina içerir.  
+CEVAP: C 
+11. Işık mikroskobunda, hematoksilen-eozin ile negatif imaj, 
+gümüş ile boyamada ise pozitif imaj şeklinde gözlenen, 
+elektron 
+mikroskopta 
+membran 
+ile 
+çevrili 
+paralel 
+sisternalardan oluştuğu görülen hücre organeli hangisidir? 
+A) Golgi kompleksi 
+B) Granüler endoplazmik retikülüm 
+C) Agranüler endoplazmik retikülüm 
+D) Mitokondriyon 
+E) Lizozom 
+CEVAP: A 
+12. Nöron ve kalp kası hücresi gibi bölünmeyen ve yaşlı 
+hücrelerde görülen, endojen pigmentlerden biri olan 
+inklüzyon tipi hangisidir? 
+A) Lipofuksin 
+B) Hemoglobin  
+C) Melanin  
+D) Reinke kristalleri 
+E) Karoten 
+CEVAP: A 
+13. Hiperkromatik çekirdek ile ilgili tanımlamalardan hangisi 
+doğrudur? 
+A) Ökromatin miktarı fazladır 
+B) Heterokromatin miktarı azdır. 
+C) Metabolik olarak çok aktif hücrelerde bulunur. 
+D) Karyolizise uğramış hücrelerde görülür. 
+E) Koyu bazofilik boyanır. 
+CEVAP: E 
+TIBBİ BİYOLOJİ 
+( 14-  41  . SORULAR ) 
+PROF. DR. ÜMİT LÜLEYAP  (3 SORU) 
+14. Mikroskopta hücrenin yaşam döngüsünü inceleyen 
+öğrenciler, inceledikleri 24 hücreden 23 tanesinin interfaz 
+evresinde olduğunu saptıyor. Buna ek olarak karaciğer gibi 
+mitotik ve metabolik aktivitesi yüksek olan hücrelerin, 
+bölünmenin dışında özelleştiği işleri yerine getirebilmesi için 
+gerekli enzim ve protein sentezlerini hangi evrede yapar?  
+A) G0 
+B) G1

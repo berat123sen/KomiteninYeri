@@ -1,0 +1,143 @@
+: kodlayan 3'lü şifrenin birinci
+bazındaki değişimler sessiz mutasyonlardır.
+IL. Wobble yasası gereğince 3. baz değişimleri
+
+sinonim mutasyonlardır.
+
+IN. Genetik kodun 2. bazindaki
+genellikle non-sinonim degisimlerdir.
+
+IV. — Genin kodlanan bölgesindeki 4. bazın silinmesi
+çerçeve kaymasına sebep olur.
+
+V. Intron mutasyonları gen ürünlerinin yapı ve
+fonksiyonunu etkilemez.
+
+A) DİİL
+
+B) I-III-1V
+
+C) I-1I-V
+
+D) II-MII-1V
+
+E) III-IV-V
+
+CEVAP :D
+
+41. insan meme epitel hiicrelerinde,
+mutajenlerin neden olduğu hasarlara karşı
+devreye giren DNA tamir mekanizmalarıyla
+ilgili olarak verilenlerden hangileri yanlıştır.
+
+I. Bir zincirin hasarsız olması durumunda
+Homolog rekombinasyonel tamir mekanizması,
+mutajenlere karşı başarılıdır .
+
+II. DNA kiriklarinda hasarsiz sablonun
+bulunmadığı durumlarda, non-homolog uçların
+direkt olarak birleştirilmesi söz konusudur.
+
+III. — Sitozin deaminasyonu sonucu oluşan Urasil
+bazı, Hipoksantin ile değiştirilir.
+
+IV. Timin dimerizasyonunun
+fotoreaktivasyon ile tamiri,
+tamiridir.
+
+V. Canlılar aleminde, DNA polimerazların iyi ve
+
+kötü editör özelliğine sahip versiyonları bulunur.
+
+değişimler
+
+görünür  ışıktaki
+Baz kesip-çıkarma
+
+A) LII  B)LII C) IIL, IV
+D) III, V E)IV,V
+Cevap C
+
+42. Orijinal 5 CGAACGATAGCTAATCTAG 3’
+Mutant 5’ CGAACGATACTAATCTAG 3’
+
+Seklinde olan ve proteinin aktif domain
+bölgesini kodlayan DNA dizilerinin dikkatli
+bakıldığında mutasyon nedeniyle aralarında
+farklılık oluştuğunu göreceksiniz. Buna göre
+meydana gelen mutasyon türüyle ilgili olarak
+verilen seçeneklerden hangisinin olduğu kesin
+olarak söylenebilir.?
+
+I. Çerçeve kayması
+II. Sessiz
+
+III. Non-sense
+IV. Nötral
+V. Insersiyon
+/I. Delesyon
+A) LAD
+
+olarak aşağıda verilen önermelerden hangi :
+yanlıştır?
+I. Akridin boyaları gibi interkalasyon yapan
+ajanlar olup DNA yapısını bozarlar.
+1. DNA hasarlarının tümü spontan olarak meydana
+
+gelir
+Il. — 5-Metil sitozinin deaminasyonu sonucu Timin
+
+bazı oluştuğu için genomda CG baskılanması
+sözkonusudur.
+
+IV. Transpozonlar, DNA yapısında genom
+organizasyonunu düzenleyerek mutajenik etkilere
+
+karşı koruma sağlar.
+V. Bir küf mantarı olan Aflotoksin Bi, DNA
+
+yapısında Timin dimerizasyonuna neden olur.
+
+A) I, II, NI B) 1, NI, V C) II, HI, IV
+D)IL IV, V E) IIL IV, V
+Cevap d
+
+44. Spontan mutasyonlarda etkili olan
+tautomerik değişimler için hangi bazların yapısı
+normal formdadır (tautomerik değildir) ?
+I. —Enol = Timin
+II. Keto = Guanin
+III. Imino = Sitozin
+IV. Amino = Adenin
+V. Keto = Sitozin
+VI. Amino = Guanin
+
+A) LI HI
+B) II, III, IV
+C) III
+D) I Il
+FE) 11, TV
+C p:e
+45. Okaryotik genlerin kontrolünde aşağıda
+verilenlerden kaç tanesi etkilidir?
+I. Losin fermuar domainleri
+II. Promotor bölge
+HI. Çinko- parmak proteinleri
+IV. Enhanser dizileri
+V. Lokus Kontrol Bölgeleri
+VI. Regülatör proteinler
+A)2 B)3 CM
+Cevap: e
+46. Aşağıdakilerden hangisi gen ifadesinin
+kontrol basamağı değildir?
+A) Prokaryotlarda operon sistemi
+B) mRNA ömrü ve kararlılığı
+C) Metilasyon-Asetilasyon
+D) CpG fosforilasyonu
+E) SEN a yeniden yapılanması
+
+D)5 E)6
+
+47. Bir Bilim i insanı, incelediği Gliseraldehit 3P |
+Dehidrogenaz enziminin tersiyer yapısından ~~
+

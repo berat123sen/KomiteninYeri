@@ -1,0 +1,816 @@
+{
+ "files": [
+  "102 23-24 19 Haz 24 · 06·29·32 (1).pdf",
+  "2017-2018 Dönem-1 TEM-2.pdf",
+  "2021 tem 2.pdf",
+  "2022_TEM2_241126_201709 (1).pdf",
+  "2_241126_200803.pdf",
+  "DÖNEM 1 TEM 2 24-25.pdf"
+ ],
+ "pages": [
+  {
+   "file": "102 23-24 19 Haz 24 · 06·29·32 (1).pdf",
+   "key": "f01",
+   "page": 1,
+   "ocr": "embedded"
+  },
+  {
+   "file": "102 23-24 19 Haz 24 · 06·29·32 (1).pdf",
+   "key": "f01",
+   "page": 2,
+   "ocr": "embedded"
+  },
+  {
+   "file": "102 23-24 19 Haz 24 · 06·29·32 (1).pdf",
+   "key": "f01",
+   "page": 3,
+   "ocr": "embedded"
+  },
+  {
+   "file": "102 23-24 19 Haz 24 · 06·29·32 (1).pdf",
+   "key": "f01",
+   "page": 4,
+   "ocr": "embedded"
+  },
+  {
+   "file": "102 23-24 19 Haz 24 · 06·29·32 (1).pdf",
+   "key": "f01",
+   "page": 5,
+   "ocr": "embedded"
+  },
+  {
+   "file": "102 23-24 19 Haz 24 · 06·29·32 (1).pdf",
+   "key": "f01",
+   "page": 6,
+   "ocr": "embedded"
+  },
+  {
+   "file": "102 23-24 19 Haz 24 · 06·29·32 (1).pdf",
+   "key": "f01",
+   "page": 7,
+   "ocr": "embedded"
+  },
+  {
+   "file": "102 23-24 19 Haz 24 · 06·29·32 (1).pdf",
+   "key": "f01",
+   "page": 8,
+   "ocr": "embedded"
+  },
+  {
+   "file": "2017-2018 Dönem-1 TEM-2.pdf",
+   "key": "f02",
+   "page": 1,
+   "ocr": "ok"
+  },
+  {
+   "file": "2017-2018 Dönem-1 TEM-2.pdf",
+   "key": "f02",
+   "page": 2,
+   "ocr": "ok"
+  },
+  {
+   "file": "2017-2018 Dönem-1 TEM-2.pdf",
+   "key": "f02",
+   "page": 3,
+   "ocr": "ok"
+  },
+  {
+   "file": "2017-2018 Dönem-1 TEM-2.pdf",
+   "key": "f02",
+   "page": 4,
+   "ocr": "ok"
+  },
+  {
+   "file": "2017-2018 Dönem-1 TEM-2.pdf",
+   "key": "f02",
+   "page": 5,
+   "ocr": "ok"
+  },
+  {
+   "file": "2017-2018 Dönem-1 TEM-2.pdf",
+   "key": "f02",
+   "page": 6,
+   "ocr": "ok"
+  },
+  {
+   "file": "2017-2018 Dönem-1 TEM-2.pdf",
+   "key": "f02",
+   "page": 7,
+   "ocr": "ok"
+  },
+  {
+   "file": "2017-2018 Dönem-1 TEM-2.pdf",
+   "key": "f02",
+   "page": 8,
+   "ocr": "ok"
+  },
+  {
+   "file": "2017-2018 Dönem-1 TEM-2.pdf",
+   "key": "f02",
+   "page": 9,
+   "ocr": "ok"
+  },
+  {
+   "file": "2017-2018 Dönem-1 TEM-2.pdf",
+   "key": "f02",
+   "page": 10,
+   "ocr": "ok"
+  },
+  {
+   "file": "2021 tem 2.pdf",
+   "key": "f03",
+   "page": 1,
+   "ocr": "ok"
+  },
+  {
+   "file": "2021 tem 2.pdf",
+   "key": "f03",
+   "page": 2,
+   "ocr": "ok"
+  },
+  {
+   "file": "2021 tem 2.pdf",
+   "key": "f03",
+   "page": 3,
+   "ocr": "ok"
+  },
+  {
+   "file": "2021 tem 2.pdf",
+   "key": "f03",
+   "page": 4,
+   "ocr": "ok"
+  },
+  {
+   "file": "2021 tem 2.pdf",
+   "key": "f03",
+   "page": 5,
+   "ocr": "ok"
+  },
+  {
+   "file": "2021 tem 2.pdf",
+   "key": "f03",
+   "page": 6,
+   "ocr": "ok"
+  },
+  {
+   "file": "2021 tem 2.pdf",
+   "key": "f03",
+   "page": 7,
+   "ocr": "ok"
+  },
+  {
+   "file": "2021 tem 2.pdf",
+   "key": "f03",
+   "page": 8,
+   "ocr": "ok"
+  },
+  {
+   "file": "2021 tem 2.pdf",
+   "key": "f03",
+   "page": 9,
+   "ocr": "ok"
+  },
+  {
+   "file": "2022_TEM2_241126_201709 (1).pdf",
+   "key": "f04",
+   "page": 1,
+   "ocr": "ok"
+  },
+  {
+   "file": "2022_TEM2_241126_201709 (1).pdf",
+   "key": "f04",
+   "page": 2,
+   "ocr": "ok"
+  },
+  {
+   "file": "2022_TEM2_241126_201709 (1).pdf",
+   "key": "f04",
+   "page": 3,
+   "ocr": "ok"
+  },
+  {
+   "file": "2022_TEM2_241126_201709 (1).pdf",
+   "key": "f04",
+   "page": 4,
+   "ocr": "ok"
+  },
+  {
+   "file": "2022_TEM2_241126_201709 (1).pdf",
+   "key": "f04",
+   "page": 5,
+   "ocr": "ok"
+  },
+  {
+   "file": "2022_TEM2_241126_201709 (1).pdf",
+   "key": "f04",
+   "page": 6,
+   "ocr": "ok"
+  },
+  {
+   "file": "2022_TEM2_241126_201709 (1).pdf",
+   "key": "f04",
+   "page": 7,
+   "ocr": "ok"
+  },
+  {
+   "file": "2022_TEM2_241126_201709 (1).pdf",
+   "key": "f04",
+   "page": 8,
+   "ocr": "ok"
+  },
+  {
+   "file": "2022_TEM2_241126_201709 (1).pdf",
+   "key": "f04",
+   "page": 9,
+   "ocr": "ok"
+  },
+  {
+   "file": "2_241126_200803.pdf",
+   "key": "f05",
+   "page": 1,
+   "ocr": "ok"
+  },
+  {
+   "file": "2_241126_200803.pdf",
+   "key": "f05",
+   "page": 2,
+   "ocr": "ok"
+  },
+  {
+   "file": "2_241126_200803.pdf",
+   "key": "f05",
+   "page": 3,
+   "ocr": "ok"
+  },
+  {
+   "file": "2_241126_200803.pdf",
+   "key": "f05",
+   "page": 4,
+   "ocr": "ok"
+  },
+  {
+   "file": "2_241126_200803.pdf",
+   "key": "f05",
+   "page": 5,
+   "ocr": "ok"
+  },
+  {
+   "file": "2_241126_200803.pdf",
+   "key": "f05",
+   "page": 6,
+   "ocr": "ok"
+  },
+  {
+   "file": "2_241126_200803.pdf",
+   "key": "f05",
+   "page": 7,
+   "ocr": "ok"
+  },
+  {
+   "file": "2_241126_200803.pdf",
+   "key": "f05",
+   "page": 8,
+   "ocr": "ok"
+  },
+  {
+   "file": "2_241126_200803.pdf",
+   "key": "f05",
+   "page": 9,
+   "ocr": "ok"
+  },
+  {
+   "file": "2_241126_200803.pdf",
+   "key": "f05",
+   "page": 10,
+   "ocr": "ok"
+  },
+  {
+   "file": "2_241126_200803.pdf",
+   "key": "f05",
+   "page": 11,
+   "ocr": "ok"
+  },
+  {
+   "file": "2_241126_200803.pdf",
+   "key": "f05",
+   "page": 12,
+   "ocr": "ok"
+  },
+  {
+   "file": "2_241126_200803.pdf",
+   "key": "f05",
+   "page": 13,
+   "ocr": "ok"
+  },
+  {
+   "file": "2_241126_200803.pdf",
+   "key": "f05",
+   "page": 14,
+   "ocr": "ok"
+  },
+  {
+   "file": "2_241126_200803.pdf",
+   "key": "f05",
+   "page": 15,
+   "ocr": "ok"
+  },
+  {
+   "file": "2_241126_200803.pdf",
+   "key": "f05",
+   "page": 16,
+   "ocr": "ok"
+  },
+  {
+   "file": "2_241126_200803.pdf",
+   "key": "f05",
+   "page": 17,
+   "ocr": "ok"
+  },
+  {
+   "file": "2_241126_200803.pdf",
+   "key": "f05",
+   "page": 18,
+   "ocr": "ok"
+  },
+  {
+   "file": "2_241126_200803.pdf",
+   "key": "f05",
+   "page": 19,
+   "ocr": "ok"
+  },
+  {
+   "file": "2_241126_200803.pdf",
+   "key": "f05",
+   "page": 20,
+   "ocr": "ok"
+  },
+  {
+   "file": "2_241126_200803.pdf",
+   "key": "f05",
+   "page": 21,
+   "ocr": "ok"
+  },
+  {
+   "file": "2_241126_200803.pdf",
+   "key": "f05",
+   "page": 22,
+   "ocr": "ok"
+  },
+  {
+   "file": "2_241126_200803.pdf",
+   "key": "f05",
+   "page": 23,
+   "ocr": "ok"
+  },
+  {
+   "file": "2_241126_200803.pdf",
+   "key": "f05",
+   "page": 24,
+   "ocr": "ok"
+  },
+  {
+   "file": "2_241126_200803.pdf",
+   "key": "f05",
+   "page": 25,
+   "ocr": "ok"
+  },
+  {
+   "file": "2_241126_200803.pdf",
+   "key": "f05",
+   "page": 26,
+   "ocr": "ok"
+  },
+  {
+   "file": "2_241126_200803.pdf",
+   "key": "f05",
+   "page": 27,
+   "ocr": "ok"
+  },
+  {
+   "file": "2_241126_200803.pdf",
+   "key": "f05",
+   "page": 28,
+   "ocr": "ok"
+  },
+  {
+   "file": "2_241126_200803.pdf",
+   "key": "f05",
+   "page": 29,
+   "ocr": "ok"
+  },
+  {
+   "file": "2_241126_200803.pdf",
+   "key": "f05",
+   "page": 30,
+   "ocr": "ok"
+  },
+  {
+   "file": "2_241126_200803.pdf",
+   "key": "f05",
+   "page": 31,
+   "ocr": "ok"
+  },
+  {
+   "file": "2_241126_200803.pdf",
+   "key": "f05",
+   "page": 32,
+   "ocr": "ok"
+  },
+  {
+   "file": "2_241126_200803.pdf",
+   "key": "f05",
+   "page": 33,
+   "ocr": "ok"
+  },
+  {
+   "file": "2_241126_200803.pdf",
+   "key": "f05",
+   "page": 34,
+   "ocr": "ok"
+  },
+  {
+   "file": "2_241126_200803.pdf",
+   "key": "f05",
+   "page": 35,
+   "ocr": "ok"
+  },
+  {
+   "file": "2_241126_200803.pdf",
+   "key": "f05",
+   "page": 36,
+   "ocr": "ok"
+  },
+  {
+   "file": "2_241126_200803.pdf",
+   "key": "f05",
+   "page": 37,
+   "ocr": "ok"
+  },
+  {
+   "file": "2_241126_200803.pdf",
+   "key": "f05",
+   "page": 38,
+   "ocr": "ok"
+  },
+  {
+   "file": "2_241126_200803.pdf",
+   "key": "f05",
+   "page": 39,
+   "ocr": "ok"
+  },
+  {
+   "file": "2_241126_200803.pdf",
+   "key": "f05",
+   "page": 40,
+   "ocr": "ok"
+  },
+  {
+   "file": "2_241126_200803.pdf",
+   "key": "f05",
+   "page": 41,
+   "ocr": "ok"
+  },
+  {
+   "file": "2_241126_200803.pdf",
+   "key": "f05",
+   "page": 42,
+   "ocr": "embedded"
+  },
+  {
+   "file": "2_241126_200803.pdf",
+   "key": "f05",
+   "page": 43,
+   "ocr": "embedded"
+  },
+  {
+   "file": "2_241126_200803.pdf",
+   "key": "f05",
+   "page": 44,
+   "ocr": "embedded"
+  },
+  {
+   "file": "2_241126_200803.pdf",
+   "key": "f05",
+   "page": 45,
+   "ocr": "embedded"
+  },
+  {
+   "file": "2_241126_200803.pdf",
+   "key": "f05",
+   "page": 46,
+   "ocr": "embedded"
+  },
+  {
+   "file": "2_241126_200803.pdf",
+   "key": "f05",
+   "page": 47,
+   "ocr": "embedded"
+  },
+  {
+   "file": "2_241126_200803.pdf",
+   "key": "f05",
+   "page": 48,
+   "ocr": "embedded"
+  },
+  {
+   "file": "2_241126_200803.pdf",
+   "key": "f05",
+   "page": 49,
+   "ocr": "ok"
+  },
+  {
+   "file": "2_241126_200803.pdf",
+   "key": "f05",
+   "page": 50,
+   "ocr": "ok"
+  },
+  {
+   "file": "2_241126_200803.pdf",
+   "key": "f05",
+   "page": 51,
+   "ocr": "ok"
+  },
+  {
+   "file": "2_241126_200803.pdf",
+   "key": "f05",
+   "page": 52,
+   "ocr": "ok"
+  },
+  {
+   "file": "2_241126_200803.pdf",
+   "key": "f05",
+   "page": 53,
+   "ocr": "ok"
+  },
+  {
+   "file": "2_241126_200803.pdf",
+   "key": "f05",
+   "page": 54,
+   "ocr": "ok"
+  },
+  {
+   "file": "2_241126_200803.pdf",
+   "key": "f05",
+   "page": 55,
+   "ocr": "ok"
+  },
+  {
+   "file": "2_241126_200803.pdf",
+   "key": "f05",
+   "page": 56,
+   "ocr": "ok"
+  },
+  {
+   "file": "2_241126_200803.pdf",
+   "key": "f05",
+   "page": 57,
+   "ocr": "ok"
+  },
+  {
+   "file": "2_241126_200803.pdf",
+   "key": "f05",
+   "page": 58,
+   "ocr": "ok"
+  },
+  {
+   "file": "2_241126_200803.pdf",
+   "key": "f05",
+   "page": 59,
+   "ocr": "ok"
+  },
+  {
+   "file": "2_241126_200803.pdf",
+   "key": "f05",
+   "page": 60,
+   "ocr": "ok"
+  },
+  {
+   "file": "2_241126_200803.pdf",
+   "key": "f05",
+   "page": 61,
+   "ocr": "ok"
+  },
+  {
+   "file": "2_241126_200803.pdf",
+   "key": "f05",
+   "page": 62,
+   "ocr": "ok"
+  },
+  {
+   "file": "2_241126_200803.pdf",
+   "key": "f05",
+   "page": 63,
+   "ocr": "ok"
+  },
+  {
+   "file": "2_241126_200803.pdf",
+   "key": "f05",
+   "page": 64,
+   "ocr": "ok"
+  },
+  {
+   "file": "2_241126_200803.pdf",
+   "key": "f05",
+   "page": 65,
+   "ocr": "ok"
+  },
+  {
+   "file": "2_241126_200803.pdf",
+   "key": "f05",
+   "page": 66,
+   "ocr": "ok"
+  },
+  {
+   "file": "2_241126_200803.pdf",
+   "key": "f05",
+   "page": 67,
+   "ocr": "ok"
+  },
+  {
+   "file": "2_241126_200803.pdf",
+   "key": "f05",
+   "page": 68,
+   "ocr": "ok"
+  },
+  {
+   "file": "2_241126_200803.pdf",
+   "key": "f05",
+   "page": 69,
+   "ocr": "ok"
+  },
+  {
+   "file": "2_241126_200803.pdf",
+   "key": "f05",
+   "page": 70,
+   "ocr": "ok"
+  },
+  {
+   "file": "2_241126_200803.pdf",
+   "key": "f05",
+   "page": 71,
+   "ocr": "ok"
+  },
+  {
+   "file": "2_241126_200803.pdf",
+   "key": "f05",
+   "page": 72,
+   "ocr": "ok"
+  },
+  {
+   "file": "2_241126_200803.pdf",
+   "key": "f05",
+   "page": 73,
+   "ocr": "ok"
+  },
+  {
+   "file": "2_241126_200803.pdf",
+   "key": "f05",
+   "page": 74,
+   "ocr": "ok"
+  },
+  {
+   "file": "2_241126_200803.pdf",
+   "key": "f05",
+   "page": 75,
+   "ocr": "ok"
+  },
+  {
+   "file": "2_241126_200803.pdf",
+   "key": "f05",
+   "page": 76,
+   "ocr": "ok"
+  },
+  {
+   "file": "2_241126_200803.pdf",
+   "key": "f05",
+   "page": 77,
+   "ocr": "ok"
+  },
+  {
+   "file": "2_241126_200803.pdf",
+   "key": "f05",
+   "page": 78,
+   "ocr": "ok"
+  },
+  {
+   "file": "2_241126_200803.pdf",
+   "key": "f05",
+   "page": 79,
+   "ocr": "ok"
+  },
+  {
+   "file": "2_241126_200803.pdf",
+   "key": "f05",
+   "page": 80,
+   "ocr": "ok"
+  },
+  {
+   "file": "2_241126_200803.pdf",
+   "key": "f05",
+   "page": 81,
+   "ocr": "ok"
+  },
+  {
+   "file": "2_241126_200803.pdf",
+   "key": "f05",
+   "page": 82,
+   "ocr": "ok"
+  },
+  {
+   "file": "2_241126_200803.pdf",
+   "key": "f05",
+   "page": 83,
+   "ocr": "ok"
+  },
+  {
+   "file": "2_241126_200803.pdf",
+   "key": "f05",
+   "page": 84,
+   "ocr": "ok"
+  },
+  {
+   "file": "2_241126_200803.pdf",
+   "key": "f05",
+   "page": 85,
+   "ocr": "ok"
+  },
+  {
+   "file": "2_241126_200803.pdf",
+   "key": "f05",
+   "page": 86,
+   "ocr": "ok"
+  },
+  {
+   "file": "2_241126_200803.pdf",
+   "key": "f05",
+   "page": 87,
+   "ocr": "ok"
+  },
+  {
+   "file": "2_241126_200803.pdf",
+   "key": "f05",
+   "page": 88,
+   "ocr": "ok"
+  },
+  {
+   "file": "2_241126_200803.pdf",
+   "key": "f05",
+   "page": 89,
+   "ocr": "ok"
+  },
+  {
+   "file": "2_241126_200803.pdf",
+   "key": "f05",
+   "page": 90,
+   "ocr": "ok"
+  },
+  {
+   "file": "DÖNEM 1 TEM 2 24-25.pdf",
+   "key": "f06",
+   "page": 1,
+   "ocr": "ok"
+  },
+  {
+   "file": "DÖNEM 1 TEM 2 24-25.pdf",
+   "key": "f06",
+   "page": 2,
+   "ocr": "ok"
+  },
+  {
+   "file": "DÖNEM 1 TEM 2 24-25.pdf",
+   "key": "f06",
+   "page": 3,
+   "ocr": "ok"
+  },
+  {
+   "file": "DÖNEM 1 TEM 2 24-25.pdf",
+   "key": "f06",
+   "page": 4,
+   "ocr": "ok"
+  },
+  {
+   "file": "DÖNEM 1 TEM 2 24-25.pdf",
+   "key": "f06",
+   "page": 5,
+   "ocr": "ok"
+  },
+  {
+   "file": "DÖNEM 1 TEM 2 24-25.pdf",
+   "key": "f06",
+   "page": 6,
+   "ocr": "ok"
+  },
+  {
+   "file": "DÖNEM 1 TEM 2 24-25.pdf",
+   "key": "f06",
+   "page": 7,
+   "ocr": "ok"
+  },
+  {
+   "file": "DÖNEM 1 TEM 2 24-25.pdf",
+   "key": "f06",
+   "page": 8,
+   "ocr": "ok"
+  }
+ ]
+}

@@ -1,0 +1,1150 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A 
+A 
+A      
+        
+                
+ 
+1
+TEM II  HAM (11.12.2014) 
+BİYOFİZİK  
+( 1 - 7. SORULAR ) 
+DOÇ. DR. IŞIL ÖCAL 
+1. Bir hücre zarındaki aktif Na+/K+ pompasının saniyede içeriye giren 
+K+ miktarı zardan geçen 3,2x10-18 A lik akım şiddetine eşittir. Bu akım 
+şiddetini oluşturan K+ sayısı nedir? (e=1,6x10-19 C) 
+A) 2x10+1         B) 0,5 x10-1      C) 2       D) 0,5      E) 2 x10-1      
+YANIT: A 
+2. Aşağıdakilerden hangisi yanlıştır? 
+A) İki iyon arasındaki elektrostatik çekimden kaynaklanan etkileşim 
+enerjisi NaCl için bu bağ enerjisi 500 kJ/mol kadardır. 
+B) Protein yan zincirlerinin polar grupları arasındaki çekim veya su 
+moleküllerinin çekimi hidrojen bağlarıdır.  
+C) Atomlar Van der Waals uzaklığıyla ayrılıncaya kadar birbirine 
+yaklaştıkça bu etkileşim azalır. 
+D) Kimyasal bağları kırmak için verilmesi gereken enerjiye bağ 
+enerjisi adı verilir.  
+E) Bağ kırılması endotermik, bağ oluşumu ekzotermik reaksiyonla 
+açıklanabilir 
+YANIT: C 
+3. Pasif gradiyentler etkisinde zardan geçişleri sırasında, 
+geçirgenlikler ve konsantrasyonlar ile zar potansiyeli arasındaki 
+bağıntıyı aşağıdakilerden hangi bağıntı ile açıklayabiliriz.  
+A) Fick Yasası 
+B) Nernst Potansiyeli 
+C) Coulomb Yasası 
+D) Goldman-Hodgkin-Huxley-Katz 
+E) Gibbs-Donnan Dengesi 
+YANIT: D 
+4. Aşağıdakilerden hangisi yanlıştır? 
+A) Zarın bir tarafında zarı geçemeyen iyonların varlığında kurulan 
+dengeye Gibbs-Donnan dengesi denir. 
+B) Bir sıvının buharlaşması entropinin artışına neden olur.  
+C) Bir gazın yoğunlaştırılması entropinin azalmasına neden olur  
+D) Moleküllerde iki atom arasındaki bağ sayısı arttıkça bağ 
+uzunlukları azalır ve bağ enerjileri artar. 
+E) Bir çözeltideki çözünen maddelerin derişimlerinin az olduğu 
+yerden, çok olduğu yere doğru yayılmasına difüzyon denir. 
+YANIT: E 
+5. Kalınlığı 6 nm olan bir hücre zarının potasyum iyonlarına geçirgenliği 
+PNa=10-10 m/s dir. Zarı homojen bir yapıda düşünüldüğünde  sodyum 
+iyonlarının zardaki difüzyon katsayısı ve zarı ortalama geçiş süresi 
+kaçtır?  
+A) 6x10 -17,300ms  
+B) 6x10-18, 300 ms 
+C) 6x10-19, 0,3 s, 
+D) 6x10-20, 0,3 s 
+ 
+E) 6x10-20, 3s 
+YANIT: C 
+6. Memeli kas hücreleri için dinlenim zar potansiyelini -110 mV, denge 
+potansiyellerini ECl=-98 mV, EK=-96 mV, ENa=+76 mV ölçüldüğünde 
+ve hücre içine doğru iyonların göçü  pozitif seçildiği zaman bu üç 
+iyonun gibbs serbet enerjileri ve geçiş yönlerine göre aşağıdakilerden 
+hangisinde doğru verilmiştir? (F=96500). 
+A) ∆GCl  +1,15 J/mol hücre dışına doğru, ∆GNa  -16,01 J/mol, hücre 
+içine doğru 
+B) ∆GNa  -16,01 J/mol, hücre içine doğru, ∆GCl  +1,15 J/mol hücre 
+içine doğru 
+C) ∆GK   -11,6 J/mol ve ∆GNa  -16,01 J/mol, hücre içine doğru 
+D) ∆GCl  +1,15 J/mol hücre dışına, ∆GNa  -16,01 J/mol ve ∆GK   -11,6 
+J/mol hücre içine doğru 
+E) ∆GK   -116 J/mol ve ∆GNa  -16,01 J/mol, hücre dışına,∆GCl  +1,15 
+J/mol hücre içine 
+YANIT: E 
+7. Bir hücrede dinlenim zar potansiyeli = -90 mV, potasyumun hücre 
+dışı konsantrasyonu = 4 μM/cm3 ve hücre içi konsantrasyonu = 155 
+μM/cm3'tür. Bu hücrede potasyum iyonunun denge potansiyeli kaç 
+mV'tur ve bu iyon denge dağılımında mıdır? (Not: 37 °C'ta Nernst 
+denklemi ε = (61 mV) log(Co/Ci); log155 = 2,19; log4 = 0,6; log(155/4) 
+=1,59'dur) 
+A) -97; denge dışı 
+B) 133; denge dışı 
+C) -90; dengede 
+D) +66; denge dışı  
+E) 37; dengede    
+YANIT: A 
+HİSTOLOJİ 
+(  8 - 13. SORULAR ) 
+PROF.DR.UFUK Ö. METE (2 SORU) 
+8. Işık mikroskobik incelemeler için preparat hazırlarken en 
+sık kullanılan bazik boya hangisidir? 
+A) Toluidin mavisi 
+B) Metilen mavisi 
+C) Eosin 
+D) Hematoksilen 
+E) Asit fuksin 
+Yanıt:D 
+9. Işık mikroskobik ve elektron mikroskobik inceleme 
+yöntemleri karşılaştırıldığında hangisi doğrudur? 
+A) Kullanılan ışık kaynakları farklılık göstermez 
+B) Işık mikroskobu ile canlı doku incelemek mümkün değildir 
+C) İkisinde de renkli görüntü elde etmek mümkündür 
+D) İki yöntemde de aynı gömme (bloklama)materyali kullanılır 
+E) Her ikisinde de immünohistokimyasal metod uygulanabilir 
+Yanıt: E 
+PROF.DR. ÖZGÜL TAP (4 SORU) 
+10. Hücre membranı ile ilgili olarak hangisi doğrudur? 
+A) Hematoksilen&Eozin boyama yöntemi ile ışık mikroskopta 
+kolaylıkla ayırt edilebilir. 
+B) Elektron mikroskopta pentalaminar (5 tabakalı) yapıda 
+görülür. 
+C) Dış yüzeyinde PAS (+) boyanan glikokaliks (hücre örtüsü) 
+bulunur. 
+D) Tek tabakalı fosfolipid moleküllerini içerir. 
+E) Sitoplazmik yüzeyinde fibröz lamina içerir.  
+CEVAP: C 
+11. Işık mikroskobunda, hematoksilen-eozin ile negatif imaj, 
+gümüş ile boyamada ise pozitif imaj şeklinde gözlenen, 
+elektron 
+mikroskopta 
+membran 
+ile 
+çevrili 
+paralel 
+sisternalardan oluştuğu görülen hücre organeli hangisidir? 
+A) Golgi kompleksi 
+B) Granüler endoplazmik retikülüm 
+C) Agranüler endoplazmik retikülüm 
+D) Mitokondriyon 
+E) Lizozom 
+CEVAP: A 
+12. Nöron ve kalp kası hücresi gibi bölünmeyen ve yaşlı 
+hücrelerde görülen, endojen pigmentlerden biri olan 
+inklüzyon tipi hangisidir? 
+A) Lipofuksin 
+B) Hemoglobin  
+C) Melanin  
+D) Reinke kristalleri 
+E) Karoten 
+CEVAP: A 
+13. Hiperkromatik çekirdek ile ilgili tanımlamalardan hangisi 
+doğrudur? 
+A) Ökromatin miktarı fazladır 
+B) Heterokromatin miktarı azdır. 
+C) Metabolik olarak çok aktif hücrelerde bulunur. 
+D) Karyolizise uğramış hücrelerde görülür. 
+E) Koyu bazofilik boyanır. 
+CEVAP: E 
+TIBBİ BİYOLOJİ 
+( 14-  41  . SORULAR ) 
+PROF. DR. ÜMİT LÜLEYAP  (3 SORU) 
+14. Mikroskopta hücrenin yaşam döngüsünü inceleyen 
+öğrenciler, inceledikleri 24 hücreden 23 tanesinin interfaz 
+evresinde olduğunu saptıyor. Buna ek olarak karaciğer gibi 
+mitotik ve metabolik aktivitesi yüksek olan hücrelerin, 
+bölünmenin dışında özelleştiği işleri yerine getirebilmesi için 
+gerekli enzim ve protein sentezlerini hangi evrede yapar?  
+A) G0 
+B) G1 
+
+A 
+A 
+A      
+        
+                
+ 
+2
+C) G2 
+D) Mitoz 
+E) S 
+Cevap: B 
+15. İçinde bulunduğumuz 2014 yılı Ekim ayı içinde açıklanan 
+Nobel Tıp ödülü hangi çalışmaya verilmiştir? 
+A) Hücre iskeleti 
+B) Kanser genetiği 
+C) Beyin ve hafıza  
+D) Yaşlanma genetiği 
+E) Epigenetik 
+Cevap: C 
+16. Aşağıda verilen hücresel özelliklerden hangisi veya hangileri 
+hücresel donanım olarak diğerlerine göre üstünlük gösterir.  
+I. Hareket -İrkilme  
+II. Madde alış verişi  
+III. Enerji elde etme 
+IV. Metabolizma 
+V. Üreme veya Kopyalama 
+VI. Büyüme ve Gelişme 
+ 
+A) I, III 
+B) II, IV 
+C) II, III 
+D) III, V 
+E) IV, VI 
+Cevap: D 
+PROF.DR. DAVUT ALPTEKİN  (8 SORU) 
+17. Mitozda görev alan kompleks ve protein yapıları ile ilgili 
+olarak verilenlerden yanlış olanı işaretleyiniz? 
+A) Hücre bölünmesi mitoz başlatıcı faktör (MPF) kompleksini 
+oluşturan kinezin proteini ile başlar. 
+B) Kondensin proteini profaz evresinin sonuna kadar DNA’nın 
+katlanarak kromozom haline gelmesini sağlar. 
+C) Kohezin proteini kardeş kromatitlerin birbirine sarılmadan ayrı 
+ayrı katlanmasını sağlar. 
+D) Nükleus zarında bulunan Lamin proteinleri fosforlanarak yapıdan 
+ayrılır, Lamin A, C sitoplazmada serbest, lamin B veziküllere 
+bağlı dağılır. 
+E) Kromozomların kutuplara çekilmesi kinetokor mikrotübüller 
+üzerindeki negatif yönlü motor proteinlerden dynein ile olur. 
+Yanıt: A 
+18. Mayoz bölünmesi ile ilgili olarak verilenlerden hangisi 
+yanlıştır? 
+A) Yumurta hücresinin oluşumunda I. Mayoz bölünmede homolog 
+kromozomların ayrılamaması sonucunda kromozom sayısı n 
+olmayan hücreler oluşabilir. 
+B) Spermatogenesis esnasın da da II. Mayoz bölünmede kardeş 
+kromatitlerin ayrılamaması sonucunda kromozom sayısı n 
+olmayan hücreler oluşabilir.  
+C) Mayoz bölünmedeki sinaptonemal kompleks kardeş kromatitlerin 
+arasında yer alır ve krossing overi yapar. 
+D) Mayoz bir azalma bölünmesi olup genetik materyal yarıya indiği 
+için redüksiyon bölünmesi olarak da bilinir. 
+E) Bölünme sonunda oluşan 4 hücrenin genetik yapısı birbirinden 
+farklıdır. 
+Yanıt: C 
+19. Verilenlerden hangisi eşeysiz üreme şekli değildir? 
+A) Partenogenez  
+B) Konjugasyon  
+ 
+C) Tomurcuklanma ve çelikleme 
+D) Regenerasyon  
+E) Sporlanma ve Kistleşme 
+Yanıt: B 
+20. Erkekte cinsel gelişimin hormonal kontrolü için verilenlerden 
+yanlış olanı bulunuz? 
+A) Adenohipofizden salınan LH interstisyel dokuyu, FSH seminifer 
+tübüllerini uyararak testosteron salgısını ve sperm oluşumunu 
+başlatır. 
+B) Testosteron çok fazla salgılanırsa sertoli hücrelerinden salgılanan 
+İnhibin hormonu artar, buda hipotalamusa etki ederek GnRH 
+salgısını, dolaylı olarak da FSH salgısını azaltır. 
+C) Testosteron azalırsa hipofizden salgılanan Activin hormonu 
+yine hipofizden salgılanan FSH ile LH salgısını artırarak 
+testisi uyarır. 
+D) Testosteron sekonder seks karakterinin gelişimini sağlar, aynı 
+zamanda seminifer tübüllerinde spermatogonium hücrelerini 
+uyararak sperm hücrelerini oluşturur. 
+E) Oluşan sperm hücresi epididimisde depolanır, ereksiyon ile 
+vas deferensden atılırken semen, prostat, üretreal bezlerin 
+salgısı ile birleşip meni’yi oluşturur. 
+Yanıt:C 
+21. Dişide yumurta hücresi ve foliküller için verilenlerden 
+yanlış olanı bulunuz? 
+A) Ovaryumlardaki primer folikül içerisinde 25-45 mikron 
+büyüklüğünde 2n kromozomlu primer oosit vardır. 
+B) Sekonder folikül içerisinde 120-150 mikron büyüklüğünde 
+2n kromozomlu primer oosit bulunur. 
+C) Graf folikülü 1. mayoz bölünmeyi tamamlamış n 
+kromozomlu sekonder oosit içerir. 
+D) Graf folikülünde östrojenin maksimum seviyeye ulaştığı, 
+fazla östrojenin depolandığı büyük bir foliküldür. 
+E) Korpus luteum graf folikülünün patlaması ile oluşan sarı 
+renkli bir hücre kümesidir ve östrojeni daha fazla salgılar. 
+Yanıt:E 
+22. Memelilerdeki Ekstra embriyonik zarlarla ilgili olarak 
+verilenlerden hangisi yanlıştır? 
+A) Amniyon zarı amniyon sıvısı salgılar embriyoyu korur, 
+embriyonun özellikle sindirim sistemi ile akciğerlerinde 
+alveollerin açılmasını sağlar. 
+B) Vitellüs kesesi kuşlarda, sürüngenlerde, kaplumbağalarda, 
+yumurtlayan memelilerden vb canlılarda embriyonun gelişip 
+yumurtadan çıkıncaya kadar beslenmesini sağlar. 
+C) Allontois kesesi embriyo gelişiminde boşaltım maddelerinin 
+toplandığı ve üzerinde oluşan kılcal damarlarla solunumun 
+yapıldığı yerdir. 
+D) Umblikal kord bütün memelilerde bulunur, jölemsi bağ 
+dokudan yapılmıştır. Embriyonun anneden beslenmesini 
+sağlar.  
+E) Koryon zarı embriyonun uterusa tutunması ile koryonik 
+villiler oluşturarak koryonik gonodotropin salgılayan, 
+progesteronun korpus luteumdan salgılanmasını sağlayan 
+zardır. 
+Yanıt: D 
+23. Verilenlerden hangisi kurbağa yumurta hücresi ve 
+embriyonik bölünme şeklidir? 
+A) İzolesital tip yumurta ve Holoblastik-Ekual bölünme 
+B) Hafif telolesital tip yumurta Holoblastik-İnekual bölünme 
+C) Mikrolesital tip yumurta ve Meroblastik bölünme  
+D) Sentrolesital tip yumurta ve Süperfisiel bölünme 
+E) İleri telolesital tip yumurta ve Diskoidal bölünme 
+Yanıt: B 
+24. Sıtma paraziti plazmodiumların üreme şekli olup 
+sivrisineğin midesinde mikro ve makrogamet birleşerek zigot 
+oluşur. Oluşan zigot ookinet haline geçerek mide duvarına 
+yerleşir. Parazit hücresi arka arkaya bölünüp çoğalarak kist 
+oluşturur. Kist patlar ve sporozoitler vücut boşluğundan 
+tükürük bezine gelir. Buranda yeni bir insanı ısırması ile 
+parazit insana geçer. İnsanda da önce karaciğer sonra 
+eritrositlerde çoğalır. Hem sivrisinek hem de insan da geçen 
+bu üreme şekline ne denir? 
+A) Döl değişimi 
+ 
+ 
+B) Kistleşme 
+ 
+ 
+C) Sporlanma 
+D) Fizyon 
+ 
+ 
+ 
+E) Partenogenetik 
+Yanıt: A 
+PROF.DR. HALİL KASAP  (7 SORU) 
+25. Organeller arasına yerleşmiş borucuk ve kesecik 
+şeklindeki hücre zarından oluşan lipit sentezinin gerçekleştiği 
+organel hangisidir? 
+A) Granüler endoplazmik retikulum 
+B) Agranüler endoplazmik retikulum 
+C) Golgi aparatı 
+
+A 
+A 
+A      
+        
+                
+ 
+3
+D) Plastitler 
+E) Sitosol 
+Cevap: B   
+26. Lizozom enzimleri hangisini yapmaz? 
+A) Asidik ortamda çalışır 
+B) Zarla çevrili cisimleri etkiler 
+C) Organik maddelere su ilave eder 
+D) Karbonhidrat ve yağları parçalar 
+E) Zarı hidrojen iyon pompaları bakımından zengindir 
+Cevap: C  
+27. Hangisi mitokondriyonun özelliği değildir? 
+A) Yuvarlak, oval veya patates şeklinde olması 
+B) Sayısının hücreye göre sabit olması 
+C) Aerobik solunumu gerçekleştirmesi ve ATP üretmesi 
+D) İç zarda solunum yüzeyini genişleten kristalar olması 
+E) Kas,sinir, emici ve salgı hücrelerinde daha yoğun olması 
+Cevap: B  
+28. Endoplazmik retikulum, Golgi aparatı ve nukleus dış 
+zarından oluşabilen, metabolik artıkları, iyon ve toksik 
+maddeleri depolayan, su döngüsünü ayarlayan ve bazı 
+hücrelerde lizozomin görevini yapan organel hangisidir? 
+A) Golgi aparatı 
+B) Fagozom 
+C) Endozom 
+D) Merkezi vakuol 
+E) Kontraktil koful 
+Cevap:D   
+29. Karaciğer hücrelerinin reseptörleri ile kandan LDL’yi  
+(düşük yoğunluklu kolesterol) alarak metobolize etme sürecinde 
+hangisi olmaz? 
+A) LDL zar reseptörlerine bağlanır 
+B) LDL klatrin kaplı kesecikler içinde alınır 
+C) Endositozdan sonra klatrinler serbest kalır 
+D) Endozomlar mikrotübüllerle Golgi aparatına doğru taşınır 
+E) Endozomlar Golgi ile birleşerek LDL’yi depolar 
+Cevap: E   
+30. Akyuvarlar vücuda giren bir bakteriyi hangi mekanizma ile 
+zararsız hale getirir? 
+A) Basit diffüzyon 
+B) Kitle akışı 
+C) Ozmozis 
+D) Fagositozis 
+E) Aktif taşınma 
+Cevap: D  
+31. Sitoplazma zarını örten ve hücrenin kendi salgısı olan 
+makromoleküller hangi eşleşmede yanlış verilmiştir? 
+A) Hayvansal hücre-glikokaliks 
+B) Bitki hücresi – selüloz hücre duvarı 
+C) Mantar hücresi-selüloz hücre duvarı 
+D) Bakteri – Peptidoglikanlar 
+E) Algler – Seluloz hücre duvarı  
+Cevap: C    
+PROF. DR. OSMAN DEMİRHAN  (7 SORU) 
+32.Hangisi, sinyal aktarım yollarının hücreye sağladığı 
+yararlardan biri değildir? 
+A) Plazma zarından geçemeyen büyük ya da polar sinyal 
+moleküllere cevap vermelerine yardımcı olurlar. 
+B) Hücrelerin ATP’nin yıkılmasıyla ortaya çıkan fosfatı 
+kullanmasına yardımcı olurlar. 
+C) Farklı hücrelerin aynı sinyale doğru cevap vermelerine imkan 
+verirler. 
+D) Sinyali arttırabilirler. 
+E) Sinyal aktarım yollarındaki farklılıklar, cevabın özgürlüğünü 
+arttırır. 
+Cevap: B 
+33. Protein kinaz serilerini içeren fosforilasyon için hangisi 
+söylenemez? 
+A) Türe özgüdür 
+B) Daima aynı hücresel cevabın verilmesini sağlarlar. 
+C) Başlangıç sinyallerini büyük ölçüde arttırırlar. 
+D) Fosfatazların zararlı etkilerini ortadan kaldırırlar. 
+E) Bu yolda kullanılan moleküllerin sayısı ve çeşidi azdır. 
+ Cevap: C 
+34. Hangisinde, protein fosforilasyonu söz konusu değildir? 
+A) Enzim aktivasyonunda 
+B) Hücre dışı sinyal moleküllerin transkripsiyonun 
+denetlenmesinde 
+C) Protein-kinaz moleküllerinin aktivasyonunda 
+D) G-proteine bağlı reseptörün aktivasyonunda 
+E) Trizon-kinaz reseptörün aktivasyonunda 
+Cevap: D 
+35. Fermantasyon ile hücre solunumu arasındaki gerçek fark 
+hangisidir? 
+A) NADH sadece, solunumda elektron taşıma zinciri tarafından 
+oksitlenir. 
+B) Sadece glikoliz, glukozu oksitler. 
+C) Fermantasyon katabolik bir yol iken solunum değildir. 
+D) Substrat seviyesinde fosforilasyon sadece fermantasyonda 
+görülür. 
+E) NAD+ sadece solunumda oksitleyici ajan olarak görev yapar. 
+Cevap: A 
+36.Hangisi, hücrelerde karbon dioksitin katabolize 
+edilememe nedenidir? 
+A) Çift bağları, kırılmaya karşı çok dayanıklıdır. 
+B) CO2, diğer organik bileşiklere göre daha az sayıda bağ 
+yapabilen elektronlar     
+içerir.    
+C) Karbon atomu zaten indirgenmiş haldedir. 
+D) Mevcut elektron enerjisinin çoğu, CO2 oluştuğu zaman açığa 
+çıkarılır. 
+E) Bu molekülde çok az sayıda atom vardır. 
+Cevap: D 
+37. Hangisi, döngüsel ve döngüsel olmayan fotofosforilasyon 
+arasında kesin bir ayrımı belirtir? 
+A) ATP, sadece döngüsel olmayan fotofosforilasyonda üretilir 
+B) Döngüsel fotofosforilasyonda O2 ve NADPH+ ta üretilir. 
+C) Yalnız döngüsel fotofosforilasyonda 700 nm dalga boyundaki 
+ışık kullanılır. 
+D) Kemiozmozis döngüsel olmayan fotofosforilasyona özgü 
+değildir. 
+E) Fotosistem II yokluğunda, sadece döngüsel fotofosforilasyon 
+işleyebilir. 
+Cevap: E 
+38. H+ nin, ATP sentez kompleksinden geçişini önleyen bir 
+engelleyicinin varlığında bir kroloplastta hangi işlem 
+gerçekleşmeye devam eder? 
+A) Şeker sentezi 
+B) Proton hareket ettirici bir gücün oluşturulması 
+C) Fotofosforilasyon 
+D) Calvin döngüsü 
+E) NADPH’ın oksidasyonu 
+Cevap: B 
+PROF. DR. AYFER PAZARBAŞI  (3 SORU) 
+39.  Döldeğişimi olayı hangi protozoalarda görülür? 
+A) Sarcodina.  
+B) Sporozoa. 
+C) Fitoflagellata. 
+D) Zooflagellata. 
+E) Ciliata. 
+Cevap:B 
+40. Protozoa alemi için hangisi doğru değildir? 
+A) En ilkel protozoalar, sarkodina sınıfında yer alır. 
+B) Bazı sarkodina türleri parazitik olup, kistik forma 
+geçebilirler. 
+C) Sporozoa türleri, hücreler arası parazitidir. 
+D) En gelişmiş protozoa türleri, ciliata sınıfında yer alır. 
+E) Zooflagellata türleri insan ve hayvan sağlığı açısından 
+önemlidir. 
+Cevap:C 
+41. Prokaryotik hücreler ile ilgili yanlış olan seçenek 
+hangisidir?  
+A) Monera alemindeki canlılara ait hücrelerdir. 
+B) Basit yapılı ve küçük (0.1 – 10 µ ) canlılardır.  
+
+A 
+A 
+A      
+        
+                
+ 
+4
+C) Mikrotübül, ara filament ve mikroflamentlerden oluşmuş hücre 
+iskeleti vardır. 
+D) Genetik materyal stoplazma içindedir ve nükleoid olarak 
+adlandırılır. 
+E) Genomları haploid olduğundan mayoz bölünme yoktur.  
+Yanıt: C 
+TIBBİ FİZYOLOJİ     ( 42- 49. SORULAR ) 
+YRD.DOÇ.DR. BESİM ÖZAYKAN 
+42.Hücre zarını yapan bileşenler içinde en yüksek oranda 
+bulunan ilk 2 tanesi aşağıdakilerden hangileridir 
+I) Kolesterol,  II) Karbonhidrat,  III) Protein  IV) Fosfolipit 
+A) I ve II 
+B) II ve III 
+C) I ve III 
+D) III ve IV 
+E) II ve IV 
+CEVAP: D 
+43. Aşağıdaki seçeneklerden hangisinde verilen hücre 
+bileşenlerinin tümü mikrotübüler yapı içerir?  
+I)Vezikül,   II)Silyum,    III) Sentriyol,   IV) Mitotikiğcik,   V) 
+Peroksizom 
+A) I, II ve III 
+B) II, III ve IV 
+C) III, IV ve V 
+D) I, III ve IV 
+E) II, IV ve V 
+CEVAP: B 
+44. mikroRNA’nın sentezi ve işlevi ile ilgili olarak 
+aşağıdakilerden hangisi doğrudur? 
+A) “Translasyon” işlemine tabi tutulur 
+B) Amino asitlerin ribozomlara taşınmasını sağlar 
+C) Sitoplazmada “kesici enzim”in etkisine uğrar 
+D) Sentezinden sonra “siRNA”ya bağlı halde bulunur 
+E) “Transkripsiyon”dan itibaren çekirdekte değişikliğe uğratılmaz 
+CEVAP: C 
+45. Bir çözelti ve onun iyonlaşmayan molekül içeriği ile ilgili 
+olarak, çözeltinin ozmotik basınç düzeyi aşağıdaki 
+parametrelerin hangisindeki değişikliklerden etkilenmez?  
+A) Ozmotik katsayı 
+B) Molekülün kütlesi 
+C) Çözeltinin sıcaklığı 
+D) Çözeltinin molar değeri 
+E) Birim hacim çözeltideki molekül sayısı  
+CEVAP: B 
+46. İnsülinin glükozun hücre içine girişini uyarması, aşağıdaki 
+taşıma süreçlerinden hangisinin etkilenmesi ile gerçekleşir? 
+A) Primer (birincil) aktif taşıma  
+B) Sekonder (ikincil) taşıma 
+C) Kolaylaştırılmış difüzyon 
+D) Basit difüzyon 
+E) Pinositoz 
+CEVAP:C 
+47. Kalp yetmezlikli hastalara verilen ouabain, aşağıdaki taşıma 
+süreçlerinden hangisini bloke eder? 
+A) Primer (birincil) aktif taşıma  
+B) Sekonder (ikincil) taşıma 
+C) Kolaylaştırılmış difüzyon 
+D) Basit difüzyon 
+E) Endositoz 
+CEVAP: A 
+48. Bir ligand, salgılandığı hücredeki reseptörüne bağlanarak 
+etkili oluyorsa, bu tip iletişim aşağıdaki terimlerden hangisi ile 
+adlandırılır? 
+A) Otokrin 
+B) Parakrin 
+C) Nörokrin 
+D) Endokrin 
+E) Jukstakrin 
+CEVAP: A 
+49.Katalitik tipteki reseptörle ilgili olarak aşağıdaki 
+ifadelerden hangisi doğrudur? 
+A) İyon kanalı ile bağlantılıdır 
+B) Hücre çekirdeğinde bulunur 
+C) Hücre sitoplazmasında bulunur 
+D) Protein kinaz etkinliği gösterir 
+E) Heterotrimerik G proteinine eşleniktir 
+CEVAP: D 
+ENTEGRE OTURUM 
+( 50 - 51. SORULAR ) 
+YRD.DOÇ. DR. BESİM ÖZAYKAN  
+50. Kistik fibroz hasta olgularında en sık görülen mutasyon 
+aşağıdakilerden hangisidir? 
+A) W1282X 
+B) G542X 
+C) G542A 
+D) ∆F508 
+E) A326G 
+CEVAP: D 
+51.Kistik fibroz hastalığı ile ilgili olarak aşağıdaki ifadelerden 
+hangisi doğrudur? 
+A) Kız çocuklarında görülmez 
+B) Akciğer dışındaki organlar da etkilenir 
+C) Bir çeşit kalsiyum kanalında ileti bozukluğu vardır 
+D) Terli hastanın alnı öpüldüğünde şekerli tadı algılanır 
+E) Enfeksiyonların bir nedeni mukusun koyuluk ve 
+yapışkanlığının azalmasıdır 
+CEVAP: B 
+TIBBİ BİYOKİMYA  (  52-  84. SORULAR ) 
+ PROF. DR. LEVENT KAYRIN (15 SORU) 
+52. X elementi -2 değerlikli iken 18 elektron ve 20 nötron 
+içeriyorsa bu elementin atom ağarlığı nedir? 
+A) 40    B) 39 C) 36 
+D) 38  
+E) 34  
+CEVAP: C 
+53. Aşağıdaki cümlelerden hangisi(leri) bir kimyasal 
+tepkimede yer alan elementin atom numarası için doğrudur? 
+I) Tepkime süresince atom numarası değişir. 
+II) tepkime süresince elementin atom numarası sabit kalır. 
+III) Önce değişir sonra düzelir. 
+A) Sadece I doğru diğerleri yanlış. 
+ 
+B) Sadece II doğru diğerleri yanlış. 
+C) I ve II doğru III yanlış 
+D) Hepsi doğru 
+E) Hepsi yanlış. 
+CEVAP: B 
+54.  R-OH, RCOOH ve RCOR formülleri ile ifade edilen 
+bileşikler sırasıyla aşağıdakilerden hangisi ile ifade 
+edilmiştir? 
+A) Eter, alkol, ve ester. 
+B) Asit, ester, keton. 
+C) Alkol, asit, keton.  
+D) Ester, asit, aldehit 
+E) Aldehit, asit, eter 
+CEVAP: B 
+55.  Aşağıdaki cümlelerden hangisi(leri) Tampon çözeltiler 
+için doğrudur? 
+I) pH değeri daima 7’ye ayarlıdır. 
+II) Asit ilavesi sonucu pH değeri düşer. 
+III) Çözeltinin pH değerini sabit tutmaya çalışır 
+IV) Asit ilavesi sonucu pH değeri yükselir. 
+A) Sadece I doğru diğerleri yanlış. 
+ 
+
+A 
+A 
+A      
+        
+                
+ 
+5
+B) IV doğru diğerleri yanlış. 
+C) I ve II doğru III IV yanlış 
+D) I ve IV doğru diğerleri yanlış. 
+E) Sadece III doğru diğerleri yanlış. 
+CEVAP: E 
+56. 25 mL 1,0 M HCl ile 50 mL 0,5 M KOH karıştırılırsa [H3O+] 
+nedir? 
+A) 1 M  B) 0,5 
+C) 0,25 M 
+D) 1X10-7 M 
+E) Bunlardan hiç biri 
+CEVAP: D 
+57. Aşağıda verilen 0,1 M NH3’ün 0,1 M HCl ile titrasyonunda 
+tampon bölgesi neresidir? 
+ 
+  
+          
+ 
+ 
+A) I 
+B) II 
+C) III 
+D) IV 
+ 
+E) Tampon bölgesi yoktur.  
+CEVAP: B 
+58. Aşağıdaki cümlelerden hangisi(leri) 0,01 M ve pH 2 deki 
+çözelti için doğrudur. için doğrudur? 
+I) Tek hidrojen içeren kuvvetli bir asittir. 
+II) Tek bir OH içeren kuvvetli bir bazdır. 
+III) pKa değeri 1,0X10-2 olan bir organik asittir. 
+IV) pH bir değerinde tampon etkisi gösterir. 
+A) Sadece I doğru diğerleri yanlış. 
+ 
+B) IV doğru diğerleri yanlış. 
+C) I ve II doğru III IV yanlış 
+D) II ve IV doğru diğerleri yanlış. 
+E) Sadece III doğru diğerleri yanlış. 
+CEVAP: A 
+59. 15.0 mL KOH’ ın tamamen nötralizasyonu için 0,025 mol 
+H2SO4 gerekiyorsa KOH derişimi nedir. 
+A) 1,67 M 
+B) 3,34 M 
+C) 0,025 M 
+D) 1.5 M  
+E) 1X10-7 M  
+CEVAP: B 
+60. 23 baz çiftlik bir DNA’nın uzunluğu kaç  A0’dır? 
+A) 78 
+ 
+B) 78,4 C) 78,2 D) 74,8 
+E) 72,8 
+CEVAP: C 
+61. Aşağıdaki oranlardan hangisi bir DNA çift sarmalı için 
+sabittir?  
+A) A+G/T+C 
+ 
+B) A+T/G+C 
+C) A+C/U+G 
+ 
+D) A+U/C+G 
+E) G+UA+T 
+CEVAP: A 
+62. Aşağıdaki lipitlerden hangisi nonpolar yapı gösterir? 
+A) Sfingomiyelinler 
+B) Kolesterol esterleri 
+C) Safra asitleri 
+D) Monogliseritler 
+E) Steroller  
+CEVAP: B 
+63. Aşağıdakilerden hangisi lesitinin yapısını temsil eder? 
+A) Sfingosin+yağ asidi+galaktoz 
+B) Gliserol+2 yağ asidi+fosforik asit+kolin 
+C) gliserol+yağ asidi+fosforik asit+galaktoz 
+D) Gliserol+yağ asidi+galaktoz 
+E) Sfingosin+yağ asidi+fosforik asit+etanolamin 
+CEVAP: B 
+64. İki tepkimenin eşleşmesi sonucu toplamda egzergonik bir 
+tepkime elde ediliyorsa, aşağıdaki bilgilerden hangisi yanlıştır? 
+A) En az bir tepkime spontandır. 
+B) Her iki tepkimedede ∆G>0 dır. 
+C) En az bir tepkime ısı üretmez. 
+D) ∆G1+∆G2<0 dır. 
+E) İkinci tepkime birinciden daha hızlıdır. 
+CEVAP: D 
+65. Aşağıdaki boşluğu verilen seçeneklerden hangisi ile 
+doldurabilirsiniz? 
+“Sodyum ve potasyum iyonlarının zar yapısından 
+geçişleri__________ile sağlanır.” 
+A) Hücre tanınması 
+ 
+ 
+B) Kanallar 
+C) Taşıyıcı proteinler 
+ 
+D) Reseptör proteinler 
+E) Enzim proteinleri 
+CEVAP: C 
+66. Aşağıdaki boşluğu verilen seçeneklerden hangisi ile 
+doldurabilirsiniz? 
+“İnsülin hormonu__________proteinine bağlanarak glikoz 
+transportunu arttırır” 
+A) Reseptör 
+ 
+B) Enzimatik 
+C) Taşıyıcı 
+ 
+D) Kanal 
+E) hücre tanıyıcı 
+ CEVAP: A 
+PROF. DR. KIYMET AKSOY ( 5 SORU) 
+67.Protein sentezine girmeyen ve nörötransmitter işlevi olan 
+amino asit hangisidir? 
+A) Ornittin 
+B) Homosistein 
+C) Sistatiyonin 
+D) Adrenalin 
+E) Glutamin 
+Cevap : C 
+68.Protein sentezine giren ve fosforlanabilen non-esansiyel 
+amino asit hangisidir? 
+A) Tirozin 
+B) Treonin 
+C) Hidroksilizin 
+D) Hidroksiprolin 
+E) Alanin 
+Cevap: A 
+ 
+69.Adrenalin hangi amino asitten sentez edilir? 
+A) Metionin 
+B) Triptofan 
+C) Glutamik asit 
+D) Fenilalanin 
+E) Sistein 
+Cevap: D 
+70. Kollojenin stabil yapısını hangi amino asit bozar? 
+A) Homosistein 
+B) Homoserin 
+C) Hidroksilizin 
+D) Histidin 
+E) Treonin 
+Cevap: A 
+71.Orak 
+hücre 
+anemisinde 
+hemoglobinin 
+beta 
+globin 
+zincirindeki 6 cı aminoasit değişimi  hangisidir? 
+A) Glutamik asit – Alanin  
+B) Glutamik asit - Valin 
+C) Glutamik asit - Serin 
+D) Aspartik asit - Valin 
+E) Aspartik asit - Serin 
+Cevap: B 
+PROF. DR. NURTEN DİKMEN ( 2 SORU) 
+72. 
+Aşağıda 
+verilmiş 
+olan 
+Altidollerden 
+hangisi 
+insan 
+vücudunda glukozdan üretilir?  
+A) İnozitol 
+B) Gliserol 
+C) Mannitol 
+D) Dulsitol 
+E) Ksilitol 
+ 
+Cevap: A 
+İlave edilen HCL 
+
+A 
+A 
+A      
+        
+                
+ 
+6
+73. Sialik asit için yanlış ifade hangi şıkta ifade edilmiştir? 
+A) Yapısında aminli grup vardır 
+B) Karboksil grubu içerir 
+C) Gangliozitlerde bulunur 
+D) Dokuz karbon atomlu monosakkarit  türevidir 
+E) Heterozit bileşiklerin aglikon kısmıdır 
+Cevap: E 
+ 
+PROF.DR. AKİF ÇÜRÜK ( 9 SORU) 
+74.Serum proteinleri elektroforez ile ayrıştırıldığı zaman beş tane 
+bant elde edilmektedir. Bu bilgiye göre aşağıdaki hangi seçenek 
+yanlış verilmiştir?  
+A) Albumin 
+B) Alfa globulinler 
+C) Beta globulinler 
+D) Şilomikronlar 
+E) Gama globulinler 
+Cevap D 
+75.Enzimler için aşağıdaki tanımlardan hangisi yanlış verilmiştir?  
+A) IU; dakikada 1 mikromol substratın  dönüşümünü katalize eden 
+enzim düzeyidir 
+B) İzoenzimler; elektroforetik olarak birbirinden ayrılabilir 
+C) Ligazlar; C-C, C-S ve belli C-N bağlarının yıkımını katalize eder 
+D) Prostetik grup; enzimden ayrılmayan sıkıca bağlı koenzimdir 
+E) Km; enzimin substratına olan ilgisini gösterir 
+Cevap C 
+76.Enzim aktivitesinin düzenlenme mekanizmaları devreye giriş 
+hızlarına göre incelendiği zaman aşağıdakilerden hangisi daha 
+uzun zaman alır?  
+A) Substrat varlığı  
+B) Ürün inhibisyonu  
+C) Allosterik kontrol  
+D) Kovalent modifikasyon  
+E) Enzim sentezi ve yıkımı 
+Cevap E 
+77.Hücresel enzimler sadece hücre içinde görev yapar, dokularda 
+hasar olduğunda plazmaya geçer. Aşağıdaki hangi enzimin 
+aktivitesi ölçülerek hastalıkların teşhisi yapılabilir?  
+A) Fosfolipaz  
+B) Aspartat transaminaz  
+C) Tripsin  
+D) Alfa amilaz  
+E) Laktaz 
+Cevap B 
+78.THF sentezinde tetrahidrofolat redüktaz enzimini yarışmalı 
+olarak inhibe eden madde aşağıdakilerden hangisidir?  
+A) Methotrexate 
+B) Sulfonilamid 
+C) Penisilin 
+D) Amoksilin 
+E) Kurşun 
+Cevap A 
+ 
+79.Prolin 
+hiroksilaz 
+ile 
+birlikte 
+görev 
+yapan 
+vitamin 
+aşağıdakilerden hangisidir?  
+A) Vit A 
+B) Vit C 
+C) Vit D 
+D) Vit E 
+E) Vit K 
+Cevap B 
+80.Retinil esterleri ince barsaktan karaciğere aşağıdaki hangi 
+molekül ile taşınır?  
+A) Albumin  
+B) Şilomikronlar 
+C) Düşük dansiteli lipoproteinler 
+D) Yüksek dansiteli lipoproteinler 
+E) Çok düşük dansiteli lipoproteinler 
+Cevap B 
+81.Suda çözünen vitaminlerden hangisi vücutta depo edilebilir?  
+A) Kobalamin  
+B) Tiamin 
+C) Biotin 
+D) Riboflavin 
+E) Askorbik asit 
+Cevap A 
+82.Hiperlipidemi 
+tedavisinde 
+aşağıdaki 
+hangi 
+vitamin 
+kullanılır?  
+A) Pantotenik asit 
+B) Niasin 
+C) Folik asit 
+D) Pridoksin 
+E) Retinoik asit 
+Cevap B 
+ 
+Öğr.Gör.Dr.Ebru YENİLMEZ (2 Soru) 
+83.Hacim-ağırlıkça % 10’luk 3 litre KCl çözeltisi nasıl 
+hazırlanır? 
+A) 300 miligram katı KCl alınır son hacim 3 litre olacak şekilde 
+saf su eklenir. 
+B) 100 miligram katı KCl alınır son hacim 3 litre olacak şekilde 
+saf su eklenir. 
+C) 100 gram katı KCl alınır son hacim 3 litre olacak şekilde saf 
+su eklenir. 
+D) 300 gram katı KCl alınır son hacim 3 litre olacak şekilde saf 
+su eklenir. 
+E) 30 gram katı KCl alınır son hacim 3 litre olacak şekilde saf su 
+eklenir. 
+CEVAP: D 
+84.Gazlarla ilgili aşağıdaki ifadelerden doğru olan(ları)ını 
+seçiniz. 
+ 
+I. 0°C sıcaklık ve 1 atmosfer basınçta tüm gazların 1 molü 22,4 
+litre hacim kaplar. 
+II. Sıcaklığı ve miktarı sabit olan bir gazın basıncı ile hacmi ters 
+orantılıdır. 
+III. Basıncı ve miktarı sabit olan bir gazın; hacmi ile mutlak 
+sıcaklığı doğru orantılıdır. 
+IV. Hacmi ve miktarı sabit olan bir gazın, basıncıyla mutlak 
+sıcaklığı ters orantılıdır. 
+A) I ve II 
+ 
+B) I ve IV 
+ 
+C) I, II ve III 
+D) I, II, III ve IV 
+E) I ve III 
+CEVAP: C 
+TIPTA İNSAN BİLİMLERİ  (   85. SORU ) 
+PROF.DR. AYFER PAZARBAŞI 
+85. Tanıl Bora, Hekimlikte Sanat ile neyi kastetmektedir? 
+A) Büyücülük 
+B) Drama 
+C) Türk Sanat Müziği 
+D) Türk Halk Müziği 
+E) Yetenek 
+Cevap: B 
+TIBBİ MİKROBİYOLOJİ    (  86-  97. SORULAR ) 
+PROF.DR. FATİH KÖKSAL  (2 SORU) 
+86.Gram pozitif bakterilerde somatik (hücre duvar) antijeni 
+oluşturan yapı elemanını işaretleyiniz. 
+A) LPS   B)  OMP      C) LOS   D) Müren      E) Teikoik asit 
+Cevap: E 
+87. Hangisi bakteri hücre duvarı görevleri arasında yer alamaz. 
+A) Bakteriye şeklini verir. 
+B) Bakteriyi iç ve dış basınca karşı korur. 
+C) Bakteri bölünmesine yardım eder. 
+D) DNA replikasyonuna yardım eder. 
+E) Bakteriyofajlar için reseptör rolü oynar. 
+
+A 
+A 
+A      
+        
+                
+ 
+7
+Cevap: D 
+ 
+PROF.DR. AKGÜN YAMAN (3 SORU) 
+88.Protein sentezini inhibe eden antibiyotikler bakterilerin hangi 
+ünitesine bağlanarak etkilerini gösterirler? 
+A) 20S, 30S 
+B) 30S, 40S 
+C) 30S, 50S 
+D) 40S, 50S 
+E) 40S, 60S 
+CEVAP: C 
+89.Bir bakteriyofaj aracılığıyla bir bakteriye ait DNA 
+segmentinin diğer bir bakteriye aktarılması işlemine ne denir? 
+A) Trandüksiyon 
+B) Konjugasyon 
+C) Transformasyon 
+D) Lizojenik faj 
+E) Hiçbiri 
+CEVAP: A 
+90. Anaerob bir mikroorganizmanın laboratuvara transportunda 
+aşağıdaki besiyerlerinden hangisi kullanılmalıdır? 
+A) Stuart 
+B) Carry-Blair 
+C) Amies 
+D) Tiyoglikolatlı buyyon 
+E) Hiçbiri 
+CEVAP: D 
+ 
+PROF.DR. MACİT İLKİT  ( 2 SORU) 
+91. Hangi canlının metabolizmasında enzimlerin rolü yoktur? 
+A) Bakteri 
+B) Mantar 
+C) Virüs 
+D) Riketziya 
+E) Klamidya 
+      YANIT: C 
+92.Hangisi basınçsız buharla yapılan sterilizasyon işlemidir? 
+A) a Otoklav 
+B) b Koch kazanı 
+C) c UHT 
+D) d Kaynatma 
+E) e Tindalizasyon 
+Yanıt: B 
+ 
+PROF.DR. FÜGEN YARKIN   (5 SORU) 
+93. Aşağıdakilerden hangisi yanlıştır? 
+A) Rotavirus : çift sarmallı parçalı  RNA  
+B) İnfluenza virusu : tek sarmallı parçalı RNA 
+C) HBV : genomu kısmen çift sarmallı RNA 
+D) HIV : iki adet pozitif polariteli birbirinin aynı olan tek iplikli 
+RNA. 
+E) HSV: çift sarmallı DNA virus 
+Cevap: C 
+ 94. Aşağıdakilerden hangisi birçok hücrenin birleşmesi ile 
+oluşan viral sitopatik etkidir ? 
+A) Sinsitya 
+B) İnklüzyon cisimciği 
+C) Hücre nekrozu. 
+D) Piknozis 
+E) Sitomegali 
+Cevap: A 
+ 95. Zarfsız viruslar için hangisi doğrudur ? 
+A) virion proteinleri hücre yüzeyinde belirir.  
+B) Enfektivitesi lipit çözücüler ile yok edilir. 
+C) Kapsidleri ikosahedral simetriye sahiptir. 
+D) Virion yüzey proteinlerinin çoğunda oligosakkaritler bulunur. 
+E) Zarflı viruslara göre kolayca inaktive edilir. 
+Cevap: C 
+96. CMV enfeksiyonu tanısı için aşağıdakilerden hangisi 
+yanlıştır? 
+A) IgG negatif, IgM pozitif : primer enfeksiyon 
+B) IgG pozitif, IgM negatif: segonder enfeksiyon 
+C) IgG pozitif (yüksek avidite), IgM pozitif : segonder 
+enfeksiyon 
+D) IgG pozitif, IgM pozitif: Akut enfeksiyon  
+E) IgG pozitif(düşük avidite), IgM negatif: primer enfeksiyon 
+Cevap: B 
+97.İnterferonun etkisiyle  hücrelerde viral mRNA yıkımını 
+uyaran hangisidir ? 
+A) Proteaz 
+B) Lizozim 
+C) Protein kinaz 
+D) eIF-2 
+E) Oligo  adenilat sentetaz 
+CEVAP: E 
+ 
+ 
+TIBBİ PARAZİTOLOJİ    (  98-  100. SORULAR ) 
+PROF.DR. SONER KOLTAŞ ( 3 SORU) 
+98. Kist şekli ile bulaşan parazit hangisidir? 
+A) Taenia saginata 
+B) Enterobius vermicularis  
+C) Giardia lamblia  
+D) Ascaris lumbricoides  
+E) Trichuris trichiura  
+YANIT: C 
+99. Enfestasyon meydana getiren parazit hangisidir? 
+A) Enterobius vermicularis 
+B) Ascaris lumbricoides 
+C) Entamoeba histolytica  
+D) Phthirus pubis 
+E) Hymenolepis nana 
+YANIT: D 
+100. Veba etkeni Yersinia pestis’in vektörü hangisidir? 
+A) Dermatophogoides pterenyssinus  
+B) Xenopsylla cheopis 
+C) Cimex lectularius 
+D) Sarcoptes scabiei hominis 
+E) Phthirus pubis 
+YANIT: B 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
