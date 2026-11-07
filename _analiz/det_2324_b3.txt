@@ -1,0 +1,119 @@
+31 | Tıbbi Biyokimya | Karaciğerde HMG-KoA redüktaz enzim aktivitesinin düzenlenmesinde etkisi olmayan seçenek hangisidir?
+   A) Diyetle alınan lipid
+   B) SREB proteini
+   C) İnsülin
+   D) Glukagon
+   E) Kinaz enzimleri
+   CEVAP: A
+
+32 | Tıbbi Biyokimya | Aşağıdakilerden hangisinin sentezinde kolesterol başlangıç maddesi olarak görev alır?
+   A) Progesteron
+   B) Kortizol
+   C) Safra tuzu
+   D) Aldosteron
+   E) Vitamin C
+   CEVAP: E
+
+33 | Tıbbi Biyokimya | Sodyum-potasyum pompası hangi taşıma sistemine girer?
+   A) Aktif transport
+   B) Basit difüzyon
+   C) Kolaylaştırılmış difüzyon
+   D) Osmotik transport
+   E) İyonik transport
+   CEVAP: A
+
+34 | Tıbbi Biyokimya | Aşağıdaki proteinlerden hangisi, bir çözücüde aktif olarak hücreye taşımak için sodyum elektrokimyasal gradiyentini kullanır?
+   A) Kalsiyum-ATPaz
+   B) GLUT2
+   C) SGLT1
+   D) Na-K ATPaz
+   E) Na-Ca değiş-tokuş
+   CEVAP: C
+
+35 | Tıbbi Biyokimya | Aşağıdakilerden hangisi kas ve karaciğer dokuları arasındaki glikojen yıkımı/glukoz alımı metabolik yolunu açıklar?
+   A) Glukoneogenezis
+   B) Glikojenez
+   C) Glikojenoliz
+   D) Cori Döngüsü
+   E) Miyoinositol Döngüsü
+   CEVAP: D
+
+36 | Tıbbi Biyokimya | Aşağıdakilerden hangisi mitokondride pirüvatın dekarboksilasyonu ile asetil-koenzim A oluşumunu katalizleyen ve tiamin pirofosfat, niasin ve pantotenik asit gibi kofaktörlerin kullanıldığı enzimdir?
+   A) Hekzokinaz
+   B) Pirüvat Dehidrogenaz
+   C) Alfa-keto glutarat dehidrogenaz
+   D) Pirüvat karboksilaz
+   E) Asetil-CoA karboksilaz
+   CEVAP: B
+
+37 | Tıbbi Biyokimya | Aşağıdaki eser elementlerden hangisi hemoglobin ve sitokromların yapısında bulunur ve eksikliği eritrositlerin hacminin normalden daha düşük olması ile kendini gösteren ve en yaygın anemi türü olan mikrositer anemiye yol açar?
+   A) Fe (Demir)
+   B) Mn (Mangan)
+   C) Zn (Çinko)
+   D) Cr (Krom)
+   E) Co (Kobalt)
+   CEVAP: A
+
+38 | Tıbbi Biyokimya | Aşağıdaki eser elementlerden hangisinin tiroid fonksiyonları açısından önemli görevleri vardır?
+   A) Mo (Molibden)
+   B) Mn (Mangan)
+   C) Zn (Çinko)
+   D) Cr (Krom)
+   E) Se (Selenyum)
+   CEVAP: E
+
+39 | Tıbbi Biyokimya | Aşağıdakilerden hangisi mortalitesi en yüksek (insanları en fazla öldüren) hastalıklar grubunda olan ve beslenme ile ilişkisi bilimsel olarak kanıtlanmış hastalıklardandır? I. Kardiyovasküler Hastalıklar II. Diabetes Mellitus III. Kronik Obstrüktif Akciğer Hastalıkları
+   A) Yalnız I
+   B) Yalnız II
+   C) I ve III
+   D) II ve III
+   E) I, II ve III
+   CEVAP: C
+
+40 | Histoloji ve Embriyoloji | Aşağıda verilen tanımlamalardan yanlış olanı işaretleyiniz.
+   A) Histoloji terimi, doku anlamına gelen histos ve bilim/çalışma anlamına gelen logia kelimelerinin birleşmesiyle oluşmuştur.
+   B) Histoloji insanın çıplak gözle görülebilen vücut kısımlarını inceleyen bilim alanıdır.
+   C) Normal yapı ve gelişim yanında, hücre ve doku hasarının mikroskobik düzeyde araştırılması, kök hücre biyolojisi, rejeneratif tıp araştırmaları ile in vitro fertilizasyon da Histoloji ve Embriyolojinin çalışma alanları içerisinde yer alır.
+   D) Embriyoloji fertilizasyondan doğuma kadar insanın normal gelişimini inceleyen bilim alanıdır.
+   E) İnsan vücudunu oluşturan esas yapısal bileşenler; hücreler, hücrelerarası maddeler ve vücut sıvılarıdır.
+   CEVAP: B
+
+41 | Histoloji ve Embriyoloji | Aşağıda verilen tanımlamalardan yanlış olanı işaretleyiniz.
+   A) Histoloji ve Embriyoloji bilim alanının gelişiminde; hücrenin tanımlanması, hücre teorisinin ortaya konulması ve elektron mikroskobunun keşfi çok önemli aşamalardır.
+   B) Bilim alanının gelişim sürecinde; Robert Hooke ilk defa hücreyi tanımlarken, hücrelerde bir çekirdeğin varlığı Robert Brown tarafından keşfedilmiştir.
+   C) Mikroskobik incelemelerde en önemli olan iki faktör, büyütme ve ayırma gücüdür.
+   D) İnsan gözünün ayırma gücü, hücrelerin ayırt edilmesi için yeterlidir.
+   E) Canlıların temel yapısal biriminin hücre olduğu gerçeği hücre teorisi ile ortaya konulmuştur.
+   CEVAP: D
+
+42 | Histoloji ve Embriyoloji | Işık mikroskobik incelemeler için dokunun anestezi altındaki canlıdan alınmasından sonra formalin solüsyonu içerisinde koyulmasındaki amaç aşağıdakilerden hangisidir?
+   A) Yıkama
+   B) Şeffaflandırma
+   C) Dehidratasyon
+   D) Otolitik ve bakteriyolitik reaksiyonların önlenmesi
+   E) Gömme
+   CEVAP: D
+
+43 | Histoloji ve Embriyoloji | Hangisi ışık mikroskobik ve elektron mikroskobik inceleme yöntemleri arasındaki benzerliklerden birisidir?
+   A) İkisinde de gözle görülebilen ışık kaynağı kullanılır.
+   B) İkisinde de dokuları canlı olarak incelemek mümkündür.
+   C) İkisinde de inceleme için alınan dokular önce fikse (tespit) edilir.
+   D) Her iki yöntemde de renkli görüntü elde edebiliriz.
+   E) Mikroskopların büyütme ve çözümlleme güçleri yakın değerlerdedir.
+   CEVAP: C
+
+44 | Histoloji ve Embriyoloji | Aşağıdakilerden hangisi sitoplazmayı boyayan asidik boyadır?
+   A) Eosin
+   B) Toluidin mavisi
+   C) Hematoksilen
+   D) Carmine
+   E) Ksilol
+   CEVAP: A
+
+45 | Histoloji ve Embriyoloji | Peroksizomlarla ilgili olarak verilen seçeneklerden hangisi yanlıştır?
+   A) Bol miktarda hidrolitik enzimler içeren membransız organellerdir
+   B) İçeriklerinde katalaz enzimi sayesinde toksik olan hidrojen peroksiti yıkarak hücreyi korurlar
+   C) Karaciğer ve böbrek hücrelerinde gelişmiş olup bol miktarda bulunurlar
+   D) Yağ asitlerinin beta-oksidasyonunda ve toksik moleküllerin detoksifikasyonunda rol oynarlar
+   E) Sinir sisteminde aksonların etrafındaki miyelin kılıfın lipid komponentinin sentezinde görev alırlar
+   CEVAP: A

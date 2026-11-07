@@ -1,0 +1,140 @@
+1 | Histoloji | Aşağıda verilen tanımlamalardan yanlış olanı işaretleyiniz.
+   A) Histoloji terimi, doku anlamına gelen histos ve bilim/çalışma anlamına gelen logos kelimelerinin birleşmesiyle oluşmuştur.
+   B) Embriyoloji fertilizasyondan doğuma kadar insanın normal gelişimini inceleyen bilim alanıdır.
+   C) Normal yapı ve gelişim yanında, hücre ve doku hasarının mikroskobik düzeyde araştırılması, kök hücre biyolojisi, rejeneratif tıp araştırmaları ile in vitro fertilizasyon da Histoloji ve Embriyolojinin çalışma alanları içerisinde yer alır.
+   D) İnsan vücudunu oluşturan esas yapısal bileşenler; hücreler, hücrelerarası maddeler ve vücut sıvılarıdır.
+   E) Canlıların temel yapısal biriminin hücre olduğu gerçeği elektron mikroskobunun keşfi ile ortaya konulmuştur.
+   CEVAP: E
+
+2 | Histoloji | Aşağıda verilen tanımlamalardan yanlış olanı işaretleyiniz.
+   A) Histoloji, hücre, doku ve organların normal yapısını mikroskop ile inceleyen bilim alanıdır.
+   B) Mikroskobik incelemelerde en önemli olan iki faktör, büyütme ve ayırma gücüdür.
+   C) İnsan gözünün ayırma gücü hücrelerin ayırt edilmesi için yeterlidir.
+   D) Histoloji bilim alanının gelişiminde; hücrenin tanımlanması, hücre teorisinin ortaya konulması ve elektron mikroskobunun keşfi çok önemli aşamalardır.
+   E) Histoloji ve Embriyoloji bilim alanının gelişim sürecinde; Robert Hooke ilk defa hücreyi tanımlarken, hücrelerde bir çekirdeğin varlığı Robert Brown tarafından keşfedilmiştir.
+   CEVAP: C
+
+3 | Histoloji | Elektron mikroskobik doku takibi sürecinde aşağıdakilerden hangileri kullanılır?
+I. Gömme materyali olarak Rezin
+II. Tespit solüsyonu (fiksatif) olarak Formalin
+III. Kesit almak için Ultramikrotom
+IV. Boyama için Uranil asetat-Kurşun sitrat
+V. Şeffaflandırma için Ksilol
+   A) I, III, IV
+   B) I, II, V
+   C) II, IV, V
+   D) I, II, V
+   E) II, III, IV
+   CEVAP: A
+
+4 | Histoloji | Kollajen lifleri boyamak için hangi histokimyasal yöntem tercih edilebilir?
+   A) Gümüşleme
+   B) Periyodik Asit Shift (PAS)
+   C) Masson Trikrom
+   D) Hematoksilen-Eozin
+   E) Van Gieson
+   CEVAP: C
+
+5 | Histoloji | Lizozomlarla ilgili olarak aşağıdakilerden hangisi yanlıştır?
+   A) Lizozomal membranın iç yüzeyde glikozillenmiş olması ve lizobifosfatidik asit içeriğinin fazla olması lizozomun kendi hidrolitik enzimlerinden etkilenmesini önler.
+   B) Lizozomal membran proteinleri endozomlarda sentezlenerek lizozoma aktarılır.
+   C) Fagositoz, reseptör aracılı endositoz ve otofaji gibi süreçlerde aktif rol oynayan organellerdir.
+   D) Lipazlar, proteazlar, nükleazlar gibi yıkıcı enzimler içerirler.
+   E) Özellikle aktif fagositoz yapan makrofaj ve nötrofil gibi hücrelerde bol miktarda bulunurlar.
+   CEVAP: B
+
+6 | Histoloji | Nöral ya da hormonal bir uyaran varlığında, hücreye kalsiyum girişi ile, depolanmış salgı granüllerinin içeriğinin hücrenin plazma membranından dış ortama iletilmesi hangi yolla gerçekleşir?
+   A) Reseptör aracılı endositoz
+   B) Pinositoz
+   C) Ekzositozun konstütif yolağı
+   D) Ekzositozun düzenlenmiş salgı yolağı
+   E) Fagositoz
+   CEVAP: D
+
+7 | Histoloji | İçeriğindeki oksidatif enzimlerle hücredeki toksik moleküllerin parçalanmasını sağlayan, yağ asitlerinin β-oksidasyonunu gerçekleştiren, karaciğer ve böbrekte yaygın olarak bulunan organel hangisidir?
+   A) Golgi Kompleksi
+   B) Endozom
+   C) Peroksizom
+   D) Mitokondriyon
+   E) Granüler Endoplazmik Retikulum
+   CEVAP: C
+
+8 | Histoloji | Mikrotübüllerle ilgili olarak aşağıdakilerden hangisi yanlıştır?
+   A) Eksi uçlarından mikrotübül organize edici merkezde bulunan perisentrioler cisimcikteki γ-nükleasyon bölgelerine tutunan, α ve β tübülin dimerlerinden oluşan içi boş protein tüpleridir.
+   B) Hücre içi transport, hücre hareketi ve mitoz sırasında mitotik iğ oluşumunda fonksiyon görürler.
+   C) Polimerizasyon (uzama), depolimerizasyon (kısalma) hızları mikrotübül ilişkili proteinlerle denge halinde tutulur.
+   D) Silya ve flagellanın yapısında 9+2 lik aksonem düzeninde bulunurlar ve bu hücre uzantılarında mikrotübüller stabildir (uzayıp kısalmazlar).
+   E) Mikrovillusların yapısını oluştururlar.
+   CEVAP: E
+
+9 | Histoloji | Hücre çekirdeği ile ilgili olarak verilen seçeneklerden hangisi yanlıştır?
+   A) Her hücrede farklı şekil, boyut ve sayıda bulunabilir.
+   B) İki tabakalı membran içerir.
+   C) İç çekirdek membranına tutunan ara filaman olan laminler burada destek fonksiyonu gören nüklear laminayı oluşturur.
+   D) Aktif olarak çeşitli moleküller üreten sinir hücreleri ve karaciğer hücreleri gibi hücrelerde kromatin sıkıca paketlenmiş olup, çekirdek hiperkromatiktir.
+   E) Çekirdek ve sitoplazma arasındaki molekül geçişi nüklear por kompleksi ile sağlanmaktadır.
+   CEVAP: D
+
+10 | Fizyoloji | Claude Bernard’ın “milieu” ortamları ile bunlara karşılık gelen vücut sıvı bölükleri arasında yapılan aşağıdaki eşleştirmelerden hangisi doğrudur?
+   A) Milieu interior — Hücre içi sıvı; Milieu exterior — İnterstisyel sıvı
+   B) Milieu interior — Hücre dışı sıvı; Milieu exterior — Plazma sıvısı
+   C) Milieu interior — İnterstisyel sıvı; Milieu exterior — Transsellüler sıvı
+   D) Milieu interior — Hücre içi sıvı; Milieu exterior — Organizma dışı ortam
+   E) Milieu interior — Hücre dışı sıvı; Milieu exterior — Organizma dışı ortam
+   CEVAP: E
+
+11 | Fizyoloji | Aşağıdakilerden hangileri pozitif geri bildirim devreleri şeklinde çalışır?
+I. Kan basıncının düzenlenmesini sağlayan barorefleks mekanizma
+II. Kanayan damardaki kanamayı durduran pıhtılaşma mekanizması
+III. Doğum sırasında rahimde art arda gelişen kasılmaların mekanizması
+IV. Kan glükoz düzeyini ayarlayan insülin mekanizması
+   A) I ve II
+   B) II ve III
+   C) I ve III
+   D) III ve IV
+   E) II ve IV
+   CEVAP: B
+
+12 | Fizyoloji | Tay-Sacks hastalığına yol açan mutasyona uğramış heksosaminidaz A enzimi aşağıdaki hücre organellerinden hangisinde bulunur?
+   A) Golgi aygıtı
+   B) Peroksizom
+   C) Mitokondri
+   D) Sentrozom
+   E) Lizozom
+   CEVAP: E
+
+13 | Fizyoloji | Aşağıdakilerden hangileri mitokondrilerin enerji üretimi dışındaki işlevleri arasında bulunur?
+I) Apoptozda rol oynamaları
+II) Ca²⁺ depolamaları
+III) Kondroitin sülfat üretmeleri
+IV) Hasarlı organeli sindirmeleri
+   A) I ve II
+   B) II ve III
+   C) I ve III
+   D) I ve IV
+   E) II ve IV
+   CEVAP: A
+
+14 | Fizyoloji | Aşağıdakilerden hangileri hücre iskeletinin elemanları olarak ara filament ailesindendir?
+I) Dinein
+II) Vimentin
+III) Kinezin
+IV) Desmin
+   A) I ve II
+   B) II ve III
+   C) I ve III
+   D) II ve IV
+   E) III ve IV
+   CEVAP: D
+
+15 | Fizyoloji | Aşağıdakilerden hangileri bir molekülün hücre dışından hücre içine difüzyonunu azaltıcı yönde etki eden parametreler arasında yer alır?
+I) Mutlak sıcaklık
+II) Sıvı ortamın viskozitesi
+III) Molekülün yarıçapı
+IV) Boltzmann sabiti
+   A) I ve II
+   B) II ve III
+   C) I ve III
+   D) II ve IV
+   E) I ve IV
+   CEVAP: B

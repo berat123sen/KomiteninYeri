@@ -1,0 +1,119 @@
+91 | Davranış Bilimleri | Aşağıdakilerden hangisi “alışkanlık” kavramını tanımlar?
+   A) Doğuştan gelen otomatik tepkilerdir.
+   B) Zamanla otomatik bir tepki haline dönüşen, sonradan edinilmiş davranışlardır.
+   C) Genetik faktörlerle belirlenen davranışlardır.
+   D) Fiziksel bir rahatsızlığa bağlı olarak ortaya çıkar.
+   E) Doğuştan gelen bir yetenek olarak karşımıza çıkar.
+   CEVAP: B
+
+92 | Davranış Bilimleri | Bağımlılık ile ilgili aşağıdaki ifadelerden hangisi doğrudur?
+   A) Bağımlılık doğuştan gelen bir özelliktir.
+   B) Bağımlılık davranışı zamanla rutin ve aşırı ölçüde tekrarlanır.
+   C) Bağımlılık yalnızca fiziksel sağlığı etkiler.
+   D) Bağımlılık iyileşir ancak düzelmez.
+   E) Bağımlı bireyler madde kullanmayı kolaylıkla bırakabilir.
+   CEVAP: B
+
+93 | Davranış Bilimleri | Aşağıdakilerden hangisi çocuklarda görülen istismar türlerinden değildir?
+   A) Cinsel istismar
+   B) Fiziksel istismar
+   C) Duygusal istismar
+   D) ihmal
+   E) Çocuğun kaza yolu ile yaralanması
+   CEVAP: E
+
+94 | Davranış Bilimleri | Çocukların yaşadıkları ihmal veya istismarı neden söylemedikleri ile ilgili aşağıdakilerden hangisi yanlıştır?
+   A) Kendilerine inanılmayacağından korkarlar.
+   B) Başlarının belaya gireceğinden korkarlar.
+   C) İstismarcının tehditlerinden korkarlar.
+   D) Ailenin parçalanmasını isteyebilirler.
+   E) Nasıl anlatılacağını bilmeyebilirler.
+   CEVAP: D
+
+95 | Tıp Tarihi ve Etik | Türk tıp tarihinin özellikle modern cerrahi ve tıp eğitimi başlıkları altında önemli yere sahip siması aşağıdakilerden hangisidir?
+   A) Gazi Osman Paşa
+   B) Kazım Karabekir Paşa
+   C) Operatör Cemil Topuzlu Paşa
+   D) Sokullu Mehmet Paşa
+   E) Tiryaki Hasan Paşa
+   CEVAP: C
+
+96 | Tıp Tarihi ve Etik | Aşağıdakilerden hangisi eski Çin tıbbının günümüzde evrensel ölçekte benimsenen bir uygulamasıdır?
+   A) Ayur veda
+   B) Radyolojik görüntüleme
+   C) Akupunktur
+   D) Damar yoluyla sıvı verme
+   E) Yoga
+   CEVAP: C
+
+97 | SBET | Hangi gruplar “en az” ayrımcılığa maruz kalan gruplardır?
+   A) Farklı cinsel yönelime sahip olanlar
+   B) Rehabilitasyon desteği alan engelliler
+   C) Maddi destek alan göçmenler
+   D) Örgütlü muhalifler
+   E) Çoğunluğa sahip dini inanç veya mezhep grupları
+   CEVAP: E
+
+98 | SBET | Toplumsal cinsiyete dayalı ayrımcılık için hangisi yanlıştır?
+   A) Toplumsal cinsiyet eşitliği kadınlar için talep edilir.
+   B) Günümüzde özellikle sağlık alanında açık cinsiyetçilik yapılmaktadır.
+   C) Toplumsal olarak kurulan toplumsal cinsiyet rolleri ve normlarından kaynaklanır.
+   D) Kişinin insan haklarını ihlal eden her türlü ayrımcılık, dışlama ve engelleme durumudur.
+   E) Açık cinsiyetçilik yerini örtük cinsiyetçiliğe bırakmıştır.
+   CEVAP: B
+
+99 | SBET | “Milgram Deneyi” en temelde hangi kavramı açıklamak için yapılmış bir çalışmadır?
+   A) Kalıp yargı
+   B) Otoriteye uyum
+   C) Öznel inançlar
+   D) Görev bilinci
+   E) İşkenceci kişilik
+   CEVAP: B
+
+100 | SBET | Aşağıdaki ifadelerden hangisi “Ayrımcılık” tanımı içinde yer almaz?
+   A) Sadece kendi grubunun avantajını düşünen
+   B) Diğer grubun dezavantajını görmezden gelen
+   C) Diğer grubun dezavantajını pekiştiren
+   D) İtaatli davranan
+   E) Diğerine acı verici bir tutum ve davranış içinde olan
+   CEVAP: D
+
+101 | Entegre | Hangisi bağımlılık için en önemli mekanizma olan dopaminerjik sistem ile ilişkili beyin alanıdır?
+   A) Nucleus Caudatus
+   B) Nucleus Accumbens
+   C) Globus Pallidus
+   D) Corpus Striatum
+   E) Putamen
+   CEVAP: B
+
+102 | Entegre | Hangisi Opioid grubu maddeler içerisinde yer almaz?
+   A) Esrar
+   B) Eroin
+   C) Morfin
+   D) Kodein
+   E) Metadon
+   CEVAP: A
+
+103 | Entegre | Bağımlılık tanısal ölçütleri arasında yer almayan hangisidir?
+   A) İstenen etkiyi sağlamak için belirgin olarak artmış miktarlarda madde kullanma gereksinimi
+   B) Çoğu kez tasarlandığından daha yüksek dozlarda ve daha uzun dönem kullanılır
+   C) Bırakmak ya da denetim altına almak için sürekli bir istek ya da boşa çıkan çabalar vardır.
+   D) Maddenin neden olduğu fizik ya da psikolojik bir sorunun olduğunun farkında olmama
+   E) Maddeyi sağlamak, kullanmak ya da etkilerinden kurtulmak için çok fazla zaman harcama
+   CEVAP: D
+
+104 | Entegre | Fensiklidin bağımlılık yapıcı maddeler arasında hangi grupta yer alır?
+   A) Opioidler
+   B) Uyarıcılar
+   C) Sedatifler
+   D) Hipnotikler
+   E) Hallüsinojenler
+   CEVAP: E
+
+105 | Entegre | Aşağıdaki bağımlılık çeşitlerinden hangisinin kuvvetli psişik bağımlılık yapma özelliği vardır?
+   A) Kokain
+   B) Alkol
+   C) Esrar
+   D) Nikotin
+   E) Amfetamin
+   CEVAP: A

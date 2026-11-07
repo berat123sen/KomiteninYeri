@@ -1,0 +1,119 @@
+46 | Histoloji ve Embriyoloji | Hücrede veziküler transportla ilgili olarak verilen seçeneklerden hangisi yanlıştır?
+   A) Maddelerin hücre içine girdiği veziküler transport süreci endositoz, maddelerin hücreyi terkettiği süreç ise ekzositoz olarak adlandırılır
+   B) Sıvı maddelerin ve 150 nm'den küçük çaplı moleküllerin hücre içerisine alındığı pinositoz sürecinde klatrin kaplı veziküller oluşur
+   C) Reseptör aracılı endositozda hücreye alınacak uygun moleküllerin seçiminde adaptin molekülleri görev alır ve klatrinle kaplı vezikül oluşumu gerçekleşir
+   D) Ekzositozun konstitütif yolunda salgı ürünü hücrede depolanmadan transport vezikülleri içinde direk olarak plazma membranına iletilerek hücreyi terkeder
+   E) Ekzositozun düzenlenen salgı yolunda salgı ürünü veziküller içinde geçici olarak depolanır ve nöral ya da hormonal uyarıyla birlikte plazma membranına iletilerek hücreden dışarıya verilir
+   CEVAP: B
+
+47 | Histoloji ve Embriyoloji | Hücrede plazma membranına yakın (periferde) yer alan, hücreye alınan reseptör-protein kompleksinin geri dönüşüme ya da yıkıma gideceğini belirleyen yapı hangisidir?
+   A) Lizozom
+   B) Peroksizom
+   C) Golgi Kompleksi
+   D) Erken endozom
+   E) Geç endozom
+   CEVAP: D
+
+48 | Histoloji ve Embriyoloji | Hücreler arası bağlantıların ve mikrovillusların yapısına katılan, hücre hareketi ve bölünmesinde önemli rollere sahip membransız hücre iskeleti elemanı aşağıdakilerden hangisidir?
+   A) Mikrotübüller
+   B) Ara filamanlar
+   C) Sentrioller
+   D) Aktin filamanları
+   E) Serbest ribozomlar
+   CEVAP: D
+
+49 | Histoloji ve Embriyoloji | Golgi kompleksi ile ilgili yanlış seçeneği işaretleyiniz.
+   A) Membranla çevrili sisterna veya keselerden oluşur.
+   B) Steroid sentezleyen hücrelerde en fazla bulunan organeldir.
+   C) Salgı proteinlerinin yoğunlaştırılmasından sorumludur.
+   D) Cis, trans ve medial golgi ağından oluşur.
+   E) Koatomer molekülleri golgi ve endoplazmik retikulum arasında iki yönlü transportu sağlar.
+   CEVAP: B
+
+50 | Mikrobiyoloji | Aşağıdakilerden hangisi bakterilerin ve mantarların metabolizmalarında gereksinim duydukları demiri karşılamak için dış ortamdan demir yakalayarak hücre içerisine taşıyan demiri bağlayıcı (Fe3+) küçük moleküllerdir?
+   A) Siderofor
+   B) Aksiyal filaman
+   C) Flajella
+   D) Porin
+   E) Mezozom
+   CEVAP: A
+
+51 | Mikrobiyoloji | Hastalıklarda mikrop teorisini kanıtlayan ve Kuduz aşısını geliştiren hangi bilim adamıdır?
+   A) Antonie van Leeuwenhoek
+   B) Robert Koch
+   C) Louis Pasteur
+   D) Alexander Fleming
+   E) Joseph Lister
+   CEVAP: C
+
+52 | Mikrobiyoloji | Keşfedilen ilk virus hangisidir?
+   A) İnfluenza (grip) virusu
+   B) Tütün mozaik virusu
+   C) Çiçek (variola) virusu
+   D) Çocuk felci (polio) virusu
+   E) Kuduz (rabies) virusu
+   CEVAP: B
+
+53 | Mikrobiyoloji | Virusların genomu ile ilgili aşağıdakilerden hangisi doğrudur?
+   A) Rotavirus dışındaki RNA virusları çift sarmallıdır
+   B) Direkt mRNA görevi gören RNA negatif polaritelidir
+   C) DNA virusları lineer, segmentli ya da sirküler olabilir
+   D) Parvovirus tek sarmallı DNA virusudur
+   E) İnfluenza virus tek sarmallı segmentsiz RNA genomuna sahiptir
+   CEVAP: D
+
+54 | Mikrobiyoloji | Virusların replikasyonu ile ilgili yanlış hangisidir?
+   A) Viral bağlanma proteinleri zarfsız viruslarda kapsid proteinleridir
+   B) Zarfsız viruslar hücrelerin lizisi sonucu dışarı çıkarlar
+   C) Zarflı virusların penetrasyonu endositozis veya füzyon ile olur
+   D) Zarfsız virusların çoğu viropeksis ile hücreye girer
+   E) Endositozis nötral pH'da gerçekleşir
+   CEVAP: E
+
+55 | Mikrobiyoloji | Serumda bir virusa karşı antikor aranmasında ELISA testinde hangi aşama yanlıştır?
+   A) Mikroplaktaki kuyular virus antijeni ile kaplıdır
+   B) Hasta serumu ilave edilir. Sonra yıkama yapılır
+   C) Enzim bağlı antiviral antikor konur. Sonra yıkama yapılır
+   D) Substrat eklendikten sonra yıkama yapılmaz
+   E) Renkli ürün elde edilen kuyular antikor varlığını gösterir
+   CEVAP: C
+
+56 | Mikrobiyoloji | Polimeraz zincir reaksiyonu (PCR) ile ilgili yanlış hangisidir?
+   A) Denaturasyon 94°C'de yapılır
+   B) Annealing'de 55°C'de Taq polimeraz aktivite yapar
+   C) Primer hedef bölgenin 3' ucuna bağlanır
+   D) Elongasyon 72°C'de gerçekleşir
+   E) dNTP'ler ekstensiyonda DNA zincirinin yapısına girer
+   CEVAP: B
+
+57 | Mikrobiyoloji | Temel (basit) besiyerlerinde (buyyon/jeloz) hangisi asla bulunmaz?
+   A) Et suyu
+   B) Kan
+   C) Tuz
+   D) Agar
+   E) Pepton
+   CEVAP: B
+
+58 | Mikrobiyoloji | Oksijen varlığında üreyemeyen ve 'süperoksit dismutaz (SOD) ve katalaz enzimi' bulunmayan bakteri grubu hangisidir?
+   A) Zorunlu aerob
+   B) Fakültatif anaerob
+   C) Aerotolerant
+   D) Zorunlu anaerob
+   E) Mikroaerofil
+   CEVAP: D
+
+59 | Mikrobiyoloji | Bütün bakterilerde bulunan yapı hangisidir?
+   A) Kapsül
+   B) Flajella
+   C) Nukleus (Nukleotid)
+   D) Golgi aparatı
+   E) Spor
+   CEVAP: C
+
+60 | Mikrobiyoloji | Gram boyanma özelliği, bakterinin hangi yapısı ile ilişkilidir?
+   A) Mezozom
+   B) Nukleus
+   C) Ribozom
+   D) Kapsül
+   E) Hücre duvarı
+   CEVAP: E

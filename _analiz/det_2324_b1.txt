@@ -1,0 +1,119 @@
+1 | Tıbbi Biyokimya | Aşağıdakilerden hangisi Pentoz Fosfat yolunun görevlerindendir?
+   A) Glikoz metabolizmasında alternatif bir yolaktır
+   B) Pentoz Fosfat yolunda ATP üretimi ve tüketimi görülür
+   C) Nükleotid sentezi için Riboz-5-fosfat üretilir
+   D) Sitozoldeki biyosentetik reaksiyonlar için NADPH üretilir
+   E) 3-7 karbonlu şekerlerin birbirine dönüşümünü ve glikolize bağlantısını sağlar
+   CEVAP: B
+
+2 | Tıbbi Biyokimya | Pentoz fosfat yolunun inhibitörü aşağıdakilerden hangisidir?
+   A) NAD
+   B) FAD
+   C) Asetil KoA
+   D) NADH
+   E) NADPH
+   CEVAP: E
+
+3 | Tıbbi Biyokimya | Karbonhidrat, protein ve yağların metabolizması sonucu oluşan ortak ürün hangisidir?
+   A) Yağ asitleri
+   B) Glukoz
+   C) Gliserol
+   D) Asetil KoA
+   E) Üre
+   CEVAP: D
+
+4 | Tıbbi Biyokimya | Glukoz sorbitol yolunda aşağıdaki ürünlerden hangisine dönüşür?
+   A) Galaktoz
+   B) Fruktoz
+   C) Glukronat
+   D) Askorbat
+   E) Mannoz
+   CEVAP: B
+
+5 | Tıbbi Biyokimya | Kan glukozu düşük bir kişide, aşağıdaki enzimlerden hangisinin karaciğerde inhibe olması gerekir?
+   A) Pirüvat karboksilaz
+   B) PEP karboksikinaz
+   C) Fruktoz-1,6-bifosfataz
+   D) Glukoz-6-fosfataz
+   E) Fosfofruktokinaz-1
+   CEVAP: E
+
+6 | Tıbbi Biyokimya | ATP sentazın (kompleks V) sap kısmına (Fo) bağlanarak hidrojen kanalını kapatan ve ATP sentezini durduran inhibitör hangisidir?
+   A) Oligomisin
+   B) Rotenon
+   C) Amital
+   D) Antimisin A
+   E) Dimerkaprol
+   CEVAP: A
+
+7 | Tıbbi Biyokimya | Glikojen sentezinde başlangıç glikozil kalıntıları, glikojenin proteininde aşağıdaki aminoasitlerden hangisine eklenir?
+   A) Asparajin
+   B) Triptofan
+   C) Glisin
+   D) Tirozin
+   E) Alanin
+   CEVAP: D
+
+8 | Tıbbi Biyokimya | Glikojen yıkımından sonra kana aktif glukoz salınımını sağlayan enzim aşağıdakilerden hangisidir?
+   A) Dallandıran enzim
+   B) Fosfoglikomutaz
+   C) Dalları yıkan enzim
+   D) Glikojen fosforilaz
+   E) Glukoz-6-fosfataz
+   CEVAP: E
+
+9 | Tıbbi Biyokimya | Glikoneogenez reaksiyonunda enerji nereden sağlanır?
+   A) GTP
+   B) CTP
+   C) ATP
+   D) UTP
+   E) TTP
+   CEVAP: D
+
+10 | Tıbbi Biyokimya | Krebs döngüsü ile ilgili aşağıdakilerden hangisi doğrudur?
+   A) TCA döngüsünün başlaması için Asetil-CoA tek başına yeterlidir
+   B) TCA'nın kontrol basamakları sitrat sentaz, izositrat dehidrogenaz ve malat dehidrogenazdır
+   C) TCA döngüsünde substrat düzeyinde fosforilasyonun olduğu tek yer sitrat sentazdır
+   D) TCA döngüsünde Pirüvat dehidrogenaz gibi komplekse sahip olan enzim α-ketoglutarat dehidrogenazdır
+   E) TCA sitozolde gerçekleşir
+   CEVAP: D
+
+11 | Tıbbi Biyokimya | Glikolizde gliseraldehit-3-fosfat dehidrogenaz reaksiyonuyla elde edilen hidrojen ve elektronlar, mitokondriye malat-aspartat şantı ile girerse solunum zincirine aşağıdakilerden hangisi üzerinden katılır?
+   A) Sitokrom b
+   B) Sitokrom c oksidaz
+   C) NADH dehidrogenaz
+   D) Kompleks 3
+   E) Süksinat koenzim Q redüktaz
+   CEVAP: C
+
+12 | Tıbbi Biyokimya | Krebs siklusunda aşağıdakilerden hangisi gerçekleşmez?
+   A) Asetil KoA'nın oksidasyonu
+   B) Alfa-ketoglutarat oluşumu
+   C) CO2 oluşumu
+   D) NADH ve FADH2 oluşumu
+   E) Asetil KoA'nın pirüvata dönüşümü
+   CEVAP: E
+
+13 | Tıbbi Biyokimya | Bir karaciğer dokusu homojenize edilip santrifüj edilerek tüm membran komponentleri ve organelleri ortamdan uzaklaştırılıp sadece sitoplazma bırakılıyor. Bu sıvıda yapılan enzim deneylerinde aşağıdaki enzimlerden hangisinin aktivitesi saptanır?
+   A) Asetil CoA Karboksilaz
+   B) Pirüvat Karboksilaz
+   C) Glutamat dehidrogenaz
+   D) Ornitin Transkarbamoilaz
+   E) Asil CoA Dehidrogenaz
+   CEVAP: A
+
+14 | Tıbbi Biyokimya | Bir deneysel ortamda işaretli karbon atomları (C14) kullanılarak CO2 gazı işaretlenmiş ve deney hayvanlarına solutulmuştur. Aşağıdaki maddelerin hangisinde bu işaretli karbon (C14) tespit edilebilir?
+   A) Palmitik asit
+   B) Malonil CoA
+   C) Asetil CoA
+   D) Tek karbon sayılı yağ asitleri
+   E) Araşidonik asit
+   CEVAP: B
+
+15 | Tıbbi Biyokimya | Prostaglandinlerin sentezinde aşağıdakilerden hangisi siklooksijenaz yolağı üzerinden sentezlenmez?
+   A) Prostasiklin
+   B) Tromboksan
+   C) Prostaglandin E2
+   D) Lökotrien
+   E) Prostaglandin H2
+   CEVAP: D

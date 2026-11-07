@@ -1,0 +1,242 @@
+31 | Biyokimya | Aşağıda verilen maddelerden hangisi tirozin aminoasitinden sentezlenemez?
+   A) Triiyodotironin
+   B) Epinefrin
+   C) Melanin
+   D) Kreatinin
+   E) Dopamin
+   CEVAP: D
+
+32 | Biyokimya | Aşağıdakilerden hangisi insülin’in etkileri arasında yer almaz?
+   A) Kas ve yağ doku hücrelerine glukoz girişinin sağlanması
+   B) Hormon-duyarlı lipazın uyarılması
+   C) Glikolizin uyarılması
+   D) Glikojen sentezinin uyarılması
+   E) Protein sentezinin uyarılması
+   CEVAP: B
+
+33 | Biyokimya | Aşağıdaki glikoliz enzimlerinden hangisi karbon-karbon bağını kırarak fruktoz 1,6-bifosfatın trioz şekerlere dönüşümünü sağlar?
+   A) Enolaz
+   B) Trioz Fosfat İzomeraz
+   C) Fosfogliserat Kinaz
+   D) Gliseraldehit 3 Fosfat dehidrogenaz
+   E) Aldolaz A
+   CEVAP: E
+
+34 | Biyokimya | Pirüvattan tek bir reaksiyon ile hangi madde oluşamaz?
+   A) Fosfoenol piruvat
+   B) Laktat
+   C) Alanin
+   D) Oksaloasetat
+   E) Asetil CoA
+   CEVAP: A
+
+35 | Biyokimya | Aşağıdaki dehidrogenaz enzimlerinin hangisinin aktivitesiyle, alternatif yolaklarla 1,5 ya da 2,5 ATP sentezi gerçekleşebilir?
+   A) Gliseraldehit 3 fosfat dehidrogenaz
+   B) Pirüvat dehidrogenaz
+   C) İzositrat dehidrogenaz
+   D) Alfa ketoglutarat dehidrogenaz
+   E) Malat dehidrogenaz
+   CEVAP: A
+
+36 | Biyokimya | Krebs siklusunda aşağıdakilerden hangisi gerçekleşmez?
+   A) Asetil CoA’nın oksidasyonu
+   B) alfa-ketoglutarat oluşumu
+   C) CO₂ oluşumu
+   D) NADH ve FADH₂ oluşumu
+   E) Asetil CoA’nın piruvata dönüşümü
+   CEVAP: E
+
+37 | Biyokimya | Krebs döngüsünden elde edilen FADH₂, ETZ’ye hangi basamaktan girer?
+   A) Kompleks I
+   B) Kompleks II
+   C) Koenzim Q
+   D) Kompleks III
+   E) Kompleks IV
+   CEVAP: B
+
+38 | Biyokimya | Pentoz fosfat yolunun başlıca amacı aşağıdakilerden hangisidir?
+   A) Amino asitlerin karbon iskeletinin oksidasyonu
+   B) ATP sentezlemek
+   C) NADPH ve riboz-5-fosfat üretmek
+   D) Açlıkta kan glukozunu artırmak
+   E) Asidik şekerlerin üretilmesi
+   CEVAP: C
+
+39 | Biyokimya | Aşağıdakilerden hangisi glukoneogenezde yer alan enzim veya metabolit değildir?
+   A) Fosfoglikoizomeraz
+   B) Gliseraldehid 3-fosfat
+   C) Aldolaz
+   D) Piruvat dehidrogenaz
+   E) Glukoz 6-fosfataz
+   CEVAP: D
+
+40 | Biyokimya | Glikojen sentezi için aşağıdakilerden hangisi yanlıştır?
+   A) Protein yapılı bir primere gereksinim vardır.
+   B) Glikojenin yapısında 1,4 ve 1,6 glikozit bağları vardır.
+   C) Glikojen sentezi insülin ile uyarılır.
+   D) Glikojen sentazın fosforile hali aktiftir.
+   E) Glukoz monomerleri senteze UDP-Glukoz olarak girer.
+   CEVAP: D
+
+41 | Biyokimya | Glikojenin yıkılmasını sağlayan enzimlerden biri olan glikojen fosforilazın ürünü aşağıdakilerden hangisidir?
+   A) Glikoz 1-fosfat
+   B) Glikoz
+   C) UDP-glikoz
+   D) Glikoz 6-fosfat
+   E) Glikoz 1,6-bifosfat
+   CEVAP: A
+
+42 | Biyokimya | Fruktoz metabolizması ile ilgili aşağıdakilerden hangisi yanlıştır?
+   A) Fruktoz metabolizması karaciğerde çoğunlukla heksokinaz ile 6. karbondan fosforilasyon ile başlar.
+   B) Fruktoz metabolizmasının glikoz metabolizmasına göre daha hızlı olmasının nedeni Fosfofruktokinaz kontrol basamağını atlamasıdır.
+   C) Fazla fruktozlu diyet hiperürisemiye neden olur.
+   D) Aldolaz-B eksikliğinde herediter fruktoz intoleransı gelişir.
+   E) Diyabette görülen katarakt, lenste sorbitol birikiminden kaynaklanır.
+   CEVAP: A
+
+43 | Biyokimya | Pentoz fosfat yolunun inhibitörü aşağıdakilerden hangisidir?
+   A) NAD⁺
+   B) FAD
+   C) Asetil CoA
+   D) NADH
+   E) NADPH
+   CEVAP: E
+
+44 | Biyokimya | Kan glukozu düşmüş bir kişide, aşağıdaki enzimlerden hangisinin karaciğerde inhibe olması gerekir?
+   A) Pirüvat karboksilaz
+   B) Pirüvat kinaz
+   C) PEP karboksikinaz
+   D) Fruktoz-1,6-bifosfataz
+   E) Glukoz-6-fosfataz
+   CEVAP: B
+
+45 | Biyokimya | Aşağıdaki aminoasitlerden hangisi Koenzim olarak C Vitamininin kullanıldığı bir hidroksilasyon reaksiyonu sonucu oluşur ve kolajenin esas yapısının oluşmasında rol oynar?
+   A) Glisin
+   B) Valin
+   C) Lisin
+   D) Glutamin
+   E) Prolin
+   CEVAP: E
+
+46 | Biyokimya | Aşağıdakilerden hangisi mitokondri membranında Elektron Taşıma Zincirinde (ETZ) NADH+H ve FADH₂’den aldığı elektronları Sitokromlara aktararak ATP sentezinde rol oynayan lipidik formattaki yapıdır?
+   A) Piruvat
+   B) Alfa Lipoik Asit
+   C) Alfa-keto glutarat
+   D) Koenzim Q10
+   E) Asetil-Coa
+   CEVAP: D
+
+47 | Biyokimya | Aşağıdaki minerallerden hangisi insülinin glukozu hücre içerisine almasında rol oynayarak glukoz transportunu kolaylaştırıp insülinin etkisini potansiyalize eder?
+   A) Demir
+   B) İyot
+   C) Krom
+   D) Manganez
+   E) Molibden
+   CEVAP: C
+
+48 | Biyokimya | Aşağıdaki eser elementlerden hangileri tiroid dokusunda T3 ve T4 hormonlarının sentezi için gereklidir?
+   A) Mb (Molibden), Fe
+   B) Se (Selenyum), I (İyot)
+   C) Zn (Çinko), Ca (Kalsiyum)
+   D) Cr (Krom), Cu (Bakır)
+   E) Mn (Mangan), Mg
+   CEVAP: B
+
+49 | Biyokimya | Aşağıdakilerden hangisi mortalitesi en yüksek hastalıklar grubunda olan ve beslenme ile ilişkisi bilimsel olarak kanıtlanmış hastalıklardan değildir?
+I. Kardiyovasküler Hastalıklar
+II. Diabetes Mellitus
+III. Stroke (İnme)
+   A) Yalnız I
+   B) Yalnız II
+   C) I ve II
+   D) II ve III
+   E) I, II ve III
+   CEVAP: E
+
+50 | Biyokimya | Alveolleri kollabe olmasını önleyen apoproteinler, karbonhidratlar ve esas olarak içerdiği lipid ile solunumu kolaylaştıran akciğer sürfaktanı içeriğindeki lipid hangi seçenekte doğru verilmiştir?
+   A) Fosfatidilinozitol
+   B) Fosfatidilkolin
+   C) Fosfatidiletanolamin
+   D) Glikosfingolipid
+   E) Sfingomiyelin
+   CEVAP: B
+
+51 | Biyokimya | Hiperkolesterolomiyi düzenlemek için kullanılan statin grubu ilaçlar plazma kolesterol düzeylerini düşürmede hangi mekanizma üzerinden etkilerini gösterirler?
+   A) Kolesterolün ince bağırsaktan emilimini azaltırlar.
+   B) Kolesterolü safra asidine dönüştürerek atılımını artırırlar.
+   C) Mevalonat yıkımını artırırlar.
+   D) Kolesterol sentezinde HMG-KoA redüktazı inhibe ederler.
+   E) Karaciğerde LDL reseptörünü uyarırlar.
+   CEVAP: D
+
+52 | Biyokimya | Metabolizmada kolesterolün hücre içi düzenlenmesinde aşağıdaki durumlardan hangisi etkili değildir?
+   A) ACAT ile esterifikasyon
+   B) LDL reseptörü ile hücreye alım
+   C) Hücredeki Apo C-II ifadesi
+   D) HMG-KoA redüktaz transkripsiyonu düzenlenmesi
+   E) Kolesterolün Apo A-I aracılı HDL üzerine aktarımı
+   CEVAP: C
+
+53 | Biyokimya | Karaciğerde HMG-KoA redüktaz enzim aktivitesinin düzenlenmesinde etkisi olmayan seçenek hangisidir?
+   A) SREB proteini
+   B) İnsülin
+   C) Diyetle alınan lipid
+   D) Glukagon
+   E) Kinaz enzimleri
+   CEVAP: C
+
+54 | Biyokimya | Sentezinde kolesterolden köken almayan bileşik aşağıdaki seçeneklerden hangisinde yer almaktadır?
+   A) Progesteron
+   B) Vitamin C
+   C) Kortizol
+   D) Safra tuzu
+   E) Aldosteron
+   CEVAP: B
+
+55 | Biyokimya | Sodyum-potasyum ATPaz pompası hangi prensibe göre çalışır?
+   A) Basit difüzyon
+   B) Kolaylaştırılmış difüzyon
+   C) Ozmotik transport
+   D) Aktif transport
+   E) İyonik transport
+   CEVAP: D
+
+56 | Biyokimya | Aktif taşınmada sodyum elektrokimyasal gradyenti kullanan taşıyıcı seçeneklerden hangisidir?
+   A) SGLT1
+   B) Kalsiyum-ATPaz
+   C) GLUT 2
+   D) Na⁺/K⁺-ATPaz
+   E) Na⁺/Ca²⁺
+   CEVAP: A
+
+57 | Biyokimya | Aşağıdaki seçeneklerden hangisinde verilen bilgi doğru değildir?
+   A) Plazmalojenler ve PAF dihidroksiaseton fosfattan yapılan eter lipidlerdir.
+   B) Sfingolipitler lesitinden sentezlenir.
+   C) Triaçilgliseroller ve bazı fosfogliseroller, gliserol-3-P’nin ardışık açilasyonuyla sentezlenir.
+   D) Sfingomiyelin ve glikosfingolipitler hücre zarında yapısal eleman olarak işlev görürler.
+   E) Gangliozidler, plazma zarı dış yüzeyinde yer alan hücre reseptörleri ve antijen olarak önemlidir.
+   CEVAP: B
+
+58 | Biyokimya | Proteinlerin lipid membrana bağlanmasını sağlayan tepkimeye ne ad verilir?
+   A) Denatürasyon
+   B) Metilasyon
+   C) Prenilasyon
+   D) Renatürasyon
+   E) Açılasyon
+   CEVAP: C
+
+59 | Biyofizik | Bir mol glukozun potansiyel enerjisi 686 kcal/mol’dür. Hücresel solunumda glukozdan 277 kcal/mol elde ediliyorsa, hücre solunumunun net verimi yüzde kaçtır? Fazla enerji hücrede nasıl kullanılır?
+   A) %27, fazla enerji hücresel işlerde kullanılır.
+   B) %40, fazla enerji ısıya dönüşür.
+   C) Enerjinin korunumu yasasına göre tüm enerji işe dönüşür.
+   D) %27, fazla enerji biyolojik reaksiyonlarda kullanılır.
+   E) %40, fazla enerji depolanır.
+   CEVAP: B
+
+60 | Biyofizik | Fosfolipid çift tabakasının oluşumunda temel sürdürücü kuvvet aşağıdakilerden hangisidir?
+   A) Hidrojen bağı oluşumu
+   B) Hidrofobik etkileşimler
+   C) Kovalent etkileşimler
+   D) ATP hidrolizi
+   E) Mekanik kuvvetler
+   CEVAP: B

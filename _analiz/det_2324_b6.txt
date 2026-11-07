@@ -1,0 +1,103 @@
+77 | Fizyoloji | Vücut dış ortam sıcaklığı 0°C olduğu durumda, sağlıklı bir insanda vücut sıcaklığının düzenlenmesi için merkez efektör organlar üzerindeki etkilerle aşağıdaki olayların başlangıcına yol açar? I) Deri damarlarında vazokonstriksiyon, II) Tiroid hormon salgısında artma, III) Adrenalin salgısının artması, IV) Derideki kılların deri yüzeyine yapışması
+   A) I ve II
+   B) I ve III
+   C) II ve III
+   D) I ve IV
+   E) II ve IV
+   CEVAP: A
+
+78 | Fizyoloji | Lökositlerdeki hidrolazların sentezi sırasında kullanılan başlıca organeller aşağıdakilerden hangisinde başlıca olarak verilmiştir?
+   A) Düz endoplazmik retikulum-Golgi aygıtı
+   B) Granüllü endoplazmik retikulum-Golgi aygıtı
+   C) Düz endoplazmik retikulum-Peroksizom
+   D) Sitozoldeki serbest ribozomlar-Salgı granülü
+   E) Peroksizom
+   CEVAP: A
+
+79 | Fizyoloji | Uzun zincirli yağ asitlerinin metabolizması sırasında, yağ asitlerinde gelişen kimyasal olay ile bu olayın gerçekleştiği organel aşağıdakilerden hangisinde doğru olarak verilmiştir?
+   A) Hidroksilasyon-Lizozom
+   B) Oksidasyon-Lizozom
+   C) Hidroksilasyon-Peroksizom
+   D) Oksidasyon-Peroksizom
+   E) Glikozillenme-Golgi aygıtı
+   CEVAP: D
+
+80 | Fizyoloji | Translasyon sürecinde gelişen aşağıdaki olayların zamansal olarak oluş sırası seçeneklerin hangisinde doğru olarak verilmiştir? I) Kodonun antikodon ile bağlanması, II) Amino asidin aktifleşmesi, III) Peptid bağının oluşumu, IV) tRNA-amino asit kompleksinin oluşması
+   A) I, II, III, IV
+   B) II, IV, I, III
+   C) III, IV, I, II
+   D) IV, II, I, III
+   E) II, I, II, IV
+   CEVAP: B
+
+81 | Fizyoloji | Aşağıdakilerden hangilerinin reseptörü hücre zarında bulunur? I) D vitamini, II) Glisin, III) Noradrenalin, IV) Prostaglandinler
+   A) I ve II
+   B) II ve III
+   C) I ve III
+   D) I ve IV
+   E) II ve IV
+   CEVAP: B
+
+82 | Fizyoloji | Hücre zarının Na+'a geçirgen ve diğer tüm iyonlara geçirimsiz olması durumunda, Na+'un hücre zarından olan net difüzyon hızı 0 mEq/dakika, hücre dışındaki Na konsantrasyonu 300 mEq/L ve hücre içinin hücre dışına göre elektriksel potansiyel farkı +120 mV ise, Na'un hücre içindeki konsantrasyonunun kaç mEq/L olması gerekir (Nernst denklemindeki katsayı=60 olarak alınınız)?
+   A) 3
+   B) 30
+   C) 60
+   D) 300
+   E) 600
+   CEVAP: A
+
+83 | Fizyoloji | Koleralı hastalara verilen oral rehidratasyon tozu çözeltisindeki solütlerin barsaklardan emilimi aşağıdakilerden hangisi aracılığıyla sağlanır?
+   A) Na+-H+ taşıyıcısı
+   B) Na+-Glikoz taşıyıcısı
+   C) Na+-Ca2+ taşıyıcısı
+   D) HCO3--Cl- taşıyıcısı
+   E) Na+-K+-2Cl- taşıyıcısı
+   CEVAP: B
+
+84 | Fizyoloji | İnsülin eksikliğinin olduğu diabetes mellituslu bir hastadaki ana sorun glukozun hücre zarından olan taşıma mekanizmalarından birindeki yetersizliktir. Bu taşıma mekanizması aşağıdakilerden hangisi ile adlandırılır?
+   A) Endositoz
+   B) Basit difüzyon
+   C) Primer aktif taşıma
+   D) Sekonder aktif taşıma
+   E) Kolaylaştırılmış difüzyon
+   CEVAP: E
+
+85 | Fizyoloji | Aktif hale gelen heterotrimerik G proteininin adenilat siklazı aktifleştirmesi sonucunda aşağıdakilerden hangilerinin oluşumuna yol açar? I) cAMP, II) cGMP, III) Diasilgliserol, IV) IP3
+   A) I ve II
+   B) II ve III
+   C) I ve III
+   D) III ve IV
+   E) II ve IV
+   CEVAP: D
+
+86 | Fizyoloji | Düşük doz aspirinin antitrombotik etki oluşturmasının ana nedeni aşağıdakilerden hangisinde verilmiştir?
+   A) Tromboksan A2-Prostasiklin dengesini tromboksan lehine bozması
+   B) Tromboksan A2-Prostasiklin dengesini prostasiklin lehine bozması
+   C) Lökotrien-Prostaglandin dengesini prostaglandin lehine bozması
+   D) Lökotrien-Prostaglandin dengesini lökotrien lehine bozması
+   E) Plazminojenin etkinliğini artırması
+   CEVAP: B
+
+87 | Fizyoloji | Nitrik oksitin aktive ettiği sıklık guanilat siklaz enzimi aşağıdakilerden hangi düz kasında etkili olur?
+   A) Proteinkinaz A
+   B) Proteinkinaz C
+   C) Proteinkinaz G
+   D) Tirozinkinaz
+   E) Fosfolipaz A2
+   CEVAP: C
+
+88 | Davranış Bilimleri | Aşağıdakilerden hangisi güdüler için doğrudur?
+   A) Güdü ve dürtü benzer kavramlardır
+   B) Bir eksiklik ile dengesi bozulan organizmada itici güçtür
+   C) Değişmeyen ve türe özgü güçlerdir
+   D) Organizmanın uyarılmış bir durumudur
+   E) Organizmadaki gereksinimleri başlatan güçlerdir
+   CEVAP: C
+
+89 | Davranış Bilimleri | Benlik için bunaltıcı görünen ama sıkıntı vermeyecek bir neden açıklama bulmak ne tür bir benlik savunma düzenektir?
+   A) Karşıt tepki kurma
+   B) Düşünselleştirme
+   C) Yalıtma
+   D) Akla uygunlaştırma
+   E) Yüceleştirme
+   CEVAP: D

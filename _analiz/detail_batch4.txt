@@ -1,0 +1,122 @@
+46 | Biyokimya | Aşağıdakilerden hangisi mitokondri membranında Elektron Taşıma Zincirinde (ETZ) NADH+H ve FADH₂’den aldığı elektronları Sitokromlara aktararak ATP sentezinde rol oynayan lipidik formattaki yapıdır?
+   A) Piruvat
+   B) Alfa Lipoik Asit
+   C) Alfa-keto glutarat
+   D) Koenzim Q10
+   E) Asetil-Coa
+   CEVAP: D
+
+47 | Biyokimya | Aşağıdaki minerallerden hangisi insülinin glukozu hücre içerisine almasında rol oynayarak glukoz transportunu kolaylaştırıp insülinin etkisini potansiyalize eder?
+   A) Demir
+   B) İyot
+   C) Krom
+   D) Manganez
+   E) Molibden
+   CEVAP: C
+
+48 | Biyokimya | Aşağıdaki eser elementlerden hangileri tiroid dokusunda T3 ve T4 hormonlarının sentezi için gereklidir?
+   A) Mb (Molibden), Fe
+   B) Se (Selenyum), I (İyot)
+   C) Zn (Çinko), Ca (Kalsiyum)
+   D) Cr (Krom), Cu (Bakır)
+   E) Mn (Mangan), Mg
+   CEVAP: B
+
+49 | Biyokimya | Aşağıdakilerden hangisi mortalitesi en yüksek hastalıklar grubunda olan ve beslenme ile ilişkisi bilimsel olarak kanıtlanmış hastalıklardan değildir?
+I. Kardiyovasküler Hastalıklar
+II. Diabetes Mellitus
+III. Stroke (İnme)
+   A) Yalnız I
+   B) Yalnız II
+   C) I ve II
+   D) II ve III
+   E) I, II ve III
+   CEVAP: E
+
+50 | Biyokimya | Alveolleri kollabe olmasını önleyen apoproteinler, karbonhidratlar ve esas olarak içerdiği lipid ile solunumu kolaylaştıran akciğer sürfaktanı içeriğindeki lipid hangi seçenekte doğru verilmiştir?
+   A) Fosfatidilinozitol
+   B) Fosfatidilkolin
+   C) Fosfatidiletanolamin
+   D) Glikosfingolipid
+   E) Sfingomiyelin
+   CEVAP: B
+
+51 | Biyokimya | Hiperkolesterolomiyi düzenlemek için kullanılan statin grubu ilaçlar plazma kolesterol düzeylerini düşürmede hangi mekanizma üzerinden etkilerini gösterirler?
+   A) Kolesterolün ince bağırsaktan emilimini azaltırlar.
+   B) Kolesterolü safra asidine dönüştürerek atılımını artırırlar.
+   C) Mevalonat yıkımını artırırlar.
+   D) Kolesterol sentezinde HMG-KoA redüktazı inhibe ederler.
+   E) Karaciğerde LDL reseptörünü uyarırlar.
+   CEVAP: D
+
+52 | Biyokimya | Metabolizmada kolesterolün hücre içi düzenlenmesinde aşağıdaki durumlardan hangisi etkili değildir?
+   A) ACAT ile esterifikasyon
+   B) LDL reseptörü ile hücreye alım
+   C) Hücredeki Apo C-II ifadesi
+   D) HMG-KoA redüktaz transkripsiyonu düzenlenmesi
+   E) Kolesterolün Apo A-I aracılı HDL üzerine aktarımı
+   CEVAP: C
+
+53 | Biyokimya | Karaciğerde HMG-KoA redüktaz enzim aktivitesinin düzenlenmesinde etkisi olmayan seçenek hangisidir?
+   A) SREB proteini
+   B) İnsülin
+   C) Diyetle alınan lipid
+   D) Glukagon
+   E) Kinaz enzimleri
+   CEVAP: C
+
+54 | Biyokimya | Sentezinde kolesterolden köken almayan bileşik aşağıdaki seçeneklerden hangisinde yer almaktadır?
+   A) Progesteron
+   B) Vitamin C
+   C) Kortizol
+   D) Safra tuzu
+   E) Aldosteron
+   CEVAP: B
+
+55 | Biyokimya | Sodyum-potasyum ATPaz pompası hangi prensibe göre çalışır?
+   A) Basit difüzyon
+   B) Kolaylaştırılmış difüzyon
+   C) Ozmotik transport
+   D) Aktif transport
+   E) İyonik transport
+   CEVAP: D
+
+56 | Biyokimya | Aktif taşınmada sodyum elektrokimyasal gradyenti kullanan taşıyıcı seçeneklerden hangisidir?
+   A) SGLT1
+   B) Kalsiyum-ATPaz
+   C) GLUT 2
+   D) Na⁺/K⁺-ATPaz
+   E) Na⁺/Ca²⁺
+   CEVAP: A
+
+57 | Biyokimya | Aşağıdaki seçeneklerden hangisinde verilen bilgi doğru değildir?
+   A) Plazmalojenler ve PAF dihidroksiaseton fosfattan yapılan eter lipidlerdir.
+   B) Sfingolipitler lesitinden sentezlenir.
+   C) Triaçilgliseroller ve bazı fosfogliseroller, gliserol-3-P’nin ardışık açilasyonuyla sentezlenir.
+   D) Sfingomiyelin ve glikosfingolipitler hücre zarında yapısal eleman olarak işlev görürler.
+   E) Gangliozidler, plazma zarı dış yüzeyinde yer alan hücre reseptörleri ve antijen olarak önemlidir.
+   CEVAP: B
+
+58 | Biyokimya | Proteinlerin lipid membrana bağlanmasını sağlayan tepkimeye ne ad verilir?
+   A) Denatürasyon
+   B) Metilasyon
+   C) Prenilasyon
+   D) Renatürasyon
+   E) Açılasyon
+   CEVAP: C
+
+59 | Biyofizik | Bir mol glukozun potansiyel enerjisi 686 kcal/mol’dür. Hücresel solunumda glukozdan 277 kcal/mol elde ediliyorsa, hücre solunumunun net verimi yüzde kaçtır? Fazla enerji hücrede nasıl kullanılır?
+   A) %27, fazla enerji hücresel işlerde kullanılır.
+   B) %40, fazla enerji ısıya dönüşür.
+   C) Enerjinin korunumu yasasına göre tüm enerji işe dönüşür.
+   D) %27, fazla enerji biyolojik reaksiyonlarda kullanılır.
+   E) %40, fazla enerji depolanır.
+   CEVAP: B
+
+60 | Biyofizik | Fosfolipid çift tabakasının oluşumunda temel sürdürücü kuvvet aşağıdakilerden hangisidir?
+   A) Hidrojen bağı oluşumu
+   B) Hidrofobik etkileşimler
+   C) Kovalent etkileşimler
+   D) ATP hidrolizi
+   E) Mekanik kuvvetler
+   CEVAP: B

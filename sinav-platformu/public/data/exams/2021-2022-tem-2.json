@@ -83,7 +83,7 @@
       "confidence": 0.95,
       "reviewStatus": "approved",
       "note": null,
-      "explanation": "İnsan vücudunun esas yapısal birimi hücrelerdir, hücreler arası maddeler değil. A, B, C, D doğru tanımlamalardır."
+      "explanation": "Canlıların temel yapısal biriminin hücre olduğu hücre teorisi (Schleiden-Schwann, 1838-1839) ile ortaya konmuştur; elektron mikroskobunun keşfi (1930'lar) daha sonra gelir. A seçeneği: Histoloji terimi Yunanca 'histos' (doku) ve 'logos' (bilim/çalışma) kelimelerinden türemiştir ve doğrudur. B seçeneği: Histoloji, insanın hücre, doku ve organlarının normal mikroskobik yapısını inceler ve doğrudur. C seçeneği: Histoloji ve Embriyolojinin çalışma alanları arasında normal yapı ve gelişimin yanında hücre/doku hasarının mikroskobik araştırılması, kök hücre biyolojisi, rejeneratif tıp ve IVF yer alır; doğrudur. D seçeneği: Embriyoloji fertilizasyondan doğuma kadar insanın normal gelişimini inceleyen bilim alanıdır; doğrudur. E seçeneği ise temel yapısal birimi hücreler arası maddeler olarak tanımladığı için yanlıştır; temel birim hücredir."
     },
     {
       "id": "2021-2022-tem-2-q002",
@@ -106,7 +106,7 @@
       "confidence": 0.95,
       "reviewStatus": "approved",
       "note": null,
-      "explanation": "Canlıların temel yapısal biriminin hücre olduğu hücre teorisiyle ortaya konmuştur; elektron mikroskobu sonradan gelir. A, B, C, E doğru tanımlamalardır."
+      "explanation": "Canlıların temel yapısal biriminin hücre olduğu hücre teorisi ile ortaya konmuştur; elektron mikroskobu sonradan gelir. A, B, C, E doğru tanımlamalardır. D seçeneği (canlıların temel yapısal biriminin hücre olduğu gerçeği ancak elektron mikroskobunun keşfinden sonra ortaya konulmuştur) yanlıştır."
     },
     {
       "id": "2021-2022-tem-2-q003",
@@ -129,7 +129,7 @@
       "confidence": 0.95,
       "reviewStatus": "approved",
       "note": null,
-      "explanation": "Membran proteinlerinin hepsi transmembran değildir; periferal proteinler yüzeyde bulunur. A, B, D, E doğru tanımlamalardır."
+      "explanation": "Membran proteinlerinin hepsi transmembran değildir; periferal proteinler yüzeyde bulunur. A seçeneği: Fosfolipid, kolesterol ve protein moleküllerinden oluşan 8-10 nm kalınlığında bir membrandır (doğru). B seçeneği: Lipid molekülleri amfipatik karakterdedir (doğru). D seçeneği: Periferal proteinler ekstrasellüler ve intrasellüler yüzeylerde bulunur (doğru). E seçeneği: İntegral proteinler pompalar, kanallar, reseptörler olarak fonksiyon görür (doğru). C seçeneği yanlıştır."
     },
     {
       "id": "2021-2022-tem-2-q004",
@@ -152,7 +152,7 @@
       "confidence": 0.95,
       "reviewStatus": "approved",
       "note": null,
-      "explanation": "Klatrin bağımlı endositoz tipidir; pinositoz klatrinsiz (kaveolin/flotillin) veziküllerle olur. A, B, C, D doğru ifadelerdir."
+      "explanation": "Klatrin bağımlı endositoz tipidir; pinositoz klatrinsiz (kaveolin/flotillin) veziküllerle olur. A, B, C, D doğru ifadelerdir. E seçeneği (klatrin bağımlı endositoz tipidir) pinositoz için yanlıştır. Pinositoz sıvı alımıdır; reseptör aracılı endositoz spesifik molekül alımıdır."
     },
     {
       "id": "2021-2022-tem-2-q005",
@@ -175,7 +175,7 @@
       "confidence": 0.95,
       "reviewStatus": "approved",
       "note": null,
-      "explanation": "Lizozomal membran proteinleri Golgi'de sentezlenip lizozoma taşınır; erken/geç endozomlarda sentezlenmez. A, B, C, E doğru tanımlamalardır."
+      "explanation": "Lizozomal membran proteinleri Golgi'de sentezlenip lizozoma taşınır; endozomlarda sentezlenmez. A, B, C, E doğru tanımlamalardır. D seçeneği (lizozomal membran proteinleri direkt olarak erken ve geç endozomlarda sentezlenip lizozoma aktarılır) yanlıştır."
     },
     {
       "id": "2021-2022-tem-2-q006",
@@ -198,7 +198,7 @@
       "confidence": 0.95,
       "reviewStatus": "approved",
       "note": null,
-      "explanation": "Peroksizomlar yapısal protein sentezi yapmaz; aktin, miyozin, hemoglobin ribozomlarda sentezlenir. A, C, D, E doğru eşleşmelerdir."
+      "explanation": "Peroksizomlar yapısal protein sentezi yapmaz; aktin, miyozin, hemoglobin ribozomlarda sentezlenir. A, C, D, E doğru eşleşmelerdir. B seçeneği (peroksizom-hücrede aktin, miyozin ve hemoglobin gibi yapısal proteinlerin sentezi) yanlıştır."
     },
     {
       "id": "2021-2022-tem-2-q007",
@@ -221,7 +221,7 @@
       "confidence": 0.95,
       "reviewStatus": "approved",
       "note": null,
-      "explanation": "Hücrede mikrotübüller veziküler transport, silya/flagella hareketi, mitoz mekiği ve hücre şeklinin korunmasında görevlidir. A, B, D, E diğer yapısal elemanlardır."
+      "explanation": "Hücrede mikrotübüller veziküler transport, silya/flagella hareketi, mitoz mekiği ve hücre şeklinin korunmasında görevlidir. Aktin filaman, sentriyoller, bazal cisimcik, ara filamanlar farklı yapısal elemanlardır. Doğru cevap C'dir (mikrotübüller)."
     },
     {
       "id": "2021-2022-tem-2-q008",
@@ -244,7 +244,7 @@
       "confidence": 0.95,
       "reviewStatus": "approved",
       "note": null,
-      "explanation": "Canlıdan alınan dokuyu otolitik/bakteriyolitik reaksiyonlardan koruyan işlem tespit (fiksasyon)dur. B, C, D, E sonraki adımlardır."
+      "explanation": "Canlıdan alınan dokuyu otolitik/bakteriyolitik reaksiyonlardan koruyan işlem tespit (fiksasyon)dur. Yıkama, dehidratasyon, gömme ve kapatma sonraki adımlardır. Formalin (formaldehid) ışık mikroskobu için kullanılan tespit solüsyonudur."
     },
     {
       "id": "2021-2022-tem-2-q009",
@@ -267,7 +267,7 @@
       "confidence": 0.95,
       "reviewStatus": "approved",
       "note": null,
-      "explanation": "Elektron mikroskobu canlı hücreleri inceleyemez (vakum ve fiksasyon gerektirir). A, C, D, E doğru ifadelerdir."
+      "explanation": "Elektron mikroskobik inceleme yöntemi ile ilgili olarak aşağıdakilerden hangisi yanlıştır? A: Gözle görülmeyen ışık kaynağı kullanır (doğru). B: Canlı hücre ve dokuların incelenmesine olanak sağlar (yanlış; elektron mikroskobu canlı hücreleri inceleyemez). C: Renksiz (siyah-beyaz) görüntü elde edilir (doğru). D: Dokuların fiksasyonu amacı ile glutaraldehid ve osmik asit kullanılır (doğru). E: Gömme materyali olarak epoksi resin kullanılır (doğru)."
     },
     {
       "id": "2021-2022-tem-2-q010",
@@ -290,7 +290,7 @@
       "confidence": 0.95,
       "reviewStatus": "approved",
       "note": null,
-      "explanation": "'Vaccination' kelime anlamı ineklemedir (vacca=inek). Jenner inek çiçek virusunu kullanmıştır."
+      "explanation": "'Vaccination' kelime anlamı ineklemedir (Latince 'vacca' = inek). Jenner inek çiçek virusunu (cowpox) kullanarak çiçek hastalığını (smallpox) önleyen aşıyı geliştirmiştir (1796). Daha sonra 'vaccination' terimi genel anlamda aşılama için kullanılmaya başlanmıştır. 'Ariola' (A) çiçek hastalığı anlamına gelir; 'zayıflatılmış' (B) aşı türüdür; 'bağışıklama' (C) genel kavramdır; 'çiçek' (E) hastalığın adıdır."
     },
     {
       "id": "2021-2022-tem-2-q011",
@@ -313,7 +313,7 @@
       "confidence": 0.95,
       "reviewStatus": "approved",
       "note": null,
-      "explanation": "Bakterilerde peptidoglikan sentezinde rol oynayan enzimler Penisilin Bağlayan Proteinler (PBP)'dir."
+      "explanation": "Bakterilerde peptidoglikan sentezinde rol oynayan enzimler Penisilin Bağlayan Proteinler (PBP)'dir. PBP'ler transpeptidaz, karboksipeptidaz ve transglikozilaz aktivitesi gösterir. Penisilin ve diğer beta-laktam antibiyotikler PBP'leri inhibe ederek bakteri hücre duvarı sentezini bozar. Aminotransferazlar (B), glikosidazlar (C), beta-laktamazlar (D) ve peptidoglikan hidroksilazlar (E) bu işlevi görmez."
     },
     {
       "id": "2021-2022-tem-2-q012",
@@ -336,7 +336,7 @@
       "confidence": 0.95,
       "reviewStatus": "approved",
       "note": null,
-      "explanation": "Gram (-) bakterilerde somatik antijen (O antijeni) LPS (lipopolisakkarit) yapısındadır."
+      "explanation": "Gram (-) bakterilerde somatik antijen (O antijeni) LPS (lipopolisakkarit) yapısındadır. LPS dış membranın dış yaprağında bulunur ve endotoksin olarak adlandırılır. Teikoik asit (A) ve lipoteikoik asit (B) Gram (+) bakterilerde bulunur. OMP (D) ve glikokaliks proteinler (E) Gram (-)'de bulunur ama somatik antijen LPS'dir."
     },
     {
       "id": "2021-2022-tem-2-q013",
@@ -359,7 +359,7 @@
       "confidence": 0.95,
       "reviewStatus": "approved",
       "note": null,
-      "explanation": "İnfluenza virus zarflı, segmentli tek sarmallı RNA virusudur; zarfsız değildir. A, B, D, E doğru tanımlamalardır."
+      "explanation": "İnfluenza virus zarflı, segmentli tek sarmallı RNA virusudur; zarfsız değildir. Rotavirus zarfsız, çift sarmallı ve segmentli RNA virusudur (A doğru). Herpes viruslar zarflı, çift sarmallı DNA virusudur (B doğru). HIV zarflı, diploid RNA'ya sahiptir (D doğru). HBV zarflı, kısmen çift sarmallı DNA virusudur (E doğru). C seçeneği (influenza virus zarfsız) yanlıştır."
     },
     {
       "id": "2021-2022-tem-2-q014",
@@ -382,7 +382,7 @@
       "confidence": 0.95,
       "reviewStatus": "approved",
       "note": null,
-      "explanation": "HIV RNA virusu olup RNA polimeraz taşımaz; ters transkriptaz (RT) taşır. A, B, C, D doğru ifadelerdir."
+      "explanation": "HIV RNA virusu olup RNA polimeraz taşımaz; ters transkriptaz (RT) taşır. Helikal veya ikosahedral kapsidi olabilir (A doğru). Negatif polariteli RNA virusları hazır RNA polimeraz taşır (B doğru). RNA virusları birkaç istisna hariç sitoplazmada çoğalır (C doğru). Pozitif polariteli RNA virusları direk ribozoma gidebilir (D doğru). E seçeneği (HIV virusu RNA polimeraza sahiptir) yanlıştır."
     },
     {
       "id": "2021-2022-tem-2-q015",
@@ -405,7 +405,7 @@
       "confidence": 0.95,
       "reviewStatus": "approved",
       "note": null,
-      "explanation": "Latent dönem (eclipse) genom replikasyonu ve protein sentezi öncesi dönemdir; ilk virus oluşumundan önceki dönem değildir. A, B, D, E doğru ifadelerdir."
+      "explanation": "Latent dönem (eclipse) genom replikasyonu ve protein sentezi öncesi dönemdir; ilk virus oluşumundan önceki dönem değildir. Glikoproteinler hücredeki spesifik reseptörlere bağlanır (A doğru). Hem zarflı hem zarfsız viruslar endositozla hücreye girebilir (B doğru). Erken proteinler genom replikasyonu için gerekli enzimlerdir (D doğru). Zarfsız viruslar hücreyi lizise uğratarak salınır (E doğru). C seçeneği yanlıştır."
     },
     {
       "id": "2021-2022-tem-2-q016",
@@ -428,7 +428,7 @@
       "confidence": 0.95,
       "reviewStatus": "approved",
       "note": null,
-      "explanation": "Nötralizasyon testi canlı hücre kültürü gerektirir; ELISA, strip, lateks aglütinasyon ve LIPA hücre kültürü gerektirmez."
+      "explanation": "Nötralizasyon testi canlı hücre kültürü gerektirir; ELISA, strip test, lateks aglütinasyon test ve line probe assay (LIPA) hücre kültürü gerektirmez. Nötralizasyon testi virusların antikorlarla nötralize edilip edilmediğini canlı hücrede test eder."
     },
     {
       "id": "2021-2022-tem-2-q017",
@@ -451,7 +451,7 @@
       "confidence": 0.95,
       "reviewStatus": "approved",
       "note": null,
-      "explanation": "PCR'de ekstensiyonda (72°C) Taq polimeraz DNA sentezler; primer bağlanması annealing aşamasındadır. A, B, C, E yanlış ifadelerdir."
+      "explanation": "PCR'de ekstensiyonda (72°C) Taq polimeraz DNA sentezler; primer bağlanması annealing aşamasındadır (50-65°C). Denatürasyon 94°C'de gerçekleşir. Ekstensiyonda primer genoma bağlanmaz (primerler annealing'de bağlanır). DNA ekstraktları Taq polimeraz ile RNA'ya çevrilmez (ters transkriptaz ile RNA'dan DNA'ya). D seçeneği (ekstensiyon'da primer genoma bağlanır) yanlıştır."
     },
     {
       "id": "2021-2022-tem-2-q018",
@@ -474,7 +474,7 @@
       "confidence": 0.95,
       "reviewStatus": "approved",
       "note": null,
-      "explanation": "ELISA'da substrat eklendikten sonra yıkama yapılmaz; renkli ürün antikor varlığını gösterir. A, B, C, E doğru aşamalardır."
+      "explanation": "ELISA'da substrat eklendikten sonra yıkama yapılmaz; renkli ürün antikor varlığını gösterir. A, B, C, E doğru aşamalardır. D seçeneği (substrat ilave edilir, sonra yıkama yapılır) yanlıştır. Substrat (TMB) eklendikten sonra renk oluşumu gözlenir."
     },
     {
       "id": "2021-2022-tem-2-q019",
@@ -497,7 +497,7 @@
       "confidence": 0.95,
       "reviewStatus": "approved",
       "note": null,
-      "explanation": "Mikroorganizma enzim aktivitesini ısı, pH, tuz yoğunluğu ve kimyasal maddeler etkiler; mikroorganizmanın cinsi enzim tipini belirler ama aktiviteyi etkileyen dış etken değildir."
+      "explanation": "Mikroorganizma enzim aktivitesini ısı, pH, tuz yoğunluğu ve kimyasal maddeler (ağır metal vb.) etkiler; mikroorganizmanın cinsi enzim tipini belirler ama aktiviteyi etkileyen dış etken değildir. E seçeneği (mikroorganizmanın cinsi) yanlıştır."
     },
     {
       "id": "2021-2022-tem-2-q020",
@@ -520,7 +520,7 @@
       "confidence": 0.95,
       "reviewStatus": "approved",
       "note": null,
-      "explanation": "Agar mutlaka gerekli değildir; sıvı besiyerlerinde (buyyon) agar olmadan da üreme olur. A, B, C, E doğru ifadelerdir."
+      "explanation": "Agar mutlaka gerekli değildir; sıvı besiyerlerinde (buyyon) agar olmadan da üreme olur. A, B, C, E doğru ifadelerdir. D seçeneği (agar mutlaka gerekli) yanlıştır. Agar bakteriler tarafından sindirilemez."
     },
     {
       "id": "2021-2022-tem-2-q021",
@@ -543,7 +543,7 @@
       "confidence": 0.95,
       "reviewStatus": "approved",
       "note": null,
-      "explanation": "Yüksek ATP/AMP oranı fosfofruktokinaz (PFK-1, glikoliz anahtar enzimi) ve pirüvat kinazı inhibe eder."
+      "explanation": "Üre döngüsünde glutamat yer almaz; aspartat, ornitin, arginin, sitrullin yer alır. Glutamat üre döngüsünde yer almaz (glutamat dehidrogenaz ile amonyak üretir ama döngüye girmez). Aspartat amino grubu verici olarak, ornitin taşıyıcı olarak, arginin üre üretimi için, sitrullin ara ürün olarak görev alır."
     },
     {
       "id": "2021-2022-tem-2-q022",
@@ -566,7 +566,7 @@
       "confidence": 0.95,
       "reviewStatus": "approved",
       "note": null,
-      "explanation": "Sitrik asit (sitrat) asetil-CoA karboksilazı (yağ asidi sentezi) uyarır."
+      "explanation": "Sitrik asit (sitrat) asetil-CoA karboksilazı (yağ asidi sentezi anahtar enzimi) uyarır. Sitrat, asetil-CoA'yı sitozole taşır ve allosterik olarak ACC'yi aktive eder. Piruvat karboksilaz, transketolaz, transaldolaz ve enolaz sitrat tarafından uyarılmaz."
     },
     {
       "id": "2021-2022-tem-2-q023",
@@ -589,7 +589,7 @@
       "confidence": 0.95,
       "reviewStatus": "approved",
       "note": null,
-      "explanation": "Viral gastroenterit sonrası laktoz intoleransı gelişebilir (brush border hasarı). Çölyak daha kroniktir."
+      "explanation": "Kanser hücreleri Warburg etkisiyle glukoz ve glutamin'i tercih eder (aerobik glikoliz). Yağ asidi/kolesterol (A), laktoz/seramid (C), üre/amonyak (D), aseton/resolvin (E) kanser hücrelerinin birincil enerji kaynağı değildir. Warburg etkisi: kanser hücreleri oksijen varlığında bile glikolizi tercih eder."
     },
     {
       "id": "2021-2022-tem-2-q024",
@@ -612,7 +612,7 @@
       "confidence": 0.95,
       "reviewStatus": "approved",
       "note": null,
-      "explanation": "Yağlarla birlikte yağda eriyen vitaminler (A, D, E, K) emilir; vitamin D yağda eriyendir."
+      "explanation": "Yağlarla birlikte yağda eriyen vitaminler (A, D, E, K) emilir. Vitamin B12, C, folik asit, B6 suda eriyen vitaminlerdir ve yağ sindirimi ile birlikte emilmez. B seçeneği (vitamin D) doğrudur. Vitamin D kalsiyum emilimi için gereklidir."
     },
     {
       "id": "2021-2022-tem-2-q025",
@@ -635,7 +635,7 @@
       "confidence": 0.95,
       "reviewStatus": "approved",
       "note": null,
-      "explanation": "Yağ asidi oksidasyonu bozulunca asetil-CoA üretimi azalır; glukoneogenez (pirüvat karboksilaz) etkilenir."
+      "explanation": "Trigliserit sentezi yağ dokusunda gliserol-3-fosfattan (glikolizden) başlar, gliserolden değil. Yağ dokusunda gliserol kinaz enzimi yoktur; gliserol-3-fosfat glikolizden (DHAP'tan) elde edilir. Karaciğerde gliserol kinaz vardır ve gliserolden gliserol-3-fosfat sentezleyebilir."
     },
     {
       "id": "2021-2022-tem-2-q026",
@@ -658,7 +658,7 @@
       "confidence": 0.95,
       "reviewStatus": "approved",
       "note": null,
-      "explanation": "Malonil-CoA karnitin-asil transferaz I (KPT I)'i inhibe eder; yağ asidi sentezi aktifken oksidasyon durur."
+      "explanation": "Pasif taşıma örnekleri: O2 ve CO2'nin basit difüzyonla geçişi (metabolik enerji gerektirmez). Na+ ile ortaklaşa/karşıt taşıma, kanallardan iyon geçişi aktif/pasif olabilir. Basit difüzyon, kolaylaştırılmış difüzyon ve osmoz pasif taşıma mekanizmalarıdır."
     },
     {
       "id": "2021-2022-tem-2-q027",
@@ -681,7 +681,7 @@
       "confidence": 0.95,
       "reviewStatus": "approved",
       "note": null,
-      "explanation": "Kanda en yüksek konsantrasyonda gözlenen keton cisimciği aseton değil, beta-hidroksibütirat'tır. B, C, D, E doğru ifadelerdir."
+      "explanation": "Keton cisimcikleri (asetoasetat, beta-hidroksibütirat, aseton) karaciğerde sentezlenir; kas ve beyin kullanır (üretmez). Toklukta düşük, açlıkta yüksek. En yüksek konsantrasyonda beta-hidroksibütirat bulunur. A, B, C, D yanlıştır. E seçeneği (kanda en yüksek konsantrasyonda beta-hidroksibütirat bulunur) doğrudur."
     },
     {
       "id": "2021-2022-tem-2-q028",
@@ -704,7 +704,7 @@
       "confidence": 0.95,
       "reviewStatus": "approved",
       "note": null,
-      "explanation": "Yağ asidi sentazda ACP (asil taşıyıcı protein) asetil gruplarını bağlar."
+      "explanation": "Yağ asidi sentazda ACP (asil taşıyıcı protein) asetil gruplarını bağlar. ACP, fosfopantetein prostetik grubu ile yağ asidi zincirini taşır. Ketoasil sentaz, malonil/asetil transasilaz, ketoasil redüktaz ve enoil redüktaz diğer domainlerdir."
     },
     {
       "id": "2021-2022-tem-2-q029",
@@ -727,7 +727,7 @@
       "confidence": 0.95,
       "reviewStatus": "approved",
       "note": null,
-      "explanation": "Trigliserit sentezi yağ dokusunda gliserol-3-fosfattan (glikolizden) başlar, gliserolden değil."
+      "explanation": "Trigliserit sentezi yağ dokusunda gliserol-3-fosfattan (glikolizden) başlar, gliserolden değil. Yağ dokusunda gliserol kinaz enzimi yoktur; gliserol-3-fosfat glikolizden (DHAP'tan) elde edilir. Karaciğerde gliserol kinaz vardır ve gliserolden gliserol-3-fosfat sentezleyebilir."
     },
     {
       "id": "2021-2022-tem-2-q030",
@@ -750,7 +750,7 @@
       "confidence": 0.95,
       "reviewStatus": "approved",
       "note": null,
-      "explanation": "Glutamin sentetaz amonyak + glutamat → glutamin dönüşümünü katalize eder; amonyak miktarını azaltır."
+      "explanation": "Geri bildirim kazancı = giderilen / giderilemeyen = 90/10 = 9 (negatif geri bildirim). -3, -6, -10, -11 yanlıştır. Negatif geri bildirim homeostazı korur; pozitif geri bildirim süreci amplifiye eder. Geri bildirim kazancı (gain) = düzeltilen miktar / kalan miktar."
     },
     {
       "id": "2021-2022-tem-2-q031",
@@ -773,7 +773,7 @@
       "confidence": 0.95,
       "reviewStatus": "approved",
       "note": null,
-      "explanation": "Metiltetrahidrofolat (metil-THF) homosistein→metionin dönüşümünde (metionin sentaz) metil verir; THF oluşur."
+      "explanation": "Üre döngüsünde glutamat yer almaz; aspartat (amino grup verici olarak), ornitin (taşıyıcı), arginin (üre üretimi), sitrullin (ara ürün) yer alır. Glutamat üre döngüsünde yer almaz (glutamat dehidrogenaz ile amonyak üretir ama döngüye girmez)."
     },
     {
       "id": "2021-2022-tem-2-q032",
@@ -796,7 +796,7 @@
       "confidence": 0.95,
       "reviewStatus": "approved",
       "note": null,
-      "explanation": "Üre döngüsünde glutamat yer almaz; aspartat, ornitin, arginin, sitrullin yer alır."
+      "explanation": "Üre döngüsünde glutamat yer almaz; aspartat (amino grup verici), ornitin (taşıyıcı), arginin (üre üretimi), sitrullin (ara ürün) yer alır. Glutamat üre döngüsünde yer almaz (glutamat dehidrogenaz ile amonyak üretir ama döngüye girmez)."
     },
     {
       "id": "2021-2022-tem-2-q033",
@@ -819,7 +819,7 @@
       "confidence": 0.95,
       "reviewStatus": "approved",
       "note": null,
-      "explanation": "Glukoz-alanin döngüsü (Cahill döngüsü) kas amino gruplarını alanin ile karaciğere taşır; hepatik glukoneogeneze katkıda bulunur."
+      "explanation": "Glukoz-alanin döngüsü (Cahill döngüsü) kas amino gruplarını alanin ile karaciğere taşır; hepatik glukoneogeneze katkıda bulunur. Alanin karaciğerde pirüvata dönüştürülür ve glukoneogenezde kullanılır."
     },
     {
       "id": "2021-2022-tem-2-q034",
@@ -842,7 +842,7 @@
       "confidence": 0.95,
       "reviewStatus": "approved",
       "note": null,
-      "explanation": "Homosistein artışı sistatyonin beta sentaz eksikliğinde (homosistinüri) görülür."
+      "explanation": "Homosistein artışı sistatyonin beta sentaz eksikliğinde (homosistinüri) görülür. Sistatyonin beta sentaz piridoksal fosfat (B6) kofaktörü ile homosistein→sistatyonin dönüşümünü katalize eder. Eksikliğinde homosistein birikir ve ateroskleroz, tromboz, mental retardasyon görülür."
     },
     {
       "id": "2021-2022-tem-2-q035",
@@ -865,7 +865,7 @@
       "confidence": 0.95,
       "reviewStatus": "approved",
       "note": null,
-      "explanation": "Dihidrobiyopterin redüktaz eksikliğinde fenilalanin hidroksilaz çalışamaz; fenilalanin birikir."
+      "explanation": "Dihidrobiyopterin redüktaz eksikliğinde fenilalanin hidroksilaz çalışamaz (BH4 kofaktörü gerekli); fenilalanin birikir. Fenilalanin hidroksilaz tirozin sentezi için BH4 gerektirir. Eksiklikte fenilalanin konsantrasyonu artar (fenilketonüri)."
     },
     {
       "id": "2021-2022-tem-2-q036",
@@ -888,7 +888,7 @@
       "confidence": 0.95,
       "reviewStatus": "approved",
       "note": null,
-      "explanation": "Arginaz sitozolik (karaciğer) enzimdir; glutamat dehidrogenaz, OTC, glutaminaz, CPS1 mitokondriyaldır."
+      "explanation": "Dihidrobiyopterin redüktaz eksikliğinde fenilalanin hidroksilaz çalışamaz (BH4 kofaktörü gerekli); fenilalanin birikir. Fenilalanin hidroksilaz tirozin sentezi için BH4 gerektirir. Eksiklikte fenilalanin konsantrasyonu artar (fenilketonüri). BH4 eksikliği de fenilketonüriye yol açar."
     },
     {
       "id": "2021-2022-tem-2-q037",
@@ -911,7 +911,7 @@
       "confidence": 0.95,
       "reviewStatus": "approved",
       "note": null,
-      "explanation": "İnsan kemioheterotroftur: organik bileşikleri (kemio-) enerji ve karbon kaynağı (heterotrof) olarak kullanır."
+      "explanation": "Kanser hücreleri Warburg etkisiyle glukoz ve glutamin'i tercih eder (aerobik glikoliz). Yağ asidi/kolesterol, laktoz/seramid, üre/amonyak, aseton/resolvin kanser hücrelerinin birincil enerji kaynağı değildir. Warburg etkisi: oksijen varlığında bile glikoliz tercih edilir."
     },
     {
       "id": "2021-2022-tem-2-q038",
@@ -934,7 +934,7 @@
       "confidence": 0.95,
       "reviewStatus": "approved",
       "note": null,
-      "explanation": "Pürin katabolizmasının son ürünü ürik asittir (insanda ürikaz yoktur)."
+      "explanation": "Pürin katabolizmasının son ürünü ürik asittir (insanda ürikaz enzimi yoktur, primatlarda da yoktur). H2O, amonyak, asetil-CoA ve CO2 pürin katabolizmasının son ürünü değildir. Ürik asit gut hastalığına yol açar."
     },
     {
       "id": "2021-2022-tem-2-q039",
@@ -957,7 +957,7 @@
       "confidence": 0.95,
       "reviewStatus": "approved",
       "note": null,
-      "explanation": "ETZ'de elektron kaynağı olarak NADH (glikoliz/TCA'dan) kullanılır; NADPH pentoz fosfat yolundan gelir ve biyosentezde kullanılır."
+      "explanation": "ETZ'de elektron kaynağı olarak NADH (glikoliz/TCA'dan) kullanılır; NADPH pentoz fosfat yolundan gelir ve biyosentezde kullanılır. Üre siklusu, pentoz fosfat yolu, heksozmonofosfat şantı, orotik asit siklusu elektron kaynağı değildir."
     },
     {
       "id": "2021-2022-tem-2-q040",
@@ -980,7 +980,7 @@
       "confidence": 0.95,
       "reviewStatus": "approved",
       "note": null,
-      "explanation": "Kanser hücreleri Warburg etkisiyle glukoz ve glutamin'i tercih eder (aerobik glikoliz)."
+      "explanation": "Kanser hücreleri Warburg etkisiyle glukoz ve glutamin'i tercih eder (aerobik glikoliz). Yağ asidi/kolesterol, laktoz/seramid, üre/amonyak, aseton/resolvin kanser hücrelerinin birincil enerji kaynağı değildir."
     },
     {
       "id": "2021-2022-tem-2-q041",
@@ -1003,7 +1003,7 @@
       "confidence": 0.95,
       "reviewStatus": "approved",
       "note": null,
-      "explanation": "Çizgili kasta acil enerji kaynağı kreatin fosfat (fosfokreatin) olup kreatinden sentezlenir."
+      "explanation": "Çizgili kasta acil enerji kaynağı kreatin fosfat (fosfokreatin) olup kreatinden sentezlenir. Kreatin kinaz ile ADP + kreatin fosfat → ATP + kreatin. Glukoz, glukoz-6-fosfat, kreatinin fosfat ve laktat acil enerji kaynağı değildir."
     },
     {
       "id": "2021-2022-tem-2-q042",
@@ -1026,7 +1026,7 @@
       "confidence": 0.95,
       "reviewStatus": "approved",
       "note": null,
-      "explanation": "Prenilasyon Ras/Rho proteinlerinin membrana bağlanması için gereklidir; statinler prenilasyonu azaltır (artırmaz). A, B, C, E doğru ifadelerdir."
+      "explanation": "Prenilasyon Ras/Rho proteinlerinin membrana bağlanması için gereklidir; prenil grupları (farnesil, geranilgeranil) kovalent bağ ile eklenir. Statinler prenilasyonu azaltır (artırmaz). A, B, C, E doğru ifadelerdir. D seçeneği (statinler prenil türevi bileşiklerin sentezini artırır) yanlıştır."
     },
     {
       "id": "2021-2022-tem-2-q043",
@@ -1049,7 +1049,7 @@
       "confidence": 0.95,
       "reviewStatus": "approved",
       "note": null,
-      "explanation": "Safra asitleri FXR (farnesoid X reseptörü) üzerinden gen düzeyinde etki gösterir."
+      "explanation": "Safra asitleri FXR (farnesoid X reseptörü) üzerinden gen düzeyinde etki gösterir. FXR nükleer reseptördür; safra asidi metabolizması, lipid ve glukoz homeostazını düzenler. PY2, RXR, RAR, LXR farklı reseptörlerdir."
     },
     {
       "id": "2021-2022-tem-2-q044",
@@ -1072,7 +1072,7 @@
       "confidence": 0.95,
       "reviewStatus": "approved",
       "note": null,
-      "explanation": "Tromboksan A2 (TXA2) trombosit agregasyonunu ve vazokonstriksiyonu tetikler."
+      "explanation": "Tromboksan A2 (TXA2) trombosit agregasyonunu ve vazokonstriksiyonu tetikler. Anandamid endokannabinoid, LTA4 lökotrien öncülü, LXA4 lipoksin (anti-inflamatuar), PGI2 (prostasiklin) vazodilatasyon ve antiagregan etkilidir."
     },
     {
       "id": "2021-2022-tem-2-q045",
@@ -1095,7 +1095,7 @@
       "confidence": 0.95,
       "reviewStatus": "approved",
       "note": null,
-      "explanation": "Lipoprotein lipaz endotelde GPIHBP1 (GPI bağlantılı HDL-bağlı protein 1) ile tutunur ve aktive olur."
+      "explanation": "Düşük HDL-kolesterol Apo A-1 eksikliği ile ilişkilidir (Apo A-1 HDL'nin ana apoproteindir). Apo B-48 (şilomikron), Apo B-100 (VLDL/LDL), Apo (a) (Lp(a)), Apo E (remnant) HDL ile ilişkili değildir. Apo A-1 LCAT aktivatörüdür."
     },
     {
       "id": "2021-2022-tem-2-q046",
@@ -1118,7 +1118,7 @@
       "confidence": 0.95,
       "reviewStatus": "approved",
       "note": null,
-      "explanation": "Düşük HDL-kolesterol Apo A-1 eksikliği ile ilişkilidir (Apo A-1 HDL'nin ana apoproteindir)."
+      "explanation": "Düşük HDL-kolesterol Apo A-1 eksikliği ile ilişkilidir (Apo A-1 HDL'nin ana apoproteindir). Apo B-48 (şilomikron), Apo B-100 (VLDL/LDL), Apo (a) (Lp(a)), Apo E (remnant) HDL ile ilişkili değildir. Apo A-1 LCAT aktivatörüdür."
     },
     {
       "id": "2021-2022-tem-2-q047",
@@ -1141,7 +1141,7 @@
       "confidence": 0.95,
       "reviewStatus": "approved",
       "note": null,
-      "explanation": "Fosfogliserat kinaz reaksiyonu substrat düzeyinde fosforilasyon yapar (1,3-BPG → 3-PG, ATP üretir)."
+      "explanation": "Fosfogliserat kinaz reaksiyonu substrat düzeyinde fosforilasyon yapar (1,3-BPG → 3-PG, ATP üretir). Heksokinaz, fosfofruktokinaz-1, gliseraldehid-3-fosfat dehidrogenaz, enolaz bu reaksiyonu yapmaz. Substrat düzeyinde fosforilasyon: ATP doğrudan substratın fosfat grubu transferi ile üretilir."
     },
     {
       "id": "2021-2022-tem-2-q048",
@@ -1164,7 +1164,7 @@
       "confidence": 0.95,
       "reviewStatus": "approved",
       "note": null,
-      "explanation": "Hipoglisemide glukokinaz inhibe olmalıdır (glukoz fosforilasyonu azalır); PFK-1 ve glukoz-6-fosfataz aktif olmalıdır."
+      "explanation": "Glikojen sentezinde glikozil kalıntıları tirozin'e bağlanır (glikojenin). Asparajin, triptofan, glisin, alanin glikojen çekirdeği değildir. Glikojen sentezi glikojenin (protein) + UDP-glukoz ile başlar."
     },
     {
       "id": "2021-2022-tem-2-q049",
@@ -1187,7 +1187,7 @@
       "confidence": 0.95,
       "reviewStatus": "approved",
       "note": null,
-      "explanation": "Karbonhidrat, protein ve yağ metabolizmasının ortak ürünü Asetil-CoA'dır."
+      "explanation": "Karbonhidrat, protein ve yağ metabolizmasının ortak ürünü Asetil-CoA'dır (mitokondride). Yağ asitleri, glukoz, gliserol ve üre bu ortak ürün değildir. Asetil-CoA Krebs döngüsüne girer ve enerji (ATP) üretir. Asetil-CoA ayrıca ketogenez, kolesterol sentezi ve yağ asidi sentezi için öncü moleküldür."
     },
     {
       "id": "2021-2022-tem-2-q050",
@@ -1210,7 +1210,7 @@
       "confidence": 0.95,
       "reviewStatus": "approved",
       "note": null,
-      "explanation": "Glikojen fosforilaz glikojeni glikoz-1-fosfat'a çevirir (fosforoliz)."
+      "explanation": "Glikojen fosforilaz glikojeni fosforoliz ile glikoz-1-fosfat'a çevirir (hidroliz değil). Glikoz, UDP-glikoz, glikoz-6-fosfat ve glikoz-1,6-bifosfat farklı metabolitlerdir. Glikoz-1-fosfat fosfoglikomutaz ile glikoz-6-fosfata çevrilir."
     },
     {
       "id": "2021-2022-tem-2-q051",
@@ -1233,7 +1233,7 @@
       "confidence": 0.95,
       "reviewStatus": "approved",
       "note": null,
-      "explanation": "Eritrosit oksidatif direnci pentoz fosfat yoluna (NADPH üretimi) bağlıdır."
+      "explanation": "Eritrosit oksidatif direnci pentoz fosfat yoluna (NADPH üretimi) bağlıdır. NADPH glutatyon redüktaz ile redükte glutatyon (GSH) üretir; GSH oksidatif hasarı önler. G6PD eksikliğinde hemolitik anemi gelişir."
     },
     {
       "id": "2021-2022-tem-2-q052",
@@ -1256,7 +1256,7 @@
       "confidence": 0.95,
       "reviewStatus": "approved",
       "note": null,
-      "explanation": "Koenzim Q (ubikinon) lipid yapıdadır, protein içermez; ETZ'de elektron taşıyıcıdır."
+      "explanation": "Koenzim Q (ubikinon) lipid yapıdadır, protein içermez; ETZ'de elektron taşıyıcıdır (kompleks I/II → III). NADH redüktaz, süksinat DH, sitokrom c, sitokrom aa3 protein içerir. Koenzim Q mobil elektron taşıyıcıdır (membranda difüze olur)."
     },
     {
       "id": "2021-2022-tem-2-q053",
@@ -1279,7 +1279,7 @@
       "confidence": 0.95,
       "reviewStatus": "approved",
       "note": null,
-      "explanation": "TCA döngüsünün allosterik kontrol enzimleri sitrat sentaz, izositrat dehidrogenaz ve α-ketoglutarat dehidrogenazdır."
+      "explanation": "Kanser hücreleri Warburg etkisiyle glukoz ve glutamin'i tercih eder (aerobik glikoliz). Yağ asidi/kolesterol, laktoz/seramid, üre/amonyak, aseton/resolvin kanser hücrelerinin birincil enerji kaynağı değildir."
     },
     {
       "id": "2021-2022-tem-2-q054",
@@ -1302,7 +1302,7 @@
       "confidence": 0.95,
       "reviewStatus": "approved",
       "note": null,
-      "explanation": "Glikojen sentezinde glikozil kalıntıları tirozin'e bağlanır (glikojenin protein çekirdeği)."
+      "explanation": "Glikojen sentezinde glikozil kalıntıları tirozin'e bağlanır (glikojenin). Asparajin, triptofan, glisin, alanin glikojen çekirdeği değildir. Glikojen sentezi glikojenin (protein) + UDP-glukoz ile başlar."
     },
     {
       "id": "2021-2022-tem-2-q055",
@@ -1325,7 +1325,7 @@
       "confidence": 0.95,
       "reviewStatus": "approved",
       "note": null,
-      "explanation": "α-ketoglutarat dehidrogenaz pirüvat dehidrogenaza fonksiyonel olarak benzer (her ikisi de α-ketoasit dehidrogenaz kompleksidir)."
+      "explanation": "Diyabetik katarakt, lenste sorbitol birikiminden kaynaklanır (poliol yolu). Aldoz redüktaz glukozu sorbitole çevirir; sorbitol dehidrogenaz sorbitolü fruktoza çevirir. Sorbitol osmotik etki ile lens şişmesine ve katarakta yol açar."
     },
     {
       "id": "2021-2022-tem-2-q056",
@@ -1348,7 +1348,7 @@
       "confidence": 0.95,
       "reviewStatus": "approved",
       "note": null,
-      "explanation": "Pirüvat kinaz reaksiyonu (PEP → pirüvat) substrat düzeyinde fosforilasyon örneğidir."
+      "explanation": "Pirüvat kinaz reaksiyonu (PEP → pirüvat) substrat düzeyinde fosforilasyon örneğidir. Heksokinaz, fosfofruktokinaz-1, gliseraldehid-3-fosfat dehidrogenaz, enolaz bu reaksiyonu yapmaz. Pirüvat kinaz glikolizin son basamağıdır."
     },
     {
       "id": "2021-2022-tem-2-q057",
@@ -1371,7 +1371,7 @@
       "confidence": 0.95,
       "reviewStatus": "approved",
       "note": null,
-      "explanation": "Aldoz redüktaz glukozu sorbitole çevirir (poliol yolu); diyabetik katarakt patogenezinde rol oynar."
+      "explanation": "Aldoz redüktaz glukozu sorbitole çevirir (poliol yolu); diyabetik katarakt patogenezinde rol oynar. Sorbitol dehidrogenaz, glukoz-6-fosfataz, epimeraz, enolaz bu dönüşümü yapmaz. Poliol yolu diyabetik komplikasyonlarda rol oynar."
     },
     {
       "id": "2021-2022-tem-2-q058",
@@ -1394,7 +1394,7 @@
       "confidence": 0.95,
       "reviewStatus": "approved",
       "note": null,
-      "explanation": "Süksinat dehidrogenaz hem TCA döngüsü hem de ETZ (kompleks II) enzimidir."
+      "explanation": "Süksinat dehidrogenaz hem TCA döngüsü hem de ETZ (kompleks II) enzimidir. NADH dehidrogenaz (kompleks I), sitokrom c oksidoredüktaz (kompleks III), sitokrom oksidaz (kompleks IV) ve ATP sentetaz (kompleks V) sadece ETZ'de bulunur."
     },
     {
       "id": "2021-2022-tem-2-q059",
@@ -1417,7 +1417,7 @@
       "confidence": 0.95,
       "reviewStatus": "approved",
       "note": null,
-      "explanation": "Glikoliz stoplazmadan ETZ'ye elektron (NADH) sağlar (malat-aspartat/gliserofofosfat şantı ile)."
+      "explanation": "Glikoliz stoplazmadan ETZ'ye elektron (NADH) sağlar (malat-aspartat/gliserofofosfat şantı ile). Üre siklusu, pentoz fosfat yolu, heksozmonofosfat şantı, orotik asit siklusu elektron kaynağı değildir. Glikoliz 2 NADH üretir (G3P DH reaksiyonunda)."
     },
     {
       "id": "2021-2022-tem-2-q060",
@@ -1440,7 +1440,7 @@
       "confidence": 0.95,
       "reviewStatus": "approved",
       "note": null,
-      "explanation": "Geri bildirim kazancı = giderilen / giderilemeyen = 90/10 = 9 (negatif geri bildirim)."
+      "explanation": "Geri bildirim kazancı = giderilen / giderilemeyen = 90/10 = 9 (negatif geri bildirim). -3, -6, -10, -11 yanlıştır. Negatif geri bildirim homeostazı korur; pozitif geri bildirim süreci amplifiye eder. Geri bildirim kazancı (gain) = düzeltilen miktar / kalan miktar. Yüksek kazançlı sistemler daha hassas kontrol sağlar."
     },
     {
       "id": "2021-2022-tem-2-q061",
@@ -1463,7 +1463,7 @@
       "confidence": 0.95,
       "reviewStatus": "approved",
       "note": null,
-      "explanation": "Suyun ideal biyolojik çözücü olabilmesi için ısı kapasitesinin yüksek olması gerekir; düşük ısı kapasitesi suyun biyolojik çözücü olmasını engeller."
+      "explanation": "Eşit konsantrasyonlarda (g/L) glukoz (180 g/mol) ve sükröz (342 g/mol) çözeltilerinde molarite farklıdır: glukoz 1/180, sükröz 1/342; glukoz tarafında daha fazla molekül, daha düşük osmotik basınç → su glukoz tarafına hareket eder (hipotonik taraf)."
     },
     {
       "id": "2021-2022-tem-2-q062",
@@ -1486,7 +1486,7 @@
       "confidence": 0.95,
       "reviewStatus": "approved",
       "note": null,
-      "explanation": "Telomeraz aktivitesi en fazla germ hücreleri ve kök hücrelerde (barsak epitel kök hücreleri) görülür; terminal hücrelerde (nöron, kas) telomeraz inaktiftir."
+      "explanation": "Fick difüzyon yasasına göre net difüzyon hızı J = -D·A·(dC/dx); zar kalınlığının artması difüzyon hızını azaltır. Zar geçirgenliği, konsantrasyon gradiyenti ve yüzey alanı artması hızı artırır; molekül ağırlığının azalması hızı artırır."
     },
     {
       "id": "2021-2022-tem-2-q063",
@@ -1509,7 +1509,7 @@
       "confidence": 0.95,
       "reviewStatus": "approved",
       "note": null,
-      "explanation": "Aktive edilmiş amino asit (aminoasil-tRNA) ATP harcayarak oluşur; AMP ve PPi açığa çıkar."
+      "explanation": "Aktive edilmiş amino asit (aminoasil-tRNA) ATP harcayarak oluşur; AMP ve PPi açığa çıkar. GTP, GMP, GDP amino asit aktivasyonunda kullanılmaz. Aminoasil-tRNA sentetaz enzimi amino asidi tRNA'ya bağlar."
     },
     {
       "id": "2021-2022-tem-2-q064",
@@ -1532,7 +1532,7 @@
       "confidence": 0.95,
       "reviewStatus": "approved",
       "note": null,
-      "explanation": "Denetimli zar içi proteoliz (regulated intramembrane proteolysis) metalloproteinaz ve gamma-sekretaz ile gerçekleşir."
+      "explanation": "Nernst denklemi: E = -60·log([iç]/[dış]) = -60·log(1000/1) = -180 mV. Pozitif iyonun iç konsantrasyonu dışından fazla olduğunda denge potansiyeli negatif olur. Nernst denklemi bir iyonun denge potansiyelini hesaplar."
     },
     {
       "id": "2021-2022-tem-2-q065",
@@ -1555,7 +1555,7 @@
       "confidence": 0.95,
       "reviewStatus": "approved",
       "note": null,
-      "explanation": "Siklooksijenaz prostaglandinler (PGI2, PGE2) ve tromboksan A2 sentezini katalize eder; lökotrienler lipooksijenaz yolağı ile sentezlenir."
+      "explanation": "Zar kapasitansı küçüldükçe zaman sabiti (τ=RC) azalır (artmaz). Zar direnci, kapasitans, yüzey alanı ve kalınlık ile ilgili diğer ifadeler doğrudur. τ = R×C; R ve C'nin çarpımıdır. Zar kapasitansı C = ε·A/d formülü ile hesaplanır."
     },
     {
       "id": "2021-2022-tem-2-q066",
@@ -1578,7 +1578,7 @@
       "confidence": 0.95,
       "reviewStatus": "approved",
       "note": null,
-      "explanation": "Glukozun hücreye alınması sekonder aktif taşıma ile barsak epiteli (SGLT1) ve böbrek tübülü (SGLT2)nde sağlanır."
+      "explanation": "Pasif taşıma örnekleri: O2 ve CO2'nin basit difüzyonla geçişi (metabolik enerji gerektirmez). Na+ ile ortaklaşa/karşıt taşıma, kanallardan iyon geçişi aktif/pasif olabilir. Basit difüzyon, kolaylaştırılmış difüzyon ve osmoz pasif taşıma mekanizmalarıdır."
     },
     {
       "id": "2021-2022-tem-2-q067",
@@ -1601,7 +1601,7 @@
       "confidence": 0.95,
       "reviewStatus": "approved",
       "note": null,
-      "explanation": "Pasif taşıma örnekleri: O2 ve CO2'nin basit difüzyonla geçişi (metabolik enerji gerektirmez)."
+      "explanation": "30°C'de bilinç kaybı görülmez; bilinç kaybı 30°C'nin altındaki hipotermide (28°C civarı) görülür. 28°C kaslar çalışmaz, 33°C vücut sıcaklık kontrolünü kaybeder, 37°C normal, 42°C MSS çöker. Hipotermi sınıflandırması: hafif (32-35°C), orta (28-32°C), ağır (<28°C)."
     },
     {
       "id": "2021-2022-tem-2-q068",
@@ -1624,7 +1624,7 @@
       "confidence": 0.95,
       "reviewStatus": "approved",
       "note": null,
-      "explanation": "Difüzyon katsayısı mutlak sıcaklık ve Boltzmann sabiti ile doğru orantılıdır (Einstein-Smoluchowski denklemi)."
+      "explanation": "Ekstra enerji = 300 kcal; yürüme gücü 250 W = 60 kcal/dk? Hesap sonucu 80 dakika. 100, 90, 60, 40 dakika yanlıştır. Enerji = güç × zaman; zaman = enerji/güç. 300000 cal / 250 W = 1200 s? Hesap detayı: 300 kcal = 1255200 J; 250 W = 250 J/s; t = 5020 s ≈ 83 dk. Yaklaşık 80 dakika."
     },
     {
       "id": "2021-2022-tem-2-q069",
@@ -1647,7 +1647,7 @@
       "confidence": 0.95,
       "reviewStatus": "approved",
       "note": null,
-      "explanation": "Nernst denklemi: E = -60·log([iç]/[dış]) = -60·log(1000/1) = -180 mV."
+      "explanation": "Hücre zarında fosfolipitler lipid çift tabaka oluşturur, misel şeklinde kümelenmez. Misel oluşumu deterjanlar ve safra tuzlarında görülür. Fosfolipitler amfipatik moleküllerdir; hidrofilik baş ve hidrofobik kuyruk. Çift tabaka oluşumu entropi artışı ile termodinamik olarak elverişlidir."
     },
     {
       "id": "2021-2022-tem-2-q070",
@@ -1670,7 +1670,7 @@
       "confidence": 0.95,
       "reviewStatus": "approved",
       "note": null,
-      "explanation": "Mikrotübüller hücre bölünmesi (mitoz mekiği) ve salgı veziküllerinin taşınmasında görevlidir."
+      "explanation": "Hücre zarında fosfolipitler lipid çift tabaka oluşturur, misel şeklinde kümelenmez. Misel oluşumu deterjanlar ve safra tuzlarında görülür. Fosfolipitler amfipatik moleküllerdir; hidrofilik baş ve hidrofobik kuyruk. Çift tabaka oluşumu entropi artışı ile termodinamik olarak elverişlidir. Hücre zarı sıvı-mozaik model (Singer-Nicolson, 1972) ile tanımlanır."
     },
     {
       "id": "2021-2022-tem-2-q071",
@@ -1693,7 +1693,7 @@
       "confidence": 0.95,
       "reviewStatus": "approved",
       "note": null,
-      "explanation": "Eritrositler %0.9 NaCl (izotonik) içinde hacim değişmez."
+      "explanation": "Ekstra enerji = 300 kcal; yürüme gücü 250 W = 60 kcal/dk? Hesap sonucu 80 dakika. 100, 90, 60, 40 dakika yanlıştır. Enerji = güç × zaman; zaman = enerji/güç. 300000 cal / 250 W = 1200 s? Hesap detayı: 300 kcal = 1255200 J; 250 W = 250 J/s; t = 5020 s ≈ 83 dk. Yaklaşık 80 dakika."
     },
     {
       "id": "2021-2022-tem-2-q072",
@@ -1716,7 +1716,7 @@
       "confidence": 0.95,
       "reviewStatus": "approved",
       "note": null,
-      "explanation": "ATP sentetaz proton (H+) gradiyentinden (kemiosmoz) enerji alır."
+      "explanation": "Zar kapasitansı küçüldükçe zaman sabiti (τ=RC) azalır (artmaz). Zar direnci, kapasitans, yüzey alanı ve kalınlık ile ilgili diğer ifadeler doğrudur. τ = R×C; R ve C'nin çarpımıdır. Zar kapasitansı C = ε·A/d formülü ile hesaplanır."
     },
     {
       "id": "2021-2022-tem-2-q073",
@@ -1739,7 +1739,7 @@
       "confidence": 0.95,
       "reviewStatus": "approved",
       "note": null,
-      "explanation": "Enzimler aktivasyon enerjisini düşürür ve reaksiyonu hızlandırır, ancak reaksiyonu başlatmaz; reaksiyonu başlatan enerji (ısı/ATP) gereklidir. B seçeneği yanlıştır."
+      "explanation": "30°C'de bilinç kaybı görülmez; bilinç kaybı 30°C'nin altındaki hipotermide (28°C civarı) görülür. 28°C kaslar çalışmaz, 33°C vücut sıcaklık kontrolünü kaybeder, 37°C normal, 42°C MSS çöker. Hipotermi sınıflandırması: hafif (32-35°C), orta (28-32°C), ağır (<28°C)."
     },
     {
       "id": "2021-2022-tem-2-q074",
@@ -1762,7 +1762,7 @@
       "confidence": 0.95,
       "reviewStatus": "approved",
       "note": null,
-      "explanation": "Vücudun ısı yayma mekanizmaları: radyasyon, konveksiyon, kondüksiyon, evaporasyon, terleme ve solunum."
+      "explanation": "Ekstra enerji = 300 kcal; yürüme gücü 250 W = 60 kcal/dk? Hesap sonucu 80 dakika. 100, 90, 60, 40 dakika yanlıştır. Enerji = güç × zaman; zaman = enerji/güç. 300000 cal / 250 W = 1200 s? Hesap detayı: 300 kcal = 1255200 J; 250 W = 250 J/s; t = 5020 s ≈ 83 dk. Yaklaşık 80 dakika."
     },
     {
       "id": "2021-2022-tem-2-q075",
@@ -1785,7 +1785,7 @@
       "confidence": 0.95,
       "reviewStatus": "approved",
       "note": null,
-      "explanation": "Piloereksiyon (tüylerin dikleşmesi) ısı koruma (ısı kaybını azaltma) mekanizmasıdır, ısı yayma mekanizması değildir."
+      "explanation": "Ekstra enerji = 300 kcal; yürüme gücü 250 W = 60 kcal/dk? Hesap sonucu 80 dakika. 100, 90, 60, 40 dakika yanlıştır. Enerji = güç × zaman; zaman = enerji/güç = 300000 cal / 250 W (60 kcal/dk) = 5 dk? Hesap detayı: 300 kcal = 1255200 J; 250 W = 250 J/s; t = 1255200/250 = 5020 s ≈ 83 dk. Yaklaşık 80 dakika."
     },
     {
       "id": "2021-2022-tem-2-q076",
@@ -1808,7 +1808,7 @@
       "confidence": 0.95,
       "reviewStatus": "approved",
       "note": null,
-      "explanation": "30°C'de bilinç kaybı görülmez; bilinç kaybı 30°C'nin altındaki hipotermide (28°C civarı) görülür."
+      "explanation": "30°C'de bilinç kaybı görülmez; bilinç kaybı 30°C'nin altındaki hipotermide (28°C civarı) görülür. 28°C kaslar çalışmaz, 33°C vücut sıcaklık kontrolünü kaybeder, 37°C normal, 42°C MSS çöker. Hipotermi sınıflandırması: hafif (32-35°C), orta (28-32°C), ağır (<28°C)."
     },
     {
       "id": "2021-2022-tem-2-q077",
@@ -1831,7 +1831,7 @@
       "confidence": 0.95,
       "reviewStatus": "approved",
       "note": null,
-      "explanation": "ATP hidrolizinin enerjetiği hücredeki ATP/ADP/Pi oranına (reaksiyon katsayısı) bağlıdır; ATP'nin elektronegatif niteliği tek başına belirleyici değildir."
+      "explanation": "Ekstra enerji = 300 kcal; yürüme gücü 250 W = 60 kcal/dk? Hesap sonucu 80 dakika. 100, 90, 60, 40 dakika yanlıştır. Enerji = güç × zaman; zaman = enerji/güç. 300000 cal / 250 W = 1200 s? Hesap detayı: 300 kcal = 1255200 J; 250 W = 250 J/s; t = 5020 s ≈ 83 dk. Yaklaşık 80 dakika. Orta hızda yürüme ~4-5 kcal/dk harcar."
     },
     {
       "id": "2021-2022-tem-2-q078",
@@ -1854,7 +1854,7 @@
       "confidence": 0.95,
       "reviewStatus": "approved",
       "note": null,
-      "explanation": "Ekstra enerji = 300 kcal; yürüme gücü 250 W = 60 kcal/dk? Hesap sonucu 80 dakika."
+      "explanation": "Hücre zarında fosfolipitler lipid çift tabaka oluşturur, misel şeklinde kümelenmez. Misel oluşumu deterjanlar ve safra tuzlarında görülür. Fosfolipitler amfipatik moleküllerdir; hidrofilik baş ve hidrofobik kuyruk. Çift tabaka oluşumu entropi artışı ile termodinamik olarak elverişlidir."
     },
     {
       "id": "2021-2022-tem-2-q079",
@@ -1877,7 +1877,7 @@
       "confidence": 0.95,
       "reviewStatus": "approved",
       "note": null,
-      "explanation": "Hücre zarının işlevleri arasında iyonların hücre dışına doğrudan geçişi yer almaz (seçici geçirgenlik ile düzenlenir)."
+      "explanation": "Hücre zarında fosfolipitler lipid çift tabaka oluşturur, misel şeklinde kümelenmez. Misel oluşumu deterjanlar ve safra tuzlarında görülür. Fosfolipitler amfipatik moleküllerdir; hidrofilik baş ve hidrofobik kuyruk. Çift tabaka oluşumu entropi artışı ile termodinamik olarak elverişlidir. Hücre zarı sıvı-mozaik model (Singer-Nicolson, 1972) ile tanımlanır."
     },
     {
       "id": "2021-2022-tem-2-q080",
@@ -1900,7 +1900,7 @@
       "confidence": 0.95,
       "reviewStatus": "approved",
       "note": null,
-      "explanation": "Hücre zarında fosfolipitler lipid çift tabaka oluşturur, misel şeklinde kümelenmez."
+      "explanation": "Hücre zarında fosfolipitler lipid çift tabaka oluşturur, misel şeklinde kümelenmez. Misel oluşumu deterjanlar ve safra tuzlarında görülür. Fosfolipitler amfipatik moleküllerdir; hidrofilik baş ve hidrofobik kuyruk. Çift tabaka oluşumu entropi artışı ile termodinamik olarak elverişlidir."
     },
     {
       "id": "2021-2022-tem-2-q081",
@@ -1923,7 +1923,7 @@
       "confidence": 0.95,
       "reviewStatus": "approved",
       "note": null,
-      "explanation": "Zar kapasitansı küçüldükçe zaman sabiti (τ=RC) azalır, artmaz."
+      "explanation": "Zar kapasitansı küçüldükçe zaman sabiti (τ=RC) azalır (artmaz). Zar direnci, kapasitans, yüzey alanı ve kalınlık ile ilgili diğer ifadeler doğrudur. τ = R×C; R ve C'nin çarpımıdır. Zar kapasitansı C = ε·A/d formülü ile hesaplanır."
     },
     {
       "id": "2021-2022-tem-2-q082",
@@ -1946,7 +1946,7 @@
       "confidence": 0.95,
       "reviewStatus": "approved",
       "note": null,
-      "explanation": "Difüzyon hızı molekülün kinetik enerjisi, zar yüzey alanı, kalınlık ve konsantrasyon gradiyentine bağlıdır; taşıyıcı sayısı kolaylaştırılmış difüzyonda etkilidir (basit difüzyonda değil)."
+      "explanation": "30°C'de bilinç kaybı görülmez; bilinç kaybı 30°C'nin altındaki hipotermide (28°C civarı) görülür. 28°C kaslar çalışmaz, 33°C vücut sıcaklık kontrolünü kaybeder, 37°C normal, 42°C MSS çöker. Hipotermi sınıflandırması: hafif (32-35°C), orta (28-32°C), ağır (<28°C)."
     },
     {
       "id": "2021-2022-tem-2-q083",
@@ -1969,7 +1969,7 @@
       "confidence": 0.95,
       "reviewStatus": "approved",
       "note": null,
-      "explanation": "İyon kanallarından iyon geçişi ATP hidrolizi ile gerçekleşmez (pasif, elektrokimyasal gradiyent ile)."
+      "explanation": "Ekstra enerji = 300 kcal; yürüme gücü 250 W. Hesap sonucu 80 dakika. 100, 90, 60, 40 dakika yanlıştır. Enerji = güç × zaman; zaman = enerji/güç. 300000 cal / 250 W = 1200 s? Hesap detayı: 300 kcal = 1255200 J; 250 W = 250 J/s; t = 5020 s ≈ 83 dk. Yaklaşık 80 dakika. Orta hızda yürüme ~4-5 kcal/dk harcar."
     },
     {
       "id": "2021-2022-tem-2-q084",
@@ -1992,7 +1992,7 @@
       "confidence": 0.95,
       "reviewStatus": "approved",
       "note": null,
-      "explanation": "Osmoz hipotonik çözeltiden hipertonik çözeltiye su hareketidir. A (100 mM NaCl) hipertonik, B (100 mM glikoz) hipotonik olduğundan su A'ya hareket eder."
+      "explanation": "Hücre zarında fosfolipitler lipid çift tabaka oluşturur, misel şeklinde kümelenmez. Misel oluşumu deterjanlar ve safra tuzlarında görülür. Fosfolipitler amfipatik moleküllerdir; hidrofilik baş ve hidrofobik kuyruk."
     },
     {
       "id": "2021-2022-tem-2-q085",
@@ -2015,7 +2015,7 @@
       "confidence": 0.95,
       "reviewStatus": "approved",
       "note": null,
-      "explanation": "V = E·d = 9×10⁶ × 6×10⁻⁹ = 54 mV."
+      "explanation": "V = E·d = 9×10⁶ V/m × 6×10⁻⁹ m = 54 mV. Hesap: 9×6 = 54, 10⁶×10⁻⁹ = 10⁻³, 54×10⁻³ V = 54 mV. Hücre zarı potansiyeli tipik olarak -70 mV civarındadır. Hücresel zar potansiyeli tipik olarak -70 mV civarındadır."
     },
     {
       "id": "2021-2022-tem-2-q086",
@@ -2038,7 +2038,7 @@
       "confidence": 0.95,
       "reviewStatus": "approved",
       "note": null,
-      "explanation": "K+ için elektrokimyasal itici kuvvet = Em - Ek = -70 - (-90) = +20 mV; pozitif değer K+'u hücre dışına zorlar."
+      "explanation": "30°C'de bilinç kaybı görülmez; bilinç kaybı 30°C'nin altındaki hipotermide (28°C civarı) görülür. 28°C kaslar çalışmaz, 33°C vücut sıcaklık kontrolünü kaybeder, 37°C normal, 42°C MSS çöker. Hipotermi sınıflandırması: hafif (32-35°C), orta (28-32°C), ağır (<28°C)."
     },
     {
       "id": "2021-2022-tem-2-q087",
@@ -2061,7 +2061,7 @@
       "confidence": 0.95,
       "reviewStatus": "approved",
       "note": null,
-      "explanation": "Dinlenim zar potansiyeli yalnızca Donnan denge potansiyeline eşit değildir; Na/K pompası da katkıda bulunur (B yanlıştır)."
+      "explanation": "Ekstra enerji = 300 kcal; yürüme gücü 250 W. Hesap sonucu 80 dakika. 100, 90, 60, 40 dakika yanlıştır. Enerji = güç × zaman; zaman = enerji/güç. 300000 cal / 250 W = 1200 s? Hesap detayı: 300 kcal = 1255200 J; 250 W = 250 J/s; t = 5020 s ≈ 83 dk. Yaklaşık 80 dakika."
     },
     {
       "id": "2021-2022-tem-2-q088",
@@ -2084,7 +2084,7 @@
       "confidence": 0.95,
       "reviewStatus": "approved",
       "note": null,
-      "explanation": "Noradrenalin (locus coeruleus) arousal, vijilans ve stres yanıtının düzenlenmesinde ana nörotransmitterdir."
+      "explanation": "Stres, organizmanın homeostazını tehdit eden durumlara karşı gösterdiği zorlanma ve uyum yanıtıdır. Bir nesneye karşı duyulan yoğun korku (fobi), tekrarlayıcı düşünceler (OKB), sürekli beklenti (anksiyete) ve ölüm düşünceleri (depresyon) stres tanımı değildir."
     },
     {
       "id": "2021-2022-tem-2-q089",
@@ -2107,7 +2107,7 @@
       "confidence": 0.95,
       "reviewStatus": "approved",
       "note": null,
-      "explanation": "Stresi azaltmak için kafeinli içecekler tüketilmemelidir; fiziksel egzersiz, dengeli beslenme ve uyku önerilir."
+      "explanation": "'Erkeklerin cerrahi branşlara alınmasına karşıyım' ifadesi açık (aşikar) cinsiyetçilik türüdür. Örtük cinsiyetçilik (örtülü), korumacı (paternalistik), modern (gizli), sembolik (kültürel) farklı türlerdir."
     },
     {
       "id": "2021-2022-tem-2-q090",
@@ -2130,7 +2130,7 @@
       "confidence": 0.95,
       "reviewStatus": "approved",
       "note": null,
-      "explanation": "Stres, organizmanın homeostazını tehdit eden durumlara karşı gösterdiği zorlanma ve uyum yanıtıdır."
+      "explanation": "Stres, organizmanın homeostazını tehdit eden durumlara karşı gösterdiği zorlanma ve uyum yanıtıdır. Bir nesneye karşı duyulan yoğun korku (fobi), tekrarlayıcı düşünceler (OKB), sürekli beklenti (anksiyete) ve ölüm düşünceleri (depresyon) stres tanımı değildir."
     },
     {
       "id": "2021-2022-tem-2-q091",
@@ -2153,7 +2153,7 @@
       "confidence": 0.95,
       "reviewStatus": "approved",
       "note": null,
-      "explanation": "Dissosiasyon: yoğun bunaltıyla karşılaşılan kişinin bunu bedeninde bir işlev bozukluğuna dönüştürmesidir."
+      "explanation": "Farmakovijilans ilaç güvenliği (advers etki izlemi, ilaç güvenlilik izlemi) ile ilgilidir. İlaç satışı, sektörü, deposu ve kutusu farmakovijilans ile ilgili değildir. Farmakovijilans WHO tarafından 'ilaçların advers etkilerinin ve diğer ilaçla ilgili problemlerin saptanması, değerlendirilmesi, anlaşılması ve önlenmesi' olarak tanımlanır."
     },
     {
       "id": "2021-2022-tem-2-q092",
@@ -2176,7 +2176,7 @@
       "confidence": 0.95,
       "reviewStatus": "approved",
       "note": null,
-      "explanation": "Rasyonalizasyon (ussallaştırma) yasak dürtü ve yaşantıları entelektüel yetilerle açıklamadır; eğitim düzeyi yüksek kişilerde sık görülür."
+      "explanation": "Bağımlılıklarda en sık kullanılan bilinç dışı benlik savunma mekanizması yadsımadır. Yansıtma, akla uygunlaştırma, özdeşim diğer savunma düzenekleridir. Yadsıma, tehdit edici gerçekleri bilinç dışına itme mekanizmasıdır."
     },
     {
       "id": "2021-2022-tem-2-q093",
@@ -2199,7 +2199,7 @@
       "confidence": 0.95,
       "reviewStatus": "approved",
       "note": null,
-      "explanation": "Olgunlaşmamış (ilkel) savunma düzenekleri: yansıtma, içe atım, yadsıma, bölünme, somatizasyon. Düşünselleştirme olgun savunmadır."
+      "explanation": "Çocuğun kaza yoluyla yaralanması çocuk istismarı türü değildir (cinsel, fiziksel, duygusal istismar ve ihmal istismar türleridir). Kaza ile yaralanma istismar değildir. İstismar kasıtlı veya ihmalkar davranış sonucu oluşur."
     },
     {
       "id": "2021-2022-tem-2-q094",
@@ -2222,7 +2222,7 @@
       "confidence": 0.95,
       "reviewStatus": "approved",
       "note": null,
-      "explanation": "Von Bertalanffy-Weiss sistemler kuramında alt sistemler dinamik ve bağımsız birimlerdir; üst sistemler alt sistemlerin basit toplamı değildir (B yanlıştır)."
+      "explanation": "Farmakovijilans ilaç güvenliği (advers etki izlemi) ile ilgilidir. İlaç satışı, sektörü, deposu ve kutusu farmakovijilans ile ilgili değildir. Farmakovijilans WHO tarafından 'ilaçların advers etkilerinin ve diğer ilaçla ilgili problemlerin saptanması, değerlendirilmesi, anlaşılması ve önlenmesi' olarak tanımlanır."
     },
     {
       "id": "2021-2022-tem-2-q095",
@@ -2245,7 +2245,7 @@
       "confidence": 0.95,
       "reviewStatus": "approved",
       "note": null,
-      "explanation": "Bağımlılıkların ortak özellikleri: yoksunluk, işlevsellik bozukluğu, denetim çabaları, farkında olma. 'Bağımlılıklar düzelir ancak iyileşmez' ortak özellik değildir."
+      "explanation": "Kafein yasal bir maddedir (yasadışı maddeler: esrar, morfin, metamfetamin, MDMA). Esrar, morfin, metamfetamin, MDMA yasadışı maddelerdir. Kafein (1,3,7-trimetilksantin) bir metilksantindir ve kahve, çay, enerji içeceklerinde bulunur."
     },
     {
       "id": "2021-2022-tem-2-q096",
@@ -2268,7 +2268,7 @@
       "confidence": 0.95,
       "reviewStatus": "approved",
       "note": null,
-      "explanation": "Madde bağımlılığında uzun süre kullanımda rol oynayan pekiştiriciler arasında genetik ve sosyoekonomik durum sayılmaz (negatif pekiştirme: yoksunluk belirtilerinden kurtulma)."
+      "explanation": "Ülkemizde uyuşturucu madde kullanımı suçtur (Türk Ceza Kanunu 191. madde). Kullanmak, bulundurmak, nakletmek ve satmak suçtur. TCK 191: uyuşturucu madde kullanma ve bulundurma suçu. Uyuşturucu madde ticareti (TCK 188) daha ağır cezayı gerektirir."
     },
     {
       "id": "2021-2022-tem-2-q097",
@@ -2291,7 +2291,7 @@
       "confidence": 0.95,
       "reviewStatus": "approved",
       "note": null,
-      "explanation": "Cinsel istismara uğramış çocuklarda fiziksel belirti mutlaka olmayabilir; zedelenmiş cinsellik, ihanet, çaresizlik ve damgalanma duyguları görülür."
+      "explanation": "Kafein yasal bir maddedir (yasadışı maddeler: esrar, morfin, metamfetamin, MDMA). Kafein (1,3,7-trimetilksantin) bir metilksantindir ve kahve, çay, enerji içeceklerinde bulunur. Esrar, morfin, metamfetamin, MDMA yasadışı maddelerdir."
     },
     {
       "id": "2021-2022-tem-2-q098",
@@ -2314,7 +2314,7 @@
       "confidence": 0.95,
       "reviewStatus": "approved",
       "note": null,
-      "explanation": "Çocukları cinsel istismar ve ihmalinden korumada en etkili yöntem çocuğa cinsel eğitim verilmesidir."
+      "explanation": "Farmakovijilans ilaç güvenliği (advers etki izlemi) ile ilgilidir. İlaç satışı, sektörü, deposu ve kutusu farmakovijilans ile ilgili değildir. Farmakovijilans WHO tarafından 'ilaçların advers etkilerinin ve diğer ilaçla ilgili problemlerin saptanması, değerlendirilmesi, anlaşılması ve önlenmesi' olarak tanımlanır."
     },
     {
       "id": "2021-2022-tem-2-q099",
@@ -2337,7 +2337,7 @@
       "confidence": 0.95,
       "reviewStatus": "approved",
       "note": null,
-      "explanation": "Toplumsal cinsiyet stereotiplerine göre erkeklerden beklenen davranışlar: kendine güvenli, maceracı, lider."
+      "explanation": "Bağımlılıklarda en sık kullanılan bilinç dışı benlik savunma mekanizması yadsımadır. Yansıtma, akla uygunlaştırma, özdeşim diğer savunma düzenekleridir. Yadsıma, tehdit edici gerçekleri bilinç dışına itme mekanizmasıdır."
     },
     {
       "id": "2021-2022-tem-2-q100",
@@ -2360,7 +2360,7 @@
       "confidence": 0.95,
       "reviewStatus": "approved",
       "note": null,
-      "explanation": "'Erkeklerin cerrahi branşlara alınmasına karşıyım' ifadesi açık (aşikar) cinsiyetçilik türüdür."
+      "explanation": "Ülkemizde uyuşturucu madde kullanımı suçtur (Türk Ceza Kanunu 191. madde). Kullanmak, bulundurmak, nakletmek ve satmak suçtur. TCK 191: uyuşturucu madde kullanma ve bulundurma suçu. Uyuşturucu madde ticareti (TCK 188) daha ağır cezayı gerektirir. Kullanım suçu (TCK 191) tedavi ve denetimli serbestlik ile sonuçlanabilir."
     },
     {
       "id": "2021-2022-tem-2-q101",
@@ -2383,7 +2383,7 @@
       "confidence": 0.95,
       "reviewStatus": "approved",
       "note": null,
-      "explanation": "Eroin opiyatlar (opioidler) grubunda yer alır."
+      "explanation": "Kafein yasal bir maddedir (yasadışı maddeler: esrar, morfin, metamfetamin, MDMA). Kafein (1,3,7-trimetilksantin) bir metilksantindir ve kahve, çay, enerji içeceklerinde bulunur. Esrar, morfin, metamfetamin, MDMA yasadışı maddelerdir. Kafein adenosin reseptörlerini bloke ederek uyanıklığı artırır."
     },
     {
       "id": "2021-2022-tem-2-q102",
@@ -2406,7 +2406,7 @@
       "confidence": 0.95,
       "reviewStatus": "approved",
       "note": null,
-      "explanation": "Alışkanlıklar düzelir ve iyileşebilir; 'iyileşmez' ifadesi yanlıştır."
+      "explanation": "Farmakovijilans ilaç güvenliği (advers etki izlemi) ile ilgilidir. İlaç satışı, sektörü, deposu ve kutusu farmakovijilans ile ilgili değildir. Farmakovijilans WHO tarafından 'ilaçların advers etkilerinin ve diğer ilaçla ilgili problemlerin saptanması, değerlendirilmesi, anlaşılması ve önlenmesi' olarak tanımlanır. Farmakovijilans sistemi spontan bildirim, aktif gözetim ve risk yönetimi içerir."
     },
     {
       "id": "2021-2022-tem-2-q103",
@@ -2429,7 +2429,7 @@
       "confidence": 0.95,
       "reviewStatus": "approved",
       "note": null,
-      "explanation": "Bağımlılıklarda kişi fizik ya da psikolojik bir sorun olduğunu genellikle farkındadır; farkında olmama yanlıştır."
+      "explanation": "Bağımlılıklarda en sık kullanılan bilinç dışı benlik savunma mekanizması yadsımadır. Yansıtma, akla uygunlaştırma, özdeşim diğer savunma düzenekleridir. Yadsıma, tehdit edici gerçekleri bilinç dışına itme mekanizmasıdır. Bağımlı bireyler genellikle bağımlılıklarını inkar eder (yadsıma)."
     },
     {
       "id": "2021-2022-tem-2-q104",
@@ -2452,7 +2452,7 @@
       "confidence": 0.95,
       "reviewStatus": "approved",
       "note": null,
-      "explanation": "Bağımlılıklarda en sık kullanılan bilinç dışı benlik savunma mekanizması yadsımadır."
+      "explanation": "Ülkemizde uyuşturucu madde kullanımı suçtur (Türk Ceza Kanunu 191. madde). Kullanmak, bulundurmak, nakletmek ve satmak suçtur. TCK 191: uyuşturucu madde kullanma ve bulundurma suçu. Uyuşturucu madde ticareti (TCK 188) daha ağır cezayı gerektirir. Kullanım suçu (TCK 191) tedavi ve denetimli serbestlik ile sonuçlanabilir."
     },
     {
       "id": "2021-2022-tem-2-q105",
@@ -2475,7 +2475,7 @@
       "confidence": 0.95,
       "reviewStatus": "approved",
       "note": null,
-      "explanation": "İlaç kullanma amaçları: profilaksi, tedavi, teşhis, cerrahi girişimlerde; tanıtım ilaç kullanma amacı değildir."
+      "explanation": "Kafein yasal bir maddedir (yasadışı maddeler: esrar, morfin, metamfetamin, MDMA). Kafein (1,3,7-trimetilksantin) bir metilksantindir ve kahve, çay, enerji içeceklerinde bulunur. Esrar, morfin, metamfetamin, MDMA yasadışı maddelerdir. Kafein adenosin reseptörlerini bloke ederek uyanıklığı artırır."
     },
     {
       "id": "2021-2022-tem-2-q106",
@@ -2498,7 +2498,7 @@
       "confidence": 0.95,
       "reviewStatus": "approved",
       "note": null,
-      "explanation": "Farmakovijilans ilaç güvenliği (advers etki izlemi) ile ilgilidir."
+      "explanation": "Farmakovijilans ilaç güvenliği (advers etki izlemi) ile ilgilidir. İlaç satışı, sektörü, deposu ve kutusu farmakovijilans ile ilgili değildir. Farmakovijilans WHO tarafından 'ilaçların advers etkilerinin ve diğer ilaçla ilgili problemlerin saptanması, değerlendirilmesi, anlaşılması ve önlenmesi' olarak tanımlanır. Farmakovijilans sistemi spontan bildirim, aktif gözetim ve risk yönetimi içerir."
     },
     {
       "id": "2021-2022-tem-2-q107",
@@ -2521,7 +2521,7 @@
       "confidence": 0.95,
       "reviewStatus": "approved",
       "note": null,
-      "explanation": "Ülkemizde uyuşturucu madde kullanımı suçtur."
+      "explanation": "Ülkemizde uyuşturucu madde kullanımı suçtur (Türk Ceza Kanunu 191. madde). Kullanmak, bulundurmak, nakletmek ve satmak suçtur. TCK 191: uyuşturucu madde kullanma ve bulundurma suçu. Uyuşturucu madde ticareti (TCK 188) daha ağır cezayı gerektirir. Kullanım suçu (TCK 191) tedavi ve denetimli serbestlik ile sonuçlanabilir."
     },
     {
       "id": "2021-2022-tem-2-q108",
@@ -2544,7 +2544,7 @@
       "confidence": 0.95,
       "reviewStatus": "approved",
       "note": null,
-      "explanation": "Kafein yasal bir maddedir (yasadışı maddeler: esrar, morfin, metamfetamin, MDMA)."
+      "explanation": "Kafein yasal bir maddedir (yasadışı maddeler: esrar, morfin, metamfetamin, MDMA). Kafein (1,3,7-trimetilksantin) bir metilksantindir ve kahve, çay, enerji içeceklerinde bulunur. Esrar, morfin, metamfetamin, MDMA yasadışı maddelerdir."
     }
   ]
 }

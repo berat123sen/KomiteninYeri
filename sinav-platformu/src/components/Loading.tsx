@@ -3,8 +3,8 @@ export function LinearProgress({ value, className = "" }: { value: number; class
   return (
     <div className={`h-1.5 w-full overflow-hidden rounded-full bg-slate-100 dark:bg-slate-800 ${className}`}>
       <div
-        className="h-full rounded-full bg-gradient-to-r from-indigo-500 to-violet-500 transition-all duration-500"
-        style={{ width: `${clamped}%` }}
+        className="h-full rounded-full transition-all duration-500"
+        style={{ width: `${clamped}%`, background: "linear-gradient(90deg, var(--accent), var(--accent-hover))" }}
       />
     </div>
   );

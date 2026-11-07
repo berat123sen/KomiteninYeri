@@ -1,0 +1,48 @@
+26 | Biyokimya | Transaminasyon tepkimeleri hakkında verilenlerden hangi(leri) doğrudur?
+I. Hem sentez hem de yıkımda görev alırlar.
+II. Yıkım sırasında serbest amonyak açığa çıkar.
+III. Sentez sırasında serbest amonyağı bir ketoaside bağlar.
+   A) Sadece I
+   B) I ve II
+   C) I, II ve III
+   D) II ve III
+   E) Sadece II
+   CEVAP: A
+
+27 | Biyokimya | Glutamat dehidrogenaz tepkimesi için verilenlerden hangi(leri) doğrudur?
+I. Tepkime sonucunda alfa ketoglutarat oluşur.
+II. Bu enzim mitokondri matriksinde bulunur.
+III. Kofaktör olarak NAD ve NADP’yi kullanır.
+   A) Sadece I
+   B) I ve II
+   C) I, II ve III
+   D) II ve III
+   E) Sadece II
+   CEVAP: C
+
+28 | Biyokimya | Üre döngüsünün ilk tepkimesi olan Karbamoil fosfat sentetaz I reaksiyonu için hangi(leri) doğrudur?
+I. Tepkime için N-asetil glutamat’a gereksinimi vardır.
+II. Substrat olarak bikarbonat ve serbest amonyak kullanılır.
+III. Reaksiyon sırasında 2 ATP’den 2 ADP oluşur.
+   A) Sadece I
+   B) I ve II
+   C) I, II ve III
+   D) I ve III
+   E) II ve III
+   CEVAP: C
+
+29 | Biyokimya | Homosistein’den metionin sentezini gerçekleştiren metionin sentaz enzimi için aşağıdakilerden hangisi gereklidir?
+   A) B12 vitamini
+   B) Biotin
+   C) Niasin
+   D) Folik asit
+   E) Tiamin
+   CEVAP: D
+
+30 | Biyokimya | Triptofandan aşırı miktarda serotonin üretildiği durumlarda hangi vitaminin eksikliği oluşabilir?
+   A) B12 vitamini
+   B) Biotin
+   C) Niasin
+   D) Folik asit
+   E) Tiamin
+   CEVAP: C

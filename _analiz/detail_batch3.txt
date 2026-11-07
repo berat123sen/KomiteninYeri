@@ -1,0 +1,119 @@
+31 | Biyokimya | Aşağıda verilen maddelerden hangisi tirozin aminoasitinden sentezlenemez?
+   A) Triiyodotironin
+   B) Epinefrin
+   C) Melanin
+   D) Kreatinin
+   E) Dopamin
+   CEVAP: D
+
+32 | Biyokimya | Aşağıdakilerden hangisi insülin’in etkileri arasında yer almaz?
+   A) Kas ve yağ doku hücrelerine glukoz girişinin sağlanması
+   B) Hormon-duyarlı lipazın uyarılması
+   C) Glikolizin uyarılması
+   D) Glikojen sentezinin uyarılması
+   E) Protein sentezinin uyarılması
+   CEVAP: B
+
+33 | Biyokimya | Aşağıdaki glikoliz enzimlerinden hangisi karbon-karbon bağını kırarak fruktoz 1,6-bifosfatın trioz şekerlere dönüşümünü sağlar?
+   A) Enolaz
+   B) Trioz Fosfat İzomeraz
+   C) Fosfogliserat Kinaz
+   D) Gliseraldehit 3 Fosfat dehidrogenaz
+   E) Aldolaz A
+   CEVAP: E
+
+34 | Biyokimya | Pirüvattan tek bir reaksiyon ile hangi madde oluşamaz?
+   A) Fosfoenol piruvat
+   B) Laktat
+   C) Alanin
+   D) Oksaloasetat
+   E) Asetil CoA
+   CEVAP: A
+
+35 | Biyokimya | Aşağıdaki dehidrogenaz enzimlerinin hangisinin aktivitesiyle, alternatif yolaklarla 1,5 ya da 2,5 ATP sentezi gerçekleşebilir?
+   A) Gliseraldehit 3 fosfat dehidrogenaz
+   B) Pirüvat dehidrogenaz
+   C) İzositrat dehidrogenaz
+   D) Alfa ketoglutarat dehidrogenaz
+   E) Malat dehidrogenaz
+   CEVAP: A
+
+36 | Biyokimya | Krebs siklusunda aşağıdakilerden hangisi gerçekleşmez?
+   A) Asetil CoA’nın oksidasyonu
+   B) alfa-ketoglutarat oluşumu
+   C) CO₂ oluşumu
+   D) NADH ve FADH₂ oluşumu
+   E) Asetil CoA’nın piruvata dönüşümü
+   CEVAP: E
+
+37 | Biyokimya | Krebs döngüsünden elde edilen FADH₂, ETZ’ye hangi basamaktan girer?
+   A) Kompleks I
+   B) Kompleks II
+   C) Koenzim Q
+   D) Kompleks III
+   E) Kompleks IV
+   CEVAP: B
+
+38 | Biyokimya | Pentoz fosfat yolunun başlıca amacı aşağıdakilerden hangisidir?
+   A) Amino asitlerin karbon iskeletinin oksidasyonu
+   B) ATP sentezlemek
+   C) NADPH ve riboz-5-fosfat üretmek
+   D) Açlıkta kan glukozunu artırmak
+   E) Asidik şekerlerin üretilmesi
+   CEVAP: C
+
+39 | Biyokimya | Aşağıdakilerden hangisi glukoneogenezde yer alan enzim veya metabolit değildir?
+   A) Fosfoglikoizomeraz
+   B) Gliseraldehid 3-fosfat
+   C) Aldolaz
+   D) Piruvat dehidrogenaz
+   E) Glukoz 6-fosfataz
+   CEVAP: D
+
+40 | Biyokimya | Glikojen sentezi için aşağıdakilerden hangisi yanlıştır?
+   A) Protein yapılı bir primere gereksinim vardır.
+   B) Glikojenin yapısında 1,4 ve 1,6 glikozit bağları vardır.
+   C) Glikojen sentezi insülin ile uyarılır.
+   D) Glikojen sentazın fosforile hali aktiftir.
+   E) Glukoz monomerleri senteze UDP-Glukoz olarak girer.
+   CEVAP: D
+
+41 | Biyokimya | Glikojenin yıkılmasını sağlayan enzimlerden biri olan glikojen fosforilazın ürünü aşağıdakilerden hangisidir?
+   A) Glikoz 1-fosfat
+   B) Glikoz
+   C) UDP-glikoz
+   D) Glikoz 6-fosfat
+   E) Glikoz 1,6-bifosfat
+   CEVAP: A
+
+42 | Biyokimya | Fruktoz metabolizması ile ilgili aşağıdakilerden hangisi yanlıştır?
+   A) Fruktoz metabolizması karaciğerde çoğunlukla heksokinaz ile 6. karbondan fosforilasyon ile başlar.
+   B) Fruktoz metabolizmasının glikoz metabolizmasına göre daha hızlı olmasının nedeni Fosfofruktokinaz kontrol basamağını atlamasıdır.
+   C) Fazla fruktozlu diyet hiperürisemiye neden olur.
+   D) Aldolaz-B eksikliğinde herediter fruktoz intoleransı gelişir.
+   E) Diyabette görülen katarakt, lenste sorbitol birikiminden kaynaklanır.
+   CEVAP: A
+
+43 | Biyokimya | Pentoz fosfat yolunun inhibitörü aşağıdakilerden hangisidir?
+   A) NAD⁺
+   B) FAD
+   C) Asetil CoA
+   D) NADH
+   E) NADPH
+   CEVAP: E
+
+44 | Biyokimya | Kan glukozu düşmüş bir kişide, aşağıdaki enzimlerden hangisinin karaciğerde inhibe olması gerekir?
+   A) Pirüvat karboksilaz
+   B) Pirüvat kinaz
+   C) PEP karboksikinaz
+   D) Fruktoz-1,6-bifosfataz
+   E) Glukoz-6-fosfataz
+   CEVAP: B
+
+45 | Biyokimya | Aşağıdaki aminoasitlerden hangisi Koenzim olarak C Vitamininin kullanıldığı bir hidroksilasyon reaksiyonu sonucu oluşur ve kolajenin esas yapısının oluşmasında rol oynar?
+   A) Glisin
+   B) Valin
+   C) Lisin
+   D) Glutamin
+   E) Prolin
+   CEVAP: E

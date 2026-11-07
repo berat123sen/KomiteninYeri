@@ -1,0 +1,127 @@
+61 | Biyofizik | Elektromanyetik spektrum için aşağıda verilen ifadelerden hangileri doğrudur? I) Dalga boyu azalıp, frekans arttıkça enerji artar. II) Dalga boyu artıp, frekans azaldıkça enerji artar. III) Gamma ve X-ışınlarının enerjisi en yüksektir. IV) Yüksek enerjili ışınlar atom ve hücre çekirdeği düzeyinde etkili olurlar. V) Mikrodalga ve radyo dalgalarının enerjisi görünür ışın altındadır.
+   A) I, II, IV
+   B) I, III, V
+   C) I, III, IV
+   D) I, II, IV, V
+   E) I, II, V
+   CEVAP: B
+
+62 | Biyofizik | Aşağıdaki vücut sıcaklığı ile ilgili verilen bilgilerden hangisi yanlıştır?
+   A) Deri damarlarında vazokonstriksiyon vücutta ısı kaybını azaltır
+   B) Piloereksiyon vücutta ısı kaybını azaltır
+   C) Solunumun hızlanması durumunda vücutta ısı kaybı artar
+   D) İştahsızlık sonucu vücutta ısı üretimi artar
+   E) TSH salgılanmasında azalma vücutta ısı üretimini azaltır
+   CEVAP: D
+
+63 | Biyofizik | Vücudun içi ve dışı arasındaki dokunun kalınlığı 3 cm, iletkenliği 18 cal.cm/m.saat.°C, alan 1.5 m2, vücut içi ile dışı arasındaki sıcaklık farkı 3°C ise ısı akışı ne kadardır?
+   A) 81 cal/saat
+   B) 27 cal/saat
+   C) 13,5 cal/saat
+   D) 54 cal/saat
+   E) 18 cal/saat
+   CEVAP: B
+
+64 | Biyofizik | 80 kg'lık bir insan orta derecede 260 kcal/saat enerji harcar. Bunun 200 kcal/saat kısmı ısıya dönüşür. Bu ısı vücuttan atılmazsa vücut sıcaklığı kaç derece artar? (1 cal=4 J, Cp=2000 J/kg°C)
+   A) 3
+   B) 4
+   C) 5
+   D) 8
+   E) 13
+   CEVAP: C
+
+65 | Biyofizik | Aşağıdaki reaksiyon türlerinden hangisi hücre içinde entropiyi azaltır?
+   A) Hidroliz
+   B) Sindirim
+   C) Katabolik reaksiyonlar
+   D) Anabolik reaksiyonlar
+   E) Entropi sabittir
+   CEVAP: D
+
+66 | Biyofizik | Sabit sıcaklık ve basınç altındaki bir sistemde gerçekleşen bir difüzyon sürecinin Gibbs-Serbest enerjisi (AG) aşağıdakilerden hangisidir?
+   A) AG<0
+   B) AG=0
+   C) Hesaplanamaz
+   D) AG>0
+   E) AG=[]
+   CEVAP: A
+
+67 | Biyofizik | Aşağıdakilerden hangisinde hidrofobik etkileşimler bulunmaz?
+   A) Zar lipid çift tabaka oluşumunda
+   B) Misel oluşumunda
+   C) Proteinlerin kendilerine özgü 3 boyutlu yapılarında
+   D) NaCl'nin suda çözünmesinde
+   E) DNA çift sarmal yapının stabil olmasında
+   CEVAP: D
+
+68 | Biyofizik | ATP hidrolizi ile enerji salınımı, hücrede içe dönüşür. Buna göre canlı bir hücrede ATP hidrolizinin enerjetiği hangisi belirler?
+   A) ATP'nin elektronegatif niteliği
+   B) Sıcaklık farkı
+   C) Hidrofobik etkileşimler
+   D) Yakınsız moleküller
+   E) Hücre zarı
+   CEVAP: A
+
+69 | Biyofizik | Hücre zarının elektriksel özellikleri ile ilgili hangi ifade yanlıştır?
+   A) Zaman sabiti (τ=RC), zarın yük depolama (kapasitans) ve zar direnci üzerinden yük aktarma yeteneğini gösterir
+   B) Zarın yüksek kapasitansı vardır
+   C) Zar kapasitansı yüzey alanının büyüklüğü ile doğru orantılıdır
+   D) Zar kapasitansı küçüldükçe hücre zarı zaman sabiti artar
+   E) Zaman sabiti nöronun iletim hızının hesaplanmasında kullanılır
+   CEVAP: D
+
+70 | Biyofizik | Hücre zarında gerçekleşen osmozun hareket yönünün belirlenmesinde, aşağıdakilerden hangileri temel faktörlerden değildir? I: Hücre içinde çözünen maddelerin konsantrasyonu. II: Hücre dışında çözünen maddelerin konsantrasyonu. III: Çözünenlerin polaritesi. IV: Çözünenlerin moleküler ağırlığı. V: Aquaporinlerin varlığı
+   A) I, II, IV
+   B) I, II, V
+   C) I, II, IV, V
+   D) II, III, IV
+   E) IV, V
+   CEVAP: A
+
+71 | Biyofizik | Sinir hücresinde yer alan Na+/K+ pompası zar boyunca 3 Na+/2 K+ değişimi yapar. Bu pompasal temel görevi aşağıdakilerden hangisidir?
+   A) Donnan denge kurmak
+   B) Hücre içi Na konsantrasyonunu arttırmak
+   C) Hücre içi K konsantrasyonunu arttırmak
+   D) Sistolik durumuna getirmek
+   E) Hücrede iyonik ve kimyasal potansiyel enerjiyi depolamak
+   CEVAP: E
+
+72 | Biyofizik | Fick difüzyon yasasına göre, aşağıdakilerden hangisi zar boyunca geçebilecek bir maddenin difüzyon hızını arttırmaz?
+   A) Zar kalınlığının azalması
+   B) Maddenin konsantrasyon farkının artması
+   C) Zar yüzey alanının büyümesi
+   D) Zar geçirgenliğinin artması
+   E) Maddenin boyutunun azalması
+   CEVAP: D
+
+73 | Biyofizik | Membran potansiyeli -70 mV olan dinlenim durumunda bir hücrede, Cl- için Nernst denge potansiyeli -90 mV'tur. Cl- un zardan pasif geçişi hangi yöne ve ne kadarlık elektrokimyasal potansiyel farkla olur?
+   A) -160 mV, hücre dışına
+   B) -90 mV, hücre dışına
+   C) 0 mV, dengededir
+   D) +20 mV, hücre içine
+   E) +70 mV, hücre içine
+   CEVAP: D
+
+74 | Biyofizik | Bir sinir hücresi membranının her iki tarafında yer alan iyonların Nernst-Denge potansiyelleri ile ilgili hangisi doğrudur?
+   A) Tüm iyonların Nernst potansiyelleri kullanılarak zar potansiyeli hesaplanır
+   B) Hücre içi ve dışı arasındaki bütün iyonların toplam konsantrasyonunu gösterir
+   C) Bir cins iyon için iyonun konsantrasyon farkını dengeleyen elektrokimyasal potansiyeldir
+   D) Nernst-Denge potansiyelleri ile hücre zarının iyon geçirgenliği hesaplanır
+   E) Na+ iyonu için hücre dışı konsantrasyonunun hücre içi konsantrasyona oranının logaritması alındığında değer negatif bulunur
+   CEVAP: C
+
+75 | Biyofizik | Aşağıdakilerden hangisi Gibbs-Donnan potansiyelinin özelliği değildir?
+   A) Yalnızca pasif mekanizmalarla bir zarın iki tarafı arasında kurulan potansiyel farktır
+   B) Zarı geçemeyen anyonlar, zarı geçebilen iyonların yeni bir dağılıma uğramasına neden olur
+   C) Gibbs-Donnan potansiyeli bir denge durumudur
+   D) Gibbs-Donnan dengesinin kurulması, osmoz nedeniyle hücrelerin şişmesine neden olur
+   E) Gibbs-Donnan potansiyeli için Na/K pompası aktivasyonu gereklidir
+   CEVAP: E
+
+76 | Biyofizik | Aşağıdakilerden hangisi hücrenin dinlenim membran potansiyel değerine potasyumun (K+) etkisinin daha fazla olmasının açıklar?
+   A) Zarda az sayıda K+ iyon kanallarının kapalı halde durması
+   B) Zarın geçirgenliğinin K+ iyonlarına daha fazla olması
+   C) K+ iyonlarının pozitif yük içermesi
+   D) Na+ seçici kanalların fazla sayıda olması
+   E) Na+ konsantrasyonunun hücre dışında az olması
+   CEVAP: B

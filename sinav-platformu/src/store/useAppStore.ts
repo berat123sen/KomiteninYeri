@@ -1,6 +1,7 @@
 import { create } from "zustand";
 
 export type Theme = "light" | "dark";
+export type Accent = "indigo" | "emerald" | "rose" | "amber" | "sky" | "violet";
 
 function initialTheme(): Theme {
   try {
@@ -13,6 +14,26 @@ function initialTheme(): Theme {
     return "dark";
   }
   return "light";
+}
+
+function initialAccent(): Accent {
+  try {
+    const stored = localStorage.getItem("sp-accent");
+    if (stored === "indigo" || stored === "emerald" || stored === "rose" || stored === "amber" || stored === "sky" || stored === "violet") return stored;
+  } catch {
+    /* ignore */
+  }
+  return "indigo";
+}
+
+function applyAccent(accent: Accent) {
+  const root = document.documentElement;
+  root.setAttribute("data-accent", accent);
+  try {
+    localStorage.setItem("sp-accent", accent);
+  } catch {
+    /* ignore */
+  }
 }
 
 function applyTheme(theme: Theme) {
@@ -28,14 +49,17 @@ function applyTheme(theme: Theme) {
 
 interface AppState {
   theme: Theme;
+  accent: Accent;
   lastExamId: string | null;
   setTheme: (theme: Theme) => void;
   toggleTheme: () => void;
+  setAccent: (accent: Accent) => void;
   setLastExam: (examId: string) => void;
 }
 
 export const useAppStore = create<AppState>()((set, get) => ({
   theme: initialTheme(),
+  accent: initialAccent(),
   lastExamId: (() => {
     try {
       return localStorage.getItem("sp-last-exam");
@@ -52,6 +76,10 @@ export const useAppStore = create<AppState>()((set, get) => ({
     applyTheme(next);
     set({ theme: next });
   },
+  setAccent: (accent) => {
+    applyAccent(accent);
+    set({ accent });
+  },
   setLastExam: (examId) => {
     try {
       localStorage.setItem("sp-last-exam", examId);
@@ -64,3 +92,4 @@ export const useAppStore = create<AppState>()((set, get) => ({
 
 // İlk yüklemede temayı uygula.
 applyTheme(initialTheme());
+applyAccent(initialAccent());

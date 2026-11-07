@@ -1,0 +1,129 @@
+61 | Biyofizik | Eşit konsantrasyonlardaki (gram/litre) glukoz (180 g/mol) ve sükroz (342 g/mol) solüsyonları birbirinden, sadece su geçişine izin veren, başlangıçta kapalı bir zar ile ayrılmıştır. Yarı geçirgen zar açıldığında suyun net geçişi hangi tarafa olacaktır?
+   A) Net geçiş sıfırdır.
+   B) Sükroz tarafına.
+   C) Glukoz tarafına.
+   D) Başlangıçta sükroza, ardından glukoza.
+   E) Geçiş olmaz.
+   CEVAP: C
+
+62 | Biyofizik | Fick difüzyon yasasına göre, aşağıdakilerden hangisi hücre zarından geçebilen bir maddenin zar boyunca net difüzyon hızını azaltır?
+   A) Zarın geçirgenliğinin artması
+   B) Maddenin konsantrasyon gradyanında artış
+   C) Zarın yüzey alanının büyümesi
+   D) Maddenin ağırlığında azalma
+   E) Zar kalınlığında artış
+   CEVAP: E
+
+63 | Biyofizik | Hücre zarından madde taşınımı ile ilgili aşağıdakilerden hangisi yanlıştır?
+   A) Pasif taşınımda metabolik enerji harcanması gerekmez.
+   B) İyon kanallarının seçiciliğinde iyonun yükü önemlidir.
+   C) Kanallardan iyon geçişi ATP’nin hidrolizi ile gerçekleşir.
+   D) Kolaylaştırılmış difüzyonda akı bir doygunluk değerine ulaşır.
+   E) Na⁺ ile ortaklaşa ve karşıt taşınım için ana enerji kaynağı ATP’dir.
+   CEVAP: C
+
+64 | Biyofizik | Hücre zarının elektriksel özellikleri ile ilgili hangi ifade yanlıştır?
+   A) Zar direnci, iyonların zardan geçiş kolaylığının tersinin ölçüsüdür.
+   B) Zarda açık kanal sayısı ile zar direnci doğru orantılıdır.
+   C) Zarın kapasitansı yüzey alanının büyüklüğü ile doğru orantılıdır.
+   D) Zar kapasitansı zarın depolayacağı yük miktarını gösterir.
+   E) Zaman sabiti (τ=RC) nöronun iletim hızının hesaplanmasında kullanılır.
+   CEVAP: B
+
+65 | Biyofizik | Hücre içi Ca²⁺ konsantrasyonu 0.0001 mM, hücre dışı konsantrasyonu 1 mM ise, Ca²⁺ denge (Nernst) potansiyelini hesaplayınız?
+   A) +122 mV
+   B) +61 mV
+   C) 0 mV
+   D) +244 mV
+   E) -80 mV
+   CEVAP: A
+
+66 | Biyofizik | Hücre zarından geçişinde metabolik enerjinin gerekli olmadığı yönde hareket eden bir iyon için aşağıdakilerden hangisi doğrudur?
+   A) İyon geçişi birincil aktif taşıma ile gerçekleşiyordur.
+   B) İyon zardan doğrudan geçer.
+   C) İyona sadece elektriksel kuvvet etki ediyordur.
+   D) İyonun zardan geçişi için ATP kullanılır.
+   E) İyonun elektrokimyasal kuvvetleri sıfırdan farklıdır.
+   CEVAP: E
+
+67 | Biyofizik | Na⁺ ve Cl⁻ geçiren, ancak büyük anyonlar (A⁻) için geçirgen olmayan bir zar iki kompartmanı birbirinden ayırıyor. Sistem dengededir. Birinci tarafta [Na⁺]₁ = 0,326 mol/l, [A⁻]₁ = 0,266 mol/l ve ikinci tarafta [Cl⁻]₂ = 0,14 mol/l, [A⁻]₂ = 0. Donnan dengesine göre ikinci taraftaki [Na⁺]₂ konsantrasyonu ne kadardır?
+   A) 0,326 mol/l
+   B) 0,14 mol/l
+   C) 0,06 mol/l
+   D) 0,266 mol/l
+   E) 0,466 mol/l
+   CEVAP: B
+
+68 | Biyofizik | Aşağıdakilerden hangisi hücrenin dinlenim zar potansiyel değerine potasyumun (K⁺) etkisinin daha fazla olmasını açıklar?
+   A) Zarda sızıntı K⁺ iyon kanallarının kapalı halde durması.
+   B) Zarın geçirgenliğinin K⁺ iyonlarına daha fazla olması.
+   C) K⁺ iyonlarının pozitif yük içermesi.
+   D) Na⁺ sızıntı kanallarının fazla sayıda olması.
+   E) Na⁺ konsantrasyonunun hücre dışında fazla olması.
+   CEVAP: B
+
+69 | Biyofizik | I. Tepkimeyi başlatırlar
+II. Tepkimenin hızını değiştirirler
+III. Tepkimenin yönünü değiştirirler
+IV. Tepkime sonunda yapısal değişikliğe uğrarlar
+V. Kademeli tepkimelerde en hızlı adımda etkilidirler
+Yukarıdaki verilen bilgilerden hangisi/leri katalizörlerin özelliklerindendir?
+   A) Yalnız I
+   B) III-V
+   C) II-III-IV
+   D) I-II
+   E) Yalnız II
+   CEVAP: E
+
+70 | Biyofizik | Aşağıda verilen ısı aktarımı ile ilgili bilgilerden hangisi doğrudur?
+   A) Konveksiyon ile ısı aktarımı, yavaş moleküllerden hızlı moleküllere doğrudur.
+   B) Kondüksiyon ile ısı aktarımı, enerjinin sıvı veya gaz içindeki transferidir.
+   C) Evaporasyon, ısı enerjisi ile maddelerin katı halden sıvı hale geçişidir.
+   D) Bütün cisimler radyasyon yaymaktadır.
+   E) Güneş, konveksiyon ile ısı aktarımı yapmaktadır.
+   CEVAP: D
+
+71 | Biyofizik | I. Vazodilatasyon
+II. Piloreeksiyon
+III. Solunumda artış
+IV. Titreme
+V. Terleme ve buharlaşma
+Yukarıdakilerden hangisi/leri sıcaklığı yükselten mekanizmalardandır?
+   A) I-II
+   B) IV-V
+   C) II-III-V
+   D) II-IV
+   E) I-III-IV
+   CEVAP: D
+
+72 | Biyofizik | Vücudun içi ve dışı arasındaki dokunun kalınlığı 3 cm, iletkenliğin olduğu alan 1.5 m², vücudun içi ile dışı arasındaki sıcaklık farkı 3 °C ise ısı akışı ne kadardır? (Kdoku = 18 cal.cm/m².saat.°C)
+   A) 81 cal/saat
+   B) 27 cal/saat
+   C) 13,5 cal/saat
+   D) 54 cal/saat
+   E) 18 cal/saat
+   CEVAP: B
+
+73 | Mikrobiyoloji | Virüslerin yapısı ile ilgili yanlış hangisidir?
+   A) DNA virüslerinde helikal kapsid bulunmaz.
+   B) Bazı virüsler sadece genom ve ikosahedral kapsidden oluşur.
+   C) Pozitif RNA virüsleri mRNA gibi davranır.
+   D) RNA virüslerinin çoğu çift sarmallıdır.
+   E) Helikal kapsidi olan virüslerin hepsi zarflıdır.
+   CEVAP: D
+
+74 | Mikrobiyoloji | Virüslerin replikasyonu ile ilgili yanlış hangisidir?
+   A) Zarfsız virüsler hücreyi lizise uğratarak salınır.
+   B) RNA virüslerinin çoğu sitoplazmada çoğalır.
+   C) DNA virüsleri RNA polimeraz taşır.
+   D) DNA virüslerinin çoğu nükleusta çoğalır.
+   E) Zarflı virüsler hücreden tomurcuklanarak salınır.
+   CEVAP: C
+
+75 | Mikrobiyoloji | Aşağıdaki virüslerden hangisi kısmen çift sarmallı sirküler DNA genomuna sahiptir?
+   A) Herpesvirus
+   B) Parvovirus
+   C) Poxvirus
+   D) Adenovirus
+   E) Hepatit B virus
+   CEVAP: E

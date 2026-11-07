@@ -71,7 +71,7 @@ export function Home() {
       <section className="relative overflow-hidden border-b border-slate-200/80 dark:border-slate-800/80">
         <div className="pointer-events-none absolute inset-0 -z-10">
           <div className="absolute -left-24 -top-24 h-80 w-80 rounded-full bg-indigo-200/50 blur-3xl dark:bg-indigo-600/20" />
-          <div className="absolute -right-16 top-10 h-72 w-72 rounded-full bg-violet-200/40 blur-3xl dark:bg-violet-600/15" />
+          <div className="absolute -right-16 top-10 h-72 w-72 rounded-full bg-indigo-200/40 blur-3xl dark:bg-indigo-600/15" />
           <div className="absolute bottom-0 left-1/3 h-56 w-56 rounded-full bg-emerald-200/30 blur-3xl dark:bg-emerald-600/10" />
         </div>
 
@@ -84,7 +84,7 @@ export function Home() {
 
             <h1 className="mt-5 text-3xl font-extrabold leading-tight tracking-tight text-slate-900 sm:text-5xl dark:text-white">
               TEM 2 çıkmış soruları,{" "}
-              <span className="bg-gradient-to-r from-indigo-600 via-violet-600 to-indigo-600 bg-clip-text text-transparent">
+              <span className="bg-gradient-to-r from-[var(--accent)] via-[var(--accent-hover)] to-[var(--accent)] bg-clip-text text-transparent">
                 ders ders
               </span>{" "}
               tek yerde.

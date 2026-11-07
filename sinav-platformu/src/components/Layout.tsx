@@ -10,7 +10,7 @@ import {
   Sun,
   X,
 } from "lucide-react";
-import { useAppStore } from "../store/useAppStore";
+import { useAppStore, type Accent } from "../store/useAppStore";
 import { useEffect } from "react";
 
 const navItems = [
@@ -21,7 +21,8 @@ const navItems = [
 ];
 
 export function Layout() {
-  const { theme, toggleTheme } = useAppStore();
+  const { theme, toggleTheme, accent, setAccent } = useAppStore();
+  const [colorOpen, setColorOpen] = useState(false);
   const [mobileOpen, setMobileOpen] = useState(false);
   const location = useLocation();
 
@@ -35,7 +36,7 @@ export function Layout() {
       <header className="sticky top-0 z-40 border-b border-slate-200/80 bg-white/80 backdrop-blur-xl dark:border-slate-800/80 dark:bg-slate-950/80">
         <div className="page-shell flex h-16 items-center justify-between gap-3">
           <Link to="/" className="group flex items-center gap-2.5">
-            <span className="flex h-9 w-9 items-center justify-center rounded-xl bg-gradient-to-br from-indigo-600 to-violet-600 text-white shadow-md shadow-indigo-600/20">
+            <span className="flex h-9 w-9 items-center justify-center rounded-xl bg-gradient-to-br from-[var(--accent)] to-[var(--accent-hover)] text-white shadow-md shadow-indigo-600/20">
               <GraduationCap className="h-5 w-5" />
             </span>
             <span className="leading-tight">
@@ -82,6 +83,31 @@ export function Layout() {
             >
               {theme === "dark" ? <Sun className="h-4.5 w-4.5" /> : <Moon className="h-4.5 w-4.5" />}
             </button>
+            <div className="relative">
+              <button
+                type="button"
+                onClick={() => setColorOpen((v) => !v)}
+                className="flex h-9 w-9 items-center justify-center rounded-lg text-slate-500 transition hover:bg-slate-100 hover:text-slate-900 dark:text-slate-400 dark:hover:bg-slate-800 dark:hover:text-white"
+                aria-label="Renk teması"
+                title="Renk teması"
+              >
+                <span className="h-4 w-4 rounded-full" style={{ background: "var(--accent)" }} />
+              </button>
+              {colorOpen && (
+                <div className="absolute right-0 top-11 z-50 flex gap-2 rounded-xl border border-slate-200 bg-white p-2 shadow-lg dark:border-slate-700 dark:bg-slate-900">
+                  {(["indigo","emerald","rose","amber","sky","violet"] as Accent[]).map((c) => (
+                    <button
+                      key={c}
+                      type="button"
+                      onClick={() => { setAccent(c); setColorOpen(false); }}
+                      className={"h-6 w-6 rounded-full border-2 transition " + (accent === c ? "border-slate-900 dark:border-white" : "border-transparent")}
+                      style={{ background: "var(--accent-" + c + ")" }}
+                      aria-label={c}
+                    />
+                  ))}
+                </div>
+              )}
+            </div>
             <button
               type="button"
               onClick={() => setMobileOpen((v) => !v)}

@@ -1,0 +1,128 @@
+76 | Mikrobiyoloji | Virüslerin tanı testlerinden hangisinde eritrositler kullanılır?
+   A) Lateks aglütinasyon
+   B) Direk IFA testi
+   C) ELISA
+   D) İmmünokromotografik kart testi
+   E) Hemaglütinasyon inhibisyon testi
+   CEVAP: E
+
+77 | Mikrobiyoloji | Aşağıdakilerden hangisi tekrarlayan virus infeksiyonunu gösterir?
+   A) IgG yüksek avidite(+), IgM(-)
+   B) IgG düşük avidite(+), IgM(+)
+   C) IgG yüksek avidite(+), IgM(+)
+   D) IgG düşük avidite(+), IgM(-)
+   E) IgG (+), IgM(-)
+   CEVAP: C
+
+78 | Mikrobiyoloji | Herpes simplex virusun sebep olduğu veziküler lezyonlarından kazıntı örneği alınarak yapılan “Tzanck” testinde görülen sitopatik etki hangisidir?
+   A) Piknozis
+   B) Agregasyon
+   C) Çok nükleuslu hücreler
+   D) Minimal sitopatik etki
+   E) Sitomegali
+   CEVAP: C
+
+79 | Mikrobiyoloji | İnsan sağlığı için önemli olan bakterilerin büyük bir kısmı en iyi 20-45°C’de ürer. Bu grupta yer alan bakteriler hangileridir?
+   A) Psikrofil
+   B) Termofil
+   C) Mezofil
+   D) Halofil
+   E) Hemofil
+   CEVAP: C
+
+80 | Mikrobiyoloji | Aşağıdaki bakterilerden hangisi zorunlu aeroptur?
+   A) Bordetella pertussis
+   B) Bacteroides fragilis
+   C) Clostridium perfringens
+   D) Peptostreptococcus
+   E) Veillonella
+   CEVAP: A
+
+81 | Mikrobiyoloji | Bakterinin “hemoliz” özelliği ile ilgili olarak hangisi/hangileri doğrudur?
+I) MacConkey Agarda beta hemoliz özelliği görülebilir.
+II) Buyyon besiyerinde beta hemoliz özelliği görülebilir.
+III) Koyun Kanlı Agarda alfa hemolitik koloniler görülebilir.
+   A) sadece I
+   B) sadece II
+   C) sadece III
+   D) I ve II
+   E) II ve III
+   CEVAP: C
+
+82 | Mikrobiyoloji | Çikolata besiyeri ile ilgili olarak hangisi/hangileri doğrudur?
+I- Zengin bir besiyeridir.
+II- Neisseria ve Haemophilus türü bakterilerin üretilmesi kullanılır.
+III- Besiyeri kan içerir.
+   A) I ve II
+   B) II ve III
+   C) I ve III
+   D) Hepsi
+   E) Hiçbiri
+   CEVAP: D
+
+83 | Mikrobiyoloji | Gram pozitif bakteri hücre duvarı yapısında hangisi/hangileri bulunmaz?
+I) Peptidoglikan
+II) Teikoik asit
+III) Lipopolisakkarit (LPS)
+   A) I, II
+   B) II, III
+   C) sadece I
+   D) sadece II
+   E) sadece III
+   CEVAP: E
+
+84 | Mikrobiyoloji | Bakteri hücre duvarı ile ilgili bilgilerden hangisi yanlıştır?
+   A) Bakteriyi basınç değişikliklerine karşı korur.
+   B) Bakterinin şeklini korur.
+   C) Gram boyanma özelliğinden sorumlu yapıdır.
+   D) Hücre duvarında peptidoglikan tabaka bulunmaz.
+   E) Bazı bakteriler beslenme koşulları, penisilin veya lizozim etkisi ile değişikliğe uğrayarak hücre duvarını kaybeder “Lister form-L form” haline dönebilirler.
+   CEVAP: D
+
+85 | Davranış Bilimleri | Duygular ve bellekle ilişkili beyin bölgesi aşağıdakilerden hangisidir?
+   A) Oksipital lob
+   B) Frontal lob
+   C) Pons
+   D) Temporal lob
+   E) Parietal lob
+   CEVAP: D
+
+86 | Davranış Bilimleri | Aşağıdakilerden hangisi Deskriptif (Tanımlayıcı) Psikiyatri ile ilgili uygulama alanlarından değildir?
+   A) Hastalıkların tanılarını belirler
+   B) Ayırıcı tanı yapar
+   C) Hastalıkları sınıflandırır
+   D) Normal ve anormal davranışların altında yatan nedensel etkenleri araştırır
+   E) Tedavi planı oluşturur
+   CEVAP: D
+
+87 | Davranış Bilimleri | Hangisi benlik (ego) görevleri arasında yer almaz?
+   A) Bireyin ruhsal dünyası içinde ve dışında olanların birbirinden ayırt edilmesi, gerçeği değerlendirme
+   B) Dürtülerin birbirleriyle ve dış dünyayla ilişkilerinin düzenlenmesi uygun zaman ve koşullarda eyleme dönüştürülmesi
+   C) Dürtüleri bekletebilme, erteleyebilme
+   D) İyi-kötü, doğru-yanlış gibi değer yargıları ile dürtülerin doyurulmasında yargılayıcı mekanizma işlevi
+   E) Ruhsal yapı üzerinde düzenleyici, dengeleyici ve uyum sağlayıcı işlevi
+   CEVAP: D
+
+88 | Davranış Bilimleri | Erikson’un psikoseksüel gelişim evrelerinden fallik döneme denk gelen Erikson’un kişilik gelişimi evresi hangisidir?
+   A) Temel güvene karşı güvensizlik
+   B) Özerkliğe karşı utanç
+   C) Girişime karşı suçluluk
+   D) Çalışkanlığa karşı aşağılık duygusu
+   E) Kimlik kazanmaya karşı kimlik karmaşası
+   CEVAP: C
+
+89 | Davranış Bilimleri | Erikson’un psikoseksüel gelişim evrelerinden oral döneme denk gelen Erikson’un kişilik gelişimi evresi hangisidir?
+   A) Temel güvene karşı güvensizlik
+   B) Özerkliğe karşı utanç
+   C) Girişime karşı suçluluk
+   D) Çalışkanlığa karşı aşağılık duygusu
+   E) Kimlik kazanmaya karşı kimlik karmaşası
+   CEVAP: A
+
+90 | Davranış Bilimleri | Stresle başa çıkma mekanizmaları ile ilgili hangisi yanlıştır?
+   A) Gerçekçi olmayan hedeflerden uzak durulmalıdır.
+   B) Düzenli olarak fiziksel egzersiz yapılmalıdır.
+   C) Sebze ve meyvelerden zengin bir beslenme biçimi uygulanmalıdır.
+   D) Stresi azaltmak için kafeinli içecekler tüketilmelidir.
+   E) Yeterli ve dengeli uyunmalıdır.
+   CEVAP: D

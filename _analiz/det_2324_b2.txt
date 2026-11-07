@@ -1,0 +1,119 @@
+16 | Tıbbi Biyokimya | Karbon sayısı 17 olan bir yağ asidinin beta oksidasyona uğraması ile ilgili ifadelerden hangisi yanlıştır?
+   A) Tek karbonlu yağ asitlerinin beta oksidasyonu sonucunda glukoneojenik molekül oluşur
+   B) Tek karbonlu yağ asitlerinin beta oksidasyonunda aynı kofaktörler kullanılır
+   C) Son oksidasyondan sonra bir mol Asetil CoA ve bir mol Propiyonil CoA üretilir
+   D) Karbon sayısı 16 olan bir yağ asidinin oksidasyonuna göre daha az Asetil CoA üretilir
+   E) Tek karbonlu yağ asitlerinin beta oksidasyonu peroksizomlarda gerçekleşir
+   CEVAP: E
+
+17 | Tıbbi Biyokimya | Yağ asitlerinin okside olmak üzere mitokondriye geçişinde rol oynayan 'Karnitin Palmitoil Transferaz I' enzimi aşağıdakilerden hangisi tarafından inhibe edilir?
+   A) Asetil CoA
+   B) Sitrat
+   C) Oksaloasetat
+   D) Malonil CoA
+   E) Palmitoil CoA
+   CEVAP: D
+
+18 | Tıbbi Biyokimya | Yağların sindirimi sırasında 'Fosfatidil kolin' Fosfolipaz A2 ile karşılaştığında hangi molekül oluşur?
+   A) Fosfokolin
+   B) Fosfatidik asit
+   C) Lizolesitin
+   D) Kolin
+   E) Diasilgliserol
+   CEVAP: C
+
+19 | Tıbbi Biyokimya | Bir çocukta yapılan ölçümlerde kandaki amonyak düzeyinin çok fazla yükseldiği gözlenmiştir. Bu çocukta hangi enzimin eksikliği bu tabloya yol açmaz?
+   A) N-asetilglutamat sentaz
+   B) Glutamat dehidrogenaz
+   C) Karbamoil fosfat sentetaz
+   D) Argininosüksinat sentetaz
+   E) Ornitin transkarbamoilaz
+   CEVAP: B
+
+20 | Tıbbi Biyokimya | Aşağıdaki tepkimelerden hangisi 'metiltetrahidrofolat' kullanarak folat tuzağından kurtarır?
+   A) Norepinefrin-Epinefrin dönüşümü
+   B) Homosistein-Sistatyonin dönüşümü
+   C) Homosistein-Metionin dönüşümü
+   D) Spermin-Spermidin dönüşümü
+   E) Arginin-Ornitin dönüşümü
+   CEVAP: C
+
+21 | Tıbbi Biyokimya | Triptofandan aşırı miktarlarda serotonin üretimi gerçekleştiği durumlarda hangi vitaminin eksikliği görülebilir?
+   A) Piridoksal fosfat
+   B) Biotin
+   C) B12
+   D) Tiamin
+   E) Niasin
+   CEVAP: E
+
+22 | Tıbbi Biyokimya | Aşağıdaki tepkimelerin hangisinin sonucunda hidrojen peroksitler (H2O2) oluşur?
+   A) Aminoasit oksidaz
+   B) Glutamat dehidrogenaz
+   C) Transaminasyon
+   D) Glutaminaz
+   E) Glutamin sentetaz
+   CEVAP: A
+
+23 | Tıbbi Biyokimya | Aşağıda verilen enzimlerden hangisinin eksikliği kanda ve idrarda fenilketon cisimciklerinin artmasına yol açar?
+   A) Katalaz
+   B) Fenilalanin aminotransferaz
+   C) Fenilalanin dekarboksilaz
+   D) Fenilalanin oksidaz
+   E) Dihidrobiyopterin redüktaz
+   CEVAP: E
+
+24 | Tıbbi Biyokimya | Vücudumuzdaki basıncın ayarlanmasında ve pıhtılaşmada rol oynayan Nitrik Oksit (NO) aşağıdaki aminoasitlerin hangisinden sentezlenir?
+   A) Glutamik asit
+   B) Glisin
+   C) Tirozin
+   D) Arginin
+   E) Histidin
+   CEVAP: D
+
+25 | Tıbbi Biyokimya | Tokluk durumunda (insülin/glukagon oranı arttığında) aşağıdakilerden hangisi yanlıştır?
+   A) Glikojen fosforilaz aktive olur
+   B) Sitrat liyaz enzimi aktive olur
+   C) Asetil CoA karboksilaz aktive olur
+   D) Pirüvat dehidrogenaz aktive olur
+   E) Glikokinaz aktive olur
+   CEVAP: A
+
+26 | Tıbbi Biyokimya | Doktorunun önerdiği şekilde yağdan fakir diyet ile beslenen bir kadın, yağ alımını azaltıp karbonhidrat alımını artırarak aynı miktarda kalori almaktadır. Bu diyet sonucu kadının kan lipoproteinlerinden hangisinde bir düşme beklenir?
+   A) VLDL
+   B) LDL
+   C) Şilomikron
+   D) HDL
+   E) IDL
+   CEVAP: C
+
+27 | Tıbbi Biyokimya | Akciğerlerde eksikliğinde solunum zorluğu, alveollerde kapanma ile seyreden respiratuvar distres sendromuna neden olan surfaktan yapısında aşağıdaki lipitlerden hangisi bulunur?
+   A) Fosfatidilinozitol
+   B) Fosfatidiletanolamin
+   C) Glikosfingolipid
+   D) Fosfatidilkolin
+   E) Sfingomiyelin
+   CEVAP: D
+
+28 | Tıbbi Biyokimya | Kalp damar hastalıkları riski oluşturan hiperkolesterolemiyi düzenlemek için kullanılan ilaçlar plazma kolesterol düzeylerini düşürmede hangi mekanizma üzerinden etkilerini gösterirler?
+   A) Kolesterolün ince bağırsaktan emilimini inhibe ederler
+   B) Kolesterolü safra asidine dönüştürerek atılımını artırırlar
+   C) Mevalonat yıkımını artırırlar
+   D) Karaciğerde LDL reseptörünü uyarırlar
+   E) Kolesterol sentezinde HMG-KoA redüktazı inhibe ederler
+   CEVAP: E
+
+29 | Tıbbi Biyokimya | Metabolizmada kolesterolün hücre içi düzenlenmesinde aşağıdakilerden hangisi etkilidir?
+   A) Esterifikasyon
+   B) Hücredeki Apo C-II ekspresyonu
+   C) LDL reseptörü ile hücreye alım
+   D) HMG-KoA redüktaz transkripsiyonunun düzenlenmesi
+   E) Kolesterolün Apo A-I aracılı HDL üzerine aktarımı
+   CEVAP: B
+
+30 | Tıbbi Biyokimya | Plazmadaki derişimleri ateroskleroz ve koroner kalp hastalığı insidansı ile en çok ilişkili olan lipid ikilisi hangi seçenekte doğru verilmiştir?
+   A) LDL-Şilomikron
+   B) HDL-IDL
+   C) LDL-HDL
+   D) VLDL-LDL
+   E) Şilomikron-VLDL
+   CEVAP: C

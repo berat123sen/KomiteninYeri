@@ -421,7 +421,7 @@ function ResultPanel({
   return (
     <div className="space-y-5">
       <div className="card overflow-hidden">
-        <div className="bg-gradient-to-br from-indigo-600 to-violet-600 px-6 py-8 text-white">
+        <div className="bg-gradient-to-br from-[var(--accent)] to-[var(--accent-hover)] px-6 py-8 text-white">
           <p className="text-sm font-medium text-indigo-100">Test tamamlandı</p>
           <div className="mt-2 flex flex-wrap items-end gap-x-4 gap-y-1">
             <span className="text-5xl font-extrabold tracking-tight">%{stats.score}</span>

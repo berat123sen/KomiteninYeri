@@ -1,0 +1,152 @@
+1 | Histoloji | Aşağıda verilen tanımlamalardan yanlış olanı işaretleyiniz.
+   A) Histoloji terimi, doku anlamına gelen kelime ile çalışma anlamına gelen logia kelimelerinin birleşmesiyle oluşmuştur.
+   B) Histoloji insanda hücre, doku ve organların normal yapılarını mikroskop altında inceleyen bilim alanıdır.
+   C) Normal yapı ve gelişim yanında, hücre ve doku hasarının mikroskobik düzeyde araştırılması, kök hücre biyolojisi, rejeneratif tıp araştırmaları ve in vitro fertilizasyon da Histoloji ve Embriyoloji Anabilim Dalının çalışma alanları içerisinde yer alır.
+   D) Embriyoloji fertilizasyondan doğuma kadar insanın gelişimini inceleyen bilim alanıdır.
+   E) İnsan vücudunun oluşturan esas yapısal birim hücreler arası maddelerdir.
+   CEVAP: E
+   MEVCUT: 'Vaccination' kelime anlamı ineklemedir (Latince 'vacca' = i
+
+2 | Histoloji | Aşağıda verilen tanımlamalardan yanlış olanı işaretleyiniz.
+   A) Histoloji ve Embriyoloji bilim alanının gelişiminde, hücrenin tanımlanması, hücre teorisinin ortaya konulması ve elektron mikroskobun keşfi çok önemli aşamalardır.
+   B) Bilim alanının gelişim sürecinde; Robert Hooke ilk defa hücreyi tanımlarken, hücrelerde bir çekirdeğin varlığı Robert Brown tarafından keşfedilmiştir.
+   C) İlk transmisyon elektron mikroskop 1932 yılında Knoll ve Ruska tarafından yapılmıştır.
+   D) Canlıların temel yapısal biriminin hücre olduğu gerçeği ancak elektron mikroskobun keşfinden sonra ortaya konulmuştur.
+   E) Mikroskobik incelemelerde en önemli olan iki faktör, büyütme ve ayırma gücüdür.
+   CEVAP: D
+   MEVCUT: Canlıların temel yapısal biriminin hücre olduğu hücre teoris
+
+3 | Histoloji | Plazma membranı ile ilgili olarak aşağıdakilerden hangisi yanlıştır?
+   A) Fosfolipid, kolesterol ve protein moleküllerinden oluşan, 8-10 nm kalınlığında bir membrandır.
+   B) Lipid molekülleri amfipatik karakterde olup, membran yüzeyini hidrofilik (suya affinitesi olan), membranın iç kısmını ise hidrofobik yaparlar.
+   C) Membran proteinlerinin hepsi lipid çift tabakayı boylu boyunca kat eden transmembran proteinlerden oluşur.
+   D) Periferal proteinler membranın ekstrasellüler ve intrasellüler yüzeylerinde bulunur ve lipid çift tabakaya gömülmezler.
+   E) İntegral proteinler, pompalar, kanallar, reseptörler, bağlayıcı ve yapısal proteinler ve enzimler olarak fonksiyon görürler.
+   CEVAP: C
+   MEVCUT: Membran proteinlerinin hepsi transmembran değildir; perifera
+
+4 | Histoloji | Pinositoz ile ilgili olarak hangisi yanlıştır?
+   A) Hücreye sıvıların ve genellikle 150 nm den küçük proteinlerin alındığı endositoz sürecidir.
+   B) Organizmada hemen tüm hücrelerde görülen pinositotik veziküller özellikle endotel hücreleri ve düz kas hücrelerinde gelişmiştir.
+   C) GTPaz (dynamin) mekanoenzimi gelişen vezikülün plazma membranından ayrılmasına ve sitoplazmaya geçmesine aracılık eder.
+   D) Vezikül formasyonunda kaveolin ve flotillin proteinleri rol oynar.
+   E) Klatrin bağımlı endositoz tipidir.
+   CEVAP: E
+   MEVCUT: Klatrin bağımlı endositoz tipidir; pinositoz klatrinsiz (kav
+
+5 | Histoloji | Lizozomlarla ilgili aşağıdakilerden hangisi yanlıştır?
+   A) Proteazlar, nükleazlar, glikozidazlar, lipazlar gibi hidrolitik enzimlerden zengin organellerdir.
+   B) Otofaji, fagositoz ve reseptör aracılı endositozda rol oynarlar.
+   C) Plazma membranı proteinleri lümene bakan yüzeyde glikozillenmiş olup plazma membranı kolesterol ve lizobifosfatidik asitten zengindir.
+   D) Lizozomal membran proteinleri direkt olarak erken ve geç endozomlarda sentezlenip lizozoma aktarılır.
+   E) Nötrofiller, makrofajlar gibi aktif fagositoz yapan hücrelerde iyi gelişmiştir.
+   CEVAP: D
+   MEVCUT: Lizozomal membran proteinleri Golgi'de sentezlenip lizozoma 
+
+6 | Histoloji | Aşağıda verilen organel-fonksiyon eşleşmelerinden hangisi yanlıştır?
+   A) gER- Salgı proteinlerinin sentezi
+   B) Peroksizom- Hücrede aktin, miyozin ve hemoglobin gibi yapısal proteinlerin sentezi
+   C) Golgi Kompleksi- Salgı proteinlerinin glikozillenmesi ve yoğunlaştırılması
+   D) SER- Detoksifikasyon, lipid ve steroid metabolizması
+   E) Erken endozom- Endositozik yolaklarla hücreye alınan proteinlerin tasnifi ve geri dönüşüme tabi tutması
+   CEVAP: B
+   MEVCUT: Peroksizomlar yapısal protein sentezi yapmaz; aktin, miyozin
+
+7 | Histoloji | Hücrede intrasellüler veziküler transport, silya ve flagella hareketi, mitoz mekiğinin oluşumu, hücre göçü ve şeklinin korunmasında görevli yapı hangisidir?
+   A) Aktin filaman
+   B) Sentriyoller
+   C) Mikrotübüller
+   D) Bazal cisimcik
+   E) Ara filamanlar
+   CEVAP: C
+   MEVCUT: Hücrede mikrotübüller veziküler transport, silya/flagella ha
+
+8 | Histoloji | Işık mikroskobik incelemeler için canlıdan alınan dokuyu otolitik ve bakteriyolitik reaksiyonlardan korumak için uygulanan doku takip işlemi hangisidir?
+   A) Tespit (fiksasyon)
+   B) Yıkama
+   C) Suyunu giderme (dehidratasyon)
+   D) Gömme (bloklama)
+   E) Kapatma
+   CEVAP: A
+   MEVCUT: Canlıdan alınan dokuyu otolitik/bakteriyolitik reaksiyonlard
+
+13 | Mikrobiyoloji | Virusların yapısı ile ilgili olarak aşağıdakilerden hangisi yanlıştır?
+   A) Rotavirus zarfsız, çift sarmallı ve segmentli RNA virusudur.
+   B) Herpes viruslar, zarflı, çift sarmallı DNA virusudur.
+   C) Influenza virus zarfsız, segmentli tek sarmallı RNA virusudur.
+   D) HIV (human immunodeficiency virus) zarflı virus olup diploid RNA'ya sahiptir.
+   E) HBV (hepatit B virus) zarflı, kısmen çift sarmallı DNA virusudur.
+   CEVAP: C
+   MEVCUT: Tay-Sachs hastalığı heksosaminidaz A enzim eksikliği sonucu 
+
+14 | Mikrobiyoloji | RNA virusları ile ilgili yanlış hangisidir?
+   A) Helikal veya ikosahedral kapsidi olabilir.
+   B) Negatif polariteli RNA virusları hazır RNA polimeraz taşır.
+   C) RNA virusları birkaç istisna hariç stoplazmada çoğalır.
+   D) Pozitif polariteli RNA virusları direk ribozoma gidebilir.
+   E) HIV virusu RNA polimeraza sahiptir.
+   CEVAP: E
+   MEVCUT: Difüzyon hızını azaltan parametreler: ortamın viskozitesi ve
+
+15 | Mikrobiyoloji | Virusların replikasyonu ile ilgili aşağıdakilerden hangisi yanlıştır?
+   A) Glikoproteinler hücredeki spesifik reseptörlere bağlanır.
+   B) Hem zarflı hem de zarfsız viruslar endositozla hücreye girebilir.
+   C) Hücre içinde ilk virus oluşumundan önceki döneme latent dönem denir.
+   D) Erken proteinler genom replikasyonu için gerekli enzimlerdir.
+   E) Zarfsız viruslar hücreyi lizise uğratarak salınırlar.
+   CEVAP: C
+   MEVCUT: Latent dönem (eclipse) genom replikasyonu ve protein sentezi
+
+16 | Mikrobiyoloji | Aşağıdakilerden hangi test için hücre kültürü gerekir?
+   A) ELISA
+   B) Nötralizasyon testi
+   C) Strip test
+   D) Lateks aglütinasyon test
+   E) Line probe assay (LIPA)
+   CEVAP: B
+   MEVCUT: Nötralizasyon testi canlı hücre kültürü gerektirir; ELISA, s
+
+17 | Mikrobiyoloji | PCR (polimeraz zincir reaksiyonu) testi ile ilgili doğru hangisidir?
+   A) RNA amplifikasyon yöntemidir.
+   B) PCR ürünleri elektroforezde anot tarafındaki kuyucuklara yüklenir.
+   C) Denatürasyon 940C'de gerçekleşir.
+   D) Ekstensiyon'da primer genoma bağlanır.
+   E) DNA ekstraktları Taq polimeraz ile RNA'ya çevrilir.
+   CEVAP: D
+   MEVCUT: PCR'de ekstensiyonda (72°C) Taq polimeraz DNA sentezler; pri
+
+18 | Mikrobiyoloji | Serumda bir virusa karşı antikor aranmasında ELISA testinde hangi aşama yanlıştır?
+   A) Mikroplaktaki kuyular virus antijeni ile kaplıdır.
+   B) Hasta serumu ilave edilir. Sonra yıkama yapılır.
+   C) Enzim bağlı sekonder antikor konur. Sonra yıkama yapılır.
+   D) Substrat ilave edilir. Sonra yıkama yapılır.
+   E) Renkli ürün elde edilen kuyular antikor varlığını gösterir.
+   CEVAP: D
+   MEVCUT: ELISA'da substrat eklendikten sonra yıkama yapılmaz; renkli 
+
+19 | Mikrobiyoloji | Bir mikroorganizmanın enzim aktivitesinde dış etkenlerden hangisinin rolü yoktur?
+   A) Isı
+   B) pH
+   C) Tuz yoğunluğu
+   D) Kimyasal maddeler (ağır metal vb.)
+   E) Mikroorganizmanın cinsi
+   CEVAP: E
+   MEVCUT: Mikroorganizma enzim aktivitesini ısı, pH, tuz yoğunluğu ve 
+
+20 | Mikrobiyoloji | Mikroorganizmaların üretilmesi ile ilgili olarak hangisi doğru değildir?
+   A) Temel (basit) besiyerleri; et suyu, pepton, tuz gibi maddelerden hazırlanmaktadır. En sık kullanılan sıvı besiyerine buyyon denir.
+   B) Çikolata besiyeri, kanlı besiyerinin ısıtılması ile elde edilir. Neisseria ve Hemophilus türü bakterilerin üretilmesinde kullanılan zenginleştirilmiş bir besiyeridir.
+   C) Bakteriler Kanlı agar besiyerindeki hemoliz durumlarına göre üçe ayrılırlar; alfa hemolitik, beta hemolitik, gamma hemolitik (non-hemolitik)
+   D) Agar, besiyerlerinde mikroorganizmaların üretilmesi için mutlaka gerekli olan bir maddedir. Agar bulunmayan ortamda, mikroorganizmalar üreyemez.
+   E) Agar, besiyeri yapımında sıvı ortamları katılaştırmak amacı ile kullanılır.
+   CEVAP: D
+   MEVCUT: Bağımlılıkların ortak özellikleri: yoksunluk belirtileri, iş
+
+24 | Biyokimya | Yağların sindirim ve emilimi sırasında aşağıdaki vitaminlerden hangisi de birlikte emilir?
+   A) Vitamin B12
+   B) Vitamin D
+   C) Vitamin C
+   D) Folik asit
+   E) Vitamin B6
+   CEVAP: B
+   MEVCUT: Yağlarla birlikte yağda eriyen vitaminler (A, D, E, K) emili

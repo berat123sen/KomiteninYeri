@@ -19,11 +19,13 @@
   }
 
   ::selection {
-    @apply bg-indigo-200 text-indigo-950;
+    background-color: var(--accent-soft);
+    color: var(--accent-ink);
   }
 
   .dark ::selection {
-    @apply bg-indigo-500/40 text-white;
+    background-color: var(--accent-soft);
+    color: var(--accent-ink);
   }
 
   * {
@@ -41,25 +43,28 @@
   }
 
   .card-hover {
-    @apply transition duration-200 hover:-translate-y-0.5 hover:border-indigo-300 hover:shadow-lg dark:hover:border-indigo-700;
+    @apply transition duration-200 hover:-translate-y-0.5 hover:border-[var(--accent)] hover:shadow-lg;
   }
 
   .btn {
-    @apply inline-flex items-center justify-center gap-2 rounded-xl px-4 py-2.5 text-sm font-semibold transition focus:outline-none focus-visible:ring-2 focus-visible:ring-indigo-500 focus-visible:ring-offset-2 disabled:cursor-not-allowed disabled:opacity-50 dark:focus-visible:ring-offset-slate-950;
+    @apply inline-flex items-center justify-center gap-2 rounded-xl px-4 py-2.5 text-sm font-semibold transition focus:outline-none focus-visible:ring-2 focus-visible:ring-[var(--accent)] focus-visible:ring-offset-2 disabled:cursor-not-allowed disabled:opacity-50 dark:focus-visible:ring-offset-slate-950;
   }
 
   .btn-primary {
-    @apply inline-flex items-center justify-center gap-2 rounded-xl px-4 py-2.5 text-sm font-semibold transition focus:outline-none focus-visible:ring-2 focus-visible:ring-indigo-500 focus-visible:ring-offset-2 disabled:cursor-not-allowed disabled:opacity-50 dark:focus-visible:ring-offset-slate-950;
-    @apply bg-indigo-600 text-white shadow-sm hover:bg-indigo-700 active:bg-indigo-800;
+    @apply inline-flex items-center justify-center gap-2 rounded-xl px-4 py-2.5 text-sm font-semibold transition focus:outline-none focus-visible:ring-2 focus-visible:ring-[var(--accent)] focus-visible:ring-offset-2 disabled:cursor-not-allowed disabled:opacity-50 dark:focus-visible:ring-offset-slate-950;
+    background-color: var(--accent);
+    color: #fff;
+    box-shadow: 0 1px 2px rgba(0,0,0,.05);
   }
+  .btn-primary:hover { background-color: var(--accent-hover); }
 
   .btn-secondary {
-    @apply inline-flex items-center justify-center gap-2 rounded-xl px-4 py-2.5 text-sm font-semibold transition focus:outline-none focus-visible:ring-2 focus-visible:ring-indigo-500 focus-visible:ring-offset-2 disabled:cursor-not-allowed disabled:opacity-50 dark:focus-visible:ring-offset-slate-950;
+    @apply inline-flex items-center justify-center gap-2 rounded-xl px-4 py-2.5 text-sm font-semibold transition focus:outline-none focus-visible:ring-2 focus-visible:ring-[var(--accent)] focus-visible:ring-offset-2 disabled:cursor-not-allowed disabled:opacity-50 dark:focus-visible:ring-offset-slate-950;
     @apply border border-slate-200 bg-white text-slate-700 hover:bg-slate-50 dark:border-slate-700 dark:bg-slate-900 dark:text-slate-200 dark:hover:bg-slate-800;
   }
 
   .btn-ghost {
-    @apply inline-flex items-center justify-center gap-2 rounded-xl px-4 py-2.5 text-sm font-semibold transition focus:outline-none focus-visible:ring-2 focus-visible:ring-indigo-500 focus-visible:ring-offset-2 disabled:cursor-not-allowed disabled:opacity-50 dark:focus-visible:ring-offset-slate-950;
+    @apply inline-flex items-center justify-center gap-2 rounded-xl px-4 py-2.5 text-sm font-semibold transition focus:outline-none focus-visible:ring-2 focus-visible:ring-[var(--accent)] focus-visible:ring-offset-2 disabled:cursor-not-allowed disabled:opacity-50 dark:focus-visible:ring-offset-slate-950;
     @apply text-slate-600 hover:bg-slate-100 dark:text-slate-300 dark:hover:bg-slate-800;
   }
 
@@ -70,4 +75,75 @@
   .prose-question {
     @apply whitespace-pre-line text-[15px] leading-relaxed text-slate-800 dark:text-slate-100;
   }
+}
+
+/* Accent themes */
+:root, [data-accent="indigo"] {
+  --accent: #4f46e5;
+  --accent-hover: #4338ca;
+  --accent-soft: #e0e7ff;
+  --accent-ink: #1e1b4b;
+}
+[data-accent="emerald"] {
+  --accent: #059669;
+  --accent-hover: #047857;
+  --accent-soft: #d1fae5;
+  --accent-ink: #064e3b;
+}
+[data-accent="rose"] {
+  --accent: #e11d48;
+  --accent-hover: #be123c;
+  --accent-soft: #ffe4e6;
+  --accent-ink: #881337;
+}
+[data-accent="amber"] {
+  --accent: #d97706;
+  --accent-hover: #b45309;
+  --accent-soft: #fef3c7;
+  --accent-ink: #78350f;
+}
+[data-accent="sky"] {
+  --accent: #0284c7;
+  --accent-hover: #0369a1;
+  --accent-soft: #e0f2fe;
+  --accent-ink: #0c4a6e;
+}
+[data-accent="violet"] {
+  --accent: #7c3aed;
+  --accent-hover: #6d28d9;
+  --accent-soft: #ede9fe;
+  --accent-ink: #4c1d95;
+}
+.dark [data-accent="indigo"], .dark:root {
+  --accent-soft: #312e81;
+  --accent-ink: #e0e7ff;
+}
+.dark [data-accent="emerald"] { --accent-soft: #064e3b; --accent-ink: #d1fae5; }
+.dark [data-accent="rose"] { --accent-soft: #881337; --accent-ink: #ffe4e6; }
+.dark [data-accent="amber"] { --accent-soft: #78350f; --accent-ink: #fef3c7; }
+.dark [data-accent="sky"] { --accent-soft: #0c4a6e; --accent-ink: #e0f2fe; }
+.dark [data-accent="violet"] { --accent-soft: #4c1d95; --accent-ink: #ede9fe; }
+
+/* Override Tailwind's indigo scale so all indigo-* utilities follow the accent */
+[data-accent] {
+  --color-indigo-50: color-mix(in srgb, var(--accent) 6%, white);
+  --color-indigo-100: color-mix(in srgb, var(--accent) 12%, white);
+  --color-indigo-200: color-mix(in srgb, var(--accent) 22%, white);
+  --color-indigo-300: color-mix(in srgb, var(--accent) 40%, white);
+  --color-indigo-400: color-mix(in srgb, var(--accent) 65%, white);
+  --color-indigo-500: var(--accent);
+  --color-indigo-600: var(--accent-hover);
+  --color-indigo-700: color-mix(in srgb, var(--accent) 85%, black);
+  --color-indigo-800: color-mix(in srgb, var(--accent) 70%, black);
+  --color-indigo-900: color-mix(in srgb, var(--accent) 55%, black);
+  --color-indigo-950: color-mix(in srgb, var(--accent) 40%, black);
+}
+
+:root {
+  --accent-indigo: #4f46e5;
+  --accent-emerald: #059669;
+  --accent-rose: #e11d48;
+  --accent-amber: #d97706;
+  --accent-sky: #0284c7;
+  --accent-violet: #7c3aed;
 }

@@ -1,0 +1,103 @@
+90 | Davranış Bilimleri | Günlük yaşamda dil sürçmeleri, kasıtsız unutkanlıklar, ertelemeler, dalgınlıklar ne tür benlik savunma düzenegine örnektir?
+   A) Yadsıma
+   B) Yansıtma
+   C) Çözülme
+   D) Karşıt tepki kurma
+   E) Bastırma
+   CEVAP: E
+
+91 | Davranış Bilimleri | Alkol bağımlılığı tanısı konulabilmesi için, yeterli tanısal ölçütlerin ne kadar süredir kişi tarafından karşılanıyor olması gereklidir?
+   A) 1 ay
+   B) 3 ay
+   C) 6 ay
+   D) 12 ay
+   E) 24 ay
+   CEVAP: D
+
+92 | Davranış Bilimleri | Hangi ifade biyopsikososyal model için doğru değildir?
+   A) Hastalıkların çoğu sadece biyolojik etkenler tarafından belirlenir, ancak psikolojik ve sosyal olaylar hastalıkların gidişatı üzerinde etkilidir
+   B) İnsana sadece biyolojik açıdan bakmak, toplumsal ve psikolojik yönünü ele almamak büyük bir eksikliktir
+   C) Bütün ruhsal bozukluklarda olayların nedenlerine, belirtilerine, biçimlerine, gidiş, sonlanış ve tedavisine çok boyutlu, çok etkenli bir bakış açısı yaratmak zorunludur
+   D) İnsan normal ve anormal davranışlarıyla biyopsikososyal bir varlıktır
+   E) Bu model insanın tüm yönleriyle değerlendirilmesine imkan sağlamaktadır
+   CEVAP: A
+
+93 | Davranış Bilimleri | Nörotransmitterler ile ilgili aşağıdakilerden hangisi ya da hangileri doğrudur? I. Nöronda sentez edilir. II. Dopamin ve serotonin nörotransmitter örnekleridir. III. Postsinaptik uçtan sinaps aralığına salınır. IV. Davranışın düzenlenmesinde rol alırlar.
+   A) I ve II
+   B) II ve III
+   C) I ve III
+   D) I ve IV
+   E) II ve IV
+   CEVAP: B
+
+94 | Davranış Bilimleri | Stresle başa çıkma mekanizmaları ile ilgili hangisi yanlıştır?
+   A) Düzenli olarak fiziksel egzersiz yapılmalıdır
+   B) Sebze ve meyvelerden zengin bir beslenme biçimi uygulanmalıdır
+   C) Stresi azaltmak için kafeinli içecekler tüketilmelidir
+   D) Yeterli ve dengeli uyunmalıdır
+   E) Gerçekçi olmayan hedeflerden uzak durulmalıdır
+   CEVAP: D
+
+95 | Davranış Bilimleri | Hangisi stres için en uygun tanımdır?
+   A) Bir nesneye karşı duyulan yoğun korku
+   B) Kişinin zihninden atamadığı tekrarlayıcı düşünceler
+   C) Başına kötü bir şey geleceğine yönelik sürekli bir beklenti hali
+   D) İnsan ilişkilerindeki baskının sonucu hissedilen zorlanma durumu
+   E) Ölüm ya da öldürme düşünceleri
+   CEVAP: D
+
+96 | Davranış Bilimleri | Hangisi ayrımcılık kavramlarından biri değildir?
+   A) Toplumsal yargılar
+   B) Önyargı
+   C) Kalıpyargı
+   D) Negatif stereotipler
+   E) Cinsiyetçilik
+   CEVAP: A
+
+97 | Davranış Bilimleri | Aşağıdaki ifadelerden hangisi 'Ayrımcılık' tanımı içinde yer almaz?
+   A) Sadece kendi grubunun avantajını düşünen
+   B) Diğer grubun dezavantajını görmezden gelen
+   C) Diğer grubun dezavantajını pekiştiren
+   D) Diğerine acı verici bir tutum ve davranış sergileyen
+   E) Adil davranan
+   CEVAP: D
+
+98 | Davranış Bilimleri | Aşağıdakilerden hangisi çocuk istismarı türlerinden değildir?
+   A) Cinsel istismar
+   B) Fiziksel istismar
+   C) Duygusal istismar
+   D) İhmal
+   E) Çocuğun kaza yoluyla yaralanması
+   CEVAP: E
+
+99 | Davranış Bilimleri | Çocuklar yaşadıkları ihmal ve istismarı söylememelerinin nedenleri ile ilgili aşağıdakilerden hangisi doğrudur?
+   A) Kendilerine inanılmayacağını düşünürler
+   B) Başlarının belaya gireceğinden istismarcının tehditlerinden korkarlar
+   C) Ailenin parçalanacağını düşünürler
+   D) Nasıl anlatacaklarını bilemeyebilirler
+   E) Tümü
+   CEVAP: D
+
+100 | Tıp Tarihi ve Etik | Kadim Hint tıbbı konusunda aşağıdakilerden hangisi doğru değildir?
+   A) Bütün hastalıkların tedavisi Hindistan'da üretilen ilaçlarla yapılmıştır
+   B) 'Samhita' tıp kitabı anlamına gelmektedir
+   C) Cerrahi uygulamalarda başarı belirli düzeydedir
+   D) Sağlık ve sağlık koruma 'Ayurveda' olarak adlandırılmaktadır
+   E) Zihin ve beden sağlığını korumak 'yoga'dır
+   CEVAP: A
+
+101 | Entegre Oturum | Hangisi alkol ve madde bağımlılıkları için tanısal ölçütler arasında yer almaz?
+   A) Tolerans
+   B) Alkol ve maddenin yarattığı bedensel sorunların farkında olmama
+   C) Bırakınca yoksunluk belirtilerinin olması
+   D) Bırakmak için boşa giden çabalar
+   E) Sosyal ve mesleki işlevsellikte bozulma
+   CEVAP: B
+
+102 | Entegre Oturum | Hangisi madde bağımlılığında ilk kullanımdaki pekiştiriciler arasında sayılmaz?
+   A) Keyif verici etkisinin olması
+   B) Anksiyolitik etkisinin olması
+   C) Bırakınca oluşan yan etkilerden kurtulma
+   D) Analjezik etkisinin olması
+   E) Öfori yapıcı etkisinin olması
+   CEVAP: B

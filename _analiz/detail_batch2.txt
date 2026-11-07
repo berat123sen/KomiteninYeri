@@ -1,0 +1,135 @@
+16 | Fizyoloji | ATP bağlayıcı kaset (ABC) taşıyıcıları aşağıdaki maddelerden hangilerinin taşınmasında rol oynar?
+I) Vitamin
+II) Ca²⁺
+III) Ksenobiyotik
+IV) H⁺
+   A) I ve II
+   B) II ve III
+   C) I ve III
+   D) I ve IV
+   E) II ve IV
+   CEVAP: C
+
+17 | Fizyoloji | Koleranın tedavisinde ağızdan verilen suyun içindeki Na⁺’un sindirim kanalından epitel hücresinin içine emilimi aşağıdaki taşıyıcı mekanizmaların hangisi aracılığıyla gerçekleşir?
+   A) Endositoz
+   B) Basit difüzyon
+   C) Primer aktif taşıma
+   D) Sekonder aktif taşıma
+   E) Kolaylaştırılmış difüzyon
+   CEVAP: D
+
+18 | Fizyoloji | Fosfodiesteraz enzimi aşağıdakilerden hangisini etkisiz hale getirir?
+   A) IP3
+   B) DAG
+   C) cGMP
+   D) NF-κB
+   E) PGE₂
+   CEVAP: C
+
+19 | Fizyoloji | Nitrik oksidin aktive ettiği reseptör ile bu aktivasyon sonucu oluşan ikinci habercı aşağıdaki seçeneklerden hangisinde doğru olarak eşleştirilmiştir?
+   A) Tirozin kinaz — IP₃
+   B) Serin treonin kinaz — cAMP
+   C) Adenilil siklaz — cAMP
+   D) Fosfataz — cGMP
+   E) Guanilil siklaz — cGMP
+   CEVAP: E
+
+20 | Biyokimya | Aşağıdakilerden hangisi lipit sindirim için yanlıştır?
+   A) Barsak hücreleri apo B48 üretir.
+   B) Pankreatik lipaz etkisi ile trigliseritler monoasilgliserol ve serbest yağ asidine yıkılır.
+   C) Barsak epitel hücrelerinde tekrar trigliserit sentezlenir.
+   D) Lingual lipaz ve Gastrik lipaz’ın aktivasyonu için Ko-lipaz’a gereksinim vardır.
+   E) Barsakta sentezlenen şilomikronlar diyet trigliseritlerinin taşınmasında rol oynar.
+   CEVAP: D
+
+21 | Biyokimya | Palmitoil CoA’nın (16:0) beta oksidasyonunda aşağıdaki ifadelerden hangisi yanlıştır?
+   A) Net 106 ATP üretilir.
+   B) Yedi döngü sonucunda sekiz Asetil CoA üretilir.
+   C) Yedi adet FADH₂ üretilir.
+   D) 17 karbonlu bir yağ asidinin oksidasyonuna oranla daha fazla ATP üretilir.
+   E) Oksidasyon için gerekli NADPH’lar pentoz fosfat yolundan elde edilir.
+   CEVAP: E
+
+22 | Biyokimya | Keton cisimcikleri ile ilgili doğru ifade hangisidir?
+   A) Toklukta kan düzeyleri çok yükselir.
+   B) Kas ve beyin hücreleri tarafından üretilir.
+   C) Sitoplazmada HMG CoA redüktaz tarafından üretilir.
+   D) Karaciğer tarafından enerji yakıtı olarak kullanılırlar.
+   E) Kanda en yüksek konsantrasyonda beta hidroksibütirat bulunur.
+   CEVAP: E
+
+23 | Biyokimya | Aşağıdakilerden hangisi Asetil CoA’dan oluşmaz?
+   A) Gliserol 3-fosfat
+   B) Kolesterol
+   C) Araşidonik asit
+   D) Hidroksi metil glutaril CoA (HMG CoA)
+   E) Asetoasetat
+   CEVAP: A
+
+24 | Biyokimya | Prostoglandinler ile ilgili ifadelerden hangi(leri) doğrudur?
+I. Prostoglandinlerin öncü maddesi araşidonik asittir.
+II. Araşidonik asit esansiyel bir yağ asididir.
+III. Prostoglandin sentezi için siklooksijenaz enzimine gereksinim vardır.
+   A) Sadece II
+   B) I ve III
+   C) Sadece I
+   D) I, II ve III
+   E) II ve III
+   CEVAP: B
+
+25 | Biyokimya | Yağ asidi sentezinde yer alan Asetil CoA karboksilaz enzimi için yanlış ifade hangisidir?
+   A) Malonil CoA üretimini sağlar.
+   B) Substrat olarak Asetil CoA’yı kullanır.
+   C) Yapısında prostetik grup olarak piridoksal fosfat bulunur.
+   D) Reaksiyon sırasında 1 mol ATP kullanır.
+   E) Sentez için HCO₃ gereksinimi vardır.
+   CEVAP: C
+
+26 | Biyokimya | Transaminasyon tepkimeleri hakkında verilenlerden hangi(leri) doğrudur?
+I. Hem sentez hem de yıkımda görev alırlar.
+II. Yıkım sırasında serbest amonyak açığa çıkar.
+III. Sentez sırasında serbest amonyağı bir ketoaside bağlar.
+   A) Sadece I
+   B) I ve II
+   C) I, II ve III
+   D) II ve III
+   E) Sadece II
+   CEVAP: A
+
+27 | Biyokimya | Glutamat dehidrogenaz tepkimesi için verilenlerden hangi(leri) doğrudur?
+I. Tepkime sonucunda alfa ketoglutarat oluşur.
+II. Bu enzim mitokondri matriksinde bulunur.
+III. Kofaktör olarak NAD ve NADP’yi kullanır.
+   A) Sadece I
+   B) I ve II
+   C) I, II ve III
+   D) II ve III
+   E) Sadece II
+   CEVAP: C
+
+28 | Biyokimya | Üre döngüsünün ilk tepkimesi olan Karbamoil fosfat sentetaz I reaksiyonu için hangi(leri) doğrudur?
+I. Tepkime için N-asetil glutamat’a gereksinimi vardır.
+II. Substrat olarak bikarbonat ve serbest amonyak kullanılır.
+III. Reaksiyon sırasında 2 ATP’den 2 ADP oluşur.
+   A) Sadece I
+   B) I ve II
+   C) I, II ve III
+   D) I ve III
+   E) II ve III
+   CEVAP: C
+
+29 | Biyokimya | Homosistein’den metionin sentezini gerçekleştiren metionin sentaz enzimi için aşağıdakilerden hangisi gereklidir?
+   A) B12 vitamini
+   B) Biotin
+   C) Niasin
+   D) Folik asit
+   E) Tiamin
+   CEVAP: D
+
+30 | Biyokimya | Triptofandan aşırı miktarda serotonin üretildiği durumlarda hangi vitaminin eksikliği oluşabilir?
+   A) B12 vitamini
+   B) Biotin
+   C) Niasin
+   D) Folik asit
+   E) Tiamin
+   CEVAP: C

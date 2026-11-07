@@ -1,0 +1,43 @@
+16 | Fizyoloji | ATP bağlayıcı kaset (ABC) taşıyıcıları aşağıdaki maddelerden hangilerinin taşınmasında rol oynar?
+I) Vitamin
+II) Ca²⁺
+III) Ksenobiyotik
+IV) H⁺
+   A) I ve II
+   B) II ve III
+   C) I ve III
+   D) I ve IV
+   E) II ve IV
+   CEVAP: C
+
+17 | Fizyoloji | Koleranın tedavisinde ağızdan verilen suyun içindeki Na⁺’un sindirim kanalından epitel hücresinin içine emilimi aşağıdaki taşıyıcı mekanizmaların hangisi aracılığıyla gerçekleşir?
+   A) Endositoz
+   B) Basit difüzyon
+   C) Primer aktif taşıma
+   D) Sekonder aktif taşıma
+   E) Kolaylaştırılmış difüzyon
+   CEVAP: D
+
+18 | Fizyoloji | Fosfodiesteraz enzimi aşağıdakilerden hangisini etkisiz hale getirir?
+   A) IP3
+   B) DAG
+   C) cGMP
+   D) NF-κB
+   E) PGE₂
+   CEVAP: C
+
+19 | Fizyoloji | Nitrik oksidin aktive ettiği reseptör ile bu aktivasyon sonucu oluşan ikinci habercı aşağıdaki seçeneklerden hangisinde doğru olarak eşleştirilmiştir?
+   A) Tirozin kinaz — IP₃
+   B) Serin treonin kinaz — cAMP
+   C) Adenilil siklaz — cAMP
+   D) Fosfataz — cGMP
+   E) Guanilil siklaz — cGMP
+   CEVAP: E
+
+20 | Biyokimya | Aşağıdakilerden hangisi lipit sindirim için yanlıştır?
+   A) Barsak hücreleri apo B48 üretir.
+   B) Pankreatik lipaz etkisi ile trigliseritler monoasilgliserol ve serbest yağ asidine yıkılır.
+   C) Barsak epitel hücrelerinde tekrar trigliserit sentezlenir.
+   D) Lingual lipaz ve Gastrik lipaz’ın aktivasyonu için Ko-lipaz’a gereksinim vardır.
+   E) Barsakta sentezlenen şilomikronlar diyet trigliseritlerinin taşınmasında rol oynar.
+   CEVAP: D

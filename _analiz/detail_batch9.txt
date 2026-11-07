@@ -1,0 +1,42 @@
+21 | Biyokimya | Palmitoil CoA’nın (16:0) beta oksidasyonunda aşağıdaki ifadelerden hangisi yanlıştır?
+   A) Net 106 ATP üretilir.
+   B) Yedi döngü sonucunda sekiz Asetil CoA üretilir.
+   C) Yedi adet FADH₂ üretilir.
+   D) 17 karbonlu bir yağ asidinin oksidasyonuna oranla daha fazla ATP üretilir.
+   E) Oksidasyon için gerekli NADPH’lar pentoz fosfat yolundan elde edilir.
+   CEVAP: E
+
+22 | Biyokimya | Keton cisimcikleri ile ilgili doğru ifade hangisidir?
+   A) Toklukta kan düzeyleri çok yükselir.
+   B) Kas ve beyin hücreleri tarafından üretilir.
+   C) Sitoplazmada HMG CoA redüktaz tarafından üretilir.
+   D) Karaciğer tarafından enerji yakıtı olarak kullanılırlar.
+   E) Kanda en yüksek konsantrasyonda beta hidroksibütirat bulunur.
+   CEVAP: E
+
+23 | Biyokimya | Aşağıdakilerden hangisi Asetil CoA’dan oluşmaz?
+   A) Gliserol 3-fosfat
+   B) Kolesterol
+   C) Araşidonik asit
+   D) Hidroksi metil glutaril CoA (HMG CoA)
+   E) Asetoasetat
+   CEVAP: A
+
+24 | Biyokimya | Prostoglandinler ile ilgili ifadelerden hangi(leri) doğrudur?
+I. Prostoglandinlerin öncü maddesi araşidonik asittir.
+II. Araşidonik asit esansiyel bir yağ asididir.
+III. Prostoglandin sentezi için siklooksijenaz enzimine gereksinim vardır.
+   A) Sadece II
+   B) I ve III
+   C) Sadece I
+   D) I, II ve III
+   E) II ve III
+   CEVAP: B
+
+25 | Biyokimya | Yağ asidi sentezinde yer alan Asetil CoA karboksilaz enzimi için yanlış ifade hangisidir?
+   A) Malonil CoA üretimini sağlar.
+   B) Substrat olarak Asetil CoA’yı kullanır.
+   C) Yapısında prostetik grup olarak piridoksal fosfat bulunur.
+   D) Reaksiyon sırasında 1 mol ATP kullanır.
+   E) Sentez için HCO₃ gereksinimi vardır.
+   CEVAP: C
