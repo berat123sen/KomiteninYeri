@@ -7,6 +7,7 @@ import {
   Menu,
   Moon,
   Shuffle,
+  Skull,
   Sun,
   X,
 } from "lucide-react";
@@ -17,6 +18,7 @@ const navItems = [
   { to: "/", label: "Ana Sayfa", icon: GraduationCap, end: true },
   { to: "/cikmislar", label: "Çıkmışlar", icon: BookOpenCheck },
   { to: "/rastgele", label: "Rastgele Soru", icon: Shuffle },
+  { to: "/iskelet", label: "3D İskelet", icon: Skull },
   { to: "/ilerleme", label: "İlerleme", icon: BarChart3 },
 ];
 

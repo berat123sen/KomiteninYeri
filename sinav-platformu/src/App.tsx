@@ -1,4 +1,4 @@
-import { useEffect } from "react";
+import { lazy, Suspense, useEffect } from "react";
 import { BrowserRouter, Route, Routes } from "react-router-dom";
 import { Layout } from "./components/Layout";
 import { Home } from "./pages/Home";
@@ -10,6 +10,8 @@ import { RandomPage } from "./pages/Random";
 import { ProgressPage } from "./pages/Progress";
 import { NotFound } from "./pages/NotFound";
 import { useProgressStore } from "./store/useProgressStore";
+
+const SkeletonPage = lazy(() => import("./pages/Skeleton"));
 
 export default function App() {
   const init = useProgressStore((s) => s.init);
@@ -28,6 +30,7 @@ export default function App() {
           <Route path="sinav/:examId/soru/:number" element={<QuestionDetail />} />
           <Route path="test/:examId" element={<TestPage />} />
           <Route path="rastgele" element={<RandomPage />} />
+          <Route path="iskelet" element={<Suspense fallback={<div className="page-shell py-16 text-center text-sm text-slate-500">Yükleniyor…</div>}><SkeletonPage /></Suspense>} />
           <Route path="ilerleme" element={<ProgressPage />} />
           <Route path="*" element={<NotFound />} />
         </Route>
