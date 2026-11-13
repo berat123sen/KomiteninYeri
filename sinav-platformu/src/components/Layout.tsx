@@ -1,3 +1,4 @@
+import { Analytics } from '@vercel/analytics/react';
 import { useState } from "react";
 import { Link, NavLink, Outlet, useLocation } from "react-router-dom";
 import {
@@ -166,6 +167,7 @@ export function Layout() {
           </p>
         </div>
       </footer>
+      <Analytics />
     </div>
   );
 }
