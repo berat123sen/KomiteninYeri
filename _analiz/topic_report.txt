@@ -1,0 +1,604 @@
+﻿  10  hist-giris             Tıpta Histoloji ve Embriyoloji
+  11  hist-doku-hazirlama    Doku hazırlama ve inceleme yöntemleri
+  25  hist-hucre             Hücre ve hücresel elemanlar
+  11  bk-metabolizma         Metabolizmanın genel olarak incelenmesi
+   6  bk-beslenme            Beslenmeye biyokimyasal yaklaşım
+   6  bk-eser                Eser elementler
+   7  bk-zar                 Biyolojik zarlar ve taşınma sistemleri
+   2  bk-kh-sindirim         Karbonhidratların sindirimi ve emilimi
+  11  bk-glikoliz            Glikoliz ve denetimi
+  13  bk-glukoneogenez       Glukoneogenez
+   8  bk-pentoz              Pentoz fosfat yolu
+  10  bk-krebs               Krebs döngüsü
+  14  bk-etz                 Hücresel solunum zinciri ve ATP sentezi
+  10  bk-glikojen            Glikojen sentez ve yıkımı
+   6  bk-glikoz-disi         Glikoz dışı şekerlerin metabolizması
+   6  bk-lipid-sindirim      Lipidlerin sindirimi ve emilimi
+  10  bk-yag-yikim           Yağ asitlerinin yıkımı (β-oksidasyon, keton cisimcikleri)
+   9  bk-yag-sentez          Yağ asitlerinin sentezi
+   7  bk-tg-fosfolipid       Trigliserid ve fosfolipid metabolizması
+   5  bk-eikosanoid          Eikosanoidler ve türevleri
+  12  bk-kol-sentez          Kolesterol yapısı ve biyosentezi
+   4  bk-kol-safra           Kolesterol metabolizması ve safra asitleri
+   9  bk-lipoprotein         Lipoprotein metabolizması
+   1  bk-protein-sindirim    Proteinlerin sindirimi ve emilimi
+  16  bk-aminoasit           Aminoasit metabolizması ve üre sentezi
+  14  bk-ozel-urun           Aminoasitlerin özel ürünlere dönüşmesi (hem dahil)
+   4  bk-entegrasyon         Metabolizmanın entegrasyonu (tokluk/açlık)
+   0  bk-diger               Diğer (biyokimya)
+  11  bf-enerji              Biyomoleküler sistemlerde enerji aktarımı (termodinamik)
+   5  bf-zar-yapi            Hücre zarının yapısı ve zar modelleri
+  11  bf-difuzyon            Difüzyon ve osmotik denge (Fick yasası)
+   5  bf-tasinim             Madde taşınımı: konsantrasyon ve elektrokimyasal gradyent
+  23  bf-zar-elektrik        Zarın elektriksel modeli ve dinlenim potansiyeli
+  21  bf-sicaklik            Sıcaklık, ısı aktarımı ve aktivasyon enerjisi
+   1  bf-diger               Diğer (biyofizik)
+   4  mb-giris               Mikrobiyolojiye giriş
+  18  mb-bakteri             Bakteri yapısı ve metabolizması
+   1  mb-genetik             Bakteri genetiği
+   7  mb-uretim              Mikroorganizmaların üretilmesi (besiyerleri)
+  12  mb-virus-yapi          Virüslerin yapısı ve genel özellikleri
+   6  mb-virus-rep           Virüslerin replikasyonu
+   9  mb-virus-tani          Virüslerin tanı yöntemleri
+   1  mb-mantar              Mantar hücresi ince yapısı
+   2  mb-sterilizasyon       Sterilizasyon ve dezenfeksiyon
+   0  mb-diger               Diğer (mikrobiyoloji)
+   4  fz-homeostaz           Homeostaz ve geri bildirim devreleri
+  14  fz-hucre               Hücre fizyolojisi; organeller arası iş bölümü
+   7  fz-genetik             Hücre işlevlerinin genetik kontrolü
+   4  fz-sivi                Bedenin bileşimi ve vücut sıvı bölükleri
+   9  fz-difuzyon            Zardan madde geçişi: difüzyon ve ozmoz
+   6  fz-tasiyici            Aracılı taşıma sistemleri
+  14  fz-iletisim            Hücreler arası iletişim, reseptörler, ikincil haberciler
+   0  fz-hucre-dongusu       Hücre döngüsünün kontrolü
+   0  fz-diger               Diğer (fizyoloji)
+
+## hist-giris (Tıpta Histoloji ve Embriyoloji)
+  2021-2022#1: Aşağıda verilen tanımlamalardan yanlış olanı işaretleyiniz.
+  2021-2022#2: Aşağıda verilen tanımlamalardan yanlış olanı işaretleyiniz.
+  2022-2023#37: Aşağıda verilen tanımlamalardan yanlış olanı işaretleyiniz.
+  2022-2023#38: Aşağıda verilen tanımlamalardan yanlış olanı işaretleyiniz.
+  2023-2024#40: Aşağıda verilen tanımlamalardan yanlış olanı işaretleyiniz.
+  2023-2024#41: Aşağıda verilen tanımlamalardan yanlış olanı işaretleyiniz.
+  2024-2025#1: Aşağıda verilen tanımlamalardan yanlış olanı işaretleyiniz.
+  2024-2025#2: Aşağıda verilen tanımlamalardan yanlış olanı işaretleyiniz.
+  2025-2026#92: Aşağıda verilen tanımlamalardan yanlış olanı işaretleyiniz.
+  2025-2026#93: Aşağıda verilen tanımlamalardan yanlış olanı işaretleyiniz.
+
+## hist-doku-hazirlama (Doku hazırlama ve inceleme yöntemleri)
+  2021-2022#8: Işık mikroskobik incelemeler için canlıdan alınan dokuyu otolitik ve bakteriyolitik reaksiyonla
+  2021-2022#9: Elektron mikroskobik inceleme yöntemi ile ilgili olarak aşağıdakilerden hangisi yanlıştır?
+  2022-2023#44: Işık mikroskobik incelemeler için canlıdan alınan dokuyu otolitik ve bakteriyolitik reaksiyonla
+  2022-2023#45: Elektron mikroskobik inceleme yöntemi ile ilgili olarak aşağıdakilerden hangisi yanlıştır?
+  2023-2024#42: Işık mikroskobik incelemeler için dokunun anestezi altındaki canlıdan alınmasından sonra formal
+  2023-2024#43: Hangisi ışık mikroskobik ve elektron mikroskobik inceleme yöntemleri arasındaki benzerliklerden
+  2023-2024#44: Aşağıdakilerden hangisi sitoplazmayı boyayan asidik boyadır?
+  2024-2025#3: Elektron mikroskobik doku takibi sürecinde aşağıdakilerden hangileri kullanılır? I. Gömme mater
+  2024-2025#4: Kollajen lifleri boyamak için hangi histokimyasal yöntem tercih edilebilir?
+  2025-2026#94: Işık mikroskobik doku hazırlama süreciyle ilgili aşağıdaki ifadelerden hangisi yanlıştır?
+  2025-2026#95: Elektron mikroskobuna (TEM) yönelik doku hazırlama süreci ile ilgili aşağıdaki ifadelerden hang
+
+## hist-hucre (Hücre ve hücresel elemanlar)
+  2021-2022#3: Plazma membranı ile ilgili olarak aşağıdakilerden hangisi yanlıştır?
+  2021-2022#4: Pinositoz ile ilgili olarak hangisi yanlıştır?
+  2021-2022#5: Lizozomlarla ilgili aşağıdakilerden hangisi yanlıştır?
+  2021-2022#6: Aşağıda verilen organel-fonksiyon eşleşmelerinden hangisi yanlıştır?
+  2021-2022#7: Hücrede intrasellüler veziküler transport, silya ve flagella hareketi, mitoz mekiğinin oluşumu,
+  2022-2023#39: Hücrede veziküler transportla ilgili olarak verilen seçeneklerden hangisi yanlıştır?
+  2022-2023#40: Endozomlarla ilgili olarak aşağıdakilerden hangisi yanlıştır?
+  2022-2023#41: Lipid ve steroid metabolizmasında görev alan, detoksifikasyon ve zararlı maddelerin konjugasyon
+  2022-2023#42: Mitokondriyonlar ile ilgili aşağıdakilerden hangisi yanlıştır?
+  2022-2023#43: Mikrotübüllerle ilgili olarak verilen seçeneklerden hangisi yanlıştır?
+  2023-2024#45: Peroksizomlarla ilgili olarak verilen seçeneklerden hangisi yanlıştır?
+  2023-2024#46: Hücrede veziküler transportla ilgili olarak verilen seçeneklerden hangisi yanlıştır?
+  2023-2024#47: Hücrede plazma membranına yakın (periferde) yer alan, hücreye alınan reseptör-protein kompleksi
+  2023-2024#48: Hücreler arası bağlantıların ve mikrovillusların yapısına katılan, hücre hareketi ve bölünmesin
+  2023-2024#49: Golgi kompleksi ile ilgili yanlış seçeneği işaretleyiniz.
+  2024-2025#5: Lizozomlarla ilgili olarak aşağıdakilerden hangisi yanlıştır?
+  2024-2025#6: Nöral ya da hormonal bir uyaran varlığında, hücreye kalsiyum girişi ile, depolanmış salgı granü
+  2024-2025#7: İçeriğindeki oksidatif enzimlerle hücredeki toksik moleküllerin parçalanmasını sağlayan, yağ as
+  2024-2025#8: Mikrotübüllerle ilgili olarak aşağıdakilerden hangisi yanlıştır?
+  2024-2025#9: Hücre çekirdeği ile ilgili olarak verilen seçeneklerden hangisi yanlıştır?
+  2025-2026#96: Hücrede endositoz süreci ile ilgili olarak aşağıda verilenlerden hangileri yanlıştır? I. Sıvıla
+  2025-2026#97: Endozomlarla ilgili olarak aşağıdakilerden hangisi yanlıştır?
+  2025-2026#98: Hücre çekirdeği ile ilgili olarak verilen seçeneklerden hangisi yanlıştır?
+  2025-2026#99: Hücre iskeleti ile ilgili olarak aşağıda verilenlerden hangisi yanlıştır?
+  2025-2026#100: Mitokondriyonla ilgili aşağıdakilerden hangisi yanlıştır?
+
+## bk-metabolizma (Metabolizmanın genel olarak incelenmesi)
+  2021-2022#36: Belirtilen enzimlerden hangisi mitokondriyal bir enzim değildir?
+  2021-2022#37: İnsan (Homo sapiens) sentez-enerji karakterleri açısından hangi biyolojik grupta değerlendirili
+  2021-2022#38: Temel yapı taşlarının katabolik yolaklar sonunda ortak yıkım bileşikleri son ürünlerden hangisi
+  2021-2022#40: Kanser hücrelerinin enerji kaynağı olarak tercih ettikleri moleküller hangi şıkta doğru olarak 
+  2021-2022#41: Çizgili kasta tek bir tepkime ile ATP veren acil hazır enerji kaynağı, hangi biyomolekülden sen
+  2021-2022#49: Karbonhidrat, protein ve yağların metabolizması sonucu oluşan ortak ürün hangisidir?
+  2022-2023#8: Karbonhidrat, protein ve yağların metabolizması sonucu oluşan ortak ürün hangisidir?
+  2023-2024#3: Karbonhidrat, protein ve yağların metabolizması sonucu oluşan ortak ürün hangisidir?
+  2023-2024#22: Aşağıdaki tepkimelerin hangisinin sonucunda hidrojen peroksitler (H2O2) oluşur?
+  2024-2025#23: Aşağıdakilerden hangisi Asetil CoA’dan oluşmaz?
+  2025-2026#68: Aşağıdakilerden hangisi(leri) Asetil CoA'dan oluşur? I. Gliserol 3-fosfat II. Araşidonik asit I
+
+## bk-beslenme (Beslenmeye biyokimyasal yaklaşım)
+  2022-2023#17: Diyabetli hastalarda kan glukoz düzeyinin uygun şekilde sürdürülmesi için yiyeceklerin glisemik
+  2023-2024#39: Aşağıdakilerden hangisi mortalitesi en yüksek (insanları en fazla öldüren) hastalıklar grubunda
+  2024-2025#49: Aşağıdakilerden hangisi mortalitesi en yüksek hastalıklar grubunda olan ve beslenme ile ilişkis
+  2025-2026#31: Aşağıdaki karbonhidratlardan hangisinin glisemik indeksi en yüksektir?
+  2025-2026#45: Aşağıdakilerden hangisi mortalitesi yüksek hastalıklar grubunda olan ve beslenme ile ilişkisi b
+  2025-2026#47: Karbonhidrat içeren bir besinin, tüketim sonrası oluşturduğu kan glukoz artış hızını ve miktarı
+
+## bk-eser (Eser elementler)
+  2023-2024#37: Aşağıdaki eser elementlerden hangisi hemoglobin ve sitokromların yapısında bulunur ve eksikliği
+  2023-2024#38: Aşağıdaki eser elementlerden hangisinin tiroid fonksiyonları açısından önemli görevleri vardır?
+  2024-2025#47: Aşağıdaki minerallerden hangisi insülinin glukozu hücre içerisine almasında rol oynayarak gluko
+  2024-2025#48: Aşağıdaki eser elementlerden hangileri tiroid dokusunda T3 ve T4 hormonlarının sentezi için ger
+  2025-2026#44: Aşağıdaki eser elementlerden hangileri tiroit dokusunda T3 ve T4 hormonlarının sentezi için ger
+  2025-2026#46: Aşağıdakilerden hangisi serbest radikal süpürücü etkileri olan süperoksit gibi radikalleri deto
+
+## bk-zar (Biyolojik zarlar ve taşınma sistemleri)
+  2023-2024#33: Sodyum-potasyum pompası hangi taşıma sistemine girer?
+  2023-2024#34: Aşağıdaki proteinlerden hangisi, bir çözücüde aktif olarak hücreye taşımak için sodyum elektrok
+  2024-2025#55: Sodyum-potasyum ATPaz pompası hangi prensibe göre çalışır?
+  2024-2025#56: Aktif taşınmada sodyum elektrokimyasal gradyenti kullanan taşıyıcı seçeneklerden hangisidir?
+  2024-2025#58: Proteinlerin lipid membrana bağlanmasını sağlayan tepkimeye ne ad verilir?
+  2025-2026#29: Aşağıdakilerden hangisi GLUT1 taşıyıcısının özelliğidir?
+  2025-2026#30: 6 yaşındaki bir çocuk açlık dönemlerinde nöbet geçiriyor. Kan glukozu normal, fakat BOS glukozu
+
+## bk-kh-sindirim (Karbonhidratların sindirimi ve emilimi)
+  2021-2022#23: 9 yaşında Asyalı bir çocuk annesi tarafından doktora getirilir. Viral bir akut gastroenteritin 
+  2025-2026#32: Süt içtikten sonra gaz, karın ağrısı ve ishal şikâyetleri yaşayan bir hastada aşağıdaki enzimle
+
+## bk-glikoliz (Glikoliz ve denetimi)
+  2021-2022#21: Yüksek bir ATP/AMP oranı aşağıdaki enzimlerden hangisini inhibe eder?
+  2021-2022#47: Aşağıdaki glikoliz enzimlerinden hangisinin aktivitesi sonucu ATP oluşur?
+  2022-2023#1: Glikoneojenez sırasında karaciğerde glikolizin inhibisyonu için ana mekanizma nedir?
+  2022-2023#2: Hangisi 2,3-bifosfogliseratı tanımlayan bir özelliktir?
+  2022-2023#15: Glikoliz, glukoneogenez ve glikojenolize katılan ortak metabolit aşağıdakilerden hangisidir?
+  2022-2023#35: Aşağıdakilerden hangisi mitokondride piruvatın dekarboksilasyonu ile asetilkoenzim oluşumunu ka
+  2023-2024#36: Aşağıdakilerden hangisi mitokondride pirüvatın dekarboksilasyonu ile asetil-koenzim A oluşumunu
+  2024-2025#33: Aşağıdaki glikoliz enzimlerinden hangisi karbon-karbon bağını kırarak fruktoz 1,6-bifosfatın tr
+  2024-2025#34: Pirüvattan tek bir reaksiyon ile hangi madde oluşamaz?
+  2025-2026#48: Aşağıdaki glikoliz enzimlerinden hangisinin aktivitesi sonucu ATP oluşur?
+  2025-2026#51: Pirüvattan tek bir reaksiyon ile hangi madde oluşamaz?
+
+## bk-glukoneogenez (Glukoneogenez)
+  2021-2022#33: Kaslarda oluşan amino gruplarını karaciğere taşıyan ve hepatik glukoneogeneze katkıda bulunan t
+  2021-2022#48: Kan glukozu düşmüş bir kişide, aşağıdaki enzimlerden hangisinin karaciğerde inhibe olması gerek
+  2022-2023#12: Kan glukozu düşmüş bir kişide, aşağıdaki enzimlerden hangisinin karaciğerde inhibe olması gerek
+  2022-2023#16: Aşağıdakilerden hangisi glukoneogenezde yer alan enzim veya metabolit değildir?
+  2022-2023#34: Aşağıdakilerden hangisi kas ve karaciğer dokuları arasındaki glikojen-laktat-glukoz dönüşümünü 
+  2023-2024#5: Kan glukozu düşük bir kişide, aşağıdaki enzimlerden hangisinin karaciğerde inhibe olması gereki
+  2023-2024#9: Glikoneogenez reaksiyonunda enerji nereden sağlanır?
+  2023-2024#35: Aşağıdakilerden hangisi kas ve karaciğer dokuları arasındaki glikojen yıkımı/glukoz alımı metab
+  2024-2025#39: Aşağıdakilerden hangisi glukoneogenezde yer alan enzim veya metabolit değildir?
+  2024-2025#44: Kan glukozu düşmüş bir kişide, aşağıdaki enzimlerden hangisinin karaciğerde inhibe olması gerek
+  2025-2026#49: Kan glukozu düşmüş bir kişide, aşağıdaki enzimlerden hangisinin karaciğerde inhibe olması gerek
+  2025-2026#56: Aşağıdakilerden hangisi glukoneogenezde yer alan enzim veya metabolit değildir?
+  2025-2026#60: Kan glukozu düşmüş bir kişide, aşağıdaki enzimlerden hangisinin karaciğerde inhibe olması gerek
+
+## bk-pentoz (Pentoz fosfat yolu)
+  2021-2022#51: Eritrosit hücre direnciyle ilgili olan oksidasyon tipi aşağıdakilerden hangisidir?
+  2022-2023#7: Pentoz fosfat yolunun inhibitörü aşağıdakilerden hangisidir?
+  2022-2023#9: Pentoz fosfat yolu ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?
+  2023-2024#1: Aşağıdakilerden hangisi Pentoz Fosfat yolunun görevlerindendir?
+  2023-2024#2: Pentoz fosfat yolunun inhibitörü aşağıdakilerden hangisidir?
+  2024-2025#38: Pentoz fosfat yolunun başlıca amacı aşağıdakilerden hangisidir?
+  2024-2025#43: Pentoz fosfat yolunun inhibitörü aşağıdakilerden hangisidir?
+  2025-2026#55: Pentoz fosfat yolunun başlıca amacı aşağıdakilerden hangisidir?
+
+## bk-krebs (Krebs döngüsü)
+  2021-2022#53: Krebs döngüsünün hızı aşağıdaki enzimlerden hangilerinin allosterik kontrolü ile düzenlenir? (I
+  2021-2022#55: TCA döngüsü enzimlerinden olan alfa ketoglutarat dehidrogenaz enzimi aşağıdakilerden hangisi il
+  2022-2023#6: Aşağıdaki enzimlerden hangisi hem TCA döngüsünün hız kısıtlayıcı enzimlerinden biri hem de pirü
+  2022-2023#13: Sitrik asit döngüsünde görev alan enzimler, aşağıdaki vitaminlerden hangisini ko-enzim olarak k
+  2022-2023#28: Aşağıdaki aminoasitlerden hangisi Sitrik Asit Döngüsünde (Kreb's) yer alan bir maddenin transam
+  2022-2023#30: Aşağıdaki Sitrik Asit Döngüsü elemanlarından hangisi aminoasitlerin karbon iskeletinin yıkımı s
+  2023-2024#10: Krebs döngüsü ile ilgili aşağıdakilerden hangisi doğrudur?
+  2023-2024#12: Krebs siklusunda aşağıdakilerden hangisi gerçekleşmez?
+  2024-2025#36: Krebs siklusunda aşağıdakilerden hangisi gerçekleşmez?
+  2025-2026#53: Aşağıdakilerden hangisi Krebs siklusu basamaklarından değildir?
+
+## bk-etz (Hücresel solunum zinciri ve ATP sentezi)
+  2021-2022#39: Aşağıdaki biyomoleküllerden hangisinin Hidrit iyonu mitokondride elektron transport sistemi tep
+  2021-2022#52: Elektron transport zincirindeki yapılardan hangisi protein içermez?
+  2021-2022#56: Aşağıdaki enzimlerden hangisinin katalizlediği reaksiyon substrat düzeyinde fosforilasyona örne
+  2021-2022#58: Elektron transport zincirinde yer alan enzimlerden hangisi aynı zamanda TCA döngüsünün enzimler
+  2021-2022#59: Elektron transport zincirinin stoplazmadan gelen elektron kaynağı hangi yolaktır?
+  2022-2023#5: Elektron transport zincirinde yer alan komplekslerden hangisi aynı zamanda TCA döngüsünün enzim
+  2023-2024#6: ATP sentazın (kompleks V) sap kısmına (Fo) bağlanarak hidrojen kanalını kapatan ve ATP sentezin
+  2023-2024#11: Glikolizde gliseraldehit-3-fosfat dehidrogenaz reaksiyonuyla elde edilen hidrojen ve elektronla
+  2024-2025#35: Aşağıdaki dehidrogenaz enzimlerinin hangisinin aktivitesiyle, alternatif yolaklarla 1,5 ya da 2
+  2024-2025#37: Krebs döngüsünden elde edilen FADH₂, ETZ’ye hangi basamaktan girer?
+  2024-2025#46: Aşağıdakilerden hangisi mitokondri membranında Elektron Taşıma Zincirinde (ETZ) NADH+H ve FADH₂
+  2025-2026#42: Aşağıdakilerden hangisi mitokondri membranında Elektron Taşıma Zincirinde (ETZ) NADH+H ve FADH2
+  2025-2026#52: Aşağıdaki dehidrogenaz enzimlerinin hangisinin aktivitesiyle ortaya çıkan NADH'tan, alternatif 
+  2025-2026#54: Krebs döngüsünden elde edilen NADH, ETZ'ye hangi basamaktan girer?
+
+## bk-glikojen (Glikojen sentez ve yıkımı)
+  2021-2022#50: Glikojenin yıkılmasını sağlayan enzimlerden biri olan glikojen fosforilazın ürünü aşağıdakilerd
+  2021-2022#54: Glikojen sentezinde başlangıç glikozil kalıntıları, glikojenin proteininde aşağıdaki aminoasidl
+  2022-2023#10: Glikojenin yıkılmasını sağlayan enzimlerden biri olan glikojen fosforilazın ürünü ve ürünün dön
+  2022-2023#14: Glikojen sentezinde başlangıç glikozil kalıntıları, glikojenin proteininde aşağıdaki aminoasitl
+  2023-2024#7: Glikojen sentezinde başlangıç glikozil kalıntıları, glikojenin proteininde aşağıdaki aminoasitl
+  2023-2024#8: Glikojen yıkımından sonra kana aktif glukoz salınımını sağlayan enzim aşağıdakilerden hangisidi
+  2024-2025#40: Glikojen sentezi için aşağıdakilerden hangisi yanlıştır?
+  2024-2025#41: Glikojenin yıkılmasını sağlayan enzimlerden biri olan glikojen fosforilazın ürünü aşağıdakilerd
+  2025-2026#50: Glikojenin yıkılmasını sağlayan enzimlerden biri olan glikojen fosforilazın ürünü aşağıdakilerd
+  2025-2026#57: Glikojen sentezi için aşağıdakilerden hangisi yanlıştır?
+
+## bk-glikoz-disi (Glikoz dışı şekerlerin metabolizması)
+  2021-2022#57: Diabetiklerde lenste glukozdan sorbitol oluşumunu sağlayarak katarakta yol açan NADPH bağımlı e
+  2022-2023#11: Glukoz sorbitol yolunda aşağıdaki ürünlerden hangisine dönüşür?
+  2023-2024#4: Glukoz sorbitol yolunda aşağıdaki ürünlerden hangisine dönüşür?
+  2024-2025#42: Fruktoz metabolizması ile ilgili aşağıdakilerden hangisi yanlıştır?
+  2025-2026#58: Glukoz sorbitol yolunda aşağıdaki ürünlerden hangisine dönüşür?
+  2025-2026#59: Fruktoz metabolizması ile ilgili aşağıdakilerden hangisi yanlıştır?
+
+## bk-lipid-sindirim (Lipidlerin sindirimi ve emilimi)
+  2021-2022#24: Yağların sindirim ve emilimi sırasında aşağıdaki vitaminlerden hangisi de birlikte emilir?
+  2022-2023#36: Lipitlerin sindirimi sırasında triaçilgliserolleri parçalayarak 2 adet serbest yağ asidi ve bir
+  2023-2024#18: Yağların sindirimi sırasında 'Fosfatidil kolin' Fosfolipaz A2 ile karşılaştığında hangi molekül
+  2024-2025#20: Aşağıdakilerden hangisi lipit sindirim için yanlıştır?
+  2025-2026#63: Gastrik Lipaz ve Lingual Lipaz etkisiyle trigliseritlerden koparılan yağ asitleri kanda nasıl t
+  2025-2026#64: Yağların sindirimi sırasında "Fosfatidil kolin" Fosfolipaz A2 ile karşılaştığında hangi molekül
+
+## bk-yag-yikim (Yağ asitlerinin yıkımı (β-oksidasyon, keton cisimcikleri))
+  2021-2022#25: Yağ asidi oksidasyonu bozulduğu zaman karbonhidrat yolaklarından hangisi etkilenir?
+  2021-2022#26: Verilen maddelerden hangisi, yağ asitlerinin mitokondri içine girişinde kilit rol oynayan Karni
+  2021-2022#27: Keton cisimcikleri ile ilgili YANLIŞ ifade hangisidir?
+  2022-2023#20: Yağ asitlerinin beta oksidasyonu sırasında ilk döngü sonucunda aşağıdakilerden hangisi açığa çı
+  2022-2023#21: Keton cisimcikleri hakkında aşağıda verilen ifadelerden hangisi yanlıştır?
+  2023-2024#16: Karbon sayısı 17 olan bir yağ asidinin beta oksidasyona uğraması ile ilgili ifadelerden hangisi
+  2023-2024#17: Yağ asitlerinin okside olmak üzere mitokondriye geçişinde rol oynayan 'Karnitin Palmitoil Trans
+  2024-2025#21: Palmitoil CoA’nın (16:0) beta oksidasyonunda aşağıdaki ifadelerden hangisi yanlıştır?
+  2024-2025#22: Keton cisimcikleri ile ilgili doğru ifade hangisidir?
+  2025-2026#67: Palmitoik asidin beta oksidasyonunda aşağıdakilerden hangisi oluşmaz?
+
+## bk-yag-sentez (Yağ asitlerinin sentezi)
+  2021-2022#22: Kanda artan sitrik asit seviyeleri hangi enzimi uyarır?
+  2021-2022#28: Yağ asidi sentaz enzim kompleksi içinde Koenzim A rolünü üstlenerek asetil gruplarını bağlayan 
+  2022-2023#18: Yağ asidi sentezi ve Yağ asidi yıkımı (beta oksidasyon) arasındaki farklar açısından aşağıdakil
+  2022-2023#19: Yağ asidi sentezi için aşağıdakilerden hangisi gerekli değildir?
+  2022-2023#26: Sitrat, aşağıda verilen enzimlerin hangisinin üzerinde pozitif allosterik etki gösterir?
+  2023-2024#14: Bir deneysel ortamda işaretli karbon atomları (C14) kullanılarak CO2 gazı işaretlenmiş ve deney
+  2024-2025#25: Yağ asidi sentezinde yer alan Asetil CoA karboksilaz enzimi için yanlış ifade hangisidir?
+  2025-2026#61: Bir deneysel ortamda işaretli karbon atomları (C14) kullanılarak CO2 gazı işaretlenmiş ve deney
+  2025-2026#65: Yağ asidi biyosentezinde Asetil CoA'dan Malonil CoA dönüşümünü sağlayan ve yağ asidi sentezinde
+
+## bk-tg-fosfolipid (Trigliserid ve fosfolipid metabolizması)
+  2021-2022#29: Aşağıdakilerden hangisi trigliserit metabolizması için yanlıştır?
+  2022-2023#22: Bir karışımda bulunan gliserofosfolipitler Fosfolipaz D ile muamele edilirse aşağıdakilerden ha
+  2022-2023#23: Hem gliserofosfolipit hem de trigliserit sentezine gidebilen ara madde hangisidir?
+  2023-2024#27: Akciğerlerde eksikliğinde solunum zorluğu, alveollerde kapanma ile seyreden respiratuvar distre
+  2024-2025#50: Alveolleri kollabe olmasını önleyen apoproteinler, karbonhidratlar ve esas olarak içerdiği lipi
+  2025-2026#33: Aşağıdaki durumlardan hangisi trigliserit sentezini artırır?
+  2025-2026#34: Yağ dokusunun trigliserit sentezi sırasında gliserol-3-fosfat oluşturabilmesi için hangi süreç 
+
+## bk-eikosanoid (Eikosanoidler ve türevleri)
+  2021-2022#44: Aşağıdaki eikozanoidlerden hangisi trombosit(platelet)lerin birbirine yapışmasına yol açar, dam
+  2022-2023#24: Doğumdan itibaren tamamen yağsız bir diyetle beslenen sıçanlarda aşağıdakilerden hangisinin olu
+  2023-2024#15: Prostaglandinlerin sentezinde aşağıdakilerden hangisi siklooksijenaz yolağı üzerinden sentezlen
+  2024-2025#24: Prostoglandinler ile ilgili ifadelerden hangi(leri) doğrudur? I. Prostoglandinlerin öncü maddes
+  2025-2026#66: Araşidonik asitten Prostaglandinlerin sentezinde aşağıdakilerden hangisi(leri) siklooksijenaz y
+
+## bk-kol-sentez (Kolesterol yapısı ve biyosentezi)
+  2021-2022#42: Prenilasyon aşağıdaki olaylardan hangisi ile ilgili değildir?
+  2022-2023#27: Aşağıda verilen maddelerden hangisinin öncü maddesi kolesterol değildir?
+  2023-2024#28: Kalp damar hastalıkları riski oluşturan hiperkolesterolemiyi düzenlemek için kullanılan ilaçlar
+  2023-2024#29: Metabolizmada kolesterolün hücre içi düzenlenmesinde aşağıdakilerden hangisi etkilidir?
+  2023-2024#31: Karaciğerde HMG-KoA redüktaz enzim aktivitesinin düzenlenmesinde etkisi olmayan seçenek hangisi
+  2023-2024#32: Aşağıdakilerden hangisinin sentezinde kolesterol başlangıç maddesi olarak görev alır?
+  2024-2025#51: Hiperkolesterolomiyi düzenlemek için kullanılan statin grubu ilaçlar plazma kolesterol düzeyler
+  2024-2025#52: Metabolizmada kolesterolün hücre içi düzenlenmesinde aşağıdaki durumlardan hangisi etkili değil
+  2024-2025#53: Karaciğerde HMG-KoA redüktaz enzim aktivitesinin düzenlenmesinde etkisi olmayan seçenek hangisi
+  2024-2025#54: Sentezinde kolesterolden köken almayan bileşik aşağıdaki seçeneklerden hangisinde yer almaktadı
+  2025-2026#35: Kolesterol molekülündeki tüm karbon atomlarının kaynağı aşağıdakilerden hangisidir?
+  2025-2026#36: Hücresel kolesterol düzeyi arttığında HMG-CoA redüktaz aktivitesi nasıl etkilenir?
+
+## bk-kol-safra (Kolesterol metabolizması ve safra asitleri)
+  2021-2022#43: Safra asitleri hangi reseptör tipine bağlandığında hedef hücrede gen düzeyinde etkiye yol açar?
+  2022-2023#25: Aşağıdakilerden hangisi primer safra asitlerinin konjugasyonunda yer alan temel bileşiktir?
+  2025-2026#37: Safra asitlerinin lipid sindirimindeki temel görevi aşağıdakilerden hangisidir?
+  2025-2026#38: Aşağıdakilerden hangisi primer safra asitlerinden biridir?
+
+## bk-lipoprotein (Lipoprotein metabolizması)
+  2021-2022#45: Plazmada Şilomikron ve VLDL metabolizması için endotel lipoprotein lipaz enziminin endotel hücr
+  2021-2022#46: Küçük bir çocukta plazma HDL-kolesterol derişimi çok düşüktür. Aşağıdaki apoproteinlerden hangi
+  2022-2023#3: Okside hali makrofajlar tarafından alınarak köpük hücrelerinin oluşmasını sağlayan lipoprotein 
+  2022-2023#4: Yüksek dansiteli lipoprotein (HDL) metabolizmasında görev yapan lesitin kolesterol asil transfe
+  2023-2024#26: Doktorunun önerdiği şekilde yağdan fakir diyet ile beslenen bir kadın, yağ alımını azaltıp karb
+  2023-2024#30: Plazmadaki derişimleri ateroskleroz ve koroner kalp hastalığı insidansı ile en çok ilişkili ola
+  2024-2025#57: Aşağıdaki seçeneklerden hangisinde verilen bilgi doğru değildir?
+  2025-2026#39: Karaciğerden salınan VLDL'nin başlıca görevi aşağıdakilerden hangisidir?
+  2025-2026#40: Lipoprotein lipaz (LPL) aktivasyonu için gerekli olan apolipoprotein aşağıdakilerden hangisidir
+
+## bk-protein-sindirim (Proteinlerin sindirimi ve emilimi)
+  2025-2026#69: On aminoasitten oluşan C-Gly-Lys-Glu-Arg-Phe-Gly-Tyr-Glu-Pro-Arg-N peptidi, önce tripsin ile da
+
+## bk-aminoasit (Aminoasit metabolizması ve üre sentezi)
+  2021-2022#30: Aşağıdaki enzimlerden hangisi uygun substrat varlığında, ortamdaki serbest amonyak miktarını az
+  2021-2022#32: Aşağıdaki aminoasitlerden hangisi Üre Döngüsü içinde yer almaz?
+  2021-2022#34: Kanda ve idrarda homosistein artışı ile seyreden tabloda hangi enzim eksikliği söz konusudur?
+  2021-2022#35: Dihidrobiyopterin redüktaz enzim eksikliğinde aşağıdaki aminoasitlerden hangisinin konsantrasyo
+  2022-2023#29: Üre döngüsünün ilk enzimi olan "Karbamoil fosfat sentetaz I" enziminin reaksiyonu gerçekleştire
+  2022-2023#32: Glisin, aşağıdaki maddelerden hangisinin sentezinde rol oynamaz?
+  2022-2023#33: Sistatyonin beta sentaz enzim eksikliğinde aşağıdaki maddelerin hangisinin konsantrasyonu kanda
+  2023-2024#13: Bir karaciğer dokusu homojenize edilip santrifüj edilerek tüm membran komponentleri ve organell
+  2023-2024#19: Bir çocukta yapılan ölçümlerde kandaki amonyak düzeyinin çok fazla yükseldiği gözlenmiştir. Bu 
+  2024-2025#26: Transaminasyon tepkimeleri hakkında verilenlerden hangi(leri) doğrudur? I. Hem sentez hem de yı
+  2024-2025#27: Glutamat dehidrogenaz tepkimesi için verilenlerden hangi(leri) doğrudur? I. Tepkime sonucunda a
+  2024-2025#28: Üre döngüsünün ilk tepkimesi olan Karbamoil fosfat sentetaz I reaksiyonu için hangi(leri) doğru
+  2024-2025#29: Homosistein’den metionin sentezini gerçekleştiren metionin sentaz enzimi için aşağıdakilerden h
+  2024-2025#45: Aşağıdaki aminoasitlerden hangisi Koenzim olarak C Vitamininin kullanıldığı bir hidroksilasyon 
+  2025-2026#62: Bir karaciğer dokusu homojenize edilip arkasından santrifüj edilerek tüm membran komponentleri 
+  2025-2026#70: Bir çocukta yapılan ölçümlerde kandaki amonyak düzeyinin çok fazla yükseldiği gözlenmiştir. Bu 
+
+## bk-ozel-urun (Aminoasitlerin özel ürünlere dönüşmesi (hem dahil))
+  2021-2022#31: Aşağıdaki tepkimelerden hangisi metil-tetrahidrofolat'tan metil alarak tetrahidrofolat'ın oluşm
+  2022-2023#31: NAD ve NADP öncü maddesi olan nikotinat (niasin) hangi aminoasitten sentezlenebilir?
+  2023-2024#20: Aşağıdaki tepkimelerden hangisi 'metiltetrahidrofolat' kullanarak folat tuzağından kurtarır?
+  2023-2024#21: Triptofandan aşırı miktarlarda serotonin üretimi gerçekleştiği durumlarda hangi vitaminin eksik
+  2023-2024#23: Aşağıda verilen enzimlerden hangisinin eksikliği kanda ve idrarda fenilketon cisimciklerinin ar
+  2023-2024#24: Vücudumuzdaki basıncın ayarlanmasında ve pıhtılaşmada rol oynayan Nitrik Oksit (NO) aşağıdaki a
+  2024-2025#30: Triptofandan aşırı miktarda serotonin üretildiği durumlarda hangi vitaminin eksikliği oluşabili
+  2024-2025#31: Aşağıda verilen maddelerden hangisi tirozin aminoasitinden sentezlenemez?
+  2025-2026#41: Protoporfirin halkasına demir eklenmesi ile oluşan, hemoglobin ve miyoglobinin yapısında oksije
+  2025-2026#43: Hemoglobin sentezi, mitokondride Süksinil Koenzim A ve Glisin moleküllerinin kondensasyonu sonu
+  2025-2026#71: Hangisi Tirozin aminoasidinden sentezlenebilir?
+  2025-2026#74: Noradrenalinin adrenaline dönüşebilmesi için aşağıdaki mekanizmaların hangisi doğrudur?
+  2025-2026#75: Hastanın idrarında çıkan ve havayla temas ettiği zaman oksitlenerek siyah pigmentler oluşturan 
+  2025-2026#76: Tetrahidrobiyopterin tekrar oluşamadığında hangi enzimin aktivitesinde bozulma meydana gelir?
+
+## bk-entegrasyon (Metabolizmanın entegrasyonu (tokluk/açlık))
+  2023-2024#25: Tokluk durumunda (insülin/glukagon oranı arttığında) aşağıdakilerden hangisi yanlıştır?
+  2024-2025#32: Aşağıdakilerden hangisi insülin’in etkileri arasında yer almaz?
+  2025-2026#72: Tokluk durumunda, (insülin/glukagon oranı arttığında), aşağıdakilerden hangisi(leri) doğrudur? 
+  2025-2026#73: İnsülin eksikliğinde ya da uzun süren açlık durumunda belirtilenlerden hangisi yanlıştır?
+
+## bk-diger (Diğer (biyokimya))
+
+## bf-enerji (Biyomoleküler sistemlerde enerji aktarımı (termodinamik))
+  2021-2022#77: ATP hidrolizi ile enerji salınımı, hücrede işe dönüşür. Buna göre canlı bir hücrede ATP hidroli
+  2021-2022#78: Günlük ortalama 1625 kcal gıda enerjisine ihtiyaç duyan bir kişi, günde 1925 kcal gıda tüketmek
+  2022-2023#52: Aşağıdaki tepkime türlerinden hangisi hücre için entropisini azaltır?
+  2022-2023#53: ATP'nin ADP'ye dönüşüm reaksiyonu için Gibbs serbest enerjisini hesaplayınız (T=293 Kelvin, ΔH:
+  2022-2023#54: Hücrelerde enerji dönüşümleri ile aşağıdakilerden hangisi yanlıştır?
+  2023-2024#65: Aşağıdaki reaksiyon türlerinden hangisi hücre içinde entropiyi azaltır?
+  2023-2024#66: Sabit sıcaklık ve basınç altındaki bir sistemde gerçekleşen bir difüzyon sürecinin Gibbs-Serbes
+  2023-2024#68: ATP hidrolizi ile enerji salınımı, hücrede içe dönüşür. Buna göre canlı bir hücrede ATP hidroli
+  2024-2025#59: Bir mol glukozun potansiyel enerjisi 686 kcal/mol’dür. Hücresel solunumda glukozdan 277 kcal/mo
+  2025-2026#81: Aşağıdaki olaylardan hangisi hücrede entropi artışına örnek değildir?
+  2025-2026#82: 1 mol glikozun doğrudan yakılması ile hücre solunumunda parçalanması karşılaştırıldığında, aşağ
+
+## bf-zar-yapi (Hücre zarının yapısı ve zar modelleri)
+  2021-2022#79: Aşağıdakilerden hangisi hücre zarının işlevleri arasında yer almaz?
+  2021-2022#80: Aşağıda verilen hücre zarı ile ilgili bilgilerden hangisi yanlıştır?
+  2022-2023#56: Hücre zarı ile ilgili aşağıdakilerden hangisi yanlıştır?
+  2023-2024#67: Aşağıdakilerden hangisinde hidrofobik etkileşimler bulunmaz?
+  2024-2025#60: Fosfolipid çift tabakasının oluşumunda temel sürdürücü kuvvet aşağıdakilerden hangisidir?
+
+## bf-difuzyon (Difüzyon ve osmotik denge (Fick yasası))
+  2021-2022#82: Aşağıda verilen hücre zarından doğrudan geçişlerde difüzyon hızı hangisine bağlı değildir?
+  2021-2022#84: Eşit hacimli iki bölmeden (A ve B) oluşan bir kap, sadece su geçişine izin veren, başlangıçta k
+  2022-2023#57: Hücre zarından basit difüzyon ile doğrudan geçen bir molekülün difüzyon hızının (difüzyon akısı
+  2022-2023#58: Eşit konsantrasyonlardaki (gram/litre) glikoz ve sükroz solüsyonları, sadece su geçişine izin v
+  2023-2024#70: Hücre zarında gerçekleşen osmozun hareket yönünün belirlenmesinde, aşağıdakilerden hangileri te
+  2023-2024#72: Fick difüzyon yasasına göre, aşağıdakilerden hangisi zar boyunca geçebilecek bir maddenin difüz
+  2024-2025#61: Eşit konsantrasyonlardaki (gram/litre) glukoz (180 g/mol) ve sükroz (342 g/mol) solüsyonları bi
+  2024-2025#62: Fick difüzyon yasasına göre, aşağıdakilerden hangisi hücre zarından geçebilen bir maddenin zar 
+  2025-2026#84: Bir molekülün zarda difüzyon hızı, zar boyunca konsantrasyon farkı 50 mM (mol/m³) olduğunda 10⁻
+  2025-2026#85: Aşağıdakilerden hangisi difüzyon ile ilgili kavramlar arasında yer almaz?
+  2025-2026#86: Bir kılcal damar duvar kalınlığı yaklaşık 2 mikrometredir (μm). Bu duvardan geçebilen küçük bir
+
+## bf-tasinim (Madde taşınımı: konsantrasyon ve elektrokimyasal gradyent)
+  2021-2022#83: Aşağıda verilen hücre zarından madde taşınımı ile ilgili bilgilerden hangisi yanlıştır?
+  2022-2023#59: Hücre zarından madde taşınımı ile ilgili aşağıdakilerden hangisi yanlıştır?
+  2023-2024#71: Sinir hücresinde yer alan Na+/K+ pompası zar boyunca 3 Na+/2 K+ değişimi yapar. Bu pompasal tem
+  2024-2025#63: Hücre zarından madde taşınımı ile ilgili aşağıdakilerden hangisi yanlıştır?
+  2024-2025#66: Hücre zarından geçişinde metabolik enerjinin gerekli olmadığı yönde hareket eden bir iyon için 
+
+## bf-zar-elektrik (Zarın elektriksel modeli ve dinlenim potansiyeli)
+  2021-2022#81: Aşağıda verilen hücre zarının elektriksel özellikleri ile ilgili bilgilerden hangi ifade yanlış
+  2021-2022#85: Zar Kalınlığı 6 nm olan bir hücrenin içi ile dışı arasındaki potansiyel farkı kaç mV dur? (Hücr
+  2021-2022#86: Bir kas hücresi için dinlenim zar potansiyeli -70 mV, potasyumun denge potansiyeli (Ek) -90 mV.
+  2021-2022#87: Aşağıda verilen Donnan denge potansiyeli ile ilgili bilgilerden hangisi yanlıştır?
+  2022-2023#55: Bir hücrenin zar kalınlığı iki katına çıkar ancak hücre aynı boyutta kalırsa, hücre zarının dir
+  2022-2023#60: Aşağıdakilerden hangisi Donnan potansiyelinin özelliği değildir?
+  2022-2023#61: Aşağıdakilerden hangisi bir cins iyonun konsantrasyon farkından doğan göçü dengelemek için zarı
+  2022-2023#62: Bir nöronun dinlenim zar potansiyeli -70 mV, sodyum (Na⁺) denge potansiyeli (ENa)=+60 mV ise za
+  2023-2024#69: Hücre zarının elektriksel özellikleri ile ilgili hangi ifade yanlıştır?
+  2023-2024#73: Membran potansiyeli -70 mV olan dinlenim durumunda bir hücrede, Cl- için Nernst denge potansiye
+  2023-2024#74: Bir sinir hücresi membranının her iki tarafında yer alan iyonların Nernst-Denge potansiyelleri 
+  2023-2024#75: Aşağıdakilerden hangisi Gibbs-Donnan potansiyelinin özelliği değildir?
+  2023-2024#76: Aşağıdakilerden hangisi hücrenin dinlenim membran potansiyel değerine potasyumun (K+) etkisinin
+  2024-2025#64: Hücre zarının elektriksel özellikleri ile ilgili hangi ifade yanlıştır?
+  2024-2025#65: Hücre içi Ca²⁺ konsantrasyonu 0.0001 mM, hücre dışı konsantrasyonu 1 mM ise, Ca²⁺ denge (Nernst
+  2024-2025#67: Na⁺ ve Cl⁻ geçiren, ancak büyük anyonlar (A⁻) için geçirgen olmayan bir zar iki kompartmanı bir
+  2024-2025#68: Aşağıdakilerden hangisi hücrenin dinlenim zar potansiyel değerine potasyumun (K⁺) etkisinin dah
+  2025-2026#83: Aşağıdakilerden hangisi zarın doğal elektriksel özelliklerinin oluşumunda rol oynamaz?
+  2025-2026#87: Hücre zarındaki elektrik alanı iyonları zar boyunca hareket etmeye zorlar. Tipik bir zardaki el
+  2025-2026#88: Bir nöron membranından iyon geçişlerinin zar potansiyeline etkisi elektrik devre modeli ile inc
+  2025-2026#89: Hücre içi K⁺ konsantrasyonu 100 mM, hücre dışı K⁺ konsantrasyonu 10 mM ise hücrede K⁺ denge pot
+  2025-2026#90: Dinlenim durumundaki bir nöronun zar potansiyeli -70 mV'tur. Zarda Na⁺ için denge potansiyeli +
+  2025-2026#91: Hücrede dinlenim zar potansiyelinin kurulmasında aşağıdakilerden hangisinin önemli bir katkısı 
+
+## bf-sicaklik (Sıcaklık, ısı aktarımı ve aktivasyon enerjisi)
+  2021-2022#73: Aşağıda hücrenin aktivasyon enerjisi ile verilen bilgilerden hangisi yanlıştır?
+  2021-2022#74: Aşağıdakilerden hangisi vücudun ısı yayma mekanizmalarındandır? (I. Radyasyon, II. Konveksiyon,
+  2021-2022#75: Aşağıda verilen şıklardan hangisi Vücut Sıcaklığını düşüren mekanizmalardan biri değildir?
+  2021-2022#76: Aşağıda vücudun belli sıcaklıklarda (kor sıcaklığı) tepkisi verilmiştir. Hangi sıcaklıkta vücud
+  2022-2023#46: Aşağıdakilerden hangisi vücut sıcaklığını düşüren bir mekanizma değildir?
+  2022-2023#47: Aşağıda ısı aktarımı ile verilen bilgilerden hangisi/hangileri doğrudur? I. Sıvı veya gaz içind
+  2022-2023#48: Deri ısısı çevre ısısından yüksek olduğu zaman ısı kaybı aşağıdakilerden hangisi/hangileri ile 
+  2022-2023#49: Aşağıdakilerden hangisi aktivasyon enerjisinin özelliklerinden biri değildir?
+  2022-2023#50: Aşağıda reaksiyonlarla ilgili verilen ifadelerden hangisi/hangileri doğrudur? I. Ekzotermik rea
+  2022-2023#51: İnsan vücut sıcaklığının biyolojik etkileri ile verilenlerden hangisi/hangileri doğrudur? I. 28
+  2023-2024#62: Aşağıdaki vücut sıcaklığı ile ilgili verilen bilgilerden hangisi yanlıştır?
+  2023-2024#63: Vücudun içi ve dışı arasındaki dokunun kalınlığı 3 cm, iletkenliği 18 cal.cm/m.saat.°C, alan 1.
+  2023-2024#64: 80 kg'lık bir insan orta derecede 260 kcal/saat enerji harcar. Bunun 200 kcal/saat kısmı ısıya 
+  2024-2025#69: I. Tepkimeyi başlatırlar II. Tepkimenin hızını değiştirirler III. Tepkimenin yönünü değiştirirl
+  2024-2025#70: Aşağıda verilen ısı aktarımı ile ilgili bilgilerden hangisi doğrudur?
+  2024-2025#71: I. Vazodilatasyon II. Piloreeksiyon III. Solunumda artış IV. Titreme V. Terleme ve buharlaşma Y
+  2024-2025#72: Vücudun içi ve dışı arasındaki dokunun kalınlığı 3 cm, iletkenliğin olduğu alan 1.5 m², vücudun
+  2025-2026#77: Aşağıda verilen bilgilerden hangisi/leri katalizörlerin özelliklerindendir? I. Tepkimeyi başlat
+  2025-2026#78: Aşağıda verilen ısı aktarımı ile ilgili bilgilerden hangisi doğrudur?
+  2025-2026#79: Aşağıdakilerden hangileri sıcaklığı yükselten mekanizmalardandır? I. Vazodilatasyon II. Piloere
+  2025-2026#80: Aşağıdaki şıklardan hangisinde vücudun ısı yayma % miktarları büyükten küçüğe doğru olarak sıra
+
+## bf-diger (Diğer (biyofizik))
+  2023-2024#61: Elektromanyetik spektrum için aşağıda verilen ifadelerden hangileri doğrudur? I) Dalga boyu aza
+
+## mb-giris (Mikrobiyolojiye giriş)
+  2021-2022#10: Jenner tarafından antijen olarak inek çiçek virusunun kullanıldığı, çiçek hastalığının eradikas
+  2022-2023#76: Ellerin dezenfeksiyonu ile anne ve bebek ölümlerinin düştüğünü bilimsel gözlemlere dayalı olara
+  2023-2024#51: Hastalıklarda mikrop teorisini kanıtlayan ve Kuduz aşısını geliştiren hangi bilim adamıdır?
+  2025-2026#13: Aşağıdakilerden hangisi kuduz aşısını bulan bilim adamıdır?
+
+## mb-bakteri (Bakteri yapısı ve metabolizması)
+  2021-2022#11: Bakterilerde bölünme esnasında peptidoglikan tabakasının yıkılıp yeniden yapılanmasında rol oyn
+  2021-2022#12: Gram (-) bakterilerde hücre duvarı somatik antijeninin yapısını işaretleyin.
+  2021-2022#19: Bir mikroorganizmanın enzim aktivitesinde dış etkenlerden hangisinin rolü yoktur?
+  2022-2023#75: Hangisi mikroorganizmaların fizyolojik gereksinimleri arasında yer almaz?
+  2022-2023#77: Gram negatif bakterilerde hücre duvarı somatik antijeni hangisidir?
+  2022-2023#78: Bakterilerde hücre duvarı bölünmesi ve yeniden sentezinde görev alan enzimlerin genel ismi nedi
+  2023-2024#50: Aşağıdakilerden hangisi bakterilerin ve mantarların metabolizmalarında gereksinim duydukları de
+  2023-2024#58: Oksijen varlığında üreyemeyen ve 'süperoksit dismutaz (SOD) ve katalaz enzimi' bulunmayan bakte
+  2023-2024#59: Bütün bakterilerde bulunan yapı hangisidir?
+  2023-2024#60: Gram boyanma özelliği, bakterinin hangi yapısı ile ilişkilidir?
+  2024-2025#79: İnsan sağlığı için önemli olan bakterilerin büyük bir kısmı en iyi 20-45°C’de ürer. Bu grupta y
+  2024-2025#80: Aşağıdaki bakterilerden hangisi zorunlu aeroptur?
+  2024-2025#83: Gram pozitif bakteri hücre duvarı yapısında hangisi/hangileri bulunmaz? I) Peptidoglikan II) Te
+  2024-2025#84: Bakteri hücre duvarı ile ilgili bilgilerden hangisi yanlıştır?
+  2025-2026#19: İnsan sağlığı için önemli olan bakterilerin büyük bir kısmı en iyi 20-45 °C sıcaklıkta ürer. Bu
+  2025-2026#20: Aşağıdakilerden hangisi bakterilerin ve mantarların metabolizmalarında gereksinim duydukları de
+  2025-2026#24: Bakteri hücresinin hareketi ile ilişkili yapılar hangileridir? I-Flagella II-Aksiyel filament I
+  2025-2026#25: Bakteri hücre duvarı ile ilişkili bilgilerden hangisi yanlıştır?
+
+## mb-genetik (Bakteri genetiği)
+  2025-2026#26: Bakteriler arasında genetik madde aktarımı ile hangisi en az ilişkilidir?
+
+## mb-uretim (Mikroorganizmaların üretilmesi (besiyerleri))
+  2021-2022#20: Mikroorganizmaların üretilmesi ile ilgili olarak hangisi doğru değildir?
+  2022-2023#84: Mikroorganizmaları üretmek için kullanılan "besiyerleri" ile ilgili bilgilerden hangisi yanlışt
+  2023-2024#57: Temel (basit) besiyerlerinde (buyyon/jeloz) hangisi asla bulunmaz?
+  2024-2025#81: Bakterinin “hemoliz” özelliği ile ilgili olarak hangisi/hangileri doğrudur? I) MacConkey Agarda
+  2024-2025#82: Çikolata besiyeri ile ilgili olarak hangisi/hangileri doğrudur? I- Zengin bir besiyeridir. II- 
+  2025-2026#27: Temel (basit) besiyerlerinde hangileri asla bulunmaz? I) Tuz II) Agar III) At kanı IV) Koyun ka
+  2025-2026#28: Çikolata besiyeri ile ilgili olarak hangisi/hangileri yanlıştır? I- Zengin bir besiyeridir. II-
+
+## mb-virus-yapi (Virüslerin yapısı ve genel özellikleri)
+  2021-2022#13: Virusların yapısı ile ilgili olarak aşağıdakilerden hangisi yanlıştır?
+  2021-2022#14: RNA virusları ile ilgili yanlış hangisidir?
+  2022-2023#79: Virüslerin yapısı ile ilgili hangisi yanlıştır?
+  2022-2023#82: Virüslerde kapsid ile ilgili yanlış olanı işaretleyiniz.
+  2023-2024#52: Keşfedilen ilk virus hangisidir?
+  2023-2024#53: Virusların genomu ile ilgili aşağıdakilerden hangisi doğrudur?
+  2024-2025#73: Virüslerin yapısı ile ilgili yanlış hangisidir?
+  2024-2025#75: Aşağıdaki virüslerden hangisi kısmen çift sarmallı sirküler DNA genomuna sahiptir?
+  2024-2025#77: Aşağıdakilerden hangisi tekrarlayan virus infeksiyonunu gösterir?
+  2025-2026#14: Aşağıdakilerden hangisi DNA virüslerinin genel yapısal özellikleri için doğru bir ifadedir?
+  2025-2026#15: Aşağıdaki virüslerden hangisi segmentli RNA genomuna sahiptir?
+  2025-2026#18: Virüslerin hücrelerde oluşturdukları inklüzyon cisimcikleri ile ilgili aşağıdakilerden hangisi 
+
+## mb-virus-rep (Virüslerin replikasyonu)
+  2021-2022#15: Virusların replikasyonu ile ilgili aşağıdakilerden hangisi yanlıştır?
+  2022-2023#80: Virüslerin replikasyonu ile ilgili yanlış hangisidir?
+  2023-2024#54: Virusların replikasyonu ile ilgili yanlış hangisidir?
+  2024-2025#74: Virüslerin replikasyonu ile ilgili yanlış hangisidir?
+  2025-2026#16: Aşağıdaki virüslerden hangisi hem sitoplazma hem de nukleusda replike olur?
+  2025-2026#17: Viral replikasyon sırasında erken proteinler için aşağıdakilerden hangisi doğrudur?
+
+## mb-virus-tani (Virüslerin tanı yöntemleri)
+  2021-2022#16: Aşağıdakilerden hangi test için hücre kültürü gerekir?
+  2021-2022#17: PCR (polimeraz zincir reaksiyonu) testi ile ilgili doğru hangisidir?
+  2021-2022#18: Serumda bir virusa karşı antikor aranmasında ELISA testinde hangi aşama yanlıştır?
+  2022-2023#81: PCR (polimeraz zincir reaksiyonu) testi ile ilgili doğru hangisidir?
+  2022-2023#83: Virüslerin tanısında hangi testi uygularken hücre kültürü kullanılır?
+  2023-2024#55: Serumda bir virusa karşı antikor aranmasında ELISA testinde hangi aşama yanlıştır?
+  2023-2024#56: Polimeraz zincir reaksiyonu (PCR) ile ilgili yanlış hangisidir?
+  2024-2025#76: Virüslerin tanı testlerinden hangisinde eritrositler kullanılır?
+  2024-2025#78: Herpes simplex virusun sebep olduğu veziküler lezyonlarından kazıntı örneği alınarak yapılan “T
+
+## mb-mantar (Mantar hücresi ince yapısı)
+  2025-2026#21: Aşağıdakilerden hangisi eşeysiz mantar sporu değildir?
+
+## mb-sterilizasyon (Sterilizasyon ve dezenfeksiyon)
+  2025-2026#22: Hangisi nemli ısı ile yapılan sterilizasyon yöntemi değildir?
+  2025-2026#23: Hangisi canlı dokularda patojen mikroorganizmaların üreyerek yayılması sonucu oluşur?
+
+## mb-diger (Diğer (mikrobiyoloji))
+
+## fz-homeostaz (Homeostaz ve geri bildirim devreleri)
+  2021-2022#60: Bir geri bildirim devresi kan basıncında meydana gelen 100 mmHg'lık artışın 90 mmHg'sını gidere
+  2022-2023#63: Kandaki glükoz düzeyini düzenleyen bir negatif geri bildirim devresi, glükoz düzeyi 100 mg/dL'd
+  2023-2024#77: Vücut dış ortam sıcaklığı 0°C olduğu durumda, sağlıklı bir insanda vücut sıcaklığının düzenlenm
+  2024-2025#11: Aşağıdakilerden hangileri pozitif geri bildirim devreleri şeklinde çalışır? I. Kan basıncının d
+
+## fz-hucre (Hücre fizyolojisi; organeller arası iş bölümü)
+  2021-2022#70: Mikrotübüllerin bloke edilmesi durumunda aşağıdaki hücre işlevlerinden hangileri engellenir? (I
+  2021-2022#72: Mitokondrilerdeki ATP sentetaz ile ATP sentezi sırasında aşağıdaki iyonların hangisinin konsant
+  2022-2023#64: Mitokondrilerdeki oksidatif fosforilasyon sırasında, ATP sentezini sağlayan enzim aşağıdaki iyo
+  2022-2023#65: Silyum hareketi için kullanılan ATP'nin parçalanmasını sağlayan ATP'az etkinliğine sahip molekü
+  2023-2024#78: Lökositlerdeki hidrolazların sentezi sırasında kullanılan başlıca organeller aşağıdakilerden ha
+  2023-2024#79: Uzun zincirli yağ asitlerinin metabolizması sırasında, yağ asitlerinde gelişen kimyasal olay il
+  2024-2025#12: Tay-Sacks hastalığına yol açan mutasyona uğramış heksosaminidaz A enzimi aşağıdaki hücre organe
+  2024-2025#13: Aşağıdakilerden hangileri mitokondrilerin enerji üretimi dışındaki işlevleri arasında bulunur? 
+  2024-2025#14: Aşağıdakilerden hangileri hücre iskeletinin elemanları olarak ara filament ailesindendir? I) Di
+  2025-2026#2: Hücrelerin glikokaliksi başlıca aşağıdaki bileşenlerin hangilerini içerir? I) Protein II) Trigl
+  2025-2026#3: Aşağıdaki moleküllerden hangileri reseptör aracılı endositozda rol oynar? I) Klatrin II) Dinami
+  2025-2026#4: Aşağıdaki organellerden hangileri mitokondrilerin iç ortamında bulunur? I) Lizozom II) Ribozom 
+  2025-2026#5: Mitokondrilerdeki oksidatif fosforilasyon sırasında ATP sentezinde rol oynayan enzim aşağıdakil
+  2025-2026#6: Aşağıdaki hücre iskelet elemanlarından hangileri ara filament sınıfına girer? I) Desmin II) Vim
+
+## fz-genetik (Hücre işlevlerinin genetik kontrolü)
+  2021-2022#62: Aşağıdaki hücreler arasında telomeraz etkinliği en fazla olanı hangisidir?
+  2021-2022#63: Protein sentezi sırasında aktive edilmiş amino asite aşağıdakilerden hangisi bağlı halde bulunu
+  2022-2023#66: Pri-miRNA'dan RISC-miRNA kompleksi oluşum sürecinde rol oynayan proteinler aşağıdaki seçenekler
+  2022-2023#67: DNA eşlenmesi sırasında birbirini izleyen nükleotidlerin birbirine bağlanmasını sağlayan enzim 
+  2023-2024#80: Translasyon sürecinde gelişen aşağıdaki olayların zamansal olarak oluş sırası seçeneklerin hang
+  2025-2026#8: DNA'nın eşlenmesinin son aşamasında primer RNA'ları kaldırarak yerine DNA bazlarının dizilmesin
+  2025-2026#9: İnsanda aşağıdaki hücreler arasında telomeraz etkinliği en yüksek olanları hangileridir? I) Çiz
+
+## fz-sivi (Bedenin bileşimi ve vücut sıvı bölükleri)
+  2021-2022#61: Aşağıdakilerden hangisi suyun ideal biyolojik bir sıvı olmasını sağlayan özellikler arasında bu
+  2022-2023#68: Su molekülleri arasındaki hidrojen bağları şebekesi suya fizyolojik açıdan önemli olan aşağıdak
+  2024-2025#10: Claude Bernard’ın “milieu” ortamları ile bunlara karşılık gelen vücut sıvı bölükleri arasında y
+  2025-2026#1: Claude Bernard'ın "milieu" kavramı ile ifade edilen ortamlarla bu ortamların karşılık geldiği v
+
+## fz-difuzyon (Zardan madde geçişi: difüzyon ve ozmoz)
+  2021-2022#67: Aşağıdaki taşınma şekillerinden hangileri pasif taşımanın örnekleridir? (I. Oksijenin hücre içi
+  2021-2022#68: Difüzyon katsayısı aşağıdakilerden hangileri ile doğru orantılıdır? (I. Ortamın vizkozitesi, II
+  2021-2022#69: (+1) değerlikli bir iyonun hücre içindeki konsantrasyonu 1000 mmol/L, hücre dışındaki konsantra
+  2021-2022#71: Aşağıdaki NaCl çözeltilerinden hangisine yerleştirildiklerinde eritrositlerin hacimleri değişme
+  2022-2023#69: 500 mL saf suda 0.5 M CaCl₂ çözündüğünde, bu çözeltinin osmolaritesi kaç mOsm olur?
+  2022-2023#70: Bir parçacığa ait difüzyon katsayısı aşağıdaki parametrelerden hangileri ile ters orantılıdır? 
+  2022-2023#71: Aşağıdakiler hücre zarından olan difüzyon hızlarına göre sıralandığında, en hızlı difüzyona uğr
+  2023-2024#82: Hücre zarının Na+'a geçirgen ve diğer tüm iyonlara geçirimsiz olması durumunda, Na+'un hücre za
+  2024-2025#15: Aşağıdakilerden hangileri bir molekülün hücre dışından hücre içine difüzyonunu azaltıcı yönde e
+
+## fz-tasiyici (Aracılı taşıma sistemleri)
+  2021-2022#66: Aşağıdaki yapılardan hangilerinde glükozun hücre içine taşınması sekonder aktif taşıma ile sağl
+  2023-2024#83: Koleralı hastalara verilen oral rehidratasyon tozu çözeltisindeki solütlerin barsaklardan emili
+  2023-2024#84: İnsülin eksikliğinin olduğu diabetes mellituslu bir hastadaki ana sorun glukozun hücre zarından
+  2024-2025#16: ATP bağlayıcı kaset (ABC) taşıyıcıları aşağıdaki maddelerden hangilerinin taşınmasında rol oyna
+  2024-2025#17: Koleranın tedavisinde ağızdan verilen suyun içindeki Na⁺’un sindirim kanalından epitel hücresin
+  2025-2026#7: Kalp kası hücre zarındaki Na⁺-K⁺-ATPazın çalışması aşağıdaki sonuçlardan hangilerine yol açar? 
+
+## fz-iletisim (Hücreler arası iletişim, reseptörler, ikincil haberciler)
+  2021-2022#64: Aşağıdaki enzimlerden hangileri denetimli zar içi proteolizi içeren sinyal iletim yolunda rol o
+  2021-2022#65: Siklooksijenaz enziminin inhibisyonu aşağıdakilerden hangilerinin üretiminin engellenmesine ned
+  2022-2023#72: Aşağıdakilerden hangilerinin reseptörü hücre içindedir? I) Tiroid hormonları II) Asetilkolin II
+  2022-2023#73: Araşidonik asit üzerine etki yapan siklooksijenaz enzimleri aşağıdakilerden hangilerinin üretim
+  2022-2023#74: Atriyal natriüretik peptid (ANP) reseptörünün dahil olduğu reseptör grubu ve bu reseptörün akti
+  2023-2024#81: Aşağıdakilerden hangilerinin reseptörü hücre zarında bulunur? I) D vitamini, II) Glisin, III) N
+  2023-2024#85: Aktif hale gelen heterotrimerik G proteininin adenilat siklazı aktifleştirmesi sonucunda aşağıd
+  2023-2024#86: Düşük doz aspirinin antitrombotik etki oluşturmasının ana nedeni aşağıdakilerden hangisinde ver
+  2023-2024#87: Nitrik oksitin aktive ettiği sıklık guanilat siklaz enzimi aşağıdakilerden hangi düz kasında et
+  2024-2025#18: Fosfodiesteraz enzimi aşağıdakilerden hangisini etkisiz hale getirir?
+  2024-2025#19: Nitrik oksidin aktive ettiği reseptör ile bu aktivasyon sonucu oluşan ikinci habercı aşağıdaki 
+  2025-2026#10: Kolera hastalığında gelişen ağır ishalin gelişmesi sırasında, bağırsak epitel hücrelerinde aşağ
+  2025-2026#11: Işık ışınlarının retina üzerine düşmesi ile birlikte, fotoreseptör basillerde aşağıdaki değişik
+  2025-2026#12: Nitrik oksit aşağıdakilerden hangilerinin etkinliğini artırarak etkisini gösterir? I) STAT II) 
+
+## fz-hucre-dongusu (Hücre döngüsünün kontrolü)
+
+## fz-diger (Diğer (fizyoloji))

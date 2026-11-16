@@ -44,6 +44,22 @@ export interface Question {
   reviewStatus: ReviewStatus;
   note?: string;
   explanation?: string;
+  topicId?: string;
+  topic?: string;
+}
+
+export interface Topic {
+  id: string;
+  disciplineId: string;
+  name: string;
+  hours: number;
+  order: number;
+}
+
+export interface TopicFile {
+  version: number;
+  source: string;
+  topics: Topic[];
 }
 
 export interface ExamFile {

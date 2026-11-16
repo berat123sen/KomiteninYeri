@@ -1,4 +1,4 @@
-import type { ExamFile, ExamIndex } from "../types";
+import type { ExamFile, ExamIndex, TopicFile } from "../types";
 
 const BASE = import.meta.env.BASE_URL;
 
@@ -26,6 +26,10 @@ export async function loadExam(examId: string): Promise<ExamFile> {
   const data = await fetchJson<ExamFile>(`data/exams/${examId}.json`);
   examCache.set(examId, data);
   return data;
+}
+
+export async function loadTopics(): Promise<TopicFile> {
+  return fetchJson<TopicFile>("data/topics.json");
 }
 
 export function sourcePdfUrl(examId: string, page?: number): string {

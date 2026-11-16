@@ -1,0 +1,496 @@
+{
+  "version": 1,
+  "source": "2026-2027 1. Sınıf Akademik Takvimi (MED102 Hücreden Dokuya)",
+  "topics": [
+    {
+      "id": "hist-giris",
+      "disciplineId": "histoloji",
+      "name": "Tıpta Histoloji ve Embriyoloji",
+      "hours": 2,
+      "order": 1
+    },
+    {
+      "id": "hist-doku-hazirlama",
+      "disciplineId": "histoloji",
+      "name": "Doku hazırlama ve inceleme yöntemleri",
+      "hours": 2,
+      "order": 2
+    },
+    {
+      "id": "hist-hucre",
+      "disciplineId": "histoloji",
+      "name": "Hücre ve hücresel elemanlar",
+      "hours": 5,
+      "order": 3
+    },
+    {
+      "id": "bk-metabolizma",
+      "disciplineId": "biyokimya",
+      "name": "Metabolizmanın genel olarak incelenmesi",
+      "hours": 2,
+      "order": 4
+    },
+    {
+      "id": "bk-beslenme",
+      "disciplineId": "biyokimya",
+      "name": "Beslenmeye biyokimyasal yaklaşım",
+      "hours": 2,
+      "order": 5
+    },
+    {
+      "id": "bk-eser",
+      "disciplineId": "biyokimya",
+      "name": "Eser elementler",
+      "hours": 2,
+      "order": 6
+    },
+    {
+      "id": "bk-zar",
+      "disciplineId": "biyokimya",
+      "name": "Biyolojik zarlar ve taşınma sistemleri",
+      "hours": 2,
+      "order": 7
+    },
+    {
+      "id": "bk-kh-sindirim",
+      "disciplineId": "biyokimya",
+      "name": "Karbonhidratların sindirimi ve emilimi",
+      "hours": 1,
+      "order": 8
+    },
+    {
+      "id": "bk-glikoliz",
+      "disciplineId": "biyokimya",
+      "name": "Glikoliz ve denetimi",
+      "hours": 2,
+      "order": 9
+    },
+    {
+      "id": "bk-glukoneogenez",
+      "disciplineId": "biyokimya",
+      "name": "Glukoneogenez",
+      "hours": 2,
+      "order": 10
+    },
+    {
+      "id": "bk-pentoz",
+      "disciplineId": "biyokimya",
+      "name": "Pentoz fosfat yolu",
+      "hours": 1,
+      "order": 11
+    },
+    {
+      "id": "bk-krebs",
+      "disciplineId": "biyokimya",
+      "name": "Krebs döngüsü",
+      "hours": 2,
+      "order": 12
+    },
+    {
+      "id": "bk-etz",
+      "disciplineId": "biyokimya",
+      "name": "Hücresel solunum zinciri ve ATP sentezi",
+      "hours": 2,
+      "order": 13
+    },
+    {
+      "id": "bk-glikojen",
+      "disciplineId": "biyokimya",
+      "name": "Glikojen sentez ve yıkımı",
+      "hours": 2,
+      "order": 14
+    },
+    {
+      "id": "bk-glikoz-disi",
+      "disciplineId": "biyokimya",
+      "name": "Glikoz dışı şekerlerin metabolizması",
+      "hours": 1,
+      "order": 15
+    },
+    {
+      "id": "bk-lipid-sindirim",
+      "disciplineId": "biyokimya",
+      "name": "Lipidlerin sindirimi ve emilimi",
+      "hours": 1,
+      "order": 16
+    },
+    {
+      "id": "bk-yag-yikim",
+      "disciplineId": "biyokimya",
+      "name": "Yağ asitlerinin yıkımı (β-oksidasyon, keton cisimcikleri)",
+      "hours": 2,
+      "order": 17
+    },
+    {
+      "id": "bk-yag-sentez",
+      "disciplineId": "biyokimya",
+      "name": "Yağ asitlerinin sentezi",
+      "hours": 2,
+      "order": 18
+    },
+    {
+      "id": "bk-tg-fosfolipid",
+      "disciplineId": "biyokimya",
+      "name": "Trigliserid ve fosfolipid metabolizması",
+      "hours": 2,
+      "order": 19
+    },
+    {
+      "id": "bk-eikosanoid",
+      "disciplineId": "biyokimya",
+      "name": "Eikosanoidler ve türevleri",
+      "hours": 1,
+      "order": 20
+    },
+    {
+      "id": "bk-kol-sentez",
+      "disciplineId": "biyokimya",
+      "name": "Kolesterol yapısı ve biyosentezi",
+      "hours": 2,
+      "order": 21
+    },
+    {
+      "id": "bk-kol-safra",
+      "disciplineId": "biyokimya",
+      "name": "Kolesterol metabolizması ve safra asitleri",
+      "hours": 2,
+      "order": 22
+    },
+    {
+      "id": "bk-lipoprotein",
+      "disciplineId": "biyokimya",
+      "name": "Lipoprotein metabolizması",
+      "hours": 2,
+      "order": 23
+    },
+    {
+      "id": "bk-protein-sindirim",
+      "disciplineId": "biyokimya",
+      "name": "Proteinlerin sindirimi ve emilimi",
+      "hours": 1,
+      "order": 24
+    },
+    {
+      "id": "bk-aminoasit",
+      "disciplineId": "biyokimya",
+      "name": "Aminoasit metabolizması ve üre sentezi",
+      "hours": 3,
+      "order": 25
+    },
+    {
+      "id": "bk-ozel-urun",
+      "disciplineId": "biyokimya",
+      "name": "Aminoasitlerin özel ürünlere dönüşmesi (hem dahil)",
+      "hours": 2,
+      "order": 26
+    },
+    {
+      "id": "bk-entegrasyon",
+      "disciplineId": "biyokimya",
+      "name": "Metabolizmanın entegrasyonu (tokluk/açlık)",
+      "hours": 2,
+      "order": 27
+    },
+    {
+      "id": "bk-diger",
+      "disciplineId": "biyokimya",
+      "name": "Diğer (biyokimya)",
+      "hours": 0,
+      "order": 28
+    },
+    {
+      "id": "bf-enerji",
+      "disciplineId": "biyofizik",
+      "name": "Biyomoleküler sistemlerde enerji aktarımı (termodinamik)",
+      "hours": 1,
+      "order": 29
+    },
+    {
+      "id": "bf-zar-yapi",
+      "disciplineId": "biyofizik",
+      "name": "Hücre zarının yapısı ve zar modelleri",
+      "hours": 2,
+      "order": 30
+    },
+    {
+      "id": "bf-difuzyon",
+      "disciplineId": "biyofizik",
+      "name": "Difüzyon ve osmotik denge (Fick yasası)",
+      "hours": 2,
+      "order": 31
+    },
+    {
+      "id": "bf-tasinim",
+      "disciplineId": "biyofizik",
+      "name": "Madde taşınımı: konsantrasyon ve elektrokimyasal gradyent",
+      "hours": 2,
+      "order": 32
+    },
+    {
+      "id": "bf-zar-elektrik",
+      "disciplineId": "biyofizik",
+      "name": "Zarın elektriksel modeli ve dinlenim potansiyeli",
+      "hours": 3,
+      "order": 33
+    },
+    {
+      "id": "bf-sicaklik",
+      "disciplineId": "biyofizik",
+      "name": "Sıcaklık, ısı aktarımı ve aktivasyon enerjisi",
+      "hours": 4,
+      "order": 34
+    },
+    {
+      "id": "bf-diger",
+      "disciplineId": "biyofizik",
+      "name": "Diğer (biyofizik)",
+      "hours": 0,
+      "order": 35
+    },
+    {
+      "id": "mb-giris",
+      "disciplineId": "mikrobiyoloji",
+      "name": "Mikrobiyolojiye giriş",
+      "hours": 1,
+      "order": 36
+    },
+    {
+      "id": "mb-bakteri",
+      "disciplineId": "mikrobiyoloji",
+      "name": "Bakteri yapısı ve metabolizması",
+      "hours": 2,
+      "order": 37
+    },
+    {
+      "id": "mb-genetik",
+      "disciplineId": "mikrobiyoloji",
+      "name": "Bakteri genetiği",
+      "hours": 1,
+      "order": 38
+    },
+    {
+      "id": "mb-uretim",
+      "disciplineId": "mikrobiyoloji",
+      "name": "Mikroorganizmaların üretilmesi (besiyerleri)",
+      "hours": 2,
+      "order": 39
+    },
+    {
+      "id": "mb-virus-yapi",
+      "disciplineId": "mikrobiyoloji",
+      "name": "Virüslerin yapısı ve genel özellikleri",
+      "hours": 2,
+      "order": 40
+    },
+    {
+      "id": "mb-virus-rep",
+      "disciplineId": "mikrobiyoloji",
+      "name": "Virüslerin replikasyonu",
+      "hours": 1,
+      "order": 41
+    },
+    {
+      "id": "mb-virus-tani",
+      "disciplineId": "mikrobiyoloji",
+      "name": "Virüslerin tanı yöntemleri",
+      "hours": 2,
+      "order": 42
+    },
+    {
+      "id": "mb-mantar",
+      "disciplineId": "mikrobiyoloji",
+      "name": "Mantar hücresi ince yapısı",
+      "hours": 1,
+      "order": 43
+    },
+    {
+      "id": "mb-sterilizasyon",
+      "disciplineId": "mikrobiyoloji",
+      "name": "Sterilizasyon ve dezenfeksiyon",
+      "hours": 2,
+      "order": 44
+    },
+    {
+      "id": "mb-diger",
+      "disciplineId": "mikrobiyoloji",
+      "name": "Diğer (mikrobiyoloji)",
+      "hours": 0,
+      "order": 45
+    },
+    {
+      "id": "fz-homeostaz",
+      "disciplineId": "fizyoloji",
+      "name": "Homeostaz ve geri bildirim devreleri",
+      "hours": 1,
+      "order": 46
+    },
+    {
+      "id": "fz-hucre",
+      "disciplineId": "fizyoloji",
+      "name": "Hücre fizyolojisi; organeller arası iş bölümü",
+      "hours": 2,
+      "order": 47
+    },
+    {
+      "id": "fz-genetik",
+      "disciplineId": "fizyoloji",
+      "name": "Hücre işlevlerinin genetik kontrolü",
+      "hours": 1,
+      "order": 48
+    },
+    {
+      "id": "fz-sivi",
+      "disciplineId": "fizyoloji",
+      "name": "Bedenin bileşimi ve vücut sıvı bölükleri",
+      "hours": 1,
+      "order": 49
+    },
+    {
+      "id": "fz-difuzyon",
+      "disciplineId": "fizyoloji",
+      "name": "Zardan madde geçişi: difüzyon ve ozmoz",
+      "hours": 2,
+      "order": 50
+    },
+    {
+      "id": "fz-tasiyici",
+      "disciplineId": "fizyoloji",
+      "name": "Aracılı taşıma sistemleri",
+      "hours": 2,
+      "order": 51
+    },
+    {
+      "id": "fz-iletisim",
+      "disciplineId": "fizyoloji",
+      "name": "Hücreler arası iletişim, reseptörler, ikincil haberciler",
+      "hours": 2,
+      "order": 52
+    },
+    {
+      "id": "fz-hucre-dongusu",
+      "disciplineId": "fizyoloji",
+      "name": "Hücre döngüsünün kontrolü",
+      "hours": 2,
+      "order": 53
+    },
+    {
+      "id": "fz-diger",
+      "disciplineId": "fizyoloji",
+      "name": "Diğer (fizyoloji)",
+      "hours": 0,
+      "order": 54
+    },
+    {
+      "id": "dv-noro",
+      "disciplineId": "davranis-bilimleri",
+      "name": "Davranışın nörobiyolojik temelleri",
+      "hours": 1,
+      "order": 55
+    },
+    {
+      "id": "dv-psikodinamik",
+      "disciplineId": "davranis-bilimleri",
+      "name": "Davranışın psikodinamik temelleri ve savunma düzenekleri",
+      "hours": 2,
+      "order": 56
+    },
+    {
+      "id": "dv-kisilik",
+      "disciplineId": "davranis-bilimleri",
+      "name": "Kişilik gelişimi",
+      "hours": 2,
+      "order": 57
+    },
+    {
+      "id": "dv-biyopsikososyal",
+      "disciplineId": "davranis-bilimleri",
+      "name": "Biyopsikososyal yaklaşım",
+      "hours": 1,
+      "order": 58
+    },
+    {
+      "id": "dv-stres",
+      "disciplineId": "davranis-bilimleri",
+      "name": "Stres ve stresle başa çıkma mekanizmaları",
+      "hours": 2,
+      "order": 59
+    },
+    {
+      "id": "dv-ogrenme",
+      "disciplineId": "davranis-bilimleri",
+      "name": "Öğrenme ve hafıza",
+      "hours": 1,
+      "order": 60
+    },
+    {
+      "id": "dv-aliskanlik",
+      "disciplineId": "davranis-bilimleri",
+      "name": "Alışkanlıklar ve bağımlılık",
+      "hours": 2,
+      "order": 61
+    },
+    {
+      "id": "dv-hasta-hekim",
+      "disciplineId": "davranis-bilimleri",
+      "name": "Hasta hekim ilişkileri",
+      "hours": 1,
+      "order": 62
+    },
+    {
+      "id": "dv-iletisim",
+      "disciplineId": "davranis-bilimleri",
+      "name": "İletişim becerileri",
+      "hours": 2,
+      "order": 63
+    },
+    {
+      "id": "th-tarih",
+      "disciplineId": "tip-tarihi-etik",
+      "name": "Tıp tarihi (tıbbın evrimi, Batı/Doğu/Türk tıbbı)",
+      "hours": 9,
+      "order": 64
+    },
+    {
+      "id": "th-etik",
+      "disciplineId": "tip-tarihi-etik",
+      "name": "Tıp etiği ön bilgileri",
+      "hours": 3,
+      "order": 65
+    },
+    {
+      "id": "dg-entegre",
+      "disciplineId": "diger",
+      "name": "Entegre oturum soruları",
+      "hours": 0,
+      "order": 66
+    },
+    {
+      "id": "dg-sbet",
+      "disciplineId": "diger",
+      "name": "SBET",
+      "hours": 0,
+      "order": 67
+    },
+    {
+      "id": "dg-ayrimcilik",
+      "disciplineId": "diger",
+      "name": "Ayrımcılık ve toplumsal cinsiyet",
+      "hours": 0,
+      "order": 68
+    },
+    {
+      "id": "dg-istismar",
+      "disciplineId": "diger",
+      "name": "Çocuk istismarı ve ihmali",
+      "hours": 0,
+      "order": 69
+    },
+    {
+      "id": "dg-insan",
+      "disciplineId": "diger",
+      "name": "Tıpta insan bilimleri (HIV danışmanlık vb.)",
+      "hours": 0,
+      "order": 70
+    }
+  ]
+}
