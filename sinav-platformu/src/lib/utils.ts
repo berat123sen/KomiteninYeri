@@ -92,6 +92,20 @@ const DISCIPLINE_STYLES: Record<string, Style> = {
     text: "text-pink-600 dark:text-pink-300",
     soft: "bg-pink-50 dark:bg-pink-500/10",
   },
+  ayrimcilik: {
+    chip: "bg-teal-50 text-teal-700 ring-1 ring-teal-200/70 dark:bg-teal-500/10 dark:text-teal-300 dark:ring-teal-500/20",
+    dot: "bg-teal-500",
+    bar: "bg-teal-500",
+    text: "text-teal-600 dark:text-teal-300",
+    soft: "bg-teal-50 dark:bg-teal-500/10",
+  },
+  "tip-insan-bilimleri": {
+    chip: "bg-lime-50 text-lime-700 ring-1 ring-lime-200/70 dark:bg-lime-500/10 dark:text-lime-300 dark:ring-lime-500/20",
+    dot: "bg-lime-500",
+    bar: "bg-lime-500",
+    text: "text-lime-600 dark:text-lime-300",
+    soft: "bg-lime-50 dark:bg-lime-500/10",
+  },
   entegre: {
     chip: "bg-indigo-50 text-indigo-700 ring-1 ring-indigo-200/70 dark:bg-indigo-500/10 dark:text-indigo-300 dark:ring-indigo-500/20",
     dot: "bg-indigo-500",

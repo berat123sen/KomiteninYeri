@@ -78,9 +78,9 @@ export function Browse() {
       <div className="mt-6 flex items-start gap-2 rounded-xl border border-slate-200 bg-white px-4 py-3 text-xs leading-relaxed text-slate-500 dark:border-slate-800 dark:bg-slate-900 dark:text-slate-400">
         <Info className="mt-0.5 h-4 w-4 shrink-0 text-indigo-500" />
         <p>
-          Kapsam: Dönem 1 / TEM 2. Şu anda 2024-2025 sınavı yayında. Diğer yıllar aynı doğrulama
-          hattından geçirilerek eklenir; cevabı kaynakta bulunmayan sorular AI çözümü olarak
-          işaretlenir.
+          Kapsam: Dönem 1 / TEM 2. Yayında 2021-2022 ile 2025-2026 arası sınavlar var. Cevabı
+          kaynakta bulunmayan sorular AI çözümü olarak işaretlenir; şüpheli yerler "kontrol
+          gerekli" etiketiyle gösterilir.
         </p>
       </div>
 

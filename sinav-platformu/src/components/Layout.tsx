@@ -1,9 +1,11 @@
+import { Analytics } from '@vercel/analytics/react';
 import { useState } from "react";
 import { Link, NavLink, Outlet, useLocation } from "react-router-dom";
 import {
   BarChart3,
   BookOpenCheck,
   GraduationCap,
+  ListTree,
   Menu,
   Moon,
   Shuffle,
@@ -17,6 +19,7 @@ import { useEffect } from "react";
 const navItems = [
   { to: "/", label: "Ana Sayfa", icon: GraduationCap, end: true },
   { to: "/cikmislar", label: "Çıkmışlar", icon: BookOpenCheck },
+  { to: "/konular", label: "Konular", icon: ListTree },
   { to: "/rastgele", label: "Rastgele Soru", icon: Shuffle },
   { to: "/iskelet", label: "3D İskelet", icon: Skull },
   { to: "/ilerleme", label: "İlerleme", icon: BarChart3 },
@@ -166,6 +169,7 @@ export function Layout() {
           </p>
         </div>
       </footer>
+      <Analytics />
     </div>
   );
 }

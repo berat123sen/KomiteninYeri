@@ -109,7 +109,9 @@
       "answerStatus": "official",
       "confidence": 0.99,
       "reviewStatus": "approved",
-      "explanation": "Histoloji, Yunanca 'histos' (doku) ve 'logos' (bilim/çalışma) kelimelerinden türemiş bir terimdir ve insanın hücre, doku ve organlarının normal mikroskobik yapısını inceleyen bilim alanıdır. A seçeneği bu etimolojik tanımı doğru vermektedir. B seçeneği histolojinin temel tanımını doğru ifade eder: hücre, doku ve organların normal yapılarını mikroskop altında incelemek. C seçeneği de doğrudur: histoloji ve embriyoloji yalnızca normal yapı ve gelişimi değil, hücre ve doku hasarının mikroskobik düzeyde araştırılması (patolojik histoloji), kök hücre biyolojisi, rejeneratif tıp araştırmaları ve in vitro fertilizasyon (IVF) gibi alanları da kapsar. D seçeneği insan vücudunun esas yapısal bileşenlerini (hücreler, hücrelerarası maddeler, vücut sıvıları) doğru listeler. E seçeneği ise temel yapısal birimi 'hücreler arası maddeler' olarak tanımladığı için yanlıştır; canlıların temel yapısal ve işlevsel birimi hücredir. Bu gerçek hücre teorisi (Schleiden ve Schwann, 1838-1839) ile ortaya konmuştur. Elektron mikroskobunun keşfi (1930'lar) daha sonra gelmiş ve hücre içi organellerin (mitokondri, endoplazmik retikulum, ribozom, Golgi) ayrıntılı yapısını ortaya çıkarmıştır. Temel yapısal birim hücre olmakla birlikte, hücreler arası maddeler (ekstrasellüler matriks) de dokuların bütünlüğü ve işlevi için hayati önem taşır."
+      "explanation": "Histoloji, Yunanca 'histos' (doku) ve 'logos' (bilim/çalışma) kelimelerinden türemiş bir terimdir ve insanın hücre, doku ve organlarının normal mikroskobik yapısını inceleyen bilim alanıdır. A seçeneği bu etimolojik tanımı doğru vermektedir. B seçeneği histolojinin temel tanımını doğru ifade eder: hücre, doku ve organların normal yapılarını mikroskop altında incelemek. C seçeneği de doğrudur: histoloji ve embriyoloji yalnızca normal yapı ve gelişimi değil, hücre ve doku hasarının mikroskobik düzeyde araştırılması (patolojik histoloji), kök hücre biyolojisi, rejeneratif tıp araştırmaları ve in vitro fertilizasyon (IVF) gibi alanları da kapsar. D seçeneği insan vücudunun esas yapısal bileşenlerini (hücreler, hücrelerarası maddeler, vücut sıvıları) doğru listeler. E seçeneği ise temel yapısal birimi 'hücreler arası maddeler' olarak tanımladığı için yanlıştır; canlıların temel yapısal ve işlevsel birimi hücredir. Bu gerçek hücre teorisi (Schleiden ve Schwann, 1838-1839) ile ortaya konmuştur. Elektron mikroskobunun keşfi (1930'lar) daha sonra gelmiş ve hücre içi organellerin (mitokondri, endoplazmik retikulum, ribozom, Golgi) ayrıntılı yapısını ortaya çıkarmıştır. Temel yapısal birim hücre olmakla birlikte, hücreler arası maddeler (ekstrasellüler matriks) de dokuların bütünlüğü ve işlevi için hayati önem taşır.",
+      "topicId": "hist-giris",
+      "topic": "Tıpta Histoloji ve Embriyoloji"
     },
     {
       "id": "2024-2025-tem-2-q002",
@@ -131,7 +133,9 @@
       "answerStatus": "official",
       "confidence": 0.99,
       "reviewStatus": "approved",
-      "explanation": "İnsan gözünün ayırma gücü (rezolüsyon) yaklaşık 0.2 mm (200 µm) düzeyindedir. Hücreler (10-100 µm) ve hücre içi yapılar (1-10 µm) gözle ayırt edilemez; bunlar için ışık mikroskobu (rezolüsyon ~0.2 µm) veya elektron mikroskobu (rezolüsyon ~0.1 nm) gerekir. A seçeneği: Histoloji, hücre, doku ve organların normal yapısını mikroskop ile inceleyen bilim alanıdır ve doğrudur. B seçeneği: Mikroskobik incelemelerde en önemli iki faktör büyütme (magnification) ve ayırma gücü (resolution) dür; doğrudur. D seçeneği: Histoloji bilim alanının gelişiminde hücrenin tanımlanması (Robert Hooke, 1665), hücre teorisinin ortaya konulması (Schleiden-Schwann, 1838-39) ve elektron mikroskobunun keşfi (Knoll-Ruska, 1931) çok önemli aşamalardır; doğrudur. E seçeneği: Robert Hooke ilk defa hücreyi (mantar dokusunda) tanımlamış, Robert Brown (1831) çekirdeği keşfetmiştir; doğrudur. C seçeneği insan gözünün ayırma gücünün hücreleri ayırt etmek için yeterli olduğunu iddia ettiği için yanlıştır; mikroskop olmadan hücre düzeyi incelemeler yapılamaz."
+      "explanation": "İnsan gözünün ayırma gücü (rezolüsyon) yaklaşık 0.2 mm (200 µm) düzeyindedir. Hücreler (10-100 µm) ve hücre içi yapılar (1-10 µm) gözle ayırt edilemez; bunlar için ışık mikroskobu (rezolüsyon ~0.2 µm) veya elektron mikroskobu (rezolüsyon ~0.1 nm) gerekir. A seçeneği: Histoloji, hücre, doku ve organların normal yapısını mikroskop ile inceleyen bilim alanıdır ve doğrudur. B seçeneği: Mikroskobik incelemelerde en önemli iki faktör büyütme (magnification) ve ayırma gücü (resolution) dür; doğrudur. D seçeneği: Histoloji bilim alanının gelişiminde hücrenin tanımlanması (Robert Hooke, 1665), hücre teorisinin ortaya konulması (Schleiden-Schwann, 1838-39) ve elektron mikroskobunun keşfi (Knoll-Ruska, 1931) çok önemli aşamalardır; doğrudur. E seçeneği: Robert Hooke ilk defa hücreyi (mantar dokusunda) tanımlamış, Robert Brown (1831) çekirdeği keşfetmiştir; doğrudur. C seçeneği insan gözünün ayırma gücünün hücreleri ayırt etmek için yeterli olduğunu iddia ettiği için yanlıştır; mikroskop olmadan hücre düzeyi incelemeler yapılamaz.",
+      "topicId": "hist-giris",
+      "topic": "Tıpta Histoloji ve Embriyoloji"
     },
     {
       "id": "2024-2025-tem-2-q003",
@@ -153,7 +157,9 @@
       "answerStatus": "official",
       "confidence": 0.99,
       "reviewStatus": "approved",
-      "explanation": "Elektron mikroskobik doku takibi (transmisyon elektron mikroskobu, TEM) ultrastrüktürel inceleme için kullanılır ve ışık mikroskobundan farklı bir protokol gerektirir. I. Gömme materyali olarak Rezin: Doğrudur. TEM'de epoksi rezin (Epon, Araldite) kullanılır; parafin (ışık mikroskobu) yerine sert bir ortam sağlar ve ultramikrotom ile ince kesit (50-100 nm) alınmasına izin verir. II. Tespit solüsyonu (fiksatif) olarak Formalin: Yanlıştır. Işık mikroskobunda formalin (formaldehid) kullanılır; elektron mikroskobunda glutaraldehid (protein tespiti) ve osmik asit (lipid tespiti, kontrast) kullanılır. III. Kesit almak için Ultramikrotom: Doğrudur. Cam veya elmas bıçakla 50-100 nm kalınlığında kesitler alınır. IV. Boyama için Uranil asetat-Kurşun sitrat: Doğrudur. Uranyum ve kurşun ağır metallerdir; elektronları saçarak kontrast sağlar (pozitif boyama). V. Şeffaflandırma için Ksilol: Yanlıştır. Ksilol ışık mikroskobu doku takibinde (dehidratasyon sonrası) şeffaflandırma için kullanılır; elektron mikroskobunda kullanılmaz. B seçeneği (I, II, V) formalin ve ksilol içerdiği için yanlıştır. C (II, IV, V), D (I, II, V) ve E (II, III, IV) de formalin içerir. Doğru cevap A'dır (I, III, IV)."
+      "explanation": "Elektron mikroskobik doku takibi (transmisyon elektron mikroskobu, TEM) ultrastrüktürel inceleme için kullanılır ve ışık mikroskobundan farklı bir protokol gerektirir. I. Gömme materyali olarak Rezin: Doğrudur. TEM'de epoksi rezin (Epon, Araldite) kullanılır; parafin (ışık mikroskobu) yerine sert bir ortam sağlar ve ultramikrotom ile ince kesit (50-100 nm) alınmasına izin verir. II. Tespit solüsyonu (fiksatif) olarak Formalin: Yanlıştır. Işık mikroskobunda formalin (formaldehid) kullanılır; elektron mikroskobunda glutaraldehid (protein tespiti) ve osmik asit (lipid tespiti, kontrast) kullanılır. III. Kesit almak için Ultramikrotom: Doğrudur. Cam veya elmas bıçakla 50-100 nm kalınlığında kesitler alınır. IV. Boyama için Uranil asetat-Kurşun sitrat: Doğrudur. Uranyum ve kurşun ağır metallerdir; elektronları saçarak kontrast sağlar (pozitif boyama). V. Şeffaflandırma için Ksilol: Yanlıştır. Ksilol ışık mikroskobu doku takibinde (dehidratasyon sonrası) şeffaflandırma için kullanılır; elektron mikroskobunda kullanılmaz. B seçeneği (I, II, V) formalin ve ksilol içerdiği için yanlıştır. C (II, IV, V), D (I, II, V) ve E (II, III, IV) de formalin içerir. Doğru cevap A'dır (I, III, IV).",
+      "topicId": "hist-doku-hazirlama",
+      "topic": "Doku hazırlama ve inceleme yöntemleri"
     },
     {
       "id": "2024-2025-tem-2-q004",
@@ -175,7 +181,9 @@
       "answerStatus": "official",
       "confidence": 0.99,
       "reviewStatus": "approved",
-      "explanation": "Kollajen liflerini boyamak için Masson trikrom (Masson's trichrome) tercih edilir; kollajeni mavi/yeşil, kası kırmızı boyar. Bu yöntem bağ dokusunun (kollajen) değerlendirilmesinde (fibrozis, siroz, skar) standarttır. A seçeneği: Gümüşleme (Gomori reticulin stain) retiküler lifleri (tip III kollajen) ve sinir liflerini siyah boyar; kollajen lifleri için tercih edilmez. B seçeneği: PAS (Periyodik Asit Schiff) glikoprotein, glikojen, mukopolisakkarit ve bazal membranı boyar (magenta renk); kollajen için spesifik değildir. D seçeneği: H&E (Hematoksilen-Eozin) genel yapıyı boyar; hematoksilen bazik yapıları (çekirdek) mavi, eozin asidik yapıları (sitoplazma, kollajen) pembe boyar; kollajen spesifik boyanmaz. E seçeneği: Van Gieson kollajeni kırmızı, kası sarı boyar; elastik lifler için orcein kullanılır; kollajen için kullanılabilir ancak Masson trikrom daha yaygın ve spesifiktir."
+      "explanation": "Kollajen liflerini boyamak için Masson trikrom (Masson's trichrome) tercih edilir; kollajeni mavi/yeşil, kası kırmızı boyar. Bu yöntem bağ dokusunun (kollajen) değerlendirilmesinde (fibrozis, siroz, skar) standarttır. A seçeneği: Gümüşleme (Gomori reticulin stain) retiküler lifleri (tip III kollajen) ve sinir liflerini siyah boyar; kollajen lifleri için tercih edilmez. B seçeneği: PAS (Periyodik Asit Schiff) glikoprotein, glikojen, mukopolisakkarit ve bazal membranı boyar (magenta renk); kollajen için spesifik değildir. D seçeneği: H&E (Hematoksilen-Eozin) genel yapıyı boyar; hematoksilen bazik yapıları (çekirdek) mavi, eozin asidik yapıları (sitoplazma, kollajen) pembe boyar; kollajen spesifik boyanmaz. E seçeneği: Van Gieson kollajeni kırmızı, kası sarı boyar; elastik lifler için orcein kullanılır; kollajen için kullanılabilir ancak Masson trikrom daha yaygın ve spesifiktir.",
+      "topicId": "hist-doku-hazirlama",
+      "topic": "Doku hazırlama ve inceleme yöntemleri"
     },
     {
       "id": "2024-2025-tem-2-q005",
@@ -198,7 +206,9 @@
       "confidence": 0.9,
       "reviewStatus": "approved",
       "note": "Bu sorunun basılı cevabı sayfada yer almıyor; AI tarafından çözüldü.",
-      "explanation": "Lizozomlar tek membranla çevrili organellerdir ve hidrolitik enzimler (proteaz, nükleaz, glikozidaz, lipaz, fosfataz, sülfataz) içerir; asidik pH'da (pH 4.5-5.0) çalışır. A seçeneği: Lizozomal membranın iç yüzeyinde glikoprotein (LAMP-1, LAMP-2) ve lizobifosfatidik asit bulunur; bu yapı lizozomu kendi hidrolitik enzimlerinden korur (membran direnci). Doğrudur. B seçeneği: Lizozomal membran proteinleri endoplazmik retikulumda sentezlenir, Golgi kompleksinde mannoz-6-fosfat (M6P) etiketi ile işaretlenir ve M6P reseptörü aracılığıyla geç endozom/lizozoma taşınır; endozomlarda sentezlenmez. Yanlıştır. C seçeneği: Lizozomlar fagositoz (büyük partiküller), reseptör aracılı endositoz (spesifik moleküller) ve otofaji (hücre içi bileşenlerin yıkımı) süreçlerinde aktif rol oynar. Doğrudur. D seçeneği: Lipaz, proteaz, nükleaz gibi yıkıcı enzimler içerirler. Doğrudur. E seçeneği: Aktif fagositoz yapan makrofaj ve nötrofillerde bol miktarda bulunur (gelişmiş lizozomal sistem). Doğrudur. Yanlış şık B'dir."
+      "explanation": "Lizozomlar tek membranla çevrili organellerdir ve hidrolitik enzimler (proteaz, nükleaz, glikozidaz, lipaz, fosfataz, sülfataz) içerir; asidik pH'da (pH 4.5-5.0) çalışır. A seçeneği: Lizozomal membranın iç yüzeyinde glikoprotein (LAMP-1, LAMP-2) ve lizobifosfatidik asit bulunur; bu yapı lizozomu kendi hidrolitik enzimlerinden korur (membran direnci). Doğrudur. B seçeneği: Lizozomal membran proteinleri endoplazmik retikulumda sentezlenir, Golgi kompleksinde mannoz-6-fosfat (M6P) etiketi ile işaretlenir ve M6P reseptörü aracılığıyla geç endozom/lizozoma taşınır; endozomlarda sentezlenmez. Yanlıştır. C seçeneği: Lizozomlar fagositoz (büyük partiküller), reseptör aracılı endositoz (spesifik moleküller) ve otofaji (hücre içi bileşenlerin yıkımı) süreçlerinde aktif rol oynar. Doğrudur. D seçeneği: Lipaz, proteaz, nükleaz gibi yıkıcı enzimler içerirler. Doğrudur. E seçeneği: Aktif fagositoz yapan makrofaj ve nötrofillerde bol miktarda bulunur (gelişmiş lizozomal sistem). Doğrudur. Yanlış şık B'dir.",
+      "topicId": "hist-hucre",
+      "topic": "Hücre ve hücresel elemanlar"
     },
     {
       "id": "2024-2025-tem-2-q006",
@@ -220,7 +230,9 @@
       "answerStatus": "official",
       "confidence": 0.99,
       "reviewStatus": "approved",
-      "explanation": "Ekzositozun düzenlenmiş (regüle) salgı yolu (regulated secretory pathway), nöral veya hormonal bir uyarı varlığında depolanmış salgı granüllerinin (sekretuar granüller) plazma membranına füzyonu ve salgı içeriğinin (hormon, nörotransmitter, enzim) dış ortama iletilmesidir. A seçeneği: Reseptör aracılı endositoz hücreye madde alınmasıdır (transferrin, LDL). B seçeneği: Pinositoz sıvı alımıdır (hücre içme). C seçeneği: Konstitütif (sürekli) salgı yolu salgı ürününü depolamadan sürekli olarak plazma membranına iletir (membran proteinleri, kollajen). D seçeneği: Düzenlenmiş salgı yolu uyarı ile salgı granüllerini geçici olarak depolar ve uyarı ile salgılar. Doğrudur. E seçeneği: Fagositoz büyük partiküllerin (bakteri, hücre debris) alınmasıdır. Doğru cevap D'dir."
+      "explanation": "Ekzositozun düzenlenmiş (regüle) salgı yolu (regulated secretory pathway), nöral veya hormonal bir uyarı varlığında depolanmış salgı granüllerinin (sekretuar granüller) plazma membranına füzyonu ve salgı içeriğinin (hormon, nörotransmitter, enzim) dış ortama iletilmesidir. A seçeneği: Reseptör aracılı endositoz hücreye madde alınmasıdır (transferrin, LDL). B seçeneği: Pinositoz sıvı alımıdır (hücre içme). C seçeneği: Konstitütif (sürekli) salgı yolu salgı ürününü depolamadan sürekli olarak plazma membranına iletir (membran proteinleri, kollajen). D seçeneği: Düzenlenmiş salgı yolu uyarı ile salgı granüllerini geçici olarak depolar ve uyarı ile salgılar. Doğrudur. E seçeneği: Fagositoz büyük partiküllerin (bakteri, hücre debris) alınmasıdır. Doğru cevap D'dir.",
+      "topicId": "hist-hucre",
+      "topic": "Hücre ve hücresel elemanlar"
     },
     {
       "id": "2024-2025-tem-2-q007",
@@ -242,7 +254,9 @@
       "answerStatus": "official",
       "confidence": 0.99,
       "reviewStatus": "approved",
-      "explanation": "Peroksizomlar tek membranla çevrili organellerdir; katalaz (H2O2 → H2O + O2) ve oksidaz (D-aminoasit oksidaz, ürat oksidaz) enzimleri içerir. Yağ asitlerinin beta-oksidasyonu (çok uzun zincirli yağ asitleri, VLCFA) ve toksik moleküllerin detoksifikasyonunda (alkol, formaldehid, reaktif oksijen türleri) rol oynar. Karaciğer ve böbrek hücrelerinde bol miktarda bulunur. A seçeneği: Golgi kompleksi protein modifikasyonu (glikozilasyon), paketleme ve hedefleme yapar. B seçeneği: Endozom transport ve sıralama (sorting) yapar. D seçeneği: Mitokondri enerji üretimi (ATP) yapar; beta-oksidasyon (kısa/orta zincirli yağ asitleri) mitokondride gerçekleşir. E seçeneği: Granüllü endoplazmik retikulum (RER) protein sentezi yapar. Doğru cevap C'dir (peroksizom)."
+      "explanation": "Peroksizomlar tek membranla çevrili organellerdir; katalaz (H2O2 → H2O + O2) ve oksidaz (D-aminoasit oksidaz, ürat oksidaz) enzimleri içerir. Yağ asitlerinin beta-oksidasyonu (çok uzun zincirli yağ asitleri, VLCFA) ve toksik moleküllerin detoksifikasyonunda (alkol, formaldehid, reaktif oksijen türleri) rol oynar. Karaciğer ve böbrek hücrelerinde bol miktarda bulunur. A seçeneği: Golgi kompleksi protein modifikasyonu (glikozilasyon), paketleme ve hedefleme yapar. B seçeneği: Endozom transport ve sıralama (sorting) yapar. D seçeneği: Mitokondri enerji üretimi (ATP) yapar; beta-oksidasyon (kısa/orta zincirli yağ asitleri) mitokondride gerçekleşir. E seçeneği: Granüllü endoplazmik retikulum (RER) protein sentezi yapar. Doğru cevap C'dir (peroksizom).",
+      "topicId": "hist-hucre",
+      "topic": "Hücre ve hücresel elemanlar"
     },
     {
       "id": "2024-2025-tem-2-q008",
@@ -264,7 +278,9 @@
       "answerStatus": "official",
       "confidence": 0.99,
       "reviewStatus": "approved",
-      "explanation": "Mikrotübüller α ve β tubulin dimerlerinden oluşan, içi boş protein tüplerdir (çap ~25 nm). Negatif ucu mikrotübülleri organize edici merkezde (MTOC, sentrozom) bulunur. Hücre içi transport (kinesin ve dynein motor proteinleri), hücre hareketi (silya/flagella) ve mitoz mekiği (kromozom ayrılması) fonksiyonları vardır. A, B, C, D seçenekleri doğrudur. E seçeneği yanlıştır: mikrovilluslar aktin filamanlarından (mikrofilamanlar) oluşan yapılar olup mikrotübüller içermez; mikrovilluslar hücre yüzey alanını artırmak için ince, parmak şeklinde uzantılardır ve aktin demeti ile desteklenir."
+      "explanation": "Mikrotübüller α ve β tubulin dimerlerinden oluşan, içi boş protein tüplerdir (çap ~25 nm). Negatif ucu mikrotübülleri organize edici merkezde (MTOC, sentrozom) bulunur. Hücre içi transport (kinesin ve dynein motor proteinleri), hücre hareketi (silya/flagella) ve mitoz mekiği (kromozom ayrılması) fonksiyonları vardır. A, B, C, D seçenekleri doğrudur. E seçeneği yanlıştır: mikrovilluslar aktin filamanlarından (mikrofilamanlar) oluşan yapılar olup mikrotübüller içermez; mikrovilluslar hücre yüzey alanını artırmak için ince, parmak şeklinde uzantılardır ve aktin demeti ile desteklenir.",
+      "topicId": "hist-hucre",
+      "topic": "Hücre ve hücresel elemanlar"
     },
     {
       "id": "2024-2025-tem-2-q009",
@@ -286,7 +302,9 @@
       "answerStatus": "official",
       "confidence": 0.99,
       "reviewStatus": "approved",
-      "explanation": "Hücre çekirdeği çift membran (iç ve dış nükleer membran) içerir; iç membrana laminler (ara filamentler) tutunur ve nükleer lamina oluşturur. Çekirdek şekli ve büyüklüğü hücre tipine göre değişir. Aktif sentez yapan hücrelerde (sinir, karaciğer, plazma hücresi) çekirdek ökromatik (açık, aktif, ökromatin baskın) görünür; inaktif veya yaşlı hücrelerde heterokromatik (koyu, inaktif) görünür. A, B, C, E seçenekleri doğrudur. D seçeneği, aktif olarak çeşitli moleküller üreten sinir hücresi ve karaciğer hücresi gibi hücrelerde kromatinin sıkıca paketlenmiş ve çekirdeğin hiperkromatik olduğunu iddia ettiği için yanlıştır; bu hücrelerde çekirdek ökromatiktir (açık)."
+      "explanation": "Hücre çekirdeği çift membran (iç ve dış nükleer membran) içerir; iç membrana laminler (ara filamentler) tutunur ve nükleer lamina oluşturur. Çekirdek şekli ve büyüklüğü hücre tipine göre değişir. Aktif sentez yapan hücrelerde (sinir, karaciğer, plazma hücresi) çekirdek ökromatik (açık, aktif, ökromatin baskın) görünür; inaktif veya yaşlı hücrelerde heterokromatik (koyu, inaktif) görünür. A, B, C, E seçenekleri doğrudur. D seçeneği, aktif olarak çeşitli moleküller üreten sinir hücresi ve karaciğer hücresi gibi hücrelerde kromatinin sıkıca paketlenmiş ve çekirdeğin hiperkromatik olduğunu iddia ettiği için yanlıştır; bu hücrelerde çekirdek ökromatiktir (açık).",
+      "topicId": "hist-hucre",
+      "topic": "Hücre ve hücresel elemanlar"
     },
     {
       "id": "2024-2025-tem-2-q010",
@@ -308,7 +326,9 @@
       "answerStatus": "official",
       "confidence": 0.99,
       "reviewStatus": "approved",
-      "explanation": "Pozitif geri bildirim (positive feedback) bir sürecin kendi kendini amplifiye etmesidir; çıktı, girdiyi artırır ve süreç hızlanır. Kanayan damarda pıhtılaşma (trombin → daha fazla trombin → fibrin) ve doğumda oksitosin ile uterin kasılmaların artması (Ferguson refleksi) pozitif geri bildirim örnekleridir. Barorefleks (kan basıncı düzenlenmesi) ve insülin-glukoz düzenlenmesi negatif geri bildirimdir (çıktı girdiyi azaltır, homeostazı korur). A, C, D, E seçenekleri pozitif ve negatif geri bildirimi yanlış eşleştirmiştir. Doğru cevap B'dir (II ve III)."
+      "explanation": "Pozitif geri bildirim (positive feedback) bir sürecin kendi kendini amplifiye etmesidir; çıktı, girdiyi artırır ve süreç hızlanır. Kanayan damarda pıhtılaşma (trombin → daha fazla trombin → fibrin) ve doğumda oksitosin ile uterin kasılmaların artması (Ferguson refleksi) pozitif geri bildirim örnekleridir. Barorefleks (kan basıncı düzenlenmesi) ve insülin-glukoz düzenlenmesi negatif geri bildirimdir (çıktı girdiyi azaltır, homeostazı korur). A, C, D, E seçenekleri pozitif ve negatif geri bildirimi yanlış eşleştirmiştir. Doğru cevap B'dir (II ve III).",
+      "topicId": "fz-sivi",
+      "topic": "Bedenin bileşimi ve vücut sıvı bölükleri"
     },
     {
       "id": "2024-2025-tem-2-q011",
@@ -330,7 +350,9 @@
       "answerStatus": "official",
       "confidence": 0.99,
       "reviewStatus": "approved",
-      "explanation": "Ara filament ailesi: vimentin (mezenkimal hücreler), desmin (kas hücreleri), keratin (epitel hücreleri), GFAP (glia hücreleri), nörofilamanlar (nöronlar). Dinein ve kinesin motor proteinlerdir (mikrotübüller üzerinde hareket eder), ara filament değildir. A seçeneği (I ve II) dinein (motor protein) içerdiği için yanlıştır. B seçeneği (II ve III) kinesin (motor protein) içerir. C seçeneği (I ve III) her ikisi motor proteindir. E seçeneği (III ve IV) kinesin içerir. Doğru cevap D'dir (II ve IV: vimentin ve desmin)."
+      "explanation": "Ara filament ailesi: vimentin (mezenkimal hücreler), desmin (kas hücreleri), keratin (epitel hücreleri), GFAP (glia hücreleri), nörofilamanlar (nöronlar). Dinein ve kinesin motor proteinlerdir (mikrotübüller üzerinde hareket eder), ara filament değildir. A seçeneği (I ve II) dinein (motor protein) içerdiği için yanlıştır. B seçeneği (II ve III) kinesin (motor protein) içerir. C seçeneği (I ve III) her ikisi motor proteindir. E seçeneği (III ve IV) kinesin içerir. Doğru cevap D'dir (II ve IV: vimentin ve desmin).",
+      "topicId": "fz-homeostaz",
+      "topic": "Homeostaz ve geri bildirim devreleri"
     },
     {
       "id": "2024-2025-tem-2-q012",
@@ -352,7 +374,9 @@
       "answerStatus": "official",
       "confidence": 0.99,
       "reviewStatus": "approved",
-      "explanation": "Tay-Sachs hastalığı heksosaminidaz A enzim eksikliği sonucu gangliozid GM2 birikimi ile karakterizedir; otozomal resesif geçişlidir, sinir sistemi hasarı ve ölümle sonuçlanır. Heksosaminidaz A lizozomal bir enzimdir (glikoprotein yıkımında rol oynar). A seçeneği: Golgi aygıtı protein modifikasyonu yapar. B seçeneği: Peroksizom yağ asidi oksidasyonu ve detoksifikasyon yapar. C seçeneği: Mitokondri enerji üretimi yapar. D seçeneği: Sentrozom mikrotübülleri organize eder. Doğru cevap E'dir (lizozom)."
+      "explanation": "Tay-Sachs hastalığı heksosaminidaz A enzim eksikliği sonucu gangliozid GM2 birikimi ile karakterizedir; otozomal resesif geçişlidir, sinir sistemi hasarı ve ölümle sonuçlanır. Heksosaminidaz A lizozomal bir enzimdir (glikoprotein yıkımında rol oynar). A seçeneği: Golgi aygıtı protein modifikasyonu yapar. B seçeneği: Peroksizom yağ asidi oksidasyonu ve detoksifikasyon yapar. C seçeneği: Mitokondri enerji üretimi yapar. D seçeneği: Sentrozom mikrotübülleri organize eder. Doğru cevap E'dir (lizozom).",
+      "topicId": "fz-hucre",
+      "topic": "Hücre fizyolojisi; organeller arası iş bölümü"
     },
     {
       "id": "2024-2025-tem-2-q013",
@@ -374,7 +398,9 @@
       "answerStatus": "official",
       "confidence": 0.99,
       "reviewStatus": "approved",
-      "explanation": "Mitokondriler enerji üretimi (ATP, oksidatif fosforilasyon) dışında apoptozda (sitokrom c salınımı, kaspaz aktivasyonu, Bcl-2 ailesi proteinleri) ve Ca2+ depolamada (matris, uniporter ile) rol oynar. Kondroitin sülfat üretimi (glikozaminoglikan sentezi) Golgi'de, hasarlı organel sindirimi (otofaji) lizozomda gerçekleşir. A seçeneği (I ve II) doğrudur. B (II ve III), C (I ve III), D (I ve IV), E (II ve IV) yanlıştır."
+      "explanation": "Mitokondriler enerji üretimi (ATP, oksidatif fosforilasyon) dışında apoptozda (sitokrom c salınımı, kaspaz aktivasyonu, Bcl-2 ailesi proteinleri) ve Ca2+ depolamada (matris, uniporter ile) rol oynar. Kondroitin sülfat üretimi (glikozaminoglikan sentezi) Golgi'de, hasarlı organel sindirimi (otofaji) lizozomda gerçekleşir. A seçeneği (I ve II) doğrudur. B (II ve III), C (I ve III), D (I ve IV), E (II ve IV) yanlıştır.",
+      "topicId": "fz-hucre",
+      "topic": "Hücre fizyolojisi; organeller arası iş bölümü"
     },
     {
       "id": "2024-2025-tem-2-q014",
@@ -396,7 +422,9 @@
       "answerStatus": "official",
       "confidence": 0.99,
       "reviewStatus": "approved",
-      "explanation": "Difüzyon hızını azaltan parametreler: ortamın viskozitesi (yüksek viskozite molekül hareketini yavaşlatır) ve molekülün yarıçapı (büyük molekül daha yavaş difüze olur; Stokes-Einstein denklemi: D = kT/(6πηr)). Mutlak sıcaklık (T) ve Boltzmann sabiti (k) difüzyonu artırır (sıcaklık arttıkça kinetik enerji artar). A seçeneği (I ve II) viskozite azaltır ama sıcaklık artırır. C (I ve III) viskozite azaltır ama yarıçap artırır. D (II ve IV) sıcaklık ve Boltzmann artırır. E (I ve IV) viskozite azaltır ama Boltzmann artırır. Doğru cevap B'dir (II ve III: viskozite ve yarıçap)."
+      "explanation": "Difüzyon hızını azaltan parametreler: ortamın viskozitesi (yüksek viskozite molekül hareketini yavaşlatır) ve molekülün yarıçapı (büyük molekül daha yavaş difüze olur; Stokes-Einstein denklemi: D = kT/(6πηr)). Mutlak sıcaklık (T) ve Boltzmann sabiti (k) difüzyonu artırır (sıcaklık arttıkça kinetik enerji artar). A seçeneği (I ve II) viskozite azaltır ama sıcaklık artırır. C (I ve III) viskozite azaltır ama yarıçap artırır. D (II ve IV) sıcaklık ve Boltzmann artırır. E (I ve IV) viskozite azaltır ama Boltzmann artırır. Doğru cevap B'dir (II ve III: viskozite ve yarıçap).",
+      "topicId": "fz-hucre",
+      "topic": "Hücre fizyolojisi; organeller arası iş bölümü"
     },
     {
       "id": "2024-2025-tem-2-q015",
@@ -418,7 +446,9 @@
       "answerStatus": "official",
       "confidence": 0.99,
       "reviewStatus": "approved",
-      "explanation": "Lizozomlar tek membranla çevrili organellerdir ve hidrolitik enzimler (proteaz, nükleaz, glikozidaz, lipaz, fosfataz, sülfataz) içerir; asidik pH'da (pH 4.5-5.0) çalışır. A seçeneği: Lizozomal membranın iç yüzeyinde glikoprotein (LAMP-1, LAMP-2) ve lizobifosfatidik asit bulunur; bu yapı lizozomu kendi hidrolitik enzimlerinden korur (membran direnci). Doğrudur. B seçeneği: Lizozomal membran proteinleri endoplazmik retikulumda sentezlenir, Golgi kompleksinde mannoz-6-fosfat (M6P) etiketi ile işaretlenir ve M6P reseptörü aracılığıyla geç endozom/lizozoma taşınır; endozomlarda sentezlenmez. Yanlıştır. C seçeneği: Lizozomlar fagositoz, reseptör aracılı endositoz ve otofaji süreçlerinde aktif rol oynar. Doğrudur. D seçeneği: Lipaz, proteaz, nükleaz gibi yıkıcı enzimler içerirler. Doğrudur. E seçeneği: Aktif fagositoz yapan makrofaj ve nötrofillerde bol miktarda bulunur (gelişmiş lizozomal sistem). Doğrudur. Yanlış şık B'dir."
+      "explanation": "Lizozomlar tek membranla çevrili organellerdir ve hidrolitik enzimler (proteaz, nükleaz, glikozidaz, lipaz, fosfataz, sülfataz) içerir; asidik pH'da (pH 4.5-5.0) çalışır. A seçeneği: Lizozomal membranın iç yüzeyinde glikoprotein (LAMP-1, LAMP-2) ve lizobifosfatidik asit bulunur; bu yapı lizozomu kendi hidrolitik enzimlerinden korur (membran direnci). Doğrudur. B seçeneği: Lizozomal membran proteinleri endoplazmik retikulumda sentezlenir, Golgi kompleksinde mannoz-6-fosfat (M6P) etiketi ile işaretlenir ve M6P reseptörü aracılığıyla geç endozom/lizozoma taşınır; endozomlarda sentezlenmez. Yanlıştır. C seçeneği: Lizozomlar fagositoz, reseptör aracılı endositoz ve otofaji süreçlerinde aktif rol oynar. Doğrudur. D seçeneği: Lipaz, proteaz, nükleaz gibi yıkıcı enzimler içerirler. Doğrudur. E seçeneği: Aktif fagositoz yapan makrofaj ve nötrofillerde bol miktarda bulunur (gelişmiş lizozomal sistem). Doğrudur. Yanlış şık B'dir.",
+      "topicId": "fz-difuzyon",
+      "topic": "Zardan madde geçişi: difüzyon ve ozmoz"
     },
     {
       "id": "2024-2025-tem-2-q016",
@@ -440,7 +470,9 @@
       "answerStatus": "official",
       "confidence": 0.99,
       "reviewStatus": "approved",
-      "explanation": "ABC (ATP-binding cassette) taşıyıcılar ATP hidrolizi ile primer aktif taşıma yapar ve birçok maddenin taşınmasında rol oynar. I. Vitamin: ABC taşıyıcılar (örn. MRP, BCRP) vitamin ve metabolit taşımasında rol oynar. Doğrudur. II. Ca2+: Ca2+ taşıması SERCA (sarko/endoplazmik retikulum Ca2+-ATPaz, P-tipi) ve PMCA (plazma membran Ca2+-ATPaz) ile yapılır; ABC taşıyıcıları Ca2+ taşımaz. Yanlıştır. III. Ksenobiyotik: ABC taşıyıcılar (P-glikoprotein/MDR1, MRP1) ilaç ve toksin (ksenobiyotik) taşımasında önemli rol oynar. Doğrudur. IV. H+: H+ taşıması V-tipi ATPaz (vakuoler proton pompası) ile yapılır. ABC taşıyıcıları H+ taşımaz. Yanlıştır. Doğru cevap C'dir (I ve III)."
+      "explanation": "ABC (ATP-binding cassette) taşıyıcılar ATP hidrolizi ile primer aktif taşıma yapar ve birçok maddenin taşınmasında rol oynar. I. Vitamin: ABC taşıyıcılar (örn. MRP, BCRP) vitamin ve metabolit taşımasında rol oynar. Doğrudur. II. Ca2+: Ca2+ taşıması SERCA (sarko/endoplazmik retikulum Ca2+-ATPaz, P-tipi) ve PMCA (plazma membran Ca2+-ATPaz) ile yapılır; ABC taşıyıcıları Ca2+ taşımaz. Yanlıştır. III. Ksenobiyotik: ABC taşıyıcılar (P-glikoprotein/MDR1, MRP1) ilaç ve toksin (ksenobiyotik) taşımasında önemli rol oynar. Doğrudur. IV. H+: H+ taşıması V-tipi ATPaz (vakuoler proton pompası) ile yapılır. ABC taşıyıcıları H+ taşımaz. Yanlıştır. Doğru cevap C'dir (I ve III).",
+      "topicId": "fz-tasiyici",
+      "topic": "Aracılı taşıma sistemleri"
     },
     {
       "id": "2024-2025-tem-2-q017",
@@ -462,7 +494,9 @@
       "answerStatus": "official",
       "confidence": 0.99,
       "reviewStatus": "approved",
-      "explanation": "Kolera toksini (koleragen, Vibrio cholerae tarafından üretilir) ince bağırsak epitel hücrelerinde adenilat siklazı aktive eder → cAMP artışı → CFTR (kistik fibrozis transmembran iletkenlik düzenleyici) klor kanalı açılması → Cl- ve su sekresyonu → profus diyare. Oral rehidratasyon tedavisinde (ORT) Na+-glikoz kotransporteri (SGLT1) kullanılır; glukoz ve Na+ sekonder aktif taşıma ile emilir, su osmozla takip eder. Bu mekanizma kolera toksininin etkisini bypass eder. A seçeneği: Endositoz madde alınmasıdır. B seçeneği: Basit difüzyon enerji gerektirmeyen pasif taşımadır. C seçeneği: Primer aktif taşıma ATP harcar (Na/K-ATPaz). E seçeneği: Kolaylaştırılmış difüzyon taşıyıcı protein ile pasif taşımadır. Doğru cevap D'dir (sekonder aktif taşıma)."
+      "explanation": "Kolera toksini (koleragen, Vibrio cholerae tarafından üretilir) ince bağırsak epitel hücrelerinde adenilat siklazı aktive eder → cAMP artışı → CFTR (kistik fibrozis transmembran iletkenlik düzenleyici) klor kanalı açılması → Cl- ve su sekresyonu → profus diyare. Oral rehidratasyon tedavisinde (ORT) Na+-glikoz kotransporteri (SGLT1) kullanılır; glukoz ve Na+ sekonder aktif taşıma ile emilir, su osmozla takip eder. Bu mekanizma kolera toksininin etkisini bypass eder. A seçeneği: Endositoz madde alınmasıdır. B seçeneği: Basit difüzyon enerji gerektirmeyen pasif taşımadır. C seçeneği: Primer aktif taşıma ATP harcar (Na/K-ATPaz). E seçeneği: Kolaylaştırılmış difüzyon taşıyıcı protein ile pasif taşımadır. Doğru cevap D'dir (sekonder aktif taşıma).",
+      "topicId": "fz-tasiyici",
+      "topic": "Aracılı taşıma sistemleri"
     },
     {
       "id": "2024-2025-tem-2-q018",
@@ -484,7 +518,9 @@
       "answerStatus": "official",
       "confidence": 0.99,
       "reviewStatus": "approved",
-      "explanation": "Fosfodiesteraz (PDE) enzimi cAMP ve cGMP'yi (ikinci haberciler) 5'-AMP ve 5'-GMP'ye hidrolize eder; ikinci habercileri inaktive eder. IP3 (inositol trisfosfat) ve DAG (diasilgliserol) fosfolipaz C ürünleridir, PDE substratı değildir. NF-κB transkripsiyon faktörüdür. PGE2 prostaglandindir. cGMP'yi etkisiz hale getiren PDE'dir (PDE5: sildenafil hedefi, erektil disfonksiyon tedavisinde kullanılır)."
+      "explanation": "Fosfodiesteraz (PDE) enzimi cAMP ve cGMP'yi (ikinci haberciler) 5'-AMP ve 5'-GMP'ye hidrolize eder; ikinci habercileri inaktive eder. IP3 (inositol trisfosfat) ve DAG (diasilgliserol) fosfolipaz C ürünleridir, PDE substratı değildir. NF-κB transkripsiyon faktörüdür. PGE2 prostaglandindir. cGMP'yi etkisiz hale getiren PDE'dir (PDE5: sildenafil hedefi, erektil disfonksiyon tedavisinde kullanılır).",
+      "topicId": "fz-iletisim",
+      "topic": "Hücreler arası iletişim, reseptörler, ikincil haberciler"
     },
     {
       "id": "2024-2025-tem-2-q019",
@@ -506,7 +542,9 @@
       "answerStatus": "official",
       "confidence": 0.99,
       "reviewStatus": "approved",
-      "explanation": "Nitrik oksit (NO) guanilil siklazı (sGC) aktive eder → cGMP artışı → protein kinaz G (PKG) aktivasyonu → düz kas relaksasyonu (vazodilatasyon). Tirozin kinaz-IP3 (yanlış: tirozin kinaz reseptör tirozin kinazları, IP3 fosfolipaz C ürünü), serin-treonin kinaz-cAMP (yanlış: serin-treonin kinazlar farklı yollar), adenilil siklaz-cAMP (adenilil siklaz cAMP üretir ama NO hedefi değildir), fosfataz-cGMP (fosfataz fosfat grubu uzaklaştırır, NO hedefi değildir) eşleşmeleri yanlıştır. Doğru eşleştirme E'dir (guanilil siklaz-cGMP)."
+      "explanation": "Nitrik oksit (NO) guanilil siklazı (sGC) aktive eder → cGMP artışı → protein kinaz G (PKG) aktivasyonu → düz kas relaksasyonu (vazodilatasyon). Tirozin kinaz-IP3 (yanlış: tirozin kinaz reseptör tirozin kinazları, IP3 fosfolipaz C ürünü), serin-treonin kinaz-cAMP (yanlış: serin-treonin kinazlar farklı yollar), adenilil siklaz-cAMP (adenilil siklaz cAMP üretir ama NO hedefi değildir), fosfataz-cGMP (fosfataz fosfat grubu uzaklaştırır, NO hedefi değildir) eşleşmeleri yanlıştır. Doğru eşleştirme E'dir (guanilil siklaz-cGMP).",
+      "topicId": "fz-iletisim",
+      "topic": "Hücreler arası iletişim, reseptörler, ikincil haberciler"
     },
     {
       "id": "2024-2025-tem-2-q020",
@@ -528,7 +566,9 @@
       "answerStatus": "official",
       "confidence": 0.99,
       "reviewStatus": "approved",
-      "explanation": "Yağ sindiriminde lingual lipaz (dil, pH 4-6) ve gastrik lipaz (mide, pH 4-6) aktif olup kofaktör gerektirmez; pankreatik lipaz (ince bağırsak, pH 8) için kofaktör koloipazdır (colipase). A seçeneği: barsak hücreleri (enterositler) apo B-48 üretir (şilomikron yapı proteini). Doğrudur. B seçeneği: pankreatik lipaz trigliseritleri monoasilgliserol ve serbest yağ asidine yıkar. Doğrudur. C seçeneği: barsak epitel hücrelerinde tekrar trigliserit sentezlenir (monoasilgliserol yolu). Doğrudur. E seçeneği: barsakta sentezlenen şilomikronlar diyet trigliseritlerini taşır. Doğrudur. D seçeneği lingual ve gastrik lipazın aktivasyonu için koloipaz gereksinimi olduğunu iddia ettiği için yanlıştır; koloipaz sadece pankreatik lipaz için gereklidir."
+      "explanation": "Yağ sindiriminde lingual lipaz (dil, pH 4-6) ve gastrik lipaz (mide, pH 4-6) aktif olup kofaktör gerektirmez; pankreatik lipaz (ince bağırsak, pH 8) için kofaktör koloipazdır (colipase). A seçeneği: barsak hücreleri (enterositler) apo B-48 üretir (şilomikron yapı proteini). Doğrudur. B seçeneği: pankreatik lipaz trigliseritleri monoasilgliserol ve serbest yağ asidine yıkar. Doğrudur. C seçeneği: barsak epitel hücrelerinde tekrar trigliserit sentezlenir (monoasilgliserol yolu). Doğrudur. E seçeneği: barsakta sentezlenen şilomikronlar diyet trigliseritlerini taşır. Doğrudur. D seçeneği lingual ve gastrik lipazın aktivasyonu için koloipaz gereksinimi olduğunu iddia ettiği için yanlıştır; koloipaz sadece pankreatik lipaz için gereklidir.",
+      "topicId": "bk-lipid-sindirim",
+      "topic": "Lipidlerin sindirimi ve emilimi"
     },
     {
       "id": "2024-2025-tem-2-q021",
@@ -550,7 +590,9 @@
       "answerStatus": "official",
       "confidence": 0.99,
       "reviewStatus": "approved",
-      "explanation": "Palmitoil-CoA (16:0, doymuş yağ asidi) beta-oksidasyonu: 7 döngü → 8 asetil-CoA + 7 FADH2 + 7 NADH. Net ATP = 8×10 (asetil-CoA, TCA'da) + 7×1.5 (FADH2) + 7×2.5 (NADH) - 2 (aktivasyon, karnitin) = 106 ATP. A seçeneği (net 106 ATP) doğrudur. B seçeneği (7 döngü, 8 asetil-CoA) doğrudur. C seçeneği (7 FADH2) doğrudur. D seçeneği: 17 karbonlu yağ asidi (heptadekanoik) 8 asetil-CoA + 1 propiyonil-CoA üretir; propiyonil-CoA glukoneojenik (süksinil-CoA'ya dönüşür) ve daha az ATP üretir; 16 karbonlu palmitat daha fazla ATP üretir. Doğrudur. E seçeneği: Oksidasyon için gerekli NADPH'ler pentoz fosfat yolundan elde edilir ifadesi yanlıştır; beta-oksidasyon NADH ve FADH2 kullanır, NADPH kullanmaz. NADPH pentoz fosfat yolunda üretilir ve biyosentez/detoksifikasyonda kullanılır."
+      "explanation": "Palmitoil-CoA (16:0, doymuş yağ asidi) beta-oksidasyonu: 7 döngü → 8 asetil-CoA + 7 FADH2 + 7 NADH. Net ATP = 8×10 (asetil-CoA, TCA'da) + 7×1.5 (FADH2) + 7×2.5 (NADH) - 2 (aktivasyon, karnitin) = 106 ATP. A seçeneği (net 106 ATP) doğrudur. B seçeneği (7 döngü, 8 asetil-CoA) doğrudur. C seçeneği (7 FADH2) doğrudur. D seçeneği: 17 karbonlu yağ asidi (heptadekanoik) 8 asetil-CoA + 1 propiyonil-CoA üretir; propiyonil-CoA glukoneojenik (süksinil-CoA'ya dönüşür) ve daha az ATP üretir; 16 karbonlu palmitat daha fazla ATP üretir. Doğrudur. E seçeneği: Oksidasyon için gerekli NADPH'ler pentoz fosfat yolundan elde edilir ifadesi yanlıştır; beta-oksidasyon NADH ve FADH2 kullanır, NADPH kullanmaz. NADPH pentoz fosfat yolunda üretilir ve biyosentez/detoksifikasyonda kullanılır.",
+      "topicId": "bk-yag-yikim",
+      "topic": "Yağ asitlerinin yıkımı (β-oksidasyon, keton cisimcikleri)"
     },
     {
       "id": "2024-2025-tem-2-q022",
@@ -572,7 +614,9 @@
       "answerStatus": "official",
       "confidence": 0.99,
       "reviewStatus": "approved",
-      "explanation": "Keton cisimcikleri (asetoasetat, beta-hidroksibütirat, aseton) karaciğerde (hepatosit mitokondrisinde) HMG-CoA yolağı ile sentezlenir. A seçeneği: Toklukta kan düzeyleri çok yükselir ifadesi yanlıştır; keton cisimcikleri açlıkta (uzun süreli açlık, diyabetik ketoasidoz) yükselir, toklukta düşük olur. B seçeneği: Kas ve beyin hücreleri tarafından üretilir ifadesi yanlıştır; keton cisimcikleri karaciğerde üretilir (karaciğer ketonları kullanamaz, çünkü tiyoforaz enzimi yoktur). C seçeneği: Sitoplazmada HMG-CoA redüktaz tarafından üretilir ifadesi yanlıştır; HMG-CoA sentaz (redüktaz değil) mitokondride sentezde rol oynar. D seçeneği: Karaciğer tarafından enerji yakıtı olarak kullanılırlar ifadesi yanlıştır; karaciğer ketonları kullanamaz, diğer dokular (beyin, kas, böbrek) kullanır. E seçeneği: Kanda en yüksek konsantrasyonda beta-hidroksibütirat bulunur ifadesi doğrudur (asetoasetat ve aseton daha düşük konsantrasyondadır; aseton uçucu olup akciğerlerden atılır)."
+      "explanation": "Keton cisimcikleri (asetoasetat, beta-hidroksibütirat, aseton) karaciğerde (hepatosit mitokondrisinde) HMG-CoA yolağı ile sentezlenir. A seçeneği: Toklukta kan düzeyleri çok yükselir ifadesi yanlıştır; keton cisimcikleri açlıkta (uzun süreli açlık, diyabetik ketoasidoz) yükselir, toklukta düşük olur. B seçeneği: Kas ve beyin hücreleri tarafından üretilir ifadesi yanlıştır; keton cisimcikleri karaciğerde üretilir (karaciğer ketonları kullanamaz, çünkü tiyoforaz enzimi yoktur). C seçeneği: Sitoplazmada HMG-CoA redüktaz tarafından üretilir ifadesi yanlıştır; HMG-CoA sentaz (redüktaz değil) mitokondride sentezde rol oynar. D seçeneği: Karaciğer tarafından enerji yakıtı olarak kullanılırlar ifadesi yanlıştır; karaciğer ketonları kullanamaz, diğer dokular (beyin, kas, böbrek) kullanır. E seçeneği: Kanda en yüksek konsantrasyonda beta-hidroksibütirat bulunur ifadesi doğrudur (asetoasetat ve aseton daha düşük konsantrasyondadır; aseton uçucu olup akciğerlerden atılır).",
+      "topicId": "bk-yag-yikim",
+      "topic": "Yağ asitlerinin yıkımı (β-oksidasyon, keton cisimcikleri)"
     },
     {
       "id": "2024-2025-tem-2-q023",
@@ -594,7 +638,9 @@
       "answerStatus": "official",
       "confidence": 0.99,
       "reviewStatus": "approved",
-      "explanation": "Asetil-CoA'dan sentezlenemeyen: gliserol-3-fosfat (glikolizden, gliseraldehid-3-fosfattan gelir; gliserol kinaz ile gliserolden de sentezlenir). Kolesterol asetil-CoA'dan sentezlenir (HMG-CoA yolağı). Arakidonik asit (esansiyel yağ asidi linoleik asitten) asetil-CoA'dan sentezlenemez? Aslında arakidonik asit (20:4) linoleik asitten (18:2) elongasyon ve desatürasyon ile sentezlenir; linoleik asit esansiyeldir. HMG-CoA (hidroksimetilglutaril-CoA) asetil-CoA'dan sentezlenir (asetoasetil-CoA + asetil-CoA). Asetoasetat asetil-CoA'dan sentezlenir (ketogenez). A seçeneği (gliserol-3-fosfat) asetil-CoA'dan sentezlenemez; glikolizden gelir."
+      "explanation": "Asetil-CoA'dan sentezlenemeyen: gliserol-3-fosfat (glikolizden, gliseraldehid-3-fosfattan gelir; gliserol kinaz ile gliserolden de sentezlenir). Kolesterol asetil-CoA'dan sentezlenir (HMG-CoA yolağı). Arakidonik asit (esansiyel yağ asidi linoleik asitten) asetil-CoA'dan sentezlenemez? Aslında arakidonik asit (20:4) linoleik asitten (18:2) elongasyon ve desatürasyon ile sentezlenir; linoleik asit esansiyeldir. HMG-CoA (hidroksimetilglutaril-CoA) asetil-CoA'dan sentezlenir (asetoasetil-CoA + asetil-CoA). Asetoasetat asetil-CoA'dan sentezlenir (ketogenez). A seçeneği (gliserol-3-fosfat) asetil-CoA'dan sentezlenemez; glikolizden gelir.",
+      "topicId": "bk-metabolizma",
+      "topic": "Metabolizmanın genel olarak incelenmesi"
     },
     {
       "id": "2024-2025-tem-2-q024",
@@ -616,7 +662,9 @@
       "answerStatus": "official",
       "confidence": 0.99,
       "reviewStatus": "approved",
-      "explanation": "Prostaglandinler (PG) arakidonik asitten (20:4 n-6, esansiyel yağ asidi linoleik asitten sentezlenir) siklooksijenaz (COX-1/COX-2) enzimi ile sentezlenir. I. Prostaglandinlerin öncü maddesi arakidonik asittir: Doğrudur. II. Arakidonik asit esansiyel bir yağ asididir: Yanlıştır; arakidonik asit linoleik asitten sentezlenir; linoleik asit esansiyeldir (insan sentezleyemez). III. Prostaglandin sentezi için siklooksijenaz enzimine gereksinim vardır: Doğrudur. Doğru cevap B'dir (I ve III)."
+      "explanation": "Prostaglandinler (PG) arakidonik asitten (20:4 n-6, esansiyel yağ asidi linoleik asitten sentezlenir) siklooksijenaz (COX-1/COX-2) enzimi ile sentezlenir. I. Prostaglandinlerin öncü maddesi arakidonik asittir: Doğrudur. II. Arakidonik asit esansiyel bir yağ asididir: Yanlıştır; arakidonik asit linoleik asitten sentezlenir; linoleik asit esansiyeldir (insan sentezleyemez). III. Prostaglandin sentezi için siklooksijenaz enzimine gereksinim vardır: Doğrudur. Doğru cevap B'dir (I ve III).",
+      "topicId": "bk-eikosanoid",
+      "topic": "Eikosanoidler ve türevleri"
     },
     {
       "id": "2024-2025-tem-2-q025",
@@ -638,7 +686,9 @@
       "answerStatus": "official",
       "confidence": 0.99,
       "reviewStatus": "approved",
-      "explanation": "Asetil-CoA karboksilaz (ACC) biyotin (B7 vitamini) içeren enzimdir; malonil-CoA üretir (asetil-CoA + HCO3- + ATP → malonil-CoA + ADP + Pi). A seçeneği: malonil-CoA üretimi sağlar (doğru). B seçeneği: substrat olarak asetil-CoA kullanır (doğru). C seçeneği: yapıda prostetik grup olarak piridoksal fosfat (B6) bulunur ifadesi yanlıştır; ACC biyotin (B7) içerir, piridoksal fosfat transaminasyonlarda kofaktördür. D seçeneği: reaksiyon sırasında 1 mol ATP kullanır (doğru). E seçeneği: sentez için HCO3- (bikarbonat) gereksinimi vardır (doğru)."
+      "explanation": "Asetil-CoA karboksilaz (ACC) biyotin (B7 vitamini) içeren enzimdir; malonil-CoA üretir (asetil-CoA + HCO3- + ATP → malonil-CoA + ADP + Pi). A seçeneği: malonil-CoA üretimi sağlar (doğru). B seçeneği: substrat olarak asetil-CoA kullanır (doğru). C seçeneği: yapıda prostetik grup olarak piridoksal fosfat (B6) bulunur ifadesi yanlıştır; ACC biyotin (B7) içerir, piridoksal fosfat transaminasyonlarda kofaktördür. D seçeneği: reaksiyon sırasında 1 mol ATP kullanır (doğru). E seçeneği: sentez için HCO3- (bikarbonat) gereksinimi vardır (doğru).",
+      "topicId": "bk-yag-sentez",
+      "topic": "Yağ asitlerinin sentezi"
     },
     {
       "id": "2024-2025-tem-2-q026",
@@ -660,7 +710,9 @@
       "answerStatus": "official",
       "confidence": 0.99,
       "reviewStatus": "approved",
-      "explanation": "Transaminasyon (aminotransferaz) reaksiyonları hem sentez hem yıkımda görev alır; amino grup bir ketoaside transfer edilir (serbest amonyak açığa çıkmaz). I. Hem sentez hem de yıkımda görev alırlar: Doğrudur. II. Yıkım sırasında serbest amonyak açığa çıkar: Yanlıştır; amino grup ketoaside transfer edilir, serbest amonyak çıkmaz (oksidatif deaminasyon ve dehidratazyon reaksiyonlarında amonyak açığa çıkar). III. Sentez sırasında serbest amonyak bir ketoaside bağlanır: Yanlıştır; transaminasyonda serbest amonyak kullanılmaz. Doğru cevap A'dır (sadece I)."
+      "explanation": "Transaminasyon (aminotransferaz) reaksiyonları hem sentez hem yıkımda görev alır; amino grup bir ketoaside transfer edilir (serbest amonyak açığa çıkmaz). I. Hem sentez hem de yıkımda görev alırlar: Doğrudur. II. Yıkım sırasında serbest amonyak açığa çıkar: Yanlıştır; amino grup ketoaside transfer edilir, serbest amonyak çıkmaz (oksidatif deaminasyon ve dehidratazyon reaksiyonlarında amonyak açığa çıkar). III. Sentez sırasında serbest amonyak bir ketoaside bağlanır: Yanlıştır; transaminasyonda serbest amonyak kullanılmaz. Doğru cevap A'dır (sadece I).",
+      "topicId": "bk-aminoasit",
+      "topic": "Aminoasit metabolizması ve üre sentezi"
     },
     {
       "id": "2024-2025-tem-2-q027",
@@ -682,7 +734,9 @@
       "answerStatus": "official",
       "confidence": 0.99,
       "reviewStatus": "approved",
-      "explanation": "Glutamat dehidrogenaz (GDH) mitokondri matrisinde bulunur; glutamat + NAD(P)+ → α-ketoglutarat + NH4+ + NAD(P)H dönüşümünü katalize eder (oksidatif deaminasyon). I. Tepkime sonucunda alfa-ketoglutarat oluşur: Doğrudur. II. Bu enzim mitokondri matriksinde bulunur: Doğrudur. III. Kofaktör olarak NAD ve NADP'yi kullanır: Doğrudur (NAD+ veya NADP+). C seçeneği (I, II ve III) doğrudur."
+      "explanation": "Glutamat dehidrogenaz (GDH) mitokondri matrisinde bulunur; glutamat + NAD(P)+ → α-ketoglutarat + NH4+ + NAD(P)H dönüşümünü katalize eder (oksidatif deaminasyon). I. Tepkime sonucunda alfa-ketoglutarat oluşur: Doğrudur. II. Bu enzim mitokondri matriksinde bulunur: Doğrudur. III. Kofaktör olarak NAD ve NADP'yi kullanır: Doğrudur (NAD+ veya NADP+). C seçeneği (I, II ve III) doğrudur.",
+      "topicId": "bk-aminoasit",
+      "topic": "Aminoasit metabolizması ve üre sentezi"
     },
     {
       "id": "2024-2025-tem-2-q028",
@@ -704,7 +758,9 @@
       "answerStatus": "official",
       "confidence": 0.99,
       "reviewStatus": "approved",
-      "explanation": "Karbamoil fosfat sentetaz I (CPS I) üre döngüsünün ilk enzimidir: NH4+ + HCO3- + 2ATP → karbamoil fosfat + 2ADP + Pi. I. Tepkime için N-asetil glutamat'a gereksinimi vardır: Doğrudur (NAG allosterik aktivatördür). II. Substrat olarak bikarbonat ve serbest amonyak kullanılır: Doğrudur. III. Reaksiyon sırasında 2 ATP'den 2 ADP oluşur: Doğrudur (2 ATP harcanır). C seçeneği (I, II ve III) doğrudur."
+      "explanation": "Karbamoil fosfat sentetaz I (CPS I) üre döngüsünün ilk enzimidir: NH4+ + HCO3- + 2ATP → karbamoil fosfat + 2ADP + Pi. I. Tepkime için N-asetil glutamat'a gereksinimi vardır: Doğrudur (NAG allosterik aktivatördür). II. Substrat olarak bikarbonat ve serbest amonyak kullanılır: Doğrudur. III. Reaksiyon sırasında 2 ATP'den 2 ADP oluşur: Doğrudur (2 ATP harcanır). C seçeneği (I, II ve III) doğrudur.",
+      "topicId": "bk-aminoasit",
+      "topic": "Aminoasit metabolizması ve üre sentezi"
     },
     {
       "id": "2024-2025-tem-2-q029",
@@ -726,7 +782,9 @@
       "answerStatus": "official",
       "confidence": 0.99,
       "reviewStatus": "approved",
-      "explanation": "Homosistein→metionin dönüşümü metionin sentaz (B12 vitamini kofaktörü) ve metiltetrahidrofolat (folik asit türevi) gerektirir. B12 eksikliği homosistein birikimine (hiperhomosisteinemi) yol açar. Biotin (B7), niasin (B3), tiamin (B1) bu reaksiyonda rol oynamaz. D seçeneği (folik asit) doğrudur."
+      "explanation": "Homosistein→metionin dönüşümü metionin sentaz (B12 vitamini kofaktörü) ve metiltetrahidrofolat (folik asit türevi) gerektirir. B12 eksikliği homosistein birikimine (hiperhomosisteinemi) yol açar. Biotin (B7), niasin (B3), tiamin (B1) bu reaksiyonda rol oynamaz. D seçeneği (folik asit) doğrudur.",
+      "topicId": "bk-aminoasit",
+      "topic": "Aminoasit metabolizması ve üre sentezi"
     },
     {
       "id": "2024-2025-tem-2-q030",
@@ -748,7 +806,9 @@
       "answerStatus": "official",
       "confidence": 0.99,
       "reviewStatus": "approved",
-      "explanation": "Triptofanın aşırı serotonin sentezine yönlendirilmesi niasin (B3) eksikliğine (pellagra) yol açar; triptofan niasin sentezinin öncüsüdür (kinürenin yolağı). B12 vitamini, biotin, folik asit ve tiamin bu süreçte rol oynamaz. C seçeneği (niasin) doğrudur."
+      "explanation": "Triptofanın aşırı serotonin sentezine yönlendirilmesi niasin (B3) eksikliğine (pellagra) yol açar; triptofan niasin sentezinin öncüsüdür (kinürenin yolağı). B12 vitamini, biotin, folik asit ve tiamin bu süreçte rol oynamaz. C seçeneği (niasin) doğrudur.",
+      "topicId": "bk-ozel-urun",
+      "topic": "Aminoasitlerin özel ürünlere dönüşmesi (hem dahil)"
     },
     {
       "id": "2024-2025-tem-2-q031",
@@ -770,7 +830,9 @@
       "answerStatus": "official",
       "confidence": 0.99,
       "reviewStatus": "approved",
-      "explanation": "Tirozin aminoasidinden sentezlenen moleküller: T3 (triyodotironin) ve T4 (tiroksin) tiroid hormonları (tirozin iyodinasyonu ile), epinefrin ve norepinefrin (katekolaminler, tirozin → DOPA → dopamin → norepinefrin → epinefrin), melanin (melanositlerde tirozin → DOPA → melanin), dopamin (nörotransmitter). Kreatinin (kreatin fosfatın non-enzimatik yıkım ürünü, kas enerji metabolizması) tirozinden sentezlenemez; kreatin glisin, arginin ve S-adenozilmetioninden sentezlenir. A, B, C, E seçenekleri tirozin kökenlidir."
+      "explanation": "Tirozin aminoasidinden sentezlenen moleküller: T3 (triyodotironin) ve T4 (tiroksin) tiroid hormonları (tirozin iyodinasyonu ile), epinefrin ve norepinefrin (katekolaminler, tirozin → DOPA → dopamin → norepinefrin → epinefrin), melanin (melanositlerde tirozin → DOPA → melanin), dopamin (nörotransmitter). Kreatinin (kreatin fosfatın non-enzimatik yıkım ürünü, kas enerji metabolizması) tirozinden sentezlenemez; kreatin glisin, arginin ve S-adenozilmetioninden sentezlenir. A, B, C, E seçenekleri tirozin kökenlidir.",
+      "topicId": "bk-ozel-urun",
+      "topic": "Aminoasitlerin özel ürünlere dönüşmesi (hem dahil)"
     },
     {
       "id": "2024-2025-tem-2-q032",
@@ -792,7 +854,9 @@
       "answerStatus": "official",
       "confidence": 0.99,
       "reviewStatus": "approved",
-      "explanation": "İnsülin anabolik hormondur (pankreas beta hücrelerinden salgılanır). Etkileri: kas ve yağ doku hücrelerine glukoz girişini artırır (GLUT4 translokasyonu, A seçeneği doğru), glikolizi uyarır (C doğru), glikojen sentezini uyarır (D doğru), protein sentezini artırır (E doğru), lipogenezi uyarır. Hormon-duyarlı lipazı (HSL) inhibe eder (trigliserit yıkılımını azaltır). B seçeneği (hormon-duyarlı lipazın uyarılması) insülinin etkileri arasında yer almaz; glukagon ve adrenalin HSL'yi uyarır."
+      "explanation": "İnsülin anabolik hormondur (pankreas beta hücrelerinden salgılanır). Etkileri: kas ve yağ doku hücrelerine glukoz girişini artırır (GLUT4 translokasyonu, A seçeneği doğru), glikolizi uyarır (C doğru), glikojen sentezini uyarır (D doğru), protein sentezini artırır (E doğru), lipogenezi uyarır. Hormon-duyarlı lipazı (HSL) inhibe eder (trigliserit yıkılımını azaltır). B seçeneği (hormon-duyarlı lipazın uyarılması) insülinin etkileri arasında yer almaz; glukagon ve adrenalin HSL'yi uyarır.",
+      "topicId": "bk-entegrasyon",
+      "topic": "Metabolizmanın entegrasyonu (tokluk/açlık)"
     },
     {
       "id": "2024-2025-tem-2-q033",
@@ -814,7 +878,9 @@
       "answerStatus": "official",
       "confidence": 0.99,
       "reviewStatus": "approved",
-      "explanation": "Aldolaz A fruktoz-1,6-bifosfatı gliseraldehid-3-fosfat (G3P) ve dihidroksiaseton fosfat'a (DHAP, trioz şekerler) kırar (aldol kırılması, C-C bağının kırılması). Enolaz (A) fosfoenolpirüvat (PEP) → pirüvat dönüşümünü katalize eder. Trioz fosfat izomeraz (B) DHAP ↔ G3P dönüşümünü yapar. Fosfogliserat kinaz (C) 1,3-BPG → 3-PG dönüşümünde ATP üretir. Gliseraldehid-3-fosfat dehidrogenaz (D) G3P → 1,3-BPG dönüşümünde NADH üretir. Doğru cevap E'dir (Aldolaz A)."
+      "explanation": "Aldolaz A fruktoz-1,6-bifosfatı gliseraldehid-3-fosfat (G3P) ve dihidroksiaseton fosfat'a (DHAP, trioz şekerler) kırar (aldol kırılması, C-C bağının kırılması). Enolaz (A) fosfoenolpirüvat (PEP) → pirüvat dönüşümünü katalize eder. Trioz fosfat izomeraz (B) DHAP ↔ G3P dönüşümünü yapar. Fosfogliserat kinaz (C) 1,3-BPG → 3-PG dönüşümünde ATP üretir. Gliseraldehid-3-fosfat dehidrogenaz (D) G3P → 1,3-BPG dönüşümünde NADH üretir. Doğru cevap E'dir (Aldolaz A).",
+      "topicId": "bk-glikoliz",
+      "topic": "Glikoliz ve denetimi"
     },
     {
       "id": "2024-2025-tem-2-q034",
@@ -836,7 +902,9 @@
       "answerStatus": "official",
       "confidence": 0.99,
       "reviewStatus": "approved",
-      "explanation": "Pirüvattan tek reaksiyonla fosfoenolpirüvat (PEP) oluşamaz; pirüvat → PEP dönüşümü iki basamaklıdır (pirüvat karboksilaz: pirüvat → oksaloasetat, PEP karboksikinaz: oksaloasetat → PEP, glukoneogenez). Laktat (LDH, pirüvat → laktat), alanin (ALT, pirüvat → alanin), oksaloasetat (pirüvat karboksilaz), asetil-CoA (PDH, pirüvat → asetil-CoA) tek reaksiyonla oluşabilir. A seçeneği (fosfoenolpirüvat) yanlıştır."
+      "explanation": "Pirüvattan tek reaksiyonla fosfoenolpirüvat (PEP) oluşamaz; pirüvat → PEP dönüşümü iki basamaklıdır (pirüvat karboksilaz: pirüvat → oksaloasetat, PEP karboksikinaz: oksaloasetat → PEP, glukoneogenez). Laktat (LDH, pirüvat → laktat), alanin (ALT, pirüvat → alanin), oksaloasetat (pirüvat karboksilaz), asetil-CoA (PDH, pirüvat → asetil-CoA) tek reaksiyonla oluşabilir. A seçeneği (fosfoenolpirüvat) yanlıştır.",
+      "topicId": "bk-glikoliz",
+      "topic": "Glikoliz ve denetimi"
     },
     {
       "id": "2024-2025-tem-2-q035",
@@ -858,7 +926,9 @@
       "answerStatus": "official",
       "confidence": 0.99,
       "reviewStatus": "approved",
-      "explanation": "Gliseraldehit-3-fosfat dehidrogenaz (G3P DH) reaksiyonunda NADH üretilir; elektronlar ETZ'ye girer ve oksidatif fosforilasyonla 1.5 veya 2.5 ATP üretebilir (shunt'a bağlı: malat-aspartat şantı 2.5, gliserol-3-fosfat şantı 1.5). Diğer dehidrogenazlar: pirüvat dehidrogenaz (NADH, mitokondri), izositrat dehidrogenaz (NADH, TCA), α-ketoglutarat dehidrogenaz (NADH, TCA), malat dehidrogenaz (NADH, TCA) doğrudan substrat düzeyinde fosforilasyon yapmaz. A seçeneği doğrudur."
+      "explanation": "Gliseraldehit-3-fosfat dehidrogenaz (G3P DH) reaksiyonunda NADH üretilir; elektronlar ETZ'ye girer ve oksidatif fosforilasyonla 1.5 veya 2.5 ATP üretebilir (shunt'a bağlı: malat-aspartat şantı 2.5, gliserol-3-fosfat şantı 1.5). Diğer dehidrogenazlar: pirüvat dehidrogenaz (NADH, mitokondri), izositrat dehidrogenaz (NADH, TCA), α-ketoglutarat dehidrogenaz (NADH, TCA), malat dehidrogenaz (NADH, TCA) doğrudan substrat düzeyinde fosforilasyon yapmaz. A seçeneği doğrudur.",
+      "topicId": "bk-etz",
+      "topic": "Hücresel solunum zinciri ve ATP sentezi"
     },
     {
       "id": "2024-2025-tem-2-q036",
@@ -880,7 +950,9 @@
       "answerStatus": "official",
       "confidence": 0.99,
       "reviewStatus": "approved",
-      "explanation": "Krebs siklusunda asetil-CoA pirüvata dönüştürülemez (tek yönlü reaksiyon, pirüvat dehidrogenaz tersi çalışmaz). Asetil-CoA oksidasyonu (sitrat sentaz), α-ketoglutarat oluşumu (izositrat dehidrogenaz), CO2 üretimi (izositrat DH, α-KG DH), NADH ve FADH2 üretimi (izositrat DH, α-KG DH, süksinat DH, malat DH) gerçekleşir. E seçeneği (asetil-CoA'nın pirüvata dönüşümü) yanlıştır."
+      "explanation": "Krebs siklusunda asetil-CoA pirüvata dönüştürülemez (tek yönlü reaksiyon, pirüvat dehidrogenaz tersi çalışmaz). Asetil-CoA oksidasyonu (sitrat sentaz), α-ketoglutarat oluşumu (izositrat dehidrogenaz), CO2 üretimi (izositrat DH, α-KG DH), NADH ve FADH2 üretimi (izositrat DH, α-KG DH, süksinat DH, malat DH) gerçekleşir. E seçeneği (asetil-CoA'nın pirüvata dönüşümü) yanlıştır.",
+      "topicId": "bk-krebs",
+      "topic": "Krebs döngüsü"
     },
     {
       "id": "2024-2025-tem-2-q037",
@@ -902,7 +974,9 @@
       "answerStatus": "official",
       "confidence": 0.99,
       "reviewStatus": "approved",
-      "explanation": "FADH2 (süksinat dehidrogenaz'dan) ETZ'ye kompleks II (süksinat dehidrogenaz) üzerinden girer; kompleks I (NADH dehidrogenaz) NADH için, kompleks III (sitokrom bc1) ve kompleks IV (sitokrom c oksidaz) daha sonra gelir. Koenzim Q (ubikinon) kompleks I/II sonrası elektron taşıyıcıdır. B seçeneği (kompleks II) doğrudur."
+      "explanation": "FADH2 (süksinat dehidrogenaz'dan) ETZ'ye kompleks II (süksinat dehidrogenaz) üzerinden girer; kompleks I (NADH dehidrogenaz) NADH için, kompleks III (sitokrom bc1) ve kompleks IV (sitokrom c oksidaz) daha sonra gelir. Koenzim Q (ubikinon) kompleks I/II sonrası elektron taşıyıcıdır. B seçeneği (kompleks II) doğrudur.",
+      "topicId": "bk-etz",
+      "topic": "Hücresel solunum zinciri ve ATP sentezi"
     },
     {
       "id": "2024-2025-tem-2-q038",
@@ -924,7 +998,9 @@
       "answerStatus": "official",
       "confidence": 0.99,
       "reviewStatus": "approved",
-      "explanation": "Pentoz fosfat yolunun başlıca amacı NADPH üretimi (biyosentez, detoksifikasyon, glutatyon redüksiyonu) ve riboz-5-fosfat üretimidir (nükleotid ve nükleik asit sentezi). Amino asitlerin karbon iskeletinin oksidasyonu, ATP sentezi, açlıkta kan glukozunu artırma ve asidik şekerlerin üretimi pentoz fosfat yolunun amacı değildir. C seçeneği doğrudur."
+      "explanation": "Pentoz fosfat yolunun başlıca amacı NADPH üretimi (biyosentez, detoksifikasyon, glutatyon redüksiyonu) ve riboz-5-fosfat üretimidir (nükleotid ve nükleik asit sentezi). Amino asitlerin karbon iskeletinin oksidasyonu, ATP sentezi, açlıkta kan glukozunu artırma ve asidik şekerlerin üretimi pentoz fosfat yolunun amacı değildir. C seçeneği doğrudur.",
+      "topicId": "bk-pentoz",
+      "topic": "Pentoz fosfat yolu"
     },
     {
       "id": "2024-2025-tem-2-q039",
@@ -946,7 +1022,9 @@
       "answerStatus": "official",
       "confidence": 0.99,
       "reviewStatus": "approved",
-      "explanation": "Pirüvat dehidrogenaz (PDH) glukoneogenezde yer almaz; glukoneogenezde pirüvat karboksilaz (pirüvat → oksaloasetat) kullanılır. Fosfoglikoizomeraz (glukoz-6-fosfat ↔ fruktoz-6-fosfat), gliseraldehid-3-fosfat (trioz fosfat), aldolaz (fruktoz-1,6-bifosfat ↔ trioz fosfatlar) ve glukoz-6-fosfataz (glukoz-6-fosfat → glukoz) glukoneogenez enzimleridir. D seçeneği (pirüvat dehidrogenaz) yanlıştır."
+      "explanation": "Pirüvat dehidrogenaz (PDH) glukoneogenezde yer almaz; glukoneogenezde pirüvat karboksilaz (pirüvat → oksaloasetat) kullanılır. Fosfoglikoizomeraz (glukoz-6-fosfat ↔ fruktoz-6-fosfat), gliseraldehid-3-fosfat (trioz fosfat), aldolaz (fruktoz-1,6-bifosfat ↔ trioz fosfatlar) ve glukoz-6-fosfataz (glukoz-6-fosfat → glukoz) glukoneogenez enzimleridir. D seçeneği (pirüvat dehidrogenaz) yanlıştır.",
+      "topicId": "bk-glukoneogenez",
+      "topic": "Glukoneogenez"
     },
     {
       "id": "2024-2025-tem-2-q040",
@@ -968,7 +1046,9 @@
       "answerStatus": "official",
       "confidence": 0.99,
       "reviewStatus": "approved",
-      "explanation": "Glikojen sentazın de-fosforile (defosforile) hali aktiftir; fosforile hali inaktiftir. İnsülin PP1 (protein fosfataz 1) aktive ederek defosforilasyon yapar. Glikojen sentezi protein yapılı bir primer (glikojenin) gerektirir (A doğru). Glikojenin yapısında α-1,4 ve α-1,6 glikozit bağları vardır (B doğru). Glikojen sentezi insülin ile uyarılır (C doğru). Glukoz monomerleri senteze UDP-glukoz olarak girer (E doğru). D seçeneği (glikojen sentazın fosforile hali aktiftir) yanlıştır."
+      "explanation": "Glikojen sentazın de-fosforile (defosforile) hali aktiftir; fosforile hali inaktiftir. İnsülin PP1 (protein fosfataz 1) aktive ederek defosforilasyon yapar. Glikojen sentezi protein yapılı bir primer (glikojenin) gerektirir (A doğru). Glikojenin yapısında α-1,4 ve α-1,6 glikozit bağları vardır (B doğru). Glikojen sentezi insülin ile uyarılır (C doğru). Glukoz monomerleri senteze UDP-glukoz olarak girer (E doğru). D seçeneği (glikojen sentazın fosforile hali aktiftir) yanlıştır.",
+      "topicId": "bk-glikojen",
+      "topic": "Glikojen sentez ve yıkımı"
     },
     {
       "id": "2024-2025-tem-2-q041",
@@ -990,7 +1070,9 @@
       "answerStatus": "official",
       "confidence": 0.99,
       "reviewStatus": "approved",
-      "explanation": "Glikojen fosforilaz glikojeni fosforoliz ile glikoz-1-fosfat'a çevirir (hidroliz değil). Fosforoliz: glikojen(n) + Pi → glikojen(n-1) + glukoz-1-fosfat. Glikoz, UDP-glikoz, glikoz-6-fosfat ve glikoz-1,6-bifosfat farklı metabolitlerdir. A seçeneği doğrudur."
+      "explanation": "Glikojen fosforilaz glikojeni fosforoliz ile glikoz-1-fosfat'a çevirir (hidroliz değil). Fosforoliz: glikojen(n) + Pi → glikojen(n-1) + glukoz-1-fosfat. Glikoz, UDP-glikoz, glikoz-6-fosfat ve glikoz-1,6-bifosfat farklı metabolitlerdir. A seçeneği doğrudur.",
+      "topicId": "bk-glikojen",
+      "topic": "Glikojen sentez ve yıkımı"
     },
     {
       "id": "2024-2025-tem-2-q042",
@@ -1012,7 +1094,9 @@
       "answerStatus": "official",
       "confidence": 0.99,
       "reviewStatus": "approved",
-      "explanation": "Fruktoz metabolizması karaciğerde fruktokinaz ile 1. karbondan fosforilasyon ile başlar (heksokinaz ile 6. karbondan değil). Fruktoz metabolizması fosfofruktokinaz (PFK) kontrol basamağını atlar (hızlı). Fazla fruktozlu diyet hiperürisemiye neden olur (AMP deaminaz aktivasyonu). Aldolaz-B eksikliği herediter fruktoz intoleransı yapar. Diyabette görülen katarakt, lenste sorbitol birikiminden kaynaklanır. A seçeneği (heksokinaz ile 6. karbondan fosforilasyon) yanlıştır."
+      "explanation": "Fruktoz metabolizması karaciğerde fruktokinaz ile 1. karbondan fosforilasyon ile başlar (heksokinaz ile 6. karbondan değil). Fruktoz metabolizması fosfofruktokinaz (PFK) kontrol basamağını atlar (hızlı). Fazla fruktozlu diyet hiperürisemiye neden olur (AMP deaminaz aktivasyonu). Aldolaz-B eksikliği herediter fruktoz intoleransı yapar. Diyabette görülen katarakt, lenste sorbitol birikiminden kaynaklanır. A seçeneği (heksokinaz ile 6. karbondan fosforilasyon) yanlıştır.",
+      "topicId": "bk-glikoz-disi",
+      "topic": "Glikoz dışı şekerlerin metabolizması"
     },
     {
       "id": "2024-2025-tem-2-q043",
@@ -1034,7 +1118,9 @@
       "answerStatus": "official",
       "confidence": 0.99,
       "reviewStatus": "approved",
-      "explanation": "Pentoz fosfat yolunu NADPH (ürün) inhibe eder (geri bildirim inhibisyonu). NAD+, FAD, asetil-CoA ve NADH inhibitör değildir. NADPH üretimi arttıkça glukoz-6-fosfat dehidrogenaz (G6PD, hız sınırlayıcı enzim) inhibe olur. G6PD eksikliğinde hemolitik anemi gelişir (favizm, primaquin duyarlılığı). NADPH ayrıca yağ asidi sentezi, kolesterol sentezi ve nükleotid sentezi için gereklidir. Pentoz fosfat yolu oksidatif (G6PD) ve non-oksidatif (transketolaz/transaldolaz) fazlardan oluşur."
+      "explanation": "Pentoz fosfat yolunu NADPH (ürün) inhibe eder (geri bildirim inhibisyonu). NAD+, FAD, asetil-CoA ve NADH inhibitör değildir. NADPH üretimi arttıkça glukoz-6-fosfat dehidrogenaz (G6PD, hız sınırlayıcı enzim) inhibe olur. G6PD eksikliğinde hemolitik anemi gelişir (favizm, primaquin duyarlılığı). NADPH ayrıca yağ asidi sentezi, kolesterol sentezi ve nükleotid sentezi için gereklidir. Pentoz fosfat yolu oksidatif (G6PD) ve non-oksidatif (transketolaz/transaldolaz) fazlardan oluşur.",
+      "topicId": "bk-pentoz",
+      "topic": "Pentoz fosfat yolu"
     },
     {
       "id": "2024-2025-tem-2-q044",
@@ -1056,7 +1142,9 @@
       "answerStatus": "official",
       "confidence": 0.99,
       "reviewStatus": "approved",
-      "explanation": "Hipoglisemide glukokinaz (karaciğer, düşük Km) inhibe olmalıdır (glukoz fosforilasyonu azalır); pirüvat karboksilaz, PEP karboksikinaz, fruktoz-1,6-bifosfataz ve glukoz-6-fosfataz aktif olmalıdır. B seçeneği (pirüvat kinaz) glikoliz enzimidir ve inhibe olmalıdır. Doğru cevap B'dir."
+      "explanation": "Hipoglisemide glukokinaz (karaciğer, düşük Km) inhibe olmalıdır (glukoz fosforilasyonu azalır); pirüvat karboksilaz, PEP karboksikinaz, fruktoz-1,6-bifosfataz ve glukoz-6-fosfataz aktif olmalıdır. B seçeneği (pirüvat kinaz) glikoliz enzimidir ve inhibe olmalıdır. Doğru cevap B'dir.",
+      "topicId": "bk-glukoneogenez",
+      "topic": "Glukoneogenez"
     },
     {
       "id": "2024-2025-tem-2-q045",
@@ -1078,7 +1166,9 @@
       "answerStatus": "official",
       "confidence": 0.99,
       "reviewStatus": "approved",
-      "explanation": "Prolin hidroksilaz (prolil hidroksilaz) kollajen sentezinde prolini hidroksiprolin'e çevirir; kofaktörü C vitamini (askorbik asit), Fe2+ ve α-ketoglutarat'tır. C vitamini eksikliği (skorbüt) kollajen sentez bozukluğuna yol açar. Glisin, valin, lisin, glutamin kollajenin esas yapısını oluşturmaz (prolin ve hidroksiprolin kollajenin üçlü heliks yapısının temel bileşenleridir). E seçeneği (prolin) doğrudur."
+      "explanation": "Prolin hidroksilaz (prolil hidroksilaz) kollajen sentezinde prolini hidroksiprolin'e çevirir; kofaktörü C vitamini (askorbik asit), Fe2+ ve α-ketoglutarat'tır. C vitamini eksikliği (skorbüt) kollajen sentez bozukluğuna yol açar. Glisin, valin, lisin, glutamin kollajenin esas yapısını oluşturmaz (prolin ve hidroksiprolin kollajenin üçlü heliks yapısının temel bileşenleridir). E seçeneği (prolin) doğrudur.",
+      "topicId": "bk-aminoasit",
+      "topic": "Aminoasit metabolizması ve üre sentezi"
     },
     {
       "id": "2024-2025-tem-2-q046",
@@ -1100,7 +1190,9 @@
       "answerStatus": "official",
       "confidence": 0.99,
       "reviewStatus": "approved",
-      "explanation": "Koenzim Q10 (ubikinon) lipidik yapıdadır; ETZ'de elektronları kompleks I/II'den kompleks III'e taşır (mobil elektron taşıyıcı). Piruvat, alfa lipoik asit, alfa-ketoglutarat ve asetil-CoA protein/enzim veya metabolit olup lipidik formatta değildir. D seçeneği (koenzim Q10) doğrudur."
+      "explanation": "Koenzim Q10 (ubikinon) lipidik yapıdadır; ETZ'de elektronları kompleks I/II'den kompleks III'e taşır (mobil elektron taşıyıcı). Piruvat, alfa lipoik asit, alfa-ketoglutarat ve asetil-CoA protein/enzim veya metabolit olup lipidik formatta değildir. D seçeneği (koenzim Q10) doğrudur.",
+      "topicId": "bk-etz",
+      "topic": "Hücresel solunum zinciri ve ATP sentezi"
     },
     {
       "id": "2024-2025-tem-2-q047",
@@ -1122,7 +1214,9 @@
       "answerStatus": "official",
       "confidence": 0.99,
       "reviewStatus": "approved",
-      "explanation": "Krom (Cr3+) insülinin glukozu hücre içine almasında rol oynar; glukoz tolerans faktörü (GTF) yapısında bulunur ve insülin etkisini potansiyalize eder. Demir (oksijen taşıma), iyot (tiroid), mangan (süperoksit dismutaz), molibden (ksantin oksidaz) bu işlevde rol oynamaz. C seçeneği (krom) doğrudur."
+      "explanation": "Krom (Cr3+) insülinin glukozu hücre içine almasında rol oynar; glukoz tolerans faktörü (GTF) yapısında bulunur ve insülin etkisini potansiyalize eder. Demir (oksijen taşıma), iyot (tiroid), mangan (süperoksit dismutaz), molibden (ksantin oksidaz) bu işlevde rol oynamaz. C seçeneği (krom) doğrudur.",
+      "topicId": "bk-eser",
+      "topic": "Eser elementler"
     },
     {
       "id": "2024-2025-tem-2-q048",
@@ -1144,7 +1238,9 @@
       "answerStatus": "official",
       "confidence": 0.99,
       "reviewStatus": "approved",
-      "explanation": "Tiroid hormonları (T3, T4) sentezi için iyot (I) (tirozin iyodinasyonu, tiroglobulin) ve selenyum (Se) (deiyodinaz enzimleri, T4→T3 dönüşümü) gereklidir. Molibden, çinko, kalsiyum, krom, bakır, mangan, magnezyum tiroid fonksiyonlarında bu kadar kritik değildir. B seçeneği (Se ve I) doğrudur."
+      "explanation": "Tiroid hormonları (T3, T4) sentezi için iyot (I) (tirozin iyodinasyonu, tiroglobulin) ve selenyum (Se) (deiyodinaz enzimleri, T4→T3 dönüşümü) gereklidir. Molibden, çinko, kalsiyum, krom, bakır, mangan, magnezyum tiroid fonksiyonlarında bu kadar kritik değildir. B seçeneği (Se ve I) doğrudur.",
+      "topicId": "bk-eser",
+      "topic": "Eser elementler"
     },
     {
       "id": "2024-2025-tem-2-q049",
@@ -1166,7 +1262,9 @@
       "answerStatus": "official",
       "confidence": 0.99,
       "reviewStatus": "approved",
-      "explanation": "Kardiyovasküler hastalıklar, diyabet mellitus ve stroke (inme) mortalitesi en yüksek hastalıklar grubunda olup beslenme ile ilişkisi kanıtlanmıştır (WHO verileri). Yalnızca I (A), yalnızca II (B), I ve II (C), II ve III (D) seçenekleri eksik; üçü de bu grupta yer alır. E seçeneği (I, II ve III) doğrudur."
+      "explanation": "Kardiyovasküler hastalıklar, diyabet mellitus ve stroke (inme) mortalitesi en yüksek hastalıklar grubunda olup beslenme ile ilişkisi kanıtlanmıştır (WHO verileri). Yalnızca I (A), yalnızca II (B), I ve II (C), II ve III (D) seçenekleri eksik; üçü de bu grupta yer alır. E seçeneği (I, II ve III) doğrudur.",
+      "topicId": "bk-beslenme",
+      "topic": "Beslenmeye biyokimyasal yaklaşım"
     },
     {
       "id": "2024-2025-tem-2-q050",
@@ -1188,7 +1286,9 @@
       "answerStatus": "official",
       "confidence": 0.99,
       "reviewStatus": "approved",
-      "explanation": "Akciğer surfaktanının esas lipid bileşeni dipalmitoil fosfatidilkolin (DPPC, fosfatidilkolin) olup alveol kollapsını (atelektazi) önler. Fosfatidilinozitol, fosfatidiletanolamin, glikosfingolipid, sfingomiyelin surfaktanın minor bileşenleridir. B seçeneği (fosfatidilkolin) doğrudur."
+      "explanation": "Akciğer surfaktanının esas lipid bileşeni dipalmitoil fosfatidilkolin (DPPC, fosfatidilkolin) olup alveol kollapsını (atelektazi) önler. Fosfatidilinozitol, fosfatidiletanolamin, glikosfingolipid, sfingomiyelin surfaktanın minor bileşenleridir. B seçeneği (fosfatidilkolin) doğrudur.",
+      "topicId": "bk-tg-fosfolipid",
+      "topic": "Trigliserid ve fosfolipid metabolizması"
     },
     {
       "id": "2024-2025-tem-2-q051",
@@ -1210,7 +1310,9 @@
       "answerStatus": "official",
       "confidence": 0.99,
       "reviewStatus": "approved",
-      "explanation": "Statinler (HMG-CoA redüktaz inhibitörleri) kolesterol sentezinin hız sınırlayıcı basamağını (HMG-CoA → mevalonat) bloke eder; mevalonat azalınca hepatik LDL reseptörü upregüle olur ve plazma LDL düşer. A (ince bağırsak emilimi), B (safra asidi dönüşümü, kolestiramin), C (mevalonat yıkımı), E (LDL reseptörü uyarılması) statinlerin birincil mekanizması değildir. D seçeneği (HMG-CoA redüktaz inhibisyonu) doğrudur."
+      "explanation": "Statinler (HMG-CoA redüktaz inhibitörleri) kolesterol sentezinin hız sınırlayıcı basamağını (HMG-CoA → mevalonat) bloke eder; mevalonat azalınca hepatik LDL reseptörü upregüle olur ve plazma LDL düşer. A (ince bağırsak emilimi), B (safra asidi dönüşümü, kolestiramin), C (mevalonat yıkımı), E (LDL reseptörü uyarılması) statinlerin birincil mekanizması değildir. D seçeneği (HMG-CoA redüktaz inhibisyonu) doğrudur.",
+      "topicId": "bk-kol-sentez",
+      "topic": "Kolesterol yapısı ve biyosentezi"
     },
     {
       "id": "2024-2025-tem-2-q052",
@@ -1232,7 +1334,9 @@
       "answerStatus": "official",
       "confidence": 0.99,
       "reviewStatus": "approved",
-      "explanation": "Kolesterolün hücre içi düzenlenmesinde ACAT ile esterifikasyon (kolesterol esteri depolama), LDL reseptörü ile hücreye alım (reseptör aracılı endositoz), HMG-CoA redüktaz transkripsiyonunun düzenlenmesi (SREBP) ve kolesterolün Apo A-I aracılı HDL'ye aktarımı (ABCA1) rol oynar. Apo C-II ifadesi (C seçeneği) kolesterol düzenlenmesinde etkili değildir (Apo C-II lipoprotein lipaz aktivatörüdür)."
+      "explanation": "Kolesterolün hücre içi düzenlenmesinde ACAT ile esterifikasyon (kolesterol esteri depolama), LDL reseptörü ile hücreye alım (reseptör aracılı endositoz), HMG-CoA redüktaz transkripsiyonunun düzenlenmesi (SREBP) ve kolesterolün Apo A-I aracılı HDL'ye aktarımı (ABCA1) rol oynar. Apo C-II ifadesi (C seçeneği) kolesterol düzenlenmesinde etkili değildir (Apo C-II lipoprotein lipaz aktivatörüdür).",
+      "topicId": "bk-kol-sentez",
+      "topic": "Kolesterol yapısı ve biyosentezi"
     },
     {
       "id": "2024-2025-tem-2-q053",
@@ -1254,7 +1358,9 @@
       "answerStatus": "official",
       "confidence": 0.99,
       "reviewStatus": "approved",
-      "explanation": "HMG-CoA redüktaz aktivitesini SREBP (transkripsiyon faktörü), insülin (aktive eder), glukagon (inhibe eder), kinazlar (fosforilasyon ile inhibe) ve kolesterol (ürün inhibisyonu) düzenler. Diyetle alınan lipid (C seçeneği) en az etkili faktördür. A, B, D, E etkili faktörlerdir."
+      "explanation": "HMG-CoA redüktaz aktivitesini SREBP (transkripsiyon faktörü), insülin (aktive eder), glukagon (inhibe eder), kinazlar (fosforilasyon ile inhibe) ve kolesterol (ürün inhibisyonu) düzenler. Diyetle alınan lipid (C seçeneği) en az etkili faktördür. A, B, D, E etkili faktörlerdir.",
+      "topicId": "bk-kol-sentez",
+      "topic": "Kolesterol yapısı ve biyosentezi"
     },
     {
       "id": "2024-2025-tem-2-q054",
@@ -1276,7 +1382,9 @@
       "answerStatus": "official",
       "confidence": 0.99,
       "reviewStatus": "approved",
-      "explanation": "Kolesterol steroid hormonların (progesteron, kortizol, aldosteron), safra tuzlarının ve vitamin D'nin öncüsüdür. Vitamin C (askorbik asit) kolesterol kökenli değildir; glukozdan sentezlenir. A, C, D, E kolesterolden köken alır."
+      "explanation": "Kolesterol steroid hormonların (progesteron, kortizol, aldosteron), safra tuzlarının ve vitamin D'nin öncüsüdür. Vitamin C (askorbik asit) kolesterol kökenli değildir; glukozdan sentezlenir. A, C, D, E kolesterolden köken alır.",
+      "topicId": "bk-kol-sentez",
+      "topic": "Kolesterol yapısı ve biyosentezi"
     },
     {
       "id": "2024-2025-tem-2-q055",
@@ -1298,7 +1406,9 @@
       "answerStatus": "official",
       "confidence": 0.99,
       "reviewStatus": "approved",
-      "explanation": "Na+/K+-ATPaz pompası aktif transport yapar: 3 Na+ dışarı, 2 K+ içeri, ATP harcar (elektrojenik pompa). Basit difüzyon, kolaylaştırılmış difüzyon, osmotik transport ve iyonik transport pasif mekanizmalardır. D seçeneği (aktif transport) doğrudur."
+      "explanation": "Na+/K+-ATPaz pompası aktif transport yapar: 3 Na+ dışarı, 2 K+ içeri, ATP harcar (elektrojenik pompa). Basit difüzyon, kolaylaştırılmış difüzyon, osmotik transport ve iyonik transport pasif mekanizmalardır. D seçeneği (aktif transport) doğrudur.",
+      "topicId": "bk-zar",
+      "topic": "Biyolojik zarlar ve taşınma sistemleri"
     },
     {
       "id": "2024-2025-tem-2-q056",
@@ -1320,7 +1430,9 @@
       "answerStatus": "official",
       "confidence": 0.99,
       "reviewStatus": "approved",
-      "explanation": "SGLT1 (sodyum-glukoz kotransporteri 1) sekonder aktif transport ile glukozu Na+ gradiyenti kullanarak hücreye taşır (ince bağırsak, böbrek proksimal tübül). Kalsiyum-ATPaz (primer aktif), GLUT2 (kolaylaştırılmış difüzyon), Na/K-ATPaz (primer aktif), Na/Ca değiş-tokuş (sekonder aktif) diğer mekanizmalardır. A seçeneği (SGLT1) doğrudur."
+      "explanation": "SGLT1 (sodyum-glukoz kotransporteri 1) sekonder aktif transport ile glukozu Na+ gradiyenti kullanarak hücreye taşır (ince bağırsak, böbrek proksimal tübül). Kalsiyum-ATPaz (primer aktif), GLUT2 (kolaylaştırılmış difüzyon), Na/K-ATPaz (primer aktif), Na/Ca değiş-tokuş (sekonder aktif) diğer mekanizmalardır. A seçeneği (SGLT1) doğrudur.",
+      "topicId": "bk-zar",
+      "topic": "Biyolojik zarlar ve taşınma sistemleri"
     },
     {
       "id": "2024-2025-tem-2-q057",
@@ -1342,7 +1454,9 @@
       "answerStatus": "official",
       "confidence": 0.99,
       "reviewStatus": "approved",
-      "explanation": "Sfingolipitler serin ve palmitoil-CoA'dan sentezlenir (lesitinden değil). Plazmalojenler ve PAF (platelet aktive edici faktör) dihidroksiaseton fosfattan yapılan eter lipidlerdir. Trigliseritler ve fosfogliseroller gliserol-3-P'den sentezlenir. Sfingomiyelin ve glikosfingolipitler yapısal eleman, gangliozidler reseptör/antijendir. B seçeneği (sfingolipitler lesitinden sentezlenir) yanlıştır."
+      "explanation": "Sfingolipitler serin ve palmitoil-CoA'dan sentezlenir (lesitinden değil). Plazmalojenler ve PAF (platelet aktive edici faktör) dihidroksiaseton fosfattan yapılan eter lipidlerdir. Trigliseritler ve fosfogliseroller gliserol-3-P'den sentezlenir. Sfingomiyelin ve glikosfingolipitler yapısal eleman, gangliozidler reseptör/antijendir. B seçeneği (sfingolipitler lesitinden sentezlenir) yanlıştır.",
+      "topicId": "bk-lipoprotein",
+      "topic": "Lipoprotein metabolizması"
     },
     {
       "id": "2024-2025-tem-2-q058",
@@ -1364,7 +1478,9 @@
       "answerStatus": "official",
       "confidence": 0.99,
       "reviewStatus": "approved",
-      "explanation": "Proteinlerin lipid membrana bağlanması (prenilasyon) Ras/Rho proteinlerinin membrana bağlanması için gereklidir; prenil grupları (farnesil, geranilgeranil) kovalent bağ ile eklenir. Denatürasyon (yapı bozulması), metilasyon (metil grubu ekleme), renatürasyon (yapı yeniden kazanma), açılasyon (açil grubu ekleme) farklı modifikasyonlardır. C seçeneği (prenilasyon) doğrudur."
+      "explanation": "Proteinlerin lipid membrana bağlanması (prenilasyon) Ras/Rho proteinlerinin membrana bağlanması için gereklidir; prenil grupları (farnesil, geranilgeranil) kovalent bağ ile eklenir. Denatürasyon (yapı bozulması), metilasyon (metil grubu ekleme), renatürasyon (yapı yeniden kazanma), açılasyon (açil grubu ekleme) farklı modifikasyonlardır. C seçeneği (prenilasyon) doğrudur.",
+      "topicId": "bk-zar",
+      "topic": "Biyolojik zarlar ve taşınma sistemleri"
     },
     {
       "id": "2024-2025-tem-2-q059",
@@ -1386,7 +1502,9 @@
       "answerStatus": "official",
       "confidence": 0.99,
       "reviewStatus": "approved",
-      "explanation": "Glukozun potansiyel enerjisi 686 kcal/mol; hücresel solunumda 277 kcal/mol ATP olarak elde edilir; verim %40 (277/686 ≈ 0.404). Fazla enerji ısıya dönüşür. %27 (A, D) ve 'tüm enerji içe dönüşür' (C) yanlıştır. E seçeneği (fazla enerji depolanır) yanlıştır; fazla enerji ısıya dönüşür. Doğru cevap B'dir (%40, fazla enerji ısıya dönüşür)."
+      "explanation": "Glukozun potansiyel enerjisi 686 kcal/mol; hücresel solunumda 277 kcal/mol ATP olarak elde edilir; verim %40 (277/686 ≈ 0.404). Fazla enerji ısıya dönüşür. %27 (A, D) ve 'tüm enerji içe dönüşür' (C) yanlıştır. E seçeneği (fazla enerji depolanır) yanlıştır; fazla enerji ısıya dönüşür. Doğru cevap B'dir (%40, fazla enerji ısıya dönüşür).",
+      "topicId": "bf-enerji",
+      "topic": "Biyomoleküler sistemlerde enerji aktarımı (termodinamik)"
     },
     {
       "id": "2024-2025-tem-2-q060",
@@ -1408,7 +1526,9 @@
       "answerStatus": "official",
       "confidence": 0.99,
       "reviewStatus": "approved",
-      "explanation": "Fosfolipit çift tabakasının oluşumunda temel sürücü kuvvet hidrofobik etkileşimlerdir (lipid kuyrukları suyu dışlar, entropi artışı). Hidrojen bağı, kovalent bağ, ATP hidrolizi ve mekanik kuvvetler temel sürücü değildir. B seçeneği (hidrofobik etkileşimler) doğrudur."
+      "explanation": "Fosfolipit çift tabakasının oluşumunda temel sürücü kuvvet hidrofobik etkileşimlerdir (lipid kuyrukları suyu dışlar, entropi artışı). Hidrojen bağı, kovalent bağ, ATP hidrolizi ve mekanik kuvvetler temel sürücü değildir. B seçeneği (hidrofobik etkileşimler) doğrudur.",
+      "topicId": "bf-zar-yapi",
+      "topic": "Hücre zarının yapısı ve zar modelleri"
     },
     {
       "id": "2024-2025-tem-2-q061",
@@ -1430,7 +1550,9 @@
       "answerStatus": "official",
       "confidence": 0.99,
       "reviewStatus": "approved",
-      "explanation": "Eşit konsantrasyonlarda (g/L) glukoz (180 g/mol) ve sükröz (342 g/mol) çözeltilerinde molarite farklıdır: glukoz 1/180, sükröz 1/342; glukoz tarafında daha fazla molekül, daha düşük osmotik basınç → su glukoz tarafına hareket eder (hipotonik taraf). A, B, D, E yanlıştır."
+      "explanation": "Eşit konsantrasyonlarda (g/L) glukoz (180 g/mol) ve sükröz (342 g/mol) çözeltilerinde molarite farklıdır: glukoz 1/180, sükröz 1/342; glukoz tarafında daha fazla molekül, daha düşük osmotik basınç → su glukoz tarafına hareket eder (hipotonik taraf). A, B, D, E yanlıştır.",
+      "topicId": "bf-difuzyon",
+      "topic": "Difüzyon ve osmotik denge (Fick yasası)"
     },
     {
       "id": "2024-2025-tem-2-q062",
@@ -1452,7 +1574,9 @@
       "answerStatus": "official",
       "confidence": 0.99,
       "reviewStatus": "approved",
-      "explanation": "Fick difüzyon yasasına göre net difüzyon hızı J = -D·A·(dC/dx); zar kalınlığının artması difüzyon hızını azaltır. Zar geçirgenliği, konsantrasyon gradiyenti ve yüzey alanı artması hızı artırır; molekül ağırlığının azalması hızı artırır."
+      "explanation": "Fick difüzyon yasasına göre net difüzyon hızı J = -D·A·(dC/dx); zar kalınlığının artması difüzyon hızını azaltır. Zar geçirgenliği, konsantrasyon gradiyenti ve yüzey alanı artması hızı artırır; molekül ağırlığının azalması hızı artırır.",
+      "topicId": "bf-difuzyon",
+      "topic": "Difüzyon ve osmotik denge (Fick yasası)"
     },
     {
       "id": "2024-2025-tem-2-q063",
@@ -1474,7 +1598,9 @@
       "answerStatus": "official",
       "confidence": 0.99,
       "reviewStatus": "approved",
-      "explanation": "İyon kanallarından iyon geçişi pasif (elektrokimyasal gradiyent) olur, ATP hidrolizi gerektirmez. Pasif taşıma metabolik enerji harcamaz. İyon kanalı seçiciliğinde yük ve şekil önemlidir. Kolaylaştırılmış difüzyon doygunluk gösterir. Na+ ile ortaklaşa/karşıt taşıma için enerji kaynağı ATP'dir (sekonder aktif transport). C seçeneği yanlıştır."
+      "explanation": "İyon kanallarından iyon geçişi pasif (elektrokimyasal gradiyent) olur, ATP hidrolizi gerektirmez. Pasif taşıma metabolik enerji harcamaz. İyon kanalı seçiciliğinde yük ve şekil önemlidir. Kolaylaştırılmış difüzyon doygunluk gösterir. Na+ ile ortaklaşa/karşıt taşıma için enerji kaynağı ATP'dir (sekonder aktif transport). C seçeneği yanlıştır.",
+      "topicId": "bf-tasinim",
+      "topic": "Madde taşınımı: konsantrasyon ve elektrokimyasal gradyent"
     },
     {
       "id": "2024-2025-tem-2-q064",
@@ -1496,7 +1622,9 @@
       "answerStatus": "official",
       "confidence": 0.99,
       "reviewStatus": "approved",
-      "explanation": "Zar direnci iyonların geçiş kolaylığının tersidir; açık kanal sayısı arttıkça direnç azalır (ters orantılı). Zar kapasitansı yüzey alanı ile doğru, kalınlık ile ters orantılıdır. Zaman sabiti τ=RC iletim hızı hesaplamasında kullanılır. B seçeneği (açık kanal sayısı ile direnç doğru orantılı) yanlıştır."
+      "explanation": "Zar direnci iyonların geçiş kolaylığının tersidir; açık kanal sayısı arttıkça direnç azalır (ters orantılı). Zar kapasitansı yüzey alanı ile doğru, kalınlık ile ters orantılıdır. Zaman sabiti τ=RC iletim hızı hesaplamasında kullanılır. B seçeneği (açık kanal sayısı ile direnç doğru orantılı) yanlıştır.",
+      "topicId": "bf-zar-elektrik",
+      "topic": "Zarın elektriksel modeli ve dinlenim potansiyeli"
     },
     {
       "id": "2024-2025-tem-2-q065",
@@ -1518,7 +1646,9 @@
       "answerStatus": "official",
       "confidence": 0.99,
       "reviewStatus": "approved",
-      "explanation": "Nernst denklemi: E = (61/z)·log([dış]/[iç]) mV (25°C). Ca2+ için z=2: E = (61/2)·log(1/0.0001) = 30.5·log(10000) = 30.5·4 = 122 mV. Nernst denklemi bir iyonun denge potansiyelini hesaplar. +61 mV (B) z=1 için, 0 mV (C) denge durumu, +244 mV (D) z=0.5 için, -80 mV (E) ters işaret için yanlıştır."
+      "explanation": "Nernst denklemi: E = (61/z)·log([dış]/[iç]) mV (25°C). Ca2+ için z=2: E = (61/2)·log(1/0.0001) = 30.5·log(10000) = 30.5·4 = 122 mV. Nernst denklemi bir iyonun denge potansiyelini hesaplar. +61 mV (B) z=1 için, 0 mV (C) denge durumu, +244 mV (D) z=0.5 için, -80 mV (E) ters işaret için yanlıştır.",
+      "topicId": "bf-zar-elektrik",
+      "topic": "Zarın elektriksel modeli ve dinlenim potansiyeli"
     },
     {
       "id": "2024-2025-tem-2-q066",
@@ -1540,7 +1670,9 @@
       "answerStatus": "official",
       "confidence": 0.99,
       "reviewStatus": "approved",
-      "explanation": "Metabolik enerji gerektirmeyen (pasif) taşıma: pasif difüzyon, kolaylaştırılmış difüzyon, osmoz. Birincil aktif taşıma ATP harcar. Sadece elektriksel kuvvet etki etmez (elektrokimyasal kuvvet). ATP kullanılmaz. Elektrokimyasal kuvvetler sıfırdan farklıdır (denge potansiyeli sıfır değildir). E seçeneği doğrudur."
+      "explanation": "Metabolik enerji gerektirmeyen (pasif) taşıma: pasif difüzyon, kolaylaştırılmış difüzyon, osmoz. Birincil aktif taşıma ATP harcar. Sadece elektriksel kuvvet etki etmez (elektrokimyasal kuvvet). ATP kullanılmaz. Elektrokimyasal kuvvetler sıfırdan farklıdır (denge potansiyeli sıfır değildir). E seçeneği doğrudur.",
+      "topicId": "bf-tasinim",
+      "topic": "Madde taşınımı: konsantrasyon ve elektrokimyasal gradyent"
     },
     {
       "id": "2024-2025-tem-2-q067",
@@ -1562,7 +1694,9 @@
       "answerStatus": "official",
       "confidence": 0.99,
       "reviewStatus": "approved",
-      "explanation": "Donnan dengesi: zar geçirgen olmayan anyonlar (A-) iki taraf arasında iyon dağılımını etkiler. Elektronötralite: [Na+]₁ = [Cl-]₁ + [A-]₁ → [Cl-]₁ = 0.326-0.266 = 0.06. Donnan: [Na+]₁[Cl-]₁ = [Na+]₂[Cl-]₂ → 0.326×0.06 = [Na+]₂×0.14 → [Na+]₂ = 0.01956/0.14 = 0.1397 ≈ 0.14. Doğru cevap B'dir."
+      "explanation": "Donnan dengesi: zar geçirgen olmayan anyonlar (A-) iki taraf arasında iyon dağılımını etkiler. Elektronötralite: [Na+]₁ = [Cl-]₁ + [A-]₁ → [Cl-]₁ = 0.326-0.266 = 0.06. Donnan: [Na+]₁[Cl-]₁ = [Na+]₂[Cl-]₂ → 0.326×0.06 = [Na+]₂×0.14 → [Na+]₂ = 0.01956/0.14 = 0.1397 ≈ 0.14. Doğru cevap B'dir.",
+      "topicId": "bf-zar-elektrik",
+      "topic": "Zarın elektriksel modeli ve dinlenim potansiyeli"
     },
     {
       "id": "2024-2025-tem-2-q068",
@@ -1584,7 +1718,9 @@
       "answerStatus": "official",
       "confidence": 0.99,
       "reviewStatus": "approved",
-      "explanation": "Dinlenim zar potansiyelinde K+ etkisi daha fazladır çünkü zar K+ iyonlarına daha geçirgendir (daha fazla açık K+ kanalı). Na+ kanalları kapalıdır. K+ iyonlarının pozitif yük içermesi ve Na+ konsantrasyonu ile ilgili değildir."
+      "explanation": "Dinlenim zar potansiyelinde K+ etkisi daha fazladır çünkü zar K+ iyonlarına daha geçirgendir (daha fazla açık K+ kanalı). Na+ kanalları kapalıdır. K+ iyonlarının pozitif yük içermesi ve Na+ konsantrasyonu ile ilgili değildir.",
+      "topicId": "bf-zar-elektrik",
+      "topic": "Zarın elektriksel modeli ve dinlenim potansiyeli"
     },
     {
       "id": "2024-2025-tem-2-q069",
@@ -1606,7 +1742,9 @@
       "answerStatus": "official",
       "confidence": 0.99,
       "reviewStatus": "approved",
-      "explanation": "Katalizörler (enzimler) tepkimeyi başlatmaz, tepkimenin hızını artırır, aktivasyon enerjisini düşürür, tepkime sonunda yapısal değişikliğe uğramaz ve yeniden kullanılır. Tepkimeyi başlatmaz, yönünü değiştirmez, kademeli tepkimelerde en hızlı adımda etkili değildir. Yalnızca II (hızı değiştirir) doğrudur. E seçeneği doğrudur."
+      "explanation": "Katalizörler (enzimler) tepkimeyi başlatmaz, tepkimenin hızını artırır, aktivasyon enerjisini düşürür, tepkime sonunda yapısal değişikliğe uğramaz ve yeniden kullanılır. Tepkimeyi başlatmaz, yönünü değiştirmez, kademeli tepkimelerde en hızlı adımda etkili değildir. Yalnızca II (hızı değiştirir) doğrudur. E seçeneği doğrudur.",
+      "topicId": "bf-sicaklik",
+      "topic": "Sıcaklık, ısı aktarımı ve aktivasyon enerjisi"
     },
     {
       "id": "2024-2025-tem-2-q070",
@@ -1628,7 +1766,9 @@
       "answerStatus": "official",
       "confidence": 0.99,
       "reviewStatus": "approved",
-      "explanation": "Radyasyon tüm cisimler tarafından yayılır (mutlak sıfırın üzerindeki her cisim). Konveksiyon enerjinin sıvı/gaz içinde transferidir. Kondüksiyon moleküller arası enerji transferidir. Evaporasyon sıvı→gaz geçişinde ısı alır. D seçeneği doğrudur."
+      "explanation": "Radyasyon tüm cisimler tarafından yayılır (mutlak sıfırın üzerindeki her cisim). Konveksiyon enerjinin sıvı/gaz içinde transferidir. Kondüksiyon moleküller arası enerji transferidir. Evaporasyon sıvı→gaz geçişinde ısı alır. D seçeneği doğrudur.",
+      "topicId": "bf-sicaklik",
+      "topic": "Sıcaklık, ısı aktarımı ve aktivasyon enerjisi"
     },
     {
       "id": "2024-2025-tem-2-q071",
@@ -1650,7 +1790,9 @@
       "answerStatus": "official",
       "confidence": 0.99,
       "reviewStatus": "approved",
-      "explanation": "Sıcaklığı yükselten mekanizmalar: titreme (iskelet kası kasılması), vazokonstriksiyon (ısı kaybını azaltır), piloereksiyon (ısı kaybını azaltır). Vazodilatasyon, solunumda artış ve terleme ısı kaybetme (soğutma) mekanizmalarıdır. D seçeneği (II ve IV) doğrudur."
+      "explanation": "Sıcaklığı yükselten mekanizmalar: titreme (iskelet kası kasılması), vazokonstriksiyon (ısı kaybını azaltır), piloereksiyon (ısı kaybını azaltır). Vazodilatasyon, solunumda artış ve terleme ısı kaybetme (soğutma) mekanizmalarıdır. D seçeneği (II ve IV) doğrudur.",
+      "topicId": "bf-sicaklik",
+      "topic": "Sıcaklık, ısı aktarımı ve aktivasyon enerjisi"
     },
     {
       "id": "2024-2025-tem-2-q072",
@@ -1672,7 +1814,9 @@
       "answerStatus": "official",
       "confidence": 0.99,
       "reviewStatus": "approved",
-      "explanation": "Isı akışı Q = k·A·ΔT/d = 18 × 1.5 × 3 / 3 = 27 cal/saat (d=3 cm, A=1.5 m²=15000 cm², k=18 cal·cm/m²·saat·°C). 81 cal/saat (A) yanlış hesaplama, 13.5 (C) yarı değer, 54 (D) iki kat, 18 (E) eksik hesaplama sonucudur."
+      "explanation": "Isı akışı Q = k·A·ΔT/d = 18 × 1.5 × 3 / 3 = 27 cal/saat (d=3 cm, A=1.5 m²=15000 cm², k=18 cal·cm/m²·saat·°C). 81 cal/saat (A) yanlış hesaplama, 13.5 (C) yarı değer, 54 (D) iki kat, 18 (E) eksik hesaplama sonucudur.",
+      "topicId": "bf-sicaklik",
+      "topic": "Sıcaklık, ısı aktarımı ve aktivasyon enerjisi"
     },
     {
       "id": "2024-2025-tem-2-q073",
@@ -1694,7 +1838,9 @@
       "answerStatus": "official",
       "confidence": 0.99,
       "reviewStatus": "approved",
-      "explanation": "DNA viruslarının çoğu çift sarmallıdır (herpes, adenovirus, poxvirus, HBV). RNA viruslarının çoğu tek sarmallıdır (influenza, HIV, HCV). Çift sarmallı RNA virusları (rotavirus, reovirus) istisnadır. D seçeneği (RNA viruslarının çoğu çift sarmallıdır) yanlıştır."
+      "explanation": "DNA viruslarının çoğu çift sarmallıdır (herpes, adenovirus, poxvirus, HBV). RNA viruslarının çoğu tek sarmallıdır (influenza, HIV, HCV). Çift sarmallı RNA virusları (rotavirus, reovirus) istisnadır. D seçeneği (RNA viruslarının çoğu çift sarmallıdır) yanlıştır.",
+      "topicId": "mb-virus-yapi",
+      "topic": "Virüslerin yapısı ve genel özellikleri"
     },
     {
       "id": "2024-2025-tem-2-q074",
@@ -1716,7 +1862,9 @@
       "answerStatus": "official",
       "confidence": 0.99,
       "reviewStatus": "approved",
-      "explanation": "DNA virusları RNA polimeraz taşımaz; konak hücrenin RNA polimeraz II'sini kullanır. RNA viruslarının çoğu sitoplazmada çoğalır (influenza çekirdekte). DNA virusları çoğunlukla nükleusta çoğalır. Zarfsız viruslar lizis ile, zarflı viruslar tomurcuklanma ile salınır. C seçeneği (DNA virusları RNA polimeraz taşır) yanlıştır."
+      "explanation": "DNA virusları RNA polimeraz taşımaz; konak hücrenin RNA polimeraz II'sini kullanır. RNA viruslarının çoğu sitoplazmada çoğalır (influenza çekirdekte). DNA virusları çoğunlukla nükleusta çoğalır. Zarfsız viruslar lizis ile, zarflı viruslar tomurcuklanma ile salınır. C seçeneği (DNA virusları RNA polimeraz taşır) yanlıştır.",
+      "topicId": "mb-virus-rep",
+      "topic": "Virüslerin replikasyonu"
     },
     {
       "id": "2024-2025-tem-2-q075",
@@ -1738,7 +1886,9 @@
       "answerStatus": "official",
       "confidence": 0.99,
       "reviewStatus": "approved",
-      "explanation": "Hepatit B virus (HBV) zarflı, kısmen çift sarmallı (relaxed circular) DNA virusudur. Herpesvirus çift sarmallı DNA, parvovirus tek sarmallı DNA, poxvirus çift sarmallı DNA, adenovirus çift sarmallı DNA'dır. E seçeneği doğrudur."
+      "explanation": "Hepatit B virus (HBV) zarflı, kısmen çift sarmallı (relaxed circular) DNA virusudur. Herpesvirus çift sarmallı DNA, parvovirus tek sarmallı DNA, poxvirus çift sarmallı DNA, adenovirus çift sarmallı DNA'dır. E seçeneği doğrudur.",
+      "topicId": "mb-virus-yapi",
+      "topic": "Virüslerin yapısı ve genel özellikleri"
     },
     {
       "id": "2024-2025-tem-2-q076",
@@ -1760,7 +1910,9 @@
       "answerStatus": "official",
       "confidence": 0.99,
       "reviewStatus": "approved",
-      "explanation": "Hemaglütinasyon inhibisyon testi (HAI) influenza ve diğer hemaglütinasyon yapan virusların tanısında eritrositler kullanır. Lateks aglütinasyon, IFA, ELISA ve immünokromotografik kart testleri eritrosit kullanmaz. E seçeneği doğrudur."
+      "explanation": "Hemaglütinasyon inhibisyon testi (HAI) influenza ve diğer hemaglütinasyon yapan virusların tanısında eritrositler kullanır. Lateks aglütinasyon, IFA, ELISA ve immünokromotografik kart testleri eritrosit kullanmaz. E seçeneği doğrudur.",
+      "topicId": "mb-virus-tani",
+      "topic": "Virüslerin tanı yöntemleri"
     },
     {
       "id": "2024-2025-tem-2-q077",
@@ -1782,7 +1934,9 @@
       "answerStatus": "official",
       "confidence": 0.99,
       "reviewStatus": "approved",
-      "explanation": "Tekrarlayan (reaktivasyon) enfeksiyon: IgG yüksek avidite (+) ve IgM (+) birlikteliği. Primer enfeksiyonda IgG düşük avidite (+), IgM (+). Past enfeksiyonda IgG (+), IgM (-). Avidite testi primer ve sekonder enfeksiyonu ayırt eder. C seçeneği doğrudur."
+      "explanation": "Tekrarlayan (reaktivasyon) enfeksiyon: IgG yüksek avidite (+) ve IgM (+) birlikteliği. Primer enfeksiyonda IgG düşük avidite (+), IgM (+). Past enfeksiyonda IgG (+), IgM (-). Avidite testi primer ve sekonder enfeksiyonu ayırt eder. C seçeneği doğrudur.",
+      "topicId": "mb-virus-yapi",
+      "topic": "Virüslerin yapısı ve genel özellikleri"
     },
     {
       "id": "2024-2025-tem-2-q078",
@@ -1804,7 +1958,9 @@
       "answerStatus": "official",
       "confidence": 0.99,
       "reviewStatus": "approved",
-      "explanation": "Tzanck testi herpes simplex ve varisella-zoster viruslarının veziküler lezyonlarından kazıntı ile yapılır; sitopatik etki olarak çok çekirdekli (multinükleer) dev hücreler (syncytia) görülür. Piknozis, agregasyon, minimal sitopatik etki ve sitomegali diğer sitopatik etkilerdir. C seçeneği doğrudur."
+      "explanation": "Tzanck testi herpes simplex ve varisella-zoster viruslarının veziküler lezyonlarından kazıntı ile yapılır; sitopatik etki olarak çok çekirdekli (multinükleer) dev hücreler (syncytia) görülür. Piknozis, agregasyon, minimal sitopatik etki ve sitomegali diğer sitopatik etkilerdir. C seçeneği doğrudur.",
+      "topicId": "mb-virus-tani",
+      "topic": "Virüslerin tanı yöntemleri"
     },
     {
       "id": "2024-2025-tem-2-q079",
@@ -1826,7 +1982,9 @@
       "answerStatus": "official",
       "confidence": 0.99,
       "reviewStatus": "approved",
-      "explanation": "Mezofil bakteriler 20-45°C'de en iyi ürer (insan patojenleri mezofildir). Psikrofil (0-20°C), termofil (45-80°C), halofil (tuz seven), hemofil (kan seven) diğer gruplardır. C seçeneği (mezofil) doğrudur."
+      "explanation": "Mezofil bakteriler 20-45°C'de en iyi ürer (insan patojenleri mezofildir). Psikrofil (0-20°C), termofil (45-80°C), halofil (tuz seven), hemofil (kan seven) diğer gruplardır. C seçeneği (mezofil) doğrudur.",
+      "topicId": "mb-bakteri",
+      "topic": "Bakteri yapısı ve metabolizması"
     },
     {
       "id": "2024-2025-tem-2-q080",
@@ -1848,7 +2006,9 @@
       "answerStatus": "official",
       "confidence": 0.99,
       "reviewStatus": "approved",
-      "explanation": "Bordetella pertussis zorunlu aerob (oksijen gerektirir). Bacteroides fragilis, Clostridium perfringens, Peptostreptococcus, Veillonella anaerob bakterilerdir. Zorunlu aeroblar oksijen gerektirir ve SOD/katalaz enzimleri içerir."
+      "explanation": "Bordetella pertussis zorunlu aerob (oksijen gerektirir). Bacteroides fragilis, Clostridium perfringens, Peptostreptococcus, Veillonella anaerob bakterilerdir. Zorunlu aeroblar oksijen gerektirir ve SOD/katalaz enzimleri içerir.",
+      "topicId": "mb-bakteri",
+      "topic": "Bakteri yapısı ve metabolizması"
     },
     {
       "id": "2024-2025-tem-2-q081",
@@ -1870,7 +2030,9 @@
       "answerStatus": "official",
       "confidence": 0.99,
       "reviewStatus": "approved",
-      "explanation": "Hemoliz özelliği kanlı agar (koyun kanlı agar) üzerinde değerlendirilir; alfa (kısmi), beta (tam), gamma (yok) hemoliz. MacConkey agar (selektif, Gram -) ve buyyon (sıvı) hemoliz değerlendirilmez. C seçeneği (sadece III) doğrudur."
+      "explanation": "Hemoliz özelliği kanlı agar (koyun kanlı agar) üzerinde değerlendirilir; alfa (kısmi), beta (tam), gamma (yok) hemoliz. MacConkey agar (selektif, Gram -) ve buyyon (sıvı) hemoliz değerlendirilmez. C seçeneği (sadece III) doğrudur.",
+      "topicId": "mb-uretim",
+      "topic": "Mikroorganizmaların üretilmesi (besiyerleri)"
     },
     {
       "id": "2024-2025-tem-2-q082",
@@ -1892,7 +2054,9 @@
       "answerStatus": "official",
       "confidence": 0.99,
       "reviewStatus": "approved",
-      "explanation": "Çikolata besiyeri kanlı agarın ısıtılmasıyla elde edilen zenginleştirilmiş besiyeridir; Neisseria ve Haemophilus (faktör V ve X gerektiren) türleri için kullanılır. I, II, III doğrudur (D seçeneği: hepsi)."
+      "explanation": "Çikolata besiyeri kanlı agarın ısıtılmasıyla elde edilen zenginleştirilmiş besiyeridir; Neisseria ve Haemophilus (faktör V ve X gerektiren) türleri için kullanılır. I, II, III doğrudur (D seçeneği: hepsi).",
+      "topicId": "mb-uretim",
+      "topic": "Mikroorganizmaların üretilmesi (besiyerleri)"
     },
     {
       "id": "2024-2025-tem-2-q083",
@@ -1914,7 +2078,9 @@
       "answerStatus": "official",
       "confidence": 0.99,
       "reviewStatus": "approved",
-      "explanation": "Gram pozitif bakteri hücre duvarında LPS (lipopolisakkarit) bulunmaz; LPS Gram negatif bakterilerin dış membranında bulunur (endotoksin). Peptidoglikan ve teikoik asit Gram pozitifte bulunur. E seçeneği (sadece III) doğrudur."
+      "explanation": "Gram pozitif bakteri hücre duvarında LPS (lipopolisakkarit) bulunmaz; LPS Gram negatif bakterilerin dış membranında bulunur (endotoksin). Peptidoglikan ve teikoik asit Gram pozitifte bulunur. E seçeneği (sadece III) doğrudur.",
+      "topicId": "mb-bakteri",
+      "topic": "Bakteri yapısı ve metabolizması"
     },
     {
       "id": "2024-2025-tem-2-q084",
@@ -1936,7 +2102,9 @@
       "answerStatus": "official",
       "confidence": 0.99,
       "reviewStatus": "approved",
-      "explanation": "Bakteri hücre duvarı basınc değişikliklerine karşı korur, şekli korur, Gram boyanma özelliğinden sorumludur. Peptidoglikan tabaka (murein) bulunur. Penisilin/lizozim etkisiyle L-form (hücre duvarı kaybı) gelişebilir. D seçeneği (peptidoglikan bulunmaz) yanlıştır."
+      "explanation": "Bakteri hücre duvarı basınc değişikliklerine karşı korur, şekli korur, Gram boyanma özelliğinden sorumludur. Peptidoglikan tabaka (murein) bulunur. Penisilin/lizozim etkisiyle L-form (hücre duvarı kaybı) gelişebilir. D seçeneği (peptidoglikan bulunmaz) yanlıştır.",
+      "topicId": "mb-bakteri",
+      "topic": "Bakteri yapısı ve metabolizması"
     },
     {
       "id": "2024-2025-tem-2-q085",
@@ -1958,7 +2126,9 @@
       "answerStatus": "official",
       "confidence": 0.99,
       "reviewStatus": "approved",
-      "explanation": "Temporal lob (özellikle amigdala ve hipokampüs) duygular ve bellek ile ilişkilidir. Oksipital lob görme, frontal lob motor/kognisyon, pons beyin sapı, parietal lob duyu ile ilişkilidir. D seçeneği doğrudur."
+      "explanation": "Temporal lob (özellikle amigdala ve hipokampüs) duygular ve bellek ile ilişkilidir. Oksipital lob görme, frontal lob motor/kognisyon, pons beyin sapı, parietal lob duyu ile ilişkilidir. D seçeneği doğrudur.",
+      "topicId": "dv-noro",
+      "topic": "Davranışın nörobiyolojik temelleri"
     },
     {
       "id": "2024-2025-tem-2-q086",
@@ -1980,7 +2150,9 @@
       "answerStatus": "official",
       "confidence": 0.99,
       "reviewStatus": "approved",
-      "explanation": "Deskriptif (tanımlayıcı) psikiyatri hastalıkların tanımlanması, sınıflandırılması, ayırıcı tanı ve tedavi planı oluşturmayı içerir; nedensel etkenleri araştırmak etyolojik (açıklayıcı) psikiyatrinin alanıdır. D seçeneği (nedensel etkenleri araştırma) deskriptif psikiyatri ile ilgili değildir."
+      "explanation": "Deskriptif (tanımlayıcı) psikiyatri hastalıkların tanımlanması, sınıflandırılması, ayırıcı tanı ve tedavi planı oluşturmayı içerir; nedensel etkenleri araştırmak etyolojik (açıklayıcı) psikiyatrinin alanıdır. D seçeneği (nedensel etkenleri araştırma) deskriptif psikiyatri ile ilgili değildir.",
+      "topicId": "dv-biyopsikososyal",
+      "topic": "Biyopsikososyal yaklaşım"
     },
     {
       "id": "2024-2025-tem-2-q087",
@@ -2002,7 +2174,9 @@
       "answerStatus": "official",
       "confidence": 0.99,
       "reviewStatus": "approved",
-      "explanation": "Benlik (ego) görevleri: gerçeği değerlendirme, dürtüleri düzenleme/ertelemeyi, ruhsal dengeyi sağlama. Değer yargıları ile dürtülerin doyurulmasında yargılama mekanizması süperegonun (vicdan) görevidir, egonun değil. D seçeneği (değer yargıları ile dürtülerin doyurulmasında yargılama) benlik görevleri arasında yer almaz."
+      "explanation": "Benlik (ego) görevleri: gerçeği değerlendirme, dürtüleri düzenleme/ertelemeyi, ruhsal dengeyi sağlama. Değer yargıları ile dürtülerin doyurulmasında yargılama mekanizması süperegonun (vicdan) görevidir, egonun değil. D seçeneği (değer yargıları ile dürtülerin doyurulmasında yargılama) benlik görevleri arasında yer almaz.",
+      "topicId": "dv-psikodinamik",
+      "topic": "Davranışın psikodinamik temelleri ve savunma düzenekleri"
     },
     {
       "id": "2024-2025-tem-2-q088",
@@ -2024,7 +2198,9 @@
       "answerStatus": "official",
       "confidence": 0.99,
       "reviewStatus": "approved",
-      "explanation": "Fallik dönem (3-6 yaş, Freud) Erikson'un 'girişime karşı suçluluk' (initiative vs guilt) evresine denk gelir. Oral dönem 'temel güvene karşı güvensizlik' evresine denk gelir. Anal dönem 'özerkliğe karşı utanç' evresine denk gelir."
+      "explanation": "Fallik dönem (3-6 yaş, Freud) Erikson'un 'girişime karşı suçluluk' (initiative vs guilt) evresine denk gelir. Oral dönem 'temel güvene karşı güvensizlik' evresine denk gelir. Anal dönem 'özerkliğe karşı utanç' evresine denk gelir.",
+      "topicId": "dv-kisilik",
+      "topic": "Kişilik gelişimi"
     },
     {
       "id": "2024-2025-tem-2-q089",
@@ -2047,7 +2223,9 @@
       "confidence": 0.9,
       "reviewStatus": "approved",
       "note": "Soru kökünün bir kısmı taranan sayfada su damgası altında kaldı; cevap anahtarı okunabilir durumdadır.",
-      "explanation": "Oral dönem (0-18 ay, Freud) Erikson'un 'temel güvene karşı güvensizlik' (trust vs mistrust) evresine denk gelir. Anal dönem 'özerkliğe karşı utanç' evresine, fallik dönem 'girişime karşı suçluluk' evresine denk gelir."
+      "explanation": "Oral dönem (0-18 ay, Freud) Erikson'un 'temel güvene karşı güvensizlik' (trust vs mistrust) evresine denk gelir. Anal dönem 'özerkliğe karşı utanç' evresine, fallik dönem 'girişime karşı suçluluk' evresine denk gelir.",
+      "topicId": "dv-kisilik",
+      "topic": "Kişilik gelişimi"
     },
     {
       "id": "2024-2025-tem-2-q090",
@@ -2069,7 +2247,9 @@
       "answerStatus": "official",
       "confidence": 0.99,
       "reviewStatus": "approved",
-      "explanation": "Stresi azaltmak için kafeinli içecekler tüketilmemelidir; fiziksel egzersiz, dengeli beslenme ve uyku önerilir. Kafein sempatik aktiviteyi artırır ve stresi artırabilir. A, B, C, E doğru önerilerdir. Kafein adenosin reseptörlerini bloke ederek uyanıklığı artırır ve stres yanıtını güçlendirir."
+      "explanation": "Stresi azaltmak için kafeinli içecekler tüketilmemelidir; fiziksel egzersiz, dengeli beslenme ve uyku önerilir. Kafein sempatik aktiviteyi artırır ve stresi artırabilir. A, B, C, E doğru önerilerdir. Kafein adenosin reseptörlerini bloke ederek uyanıklığı artırır ve stres yanıtını güçlendirir.",
+      "topicId": "dv-stres",
+      "topic": "Stres ve stresle başa çıkma mekanizmaları"
     },
     {
       "id": "2024-2025-tem-2-q091",
@@ -2092,7 +2272,9 @@
       "confidence": 0.9,
       "reviewStatus": "approved",
       "note": "Bu sorunun basılı cevabı sayfa kenarında kesilmiş; AI tarafından çözüldü.",
-      "explanation": "Alışkanlık (habit) sonradan edinilmiş, tekrarla otomatikleşmiş davranıştır (doğal refleks değil). Genetik faktörlerle belirlenen davranışlar, fiziksel bir rahatsızlığa bağlı davranışlar veya doğuştan gelen yetenekler alışkanlık değildir. A, C, D, E seçenekleri alışkanlık tanımına uymaz. B seçeneği (zamanla otomatik bir tepki haline dönüşen, sonradan edinilmiş davranışlar) doğrudur."
+      "explanation": "Alışkanlık (habit) sonradan edinilmiş, tekrarla otomatikleşmiş davranıştır (doğal refleks değil). Genetik faktörlerle belirlenen davranışlar, fiziksel bir rahatsızlığa bağlı davranışlar veya doğuştan gelen yetenekler alışkanlık değildir. A, C, D, E seçenekleri alışkanlık tanımına uymaz. B seçeneği (zamanla otomatik bir tepki haline dönüşen, sonradan edinilmiş davranışlar) doğrudur.",
+      "topicId": "dv-aliskanlik",
+      "topic": "Alışkanlıklar ve bağımlılık"
     },
     {
       "id": "2024-2025-tem-2-q092",
@@ -2114,7 +2296,9 @@
       "answerStatus": "official",
       "confidence": 0.99,
       "reviewStatus": "approved",
-      "explanation": "Bağımlılık (addiction) zamanla rutin ve aşırı şekilde tekrarlanan davranıştır. Doğuştan gelen bir özellik değildir (A yanlıştır). Yalnızca fiziksel sağlığı etkilemez; psikolojik ve sosyal sağlığı da etkiler (C yanlıştır). İyileşebilir (düzelmez değildir, D yanlıştır). Bağımlı bireyler maddeyi kolayca bırakamaz (E yanlıştır). B seçeneği (bağımlılık davranışının zamanla rutin ve aşırı şekilde tekrarlanması) doğrudur."
+      "explanation": "Bağımlılık (addiction) zamanla rutin ve aşırı şekilde tekrarlanan davranıştır. Doğuştan gelen bir özellik değildir (A yanlıştır). Yalnızca fiziksel sağlığı etkilemez; psikolojik ve sosyal sağlığı da etkiler (C yanlıştır). İyileşebilir (düzelmez değildir, D yanlıştır). Bağımlı bireyler maddeyi kolayca bırakamaz (E yanlıştır). B seçeneği (bağımlılık davranışının zamanla rutin ve aşırı şekilde tekrarlanması) doğrudur.",
+      "topicId": "dv-aliskanlik",
+      "topic": "Alışkanlıklar ve bağımlılık"
     },
     {
       "id": "2024-2025-tem-2-q093",
@@ -2136,7 +2320,9 @@
       "answerStatus": "official",
       "confidence": 0.99,
       "reviewStatus": "approved",
-      "explanation": "Çocuğun kaza yoluyla yaralanması istismar türü değildir. Cinsel istismar (A), fiziksel istismar (B), duygusal istismar (C) ve ihmal (D) çocuk istismarı türleridir. E seçeneği (çocuğun kaza yolu ile yaralanması) istismar türü değildir."
+      "explanation": "Çocuğun kaza yoluyla yaralanması istismar türü değildir. Cinsel istismar (A), fiziksel istismar (B), duygusal istismar (C) ve ihmal (D) çocuk istismarı türleridir. E seçeneği (çocuğun kaza yolu ile yaralanması) istismar türü değildir.",
+      "topicId": "dg-istismar",
+      "topic": "Çocuk istismarı ve ihmali"
     },
     {
       "id": "2024-2025-tem-2-q094",
@@ -2158,7 +2344,9 @@
       "answerStatus": "official",
       "confidence": 0.99,
       "reviewStatus": "approved",
-      "explanation": "Çocuklar ihmal/istismarı söylememelerinin nedenleri: kendilerine inanılmayacağını düşünme (A), başlarının belaya gireceğinden korkma (B), istismarcının tehditleri (C), ailenin parçalanacağı endişesi (D seçeneği 'isteyebilirler' olarak ifade edildiği için yanlıştır; çocuklar ailenin parçalanmasından korkarlar, istemezler), nasıl anlatacağını bilmeme (E). D seçeneği (ailenin parçalanmasını isteyebilirler) yanlıştır."
+      "explanation": "Çocuklar ihmal/istismarı söylememelerinin nedenleri: kendilerine inanılmayacağını düşünme (A), başlarının belaya gireceğinden korkma (B), istismarcının tehditleri (C), ailenin parçalanacağı endişesi (D seçeneği 'isteyebilirler' olarak ifade edildiği için yanlıştır; çocuklar ailenin parçalanmasından korkarlar, istemezler), nasıl anlatacağını bilmeme (E). D seçeneği (ailenin parçalanmasını isteyebilirler) yanlıştır.",
+      "topicId": "dg-istismar",
+      "topic": "Çocuk istismarı ve ihmali"
     },
     {
       "id": "2024-2025-tem-2-q095",
@@ -2180,7 +2368,9 @@
       "answerStatus": "official",
       "confidence": 0.99,
       "reviewStatus": "approved",
-      "explanation": "Türk tıp tarihinin özellikle modern cerrahi ve tıp eğitimi başlıkları altında önemli yere sahip siması Operatör Cemil Topuzlu Paşa'dır. Gazi Osman Paşa, Kazım Karabekir Paşa, Sokullu Mehmet Paşa ve Tiryaki Hasan Paşa askeri/siyasi liderlerdir. C seçeneği doğrudur."
+      "explanation": "Türk tıp tarihinin özellikle modern cerrahi ve tıp eğitimi başlıkları altında önemli yere sahip siması Operatör Cemil Topuzlu Paşa'dır. Gazi Osman Paşa, Kazım Karabekir Paşa, Sokullu Mehmet Paşa ve Tiryaki Hasan Paşa askeri/siyasi liderlerdir. C seçeneği doğrudur.",
+      "topicId": "th-tarih",
+      "topic": "Tıp tarihi (tıbbın evrimi, Batı/Doğu/Türk tıbbı)"
     },
     {
       "id": "2024-2025-tem-2-q096",
@@ -2202,7 +2392,9 @@
       "answerStatus": "official",
       "confidence": 0.99,
       "reviewStatus": "approved",
-      "explanation": "Akupunktur eski Çin tıbbından (MÖ 1000) günümüze evrensel ölçekte benimsenen bir uygulamadır (WHO tarafından ağrı, bulantı, baş ağrısı vb. için kabul edilmiştir). Ayurveda (A) Hint tıbbıdır. Radyolojik görüntüleme (B) modern tıbbın ürünüdür. Damar yoluyla sıvı verme (D) modern tıbbın ürünüdür. Yoga (E) Hint felsefesi/egzersiz sistemidir. C seçeneği doğrudur."
+      "explanation": "Akupunktur eski Çin tıbbından (MÖ 1000) günümüze evrensel ölçekte benimsenen bir uygulamadır (WHO tarafından ağrı, bulantı, baş ağrısı vb. için kabul edilmiştir). Ayurveda (A) Hint tıbbıdır. Radyolojik görüntüleme (B) modern tıbbın ürünüdür. Damar yoluyla sıvı verme (D) modern tıbbın ürünüdür. Yoga (E) Hint felsefesi/egzersiz sistemidir. C seçeneği doğrudur.",
+      "topicId": "th-tarih",
+      "topic": "Tıp tarihi (tıbbın evrimi, Batı/Doğu/Türk tıbbı)"
     },
     {
       "id": "2024-2025-tem-2-q097",
@@ -2224,7 +2416,9 @@
       "answerStatus": "official",
       "confidence": 0.99,
       "reviewStatus": "approved",
-      "explanation": "En az ayrımcılığa maruz kalan gruplar çoğunluğa sahip dini inanç/mezhep gruplarıdır (E seçeneği). Azınlık gruplar (farklı cinsel yönelim, engelli, göçmen, muhalif) daha fazla ayrımcılığa maruz kalır. A, B, C, D seçenekleri ayrımcılığa maruz kalan gruplardır. E seçeneği (çoğunluğa sahip dini inanç/mezhep grupları) en az ayrımcılığa maruz kalan gruptur."
+      "explanation": "En az ayrımcılığa maruz kalan gruplar çoğunluğa sahip dini inanç/mezhep gruplarıdır (E seçeneği). Azınlık gruplar (farklı cinsel yönelim, engelli, göçmen, muhalif) daha fazla ayrımcılığa maruz kalır. A, B, C, D seçenekleri ayrımcılığa maruz kalan gruplardır. E seçeneği (çoğunluğa sahip dini inanç/mezhep grupları) en az ayrımcılığa maruz kalan gruptur.",
+      "topicId": "dg-sbet",
+      "topic": "SBET"
     },
     {
       "id": "2024-2025-tem-2-q098",
@@ -2247,7 +2441,9 @@
       "confidence": 0.9,
       "reviewStatus": "approved",
       "note": "Bu sorunun basılı cevabı sayfada yer almıyor; AI tarafından çözüldü.",
-      "explanation": "Toplumsal cinsiyete dayalı ayrımcılıkta 'günümüzde özellikle sağlık alanında açık cinsiyetçilik yapılmaktadır' ifadesi yanlıştır; açık cinsiyetçilik yerini örtük cinsiyetçiliğe bırakmıştır. A, C, D, E doğru ifadelerdir. B seçeneği yanlıştır."
+      "explanation": "Toplumsal cinsiyete dayalı ayrımcılıkta 'günümüzde özellikle sağlık alanında açık cinsiyetçilik yapılmaktadır' ifadesi yanlıştır; açık cinsiyetçilik yerini örtük cinsiyetçiliğe bırakmıştır. A, C, D, E doğru ifadelerdir. B seçeneği yanlıştır.",
+      "topicId": "dg-sbet",
+      "topic": "SBET"
     },
     {
       "id": "2024-2025-tem-2-q099",
@@ -2269,7 +2465,9 @@
       "answerStatus": "official",
       "confidence": 0.99,
       "reviewStatus": "approved",
-      "explanation": "Milgram deneyi (1961) otoriteye uyumu (itaat) açıklamak için yapılmıştır; katılımcıların %65'i otorite figürünün (deney yöneticisi) talimatıyla maksimum 450V şok vermiştir. Kalıp yargı (A), öznel inançlar (C), görev bilinci (D), işkenceci kişilik (E) Milgram deneyinin temel kavramı değildir. B seçeneği (otoriteye uyum) doğrudur."
+      "explanation": "Milgram deneyi (1961) otoriteye uyumu (itaat) açıklamak için yapılmıştır; katılımcıların %65'i otorite figürünün (deney yöneticisi) talimatıyla maksimum 450V şok vermiştir. Kalıp yargı (A), öznel inançlar (C), görev bilinci (D), işkenceci kişilik (E) Milgram deneyinin temel kavramı değildir. B seçeneği (otoriteye uyum) doğrudur.",
+      "topicId": "dg-sbet",
+      "topic": "SBET"
     },
     {
       "id": "2024-2025-tem-2-q100",
@@ -2291,7 +2489,9 @@
       "answerStatus": "official",
       "confidence": 0.99,
       "reviewStatus": "approved",
-      "explanation": "'Ayrımcılık' tanımı içinde yer almayan: itaatli davranan (D seçeneği). Ayrımcılık: kendi grubunun avantajını düşünen, diğer grubun dezavantajını görmezden gelen, pekiştiren ve diğerine acı verici tutum/davranış sergileyen davranıştır. A, B, C, E ayrımcılık tanımına girer. D (itaatli davranan) ayrımcılık değildir."
+      "explanation": "'Ayrımcılık' tanımı içinde yer almayan: itaatli davranan (D seçeneği). Ayrımcılık: kendi grubunun avantajını düşünen, diğer grubun dezavantajını görmezden gelen, pekiştiren ve diğerine acı verici tutum/davranış sergileyen davranıştır. A, B, C, E ayrımcılık tanımına girer. D (itaatli davranan) ayrımcılık değildir.",
+      "topicId": "dg-sbet",
+      "topic": "SBET"
     },
     {
       "id": "2024-2025-tem-2-q101",
@@ -2313,7 +2513,9 @@
       "answerStatus": "official",
       "confidence": 0.99,
       "reviewStatus": "approved",
-      "explanation": "Dopaminerjik ödül sisteminde (mezolimbik yolak: VTA → nucleus accumbens → prefrontal korteks) nucleus accumbens (ventral striatum) ana yapıdır; bağımlılık, ödül ve motivasyon ile ilişkilidir. Nucleus caudatus, globus pallidus, corpus striatum ve putamen motor kontrol ile ilişkilidir. B seçeneği doğrudur."
+      "explanation": "Dopaminerjik ödül sisteminde (mezolimbik yolak: VTA → nucleus accumbens → prefrontal korteks) nucleus accumbens (ventral striatum) ana yapıdır; bağımlılık, ödül ve motivasyon ile ilişkilidir. Nucleus caudatus, globus pallidus, corpus striatum ve putamen motor kontrol ile ilişkilidir. B seçeneği doğrudur.",
+      "topicId": "dg-entegre",
+      "topic": "Entegre oturum soruları"
     },
     {
       "id": "2024-2025-tem-2-q102",
@@ -2335,7 +2537,9 @@
       "answerStatus": "official",
       "confidence": 0.99,
       "reviewStatus": "approved",
-      "explanation": "Esrar (cannabis) cannabinoid grubunda yer alır (THC, CBD). Opioid grubu: eroin, morfin, kodein, metadon, fentanil. A seçeneği (esrar) opioid grubunda yer almaz. Esrarın aktif bileşeni THC (tetrahidrokanabinol) CB1/CB2 reseptörlerine bağlanır."
+      "explanation": "Esrar (cannabis) cannabinoid grubunda yer alır (THC, CBD). Opioid grubu: eroin, morfin, kodein, metadon, fentanil. A seçeneği (esrar) opioid grubunda yer almaz. Esrarın aktif bileşeni THC (tetrahidrokanabinol) CB1/CB2 reseptörlerine bağlanır.",
+      "topicId": "dg-entegre",
+      "topic": "Entegre oturum soruları"
     },
     {
       "id": "2024-2025-tem-2-q103",
@@ -2357,7 +2561,9 @@
       "answerStatus": "official",
       "confidence": 0.99,
       "reviewStatus": "approved",
-      "explanation": "Bağımlılık tanısal ölçütleri (DSM-5) arasında yer almayan: 'maddenin neden olduğu fizik ya da psikolojik bir sorunun olduğunu farkında olmama' (D seçeneği). DSM-5'te 'farkında olma' (craving) yer alır, 'farkında olmama' yer almaz. A, B, C, E DSM-5 ölçütleridir."
+      "explanation": "Bağımlılık tanısal ölçütleri (DSM-5) arasında yer almayan: 'maddenin neden olduğu fizik ya da psikolojik bir sorunun olduğunu farkında olmama' (D seçeneği). DSM-5'te 'farkında olma' (craving) yer alır, 'farkında olmama' yer almaz. A, B, C, E DSM-5 ölçütleridir.",
+      "topicId": "dg-entegre",
+      "topic": "Entegre oturum soruları"
     },
     {
       "id": "2024-2025-tem-2-q104",
@@ -2379,7 +2585,9 @@
       "answerStatus": "official",
       "confidence": 0.99,
       "reviewStatus": "approved",
-      "explanation": "Fensiklidin (PCP, 'angel dust') halüsinojenler (dissosiatif anestezikler) grubunda yer alır. Opioidler, uyarıcılar, sedatifler, hipnotikler farklı gruplardır. PCP NMDA reseptör antagonisti olup dissosiatif anestezi yapar."
+      "explanation": "Fensiklidin (PCP, 'angel dust') halüsinojenler (dissosiatif anestezikler) grubunda yer alır. Opioidler, uyarıcılar, sedatifler, hipnotikler farklı gruplardır. PCP NMDA reseptör antagonisti olup dissosiatif anestezi yapar.",
+      "topicId": "dg-entegre",
+      "topic": "Entegre oturum soruları"
     },
     {
       "id": "2024-2025-tem-2-q105",
@@ -2401,7 +2609,9 @@
       "answerStatus": "official",
       "confidence": 0.99,
       "reviewStatus": "approved",
-      "explanation": "Kokain kuvvetli psikik bağımlılık yapma özelliği olan uyarıcıdır (stimulan). Alkol, esrar, nikotin, amfetamin de bağımlılık yapar ancak kokain en kuvvetli psikik bağımlılık yapma özelliği ile bilinir. A seçeneği doğrudur."
+      "explanation": "Kokain kuvvetli psikik bağımlılık yapma özelliği olan uyarıcıdır (stimulan). Alkol, esrar, nikotin, amfetamin de bağımlılık yapar ancak kokain en kuvvetli psikik bağımlılık yapma özelliği ile bilinir. A seçeneği doğrudur.",
+      "topicId": "dg-entegre",
+      "topic": "Entegre oturum soruları"
     }
   ]
 }

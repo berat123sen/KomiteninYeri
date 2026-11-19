@@ -319,8 +319,8 @@ export function Home() {
             <div>
               <h2 className="text-2xl font-bold tracking-tight">Hazırsan başlayalım.</h2>
               <p className="mt-2 max-w-xl text-sm text-indigo-100">
-                2024-2025 Dönem 1 TEM 2 sınavının 105 sorusu hazır. Ders seç, test modunu ayarla ve
-                çözmeye başla.
+                Dönem 1 TEM 2 çıkmışlarından {exams.length} sınav, toplam {totalQuestions} soru hazır.
+                Ders seç, test modunu ayarla ve çözmeye başla.
               </p>
             </div>
             <div className="flex flex-wrap gap-2">

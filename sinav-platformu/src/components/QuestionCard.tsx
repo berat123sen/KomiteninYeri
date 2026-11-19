@@ -52,9 +52,11 @@ export function SourceLink({ question, className }: { question: Question; classN
 interface QuestionCardProps {
   question: Question;
   showDiscipline?: boolean;
+  /** Konu sayfası gibi birden çok yılın karıştığı listelerde yıl etiketi gösterir. */
+  examLabel?: string;
 }
 
-export function QuestionCard({ question, showDiscipline = true }: QuestionCardProps) {
+export function QuestionCard({ question, showDiscipline = true, examLabel }: QuestionCardProps) {
   const record = useProgressStore((s) => s.answers[question.id]);
   const recordAnswer = useProgressStore((s) => s.record);
 
@@ -89,6 +91,11 @@ export function QuestionCard({ question, showDiscipline = true }: QuestionCardPr
         >
           {question.number}
         </span>
+        {examLabel && (
+          <span className="rounded-full bg-slate-900 px-2 py-0.5 text-[10px] font-bold text-white dark:bg-slate-100 dark:text-slate-900">
+            {examLabel}
+          </span>
+        )}
         {showDiscipline && <DisciplineBadge id={question.disciplineId} name={question.discipline} />}
         <AnswerStatusBadge status={question.answerStatus} />
         <SourceLink question={question} className="ml-auto" />

@@ -7,6 +7,7 @@ import { ExamPage } from "./pages/Exam";
 import { QuestionDetail } from "./pages/QuestionDetail";
 import { TestPage } from "./pages/Test";
 import { RandomPage } from "./pages/Random";
+import { TopicsPage, TopicDetailPage } from "./pages/Topics";
 import { ProgressPage } from "./pages/Progress";
 import { NotFound } from "./pages/NotFound";
 import { useProgressStore } from "./store/useProgressStore";
@@ -29,7 +30,9 @@ export default function App() {
           <Route path="sinav/:examId" element={<ExamPage />} />
           <Route path="sinav/:examId/soru/:number" element={<QuestionDetail />} />
           <Route path="test/:examId" element={<TestPage />} />
-          <Route path="rastgele" element={<RandomPage />} />
+          <Route path="konular" element={<TopicsPage />} />
+          <Route path="konular/:topicId" element={<TopicDetailPage />} />
+          <Route path="rastgele"element={<RandomPage />} />
           <Route path="iskelet" element={<Suspense fallback={<div className="page-shell py-16 text-center text-sm text-slate-500">Yükleniyor…</div>}><SkeletonPage /></Suspense>} />
           <Route path="ilerleme" element={<ProgressPage />} />
           <Route path="*" element={<NotFound />} />
