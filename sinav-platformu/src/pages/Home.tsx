@@ -137,7 +137,7 @@ export function Home() {
                 </span>
                 <span className="chip">
                   <CheckCircle2 className="h-3.5 w-3.5 text-emerald-500" />
-                  Pilot hazır
+                  {exams.length} sınav · {totalQuestions} soru
                 </span>
               </div>
 
@@ -248,8 +248,8 @@ export function Home() {
 
       <section className="border-y border-slate-200/80 bg-white dark:border-slate-800/80 dark:bg-slate-900/40">
         <div className="page-shell py-14 sm:py-16">
-          <div className="grid gap-8 lg:grid-cols-[0.9fr_1.1fr] lg:items-center">
-            <div>
+          <div className="grid gap-8 lg:grid-cols-[0.9fr_1.1fr] lg:items-start">
+            <div className="lg:sticky lg:top-24">
               <span className="chip border-emerald-200 bg-emerald-50 text-emerald-700 dark:border-emerald-500/30 dark:bg-emerald-500/10 dark:text-emerald-300">
                 <CheckCircle2 className="h-3.5 w-3.5" />
                 Şeffaf cevap anahtarı
@@ -303,8 +303,7 @@ export function Home() {
               )}
 
               <p className="px-1 text-xs leading-relaxed text-slate-400 dark:text-slate-500">
-                Arşiv şu anda Dönem 1 / TEM 2 kapsamındadır. Yeni yıllar aynı doğrulama sürecinden
-                geçirilerek sırayla eklenir.
+                Arşiv Dönem 1 / TEM 2 kapsamındadır. Yeni yıllar doğrulandıkça eklenir.
               </p>
             </div>
           </div>

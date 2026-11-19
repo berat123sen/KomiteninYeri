@@ -20,18 +20,12 @@ export function ExamCard({ exam, answered = 0, total }: ExamCardProps) {
     >
       <div className="flex items-start justify-between gap-3">
         <div>
-          <div className="flex flex-wrap items-center gap-2">
-            <span className="chip border-indigo-200 bg-indigo-50 text-indigo-700 dark:border-indigo-500/30 dark:bg-indigo-500/10 dark:text-indigo-300">
-              <CalendarDays className="h-3.5 w-3.5" />
-              {exam.year}
-            </span>
-            <span className="chip">{exam.term}</span>
-          </div>
-          <h3 className="mt-3 text-lg font-bold tracking-tight text-slate-900 dark:text-white">
-            Dönem {exam.period} · {exam.term}
+          <h3 className="flex items-center gap-2 text-2xl font-extrabold tracking-tight text-slate-900 dark:text-white">
+            <CalendarDays className="h-5 w-5 text-indigo-500 dark:text-indigo-400" />
+            {exam.year}
           </h3>
           <p className="mt-1 text-sm text-slate-500 dark:text-slate-400">
-            {exam.label} · {exam.disciplines.length} ders · {total} soru
+            Dönem {exam.period} · {exam.term} · {exam.disciplines.length} ders · {total} soru
           </p>
         </div>
         <span className="flex h-10 w-10 shrink-0 items-center justify-center rounded-xl bg-slate-100 text-slate-500 transition group-hover:bg-indigo-600 group-hover:text-white dark:bg-slate-800 dark:text-slate-400">

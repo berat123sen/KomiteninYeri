@@ -1,4 +1,4 @@
-import { CheckCircle2, FileText, Info, Sparkles, XCircle } from "lucide-react";
+import { CheckCircle2, FileText, Info, Lightbulb, Sparkles, XCircle } from "lucide-react";
 import type { AnswerStatus, Question } from "../types";
 import { useProgressStore } from "../store/useProgressStore";
 import { sourcePdfUrl } from "../lib/data";
@@ -38,13 +38,13 @@ export function SourceLink({ question, className }: { question: Question; classN
       target="_blank"
       rel="noreferrer"
       className={cn(
-        "inline-flex items-center gap-1 text-[11px] font-medium text-slate-400 transition hover:text-indigo-600 dark:text-slate-500 dark:hover:text-indigo-300",
+        "inline-flex items-center gap-1.5 rounded-lg border border-slate-200 bg-white px-2.5 py-1 text-xs font-semibold text-slate-600 transition hover:border-[var(--accent)] hover:text-indigo-600 dark:border-slate-700 dark:bg-slate-900 dark:text-slate-300 dark:hover:text-indigo-300",
         className,
       )}
       title="Sorunun kaynak PDF sayfasını aç"
     >
-      <FileText className="h-3 w-3" />
-      Kaynak · s. {question.sourcePage}
+      <FileText className="h-3.5 w-3.5" />
+      Kaynak PDF · s. {question.sourcePage}
     </a>
   );
 }
@@ -146,10 +146,23 @@ export function QuestionCard({ question, showDiscipline = true, examLabel }: Que
       )}
 
       {question.explanation && answered && (
-        <div className="mt-3 flex items-start gap-2 rounded-xl bg-sky-50 px-3.5 py-3 text-xs leading-relaxed text-sky-800 dark:bg-sky-500/10 dark:text-sky-200">
-          <Info className="mt-0.5 h-4 w-4 shrink-0" />
-          <p>{question.explanation}</p>
+        <div className="mt-3 rounded-xl border border-sky-200 bg-sky-50 px-4 py-3.5 text-sky-900 dark:border-sky-500/25 dark:bg-sky-500/10 dark:text-sky-100">
+          <p className="flex items-center gap-1.5 text-xs font-bold uppercase tracking-wide text-sky-700 dark:text-sky-300">
+            <Lightbulb className="h-4 w-4" />
+            Açıklama
+          </p>
+          <p className="mt-1.5 text-sm leading-relaxed">{question.explanation}</p>
+          <p className="mt-2 text-[11px] text-sky-700/80 dark:text-sky-300/70">
+            Açıklama yardımcı olması için eklendi. Şüphe duyarsan kaynak PDF'e bak.
+          </p>
         </div>
+      )}
+
+      {question.explanation && !answered && (
+        <p className="mt-4 flex items-center gap-1.5 text-xs text-slate-400 dark:text-slate-500">
+          <Lightbulb className="h-3.5 w-3.5" />
+          Bir şık seç: doğru cevap ve açıklama burada görünür.
+        </p>
       )}
 
       {question.note && (
